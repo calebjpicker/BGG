@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="42785">
+         <thumbnail>https://cf.geekdo-images.com/M7c4fdHtR9JrCLQ4LBlzPQ__thumb/img/HBTWfChAA48JunLAMYWK--q2Im0=/fit-in/200x150/filters:strip_icc()/pic1259302.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/M7c4fdHtR9JrCLQ4LBlzPQ__original/img/4MQF4k2y1j4OMTEVTspe_XqmWHU=/0x0/filters:format(jpeg)/pic1259302.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Soccer Dice" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Football Dice" />
+			
+						               													<description>Soccer Dice is a dice game using five different coloured dice with text on each side. &amp;#10;Two players take opposite sides of a soccer match and player whose turn it is rolls the dice one by one in the order: Red, Black, Blue, Yellow and Green (unless otherwise instructed by the die roll) and hopefully resulting in a goal. &amp;#10;Play may be to be the first player to reach a set number of goals, or a pre-determined playing period is set and when time is up the player who has scored the most goals wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5551" value="Sports: Football / Soccer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4383" value="Dice &amp; Games Ltd. London" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40745" value="Marbury Works" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="4.37097" />
+			<bayesaverage value="5.47894" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22929" bayesaverage="5.47894" />
+												</ranks>
+
+			<stddev value="1.89638" />
+			<median value="0" />
+			<owned value="41" />
+			<trading value="2" />
+			<wanting value="4" />
+			<wishing value="4" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

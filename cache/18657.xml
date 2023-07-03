@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="18657">
+         <thumbnail>https://cf.geekdo-images.com/zzI9Uo0-bV7Thdy-9Ul9Kg__thumb/img/OZ-nJwq_WNxSFgSwQ8pzTq_bcjg=/fit-in/200x150/filters:strip_icc()/pic85478.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zzI9Uo0-bV7Thdy-9Ul9Kg__original/img/FRIot09PJlkXxngvfpa_4XtDmDY=/0x0/filters:format(jpeg)/pic85478.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Test Match" />
+			
+						                           
+						               													<description>This is not so much of a game as a device for simulating a test match. The board holds a score board and two rotating randomizers. The bowler rotates his handle to first ball of the over and back to the start, revealing a type of ball (leg break, bouncer, etc). The batsman rotates his handle to the type of ball bowled, and back again, revealing a batsman scoring runs or being dismissed. If you know the rules of cricket, it's obvious how to simulate a test match given these rules.&amp;#10;&amp;#10;There are several versions of Test Match. Johns Sands first version appeared in 1954 and shows an 8 ball Over. This being the correct rule in Australian Cricket between 1936 to 1979. Australian Cricket changed to a 6 Ball Over from 1979 and later Test Match versions reflect this change. Other graphical changes, such as updated Grandstands, players positions and scenery have also changed in time. English cricket on the other hand always had a 6 ball Over from 1946 so Waddingtons version only ever showed a 6 ball Over.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1955" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="0" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5706" value="Sports: Cricket" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42886" value="William Hansen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2701" value="Croner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30150" value="Hunter Leisure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="661" value="John Sands Pty Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3922" value="John Waddington Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="41" />
+			<average value="4.3821" />
+			<bayesaverage value="5.47542" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="23139" bayesaverage="5.47542" />
+												</ranks>
+
+			<stddev value="1.41098" />
+			<median value="0" />
+			<owned value="55" />
+			<trading value="3" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="23" />
+			<numweights value="8" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

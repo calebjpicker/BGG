@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="231819">
+         <thumbnail>https://cf.geekdo-images.com/GJIebwr7f57nohwY6idxDg__thumb/img/8zwRcb13GAEmTY-WBkVu7QMDu0Y=/fit-in/200x150/filters:strip_icc()/pic3662558.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GJIebwr7f57nohwY6idxDg__original/img/g-548yFfWrQzOawN0UL4cAvMdu4=/0x0/filters:format(jpeg)/pic3662558.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sonar" />
+			
+						                           
+						               													<description>Time for an underwater game of cat-and-mouse, with each of the two teams in Sonar competing to be the first to deal two points of damage to the other. Do that, and you win the game instantly.&amp;#10;&amp;#10;In detail, Sonar includes four pairs of maps, and each team takes the same maps in their color. A team can be one or two players, and with two players on a team, each player takes a different role: Captain or Radio Operator. (A one-person team handles both roles.) A divider separates the teams, and each Captain marks their starting location on the map.&amp;#10;&amp;#10;On a turn, the Captain calls out an action, typically moving their sub one space north, south, east, or west. When they do this, they call out a direction, mark their new location, and add one energy to their ship's register. The Radio Operator on the other team notes the movement of this sub on a plastic sheet, and through deduction and trial-and-error tries to determine exactly where the opposing sub might be on the map.&amp;#10;&amp;#10;Instead of a moving, a Captain can also:&amp;#10;&amp;#10;&amp;#10;    Use sonar: Erase two energy from your register; the opposing team must reveal their row or column.&amp;#10;    Go silent: Erase three energy from your register; move your sub, but don't gain energy and don't tell the opponents which direction you're moving.&amp;#10;    Fire a torpedo: Erase four energy from your register; call out coordinates in your quadrant (e.g., F6); if the opponents are on that space, they take a point of damage.&amp;#10;    Surface: Announce your location to the opposing team, then erase your previous path on your map; you can't cross your own path during the game, so sometimes you need to surface in order not to box yourself in.&amp;#10;&amp;#10;&amp;#10;You can have at most four energy in reserve, so you need to manage movement and the other actions carefully so that you'll be able to fire at the opponents once you know where they are &amp;mdash; ideally without being torpedoed in response!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="271" value="No necessary in-game text" numvotes="2" />
+					<result level="272" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="273" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="274" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="275" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45020" value="Game: Captain Sonar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50007" value="Theme: Submarines" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="259809" value="Sonar Family" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="171131" value="Captain Sonar" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="285" value="Roberto Fraga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="43218" value="Yohan Lemonnier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36093" value="Xavier Gueniffey Durin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88840" value="Ervin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88839" value="Sabrina Tobal" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="FoxGames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1564" />
+			<average value="6.70974" />
+			<bayesaverage value="6.03742" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2567" bayesaverage="6.03742" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="786" bayesaverage="6.1457" />
+												</ranks>
+
+			<stddev value="1.24348" />
+			<median value="0" />
+			<owned value="4977" />
+			<trading value="356" />
+			<wanting value="41" />
+			<wishing value="347" />
+			<numcomments value="370" />
+			<numweights value="27" />
+			<averageweight value="1.8889" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

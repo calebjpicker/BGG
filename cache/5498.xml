@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5498">
+         <thumbnail>https://cf.geekdo-images.com/LsVgWB3F1W5bWqNZJOAdQw__thumb/img/68ccvwR_Z0czaUk_4YVwHQMCP7A=/fit-in/200x150/filters:strip_icc()/pic7372214.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LsVgWB3F1W5bWqNZJOAdQw__original/img/nXsuxxndREhGmwt7YngMk5UKPsE=/0x0/filters:format(jpeg)/pic7372214.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Maltese" />
+			
+						                           
+						               													<description>Maltese uses tiles in an original rummy-type game in which completing sets can enable players to force tiles out of their opponent's hands.&amp;#10;&amp;#10;Tiles come in 5 colors, and each tile has an inset in any of those same 5 colors.  Half of the insets will match the tile's exterior, half won't.  So, for example, of the 16 green tiles, 8 have green insets, 2 have orange, 2 have white, 2 have read, and 2 have blue.&amp;#10;&amp;#10;All players can see the external color of a tile, but only the owner sees its inset - and the inset color is what really counts.&amp;#10;&amp;#10;Additionally, each player has a tile holder (&amp;quot;shield&amp;quot;) which holds the tiles in 5 rows.  When playing into this section of the shield, all the tiles in a row must be a single color (inset), and each row must be a different color.  So you'll have one row that is all-white, one that is all-red, etc, but you can choose which is which.  Furthermore, each row contains a different # of tiles, from 1-5.  The goal is to completely fill in this section of your shield: a total of 5 matched rows with a total of 15 tiles.&amp;#10;&amp;#10;A typical turn involves choosing a tile randomly, placing it into your hand, and then moving one tile from your hand into the central, scoring, part of the shield.  There are two key moves that occur.  One is when you complete a row.  At this point, you announce ALL UNFINISHED ROWS OF THAT SAME INSET COLOR GO BACK TO THE ARMORY (Draw pile).  This is where both the varying # of tiles, and the limited information are crucial.  You could, for example, play a single green tile in your &amp;quot;#1&amp;quot; row - and complete it.  If an opponent is working on a larger green row that is incomplete, he may have to discard as many as 4 green tiles.  You know that half of the green exterior tiles are green - so you only have limited information as to which of your opponents' rows might be green, or if they are even working on any green rows.&amp;#10;&amp;#10;The second attack move occurs when you complete a row that is entirely &amp;quot;matched&amp;quot; (Insert color matches exterior color).  You can even do this by replacing unmatched tiles with matched tiles in rows you've already completed.  You then announce ALL FINISHED BUT UNMATCHED ROWS OF THAT SAME ROW NUMBER ARE BACK TO THE ARMORY.  In this case, if you complete a matched #3 row, all opponents who have completed unmatched #3 rows must toss all of these three tiles back into the draw pile.&amp;#10;&amp;#10;Game ends when the first player completes all 5 rows with 5 different colors - matched or not.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2250" value="Traditional Card Games: Rummy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1285" value="Dawn Enterprises" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.408248" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="3" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

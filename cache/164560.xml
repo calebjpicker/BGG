@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="164560">
+         <thumbnail>https://cf.geekdo-images.com/VPMl-W-PyW6JwKPjhzFH3g__thumb/img/lhCB-6DIjw_5HxzTlQ0mlkGxlIs=/fit-in/200x150/filters:strip_icc()/pic7270138.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VPMl-W-PyW6JwKPjhzFH3g__original/img/TV__PGi06X-19rucoPL9bRbM2Ao=/0x0/filters:format(jpeg)/pic7270138.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Combinatorial Climber" />
+			
+						                           
+						               													<description>This is a cooperative and combinatorial (perfect information, and no luck after the initial deal) climbing game for 2 players, that is also playable solitaire and has a competitive variant.  In the game, players alternate turns drafting cards from a 5 by 4 grid of cards regular playing cards face up, with players taking cards from the lower part of the grid first, revealing other cards.&amp;#10;&amp;#10;After each player has drafted 10 cards, play begins.  Players attempt to play a single card, or a set of cards, each one must succeed the prior one played with a higher value, or greater amount of cards.  Players then score points based upon how long of a run their last play was, with points lost for cards left in hands.  Players also have jokers that act as wild cards, used to complete the going out in a single run.&amp;#10;&amp;#10;The solitaire version works like the 2 player version, but a player plays both sides.&amp;#10;&amp;#10;There is also a competitive version that utilizes the same drafting mechanism, but tweaks how cards are played.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="131" value="Card Games: Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8933" value="Richard Hutnik" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

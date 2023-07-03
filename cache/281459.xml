@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="281459">
+         <thumbnail>https://cf.geekdo-images.com/ypHCjtcJ-W-NxP9lpOVpjQ__thumb/img/L9YTEe6Hmy6bXqfF13fBnxm--CQ=/fit-in/200x150/filters:strip_icc()/pic6044530.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ypHCjtcJ-W-NxP9lpOVpjQ__original/img/IIVXGy8pyEWvl4I2Ll1KRKHkT3k=/0x0/filters:format(png)/pic6044530.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="18MM" />
+			
+						                           
+						               													<description>The design has a blank 7x7 map that is randomly covered by 49 tiles which have numbered cities or terrain on them. Players start with the same capital regardless of the number of players. The game adds extra trains and more private companies based on the number of players (similar to 1846). Train availability, tile&amp;#10;availability, and game end work on a fixed schedule, similar to 18CZ except the round also determines train/tile as well as when stock/operating rounds/end game occur.&amp;#10;&amp;#10;For the first 3 rounds there is one city available per player to start a company in. It works a lot like the minor companies in 1822 where you can see that cities 4, 8, 12 are available in the first round (for a 3 player game), 1, 11, 20 are available in round 2, and 9, 14, 18 are available in round 3. The starting locations are auctioned by highest bid with the bid being discarded to the bank and then the player chooses the starting share price after winning the bid. Players can only start one company each in each of the first 3 rounds, so once you win a bid for a starting location you cannot compete in the other auctions this round. Thus the last player gets the final starting location for $0 without an auction. After the first 3 stock rounds, new companies can be started in any city with an open station circle (after winning the auction for the starting location) and players can start more than one company in a given stock round.&amp;#10;&amp;#10;There is also one randomly picked private company available per player for the first 3 rounds. The private companies are auctioned and count as capital toward starting a company like in 1817. Unlike the starting city locations, players can win more than one bid for the private companies. Some of the private companies produce revenue each round (unlike 1817) so it sometimes make sense to hold a private company for a few rounds before using it to start a company.&amp;#10;&amp;#10;The game has multiple train types each in limited supply. You can buy hex trains (which are good for running to multiple cities right by each other), freight trains (which pick up coal and can run to the off map areas), passenger trains (+10 revenue into the company per city), plus trains (get to run one extra time before rusting), or advanced trains (run the turn they are purchased). The price of the older trains drop each round (you can buy a 2 freight train for $120 in the first operating round, $90 in round 2, or $60 in round 3).&amp;#10;&amp;#10;You have the 2/5/10 share system similar to 1817, including mergers. Companies can take loans similar to 1817 except the loan market is not shared, instead the loan interest rate is driven based on which operating round it is. You have the option when doing 5 share mergers to add share values together instead of averaging as in 1817 (receiving 3 shares instead of 6) to recapitalize a company.&amp;#10;&amp;#10;President shares can be sold to the market and companies then liquidate at the end of the stock round if no other player buys the president share. Trains can only be purchased between companies for full price for a current phase train of 1/2 price for a non current train. The shorting features from 1817 were not included in 1888 for obvious reasons as well as to simply the game.&amp;#10;&amp;#10;The game takes in the 4 to 5 hour range and is intended to be a fun &amp;amp; easy game to play. The goal is simply to maximize your net worth at the end by running trains for as much as possible, driving up their share price, and then dumping the companies right before their trains rust. Players can't go bankrupt because they can just dump companies in bad financial health and companies which cannot buy a train will just die (no presidential liability).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="0" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19" value="Series: 18xx" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="99026" value="Mark Hendrickson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42507" value="Paperemail" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="17" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.30089" />
+			<median value="0" />
+			<owned value="27" />
+			<trading value="1" />
+			<wanting value="5" />
+			<wishing value="17" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

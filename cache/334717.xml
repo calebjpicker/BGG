@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="334717">
+         <thumbnail>https://cf.geekdo-images.com/xKL3lzJy9yCHDYHIq2ydGQ__thumb/img/gpMsql43fHKFCXQMq_Z2ZAe_NS0=/fit-in/200x150/filters:strip_icc()/pic6240545.png</thumbnail>
+      <image>https://cf.geekdo-images.com/xKL3lzJy9yCHDYHIq2ydGQ__original/img/3B0Q8M1RjWEqhWpZfgAnssbjz_U=/0x0/filters:format(png)/pic6240545.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tranquility: The Ascent" />
+			
+						                           
+						               													<description>Tranquility: The Ascent is a standalone sequel to Tranquility, with players working together to complete a grid of numbers as they scale the mountain.&amp;#10;&amp;#10;Starting at the bottom of the mountain, players are tasked with completing a pyramid-shaped grid from the base to the summit. The base of the mountain is nine cards wide, the row above that is eight, and so on, with the top row consisting of a single summit card played once the rest of the grid is complete. On your turn, you must play a card onto the mountain or discard two cards. Cards are numbered between 1 and 12 and feature one of three different types of terrain. You may not play cards of the same terrain type next to one another, and you must also discard the difference between cards when played next to one another, e.g. placing a 7 next to a 4 would require you to discard three cards.&amp;#10;&amp;#10;Rows are completed from left-to-right, and the numbers on the cards can ascend, descend, or remain the same. Rows can include any number barring this one restriction: the number on a terrain card must be equal to or higher than the number of the row, which means that a 1 can be played only in the first row whereas numbers 8-12 can be played on any row.&amp;#10;&amp;#10;You can start a new row once at least the first two cards in the row below have been placed. Cards must always be &amp;quot;supported&amp;quot; by the two cards immediately below them, but they do not relate to the rows above or beneath in any way, i.e., the first row could start with a 10 while the next row starts with a 1.&amp;#10;&amp;#10;If players complete the mountain and top it with a summit card, they win; if a player cannot take an action on their turn, everyone loses.&amp;#10;&amp;#10;Tranquility: The Ascent includes three mini-expansion modules that can be added separately or together. &amp;quot;The Green Path&amp;quot; requires players to form a continuous path from the bottom to the top of the mountain. &amp;quot;The Panorama&amp;quot; module gives players specific number sequences to photograph. And finally, herd &amp;quot;The Mountain Goats&amp;quot; up to the summit where the grass is greener in the final module.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="1" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338327" value="Tranquility: The Ascent – Friends in High Places Promo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="288513" value="Tranquility" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="120660" value="James Emmerson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113914" value="Tristam Rossin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43400" value="Board Game Hub" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46043" value="Bright Light Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="179" />
+			<average value="6.2419" />
+			<bayesaverage value="5.56041" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10269" bayesaverage="5.56041" />
+												</ranks>
+
+			<stddev value="1.61473" />
+			<median value="0" />
+			<owned value="40" />
+			<trading value="0" />
+			<wanting value="27" />
+			<wishing value="172" />
+			<numcomments value="72" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

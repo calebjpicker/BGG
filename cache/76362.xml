@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="76362">
+         <thumbnail>https://cf.geekdo-images.com/t9f1Slr5Jg7p33W4xaZzCA__thumb/img/OY5uD3WE7OhuJrM6Hien2C8Ox8E=/fit-in/200x150/filters:strip_icc()/pic904089.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/t9f1Slr5Jg7p33W4xaZzCA__original/img/ss3vQAkfvG320qugaa73GZG7uuU=/0x0/filters:format(jpeg)/pic904089.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Celtic Challenge" />
+			
+						                           
+						               													<description>In Celtic Challenge, players want to remove as many tiles from the game board as possible.&amp;#10;&amp;#10;To set up the game, turn the 45 tiles face-down, shuffle them, then arrange 25 of them in a 5x5 grid on the game board; add a 4x4 grid of tiles on top of these, then reveal the final four tiles and place them on the 4x4 grid. (See this image as an example.)&amp;#10;&amp;#10;Players alternate play over the game's six rounds. In a round, a player chooses one of the five symbols, scores all face-up tile(s) showing this symbol, then reveals any tiles with a free edge that are now completely uncovered due to the removal of one or more tiles. Any tiles showing the chosen symbol are also scored and removed from the board. This process continues until no more symbols of that type can be scored. (Some tiles bear two symbols, and they are scored if either symbol is collected.) The player who has removed the most tiles after six rounds wins.&amp;#10;&amp;#10;In the solitaire game, the solver goes through all six rounds, trying to leave as few tiles as possible.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13396" value="Find It Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="34" />
+			<average value="4.03971" />
+			<bayesaverage value="5.47437" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="23211" bayesaverage="5.47437" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1250" bayesaverage="5.41236" />
+												</ranks>
+
+			<stddev value="1.46497" />
+			<median value="0" />
+			<owned value="101" />
+			<trading value="11" />
+			<wanting value="1" />
+			<wishing value="6" />
+			<numcomments value="18" />
+			<numweights value="5" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="96848">
+         <thumbnail>https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__thumb/img/0bWDfnjzYebauQZrHmjyHkuUttI=/fit-in/200x150/filters:strip_icc()/pic1083380.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__original/img/PDDH38Vf9NEB_4ODURxcJKNBfVQ=/0x0/filters:format(jpeg)/pic1083380.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mage Knight Board Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mage Knight: Das Brettspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Mage Knight: Desková hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Mage Knight: Gra Planszowa" />
+			    				
+				<name type="alternate" sortindex="1" value="Mage Knight: Il Gioco Da Tavolo" />
+			    				
+				<name type="alternate" sortindex="1" value="Mage Knight: Jeu de Plateau" />
+			    				
+				<name type="alternate" sortindex="1" value="魔法騎士" />
+			
+						               													<description>The Mage Knight board game puts you in control of one of four powerful Mage Knights as you explore (and conquer) a corner of the Mage Knight universe under the control of the Atlantean Empire. Build your army, fill your deck with powerful spells and actions, explore caves and dungeons, and eventually conquer powerful cities controlled by this once-great faction!  In competitive scenarios, opposing players may be powerful allies, but only one will be able to claim the land as their own.  In cooperative scenarios, the players win or lose as a group.  Solo rules are also included.&amp;#10;&amp;#10;Combining elements of RPGs, deck-building, and traditional board games the Mage Knight board game captures the rich history of the Mage Knight universe in a self-contained gaming experience.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1242">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="777" />
+					<result value="Recommended" numvotes="317" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="582" />
+					<result value="Recommended" numvotes="464" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="158" />
+					<result value="Recommended" numvotes="521" />
+					<result value="Not Recommended" numvotes="267" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="166" />
+					<result value="Not Recommended" numvotes="695" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="727" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="240" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="232">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="45" />
+					<result value="14" numvotes="113" />
+					<result value="16" numvotes="50" />
+					<result value="18" numvotes="4" />
+					<result value="21 and up" numvotes="3" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="206">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="27" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="168" />
+					<result level="15" value="Unplayable in another language" numvotes="8" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18459" value="Components: Clix" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="33758" value="Setting: Mage Knight" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="277519" value="Mage Knight Board Game: Dual Color Cards Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144763" value="Mage Knight Board Game: Krang Character Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="176130" value="Mage Knight Board Game: Shades of Tezla Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130704" value="Mage Knight Board Game: The Lost Legion Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="193920" value="Mage Knight Board Game: Broken Token organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="193921" value="Mage Knight Board Game: Broken Token Organizer – Extra Dividers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="310077" value="Mage Knight Board Game: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295882" value="Mage Knight Board Game: Playmats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271252" value="Mage Knight Board Game: Quick-Start Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="248562" value="Mage Knight: Ultimate Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="182340" value="Star Trek: Frontiers" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="789" value="Vlaada Chvátil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49771" value="J. Lonnee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50792" value="Chris Raimo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11961" value="Milan Vavroň" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="221" value="WizKids (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3023" value="NECA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="32101" />
+			<average value="8.08948" />
+			<bayesaverage value="7.86152" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="32" bayesaverage="7.86152" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="15" bayesaverage="7.8487" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="33" bayesaverage="7.86" />
+												</ranks>
+
+			<stddev value="1.63233" />
+			<median value="0" />
+			<owned value="44119" />
+			<trading value="978" />
+			<wanting value="1201" />
+			<wishing value="11654" />
+			<numcomments value="6194" />
+			<numweights value="2631" />
+			<averageweight value="4.3516" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

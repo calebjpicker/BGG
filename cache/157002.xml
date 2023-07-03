@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="157002">
+         <thumbnail>https://cf.geekdo-images.com/rzer6gwyLgIQMb4rmnActQ__thumb/img/sYemITEp1YoZyUiU_KjWVEl2p6Q=/fit-in/200x150/filters:strip_icc()/pic4805629.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rzer6gwyLgIQMb4rmnActQ__original/img/fxDKHJ1kJDY4HvCJFqdhQkWS_yk=/0x0/filters:format(jpeg)/pic4805629.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Confederate Rebellion" />
+			
+						                           
+						               													<description>The Confederate Rebellion is a solitaire wargame (with optional two player rules) on the American Civil War. The game is based on ACW Solitaire but contains updated and new rules, clarifications, new artwork, and new scenarios.&amp;#10;&amp;#10;In the solitaire game, the player controls the Union forces and the Rebellion is controlled by an AI. The game takes place over an unspecified number of turns. Play continues until either the victory or defeat conditions are met.&amp;#10;&amp;#10;Each turn follows this sequence of play:&amp;#10;&amp;#10;     Union Build Phase: The Union player builds units (Armies, Gunboats, General, Fleet, Forts) during this phase. In addition, a Union General may be sacked. &amp;#10;     Union Move Phase: Union units may move Regions this phase. &amp;#10;     Union Combat Phase: Any combat resulting from Union movement is resolved. &amp;#10;     Rebel Build Phase: The Rebels may build units as permitted by certain circumstances. &amp;#10;     Rebel Move Phase: Rebel Generals may move as permitted by die roll. &amp;#10;     Rebel Combat Phase. Any combat resulting from Rebel movement is resolved. &amp;#10;&amp;#10;&amp;#10;The goal of the game is to prevent the Rebellion from having resources available to build and maintain their army. Once this achieved, the Union player wins. If the Rebellion ever controls four Union areas or Washington DC, the Union player loses.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1048" value="American Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1102" value="Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2710" value="Post-Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23590" value="Series: Solitaire (White Dog Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="31601" value="ACW Solitaire" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5043" value="David Kershaw" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65544" value="Steve Kling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65544" value="Steve Kling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20470" value="Keith Rocco" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11015" value="White Dog Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="57" />
+			<average value="7.30526" />
+			<bayesaverage value="5.54471" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11771" bayesaverage="5.54471" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2015" bayesaverage="5.81379" />
+												</ranks>
+
+			<stddev value="1.30228" />
+			<median value="0" />
+			<owned value="174" />
+			<trading value="7" />
+			<wanting value="42" />
+			<wishing value="109" />
+			<numcomments value="40" />
+			<numweights value="9" />
+			<averageweight value="2.4444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

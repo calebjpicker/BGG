@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1419">
+         <thumbnail>https://cf.geekdo-images.com/Kc_1o8YrUG8tKRQfb-bm1A__thumb/img/J0VDu51wHSA7YsqKYu1MhRKzn0k=/fit-in/200x150/filters:strip_icc()/pic3488228.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Kc_1o8YrUG8tKRQfb-bm1A__original/img/8xIMJ1z9um-t0dFUbYQSoR3qK-c=/0x0/filters:format(jpeg)/pic3488228.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pylos" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Op naar de Top" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos Classic" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos Géant" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos Mini" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos Pocket" />
+			    				
+				<name type="alternate" sortindex="1" value="Pylos Travel" />
+			    				
+				<name type="alternate" sortindex="1" value="Pyraos" />
+			    				
+				<name type="alternate" sortindex="1" value="Pyraos Classic" />
+			    				
+				<name type="alternate" sortindex="1" value="Queops" />
+			    				
+				<name type="alternate" sortindex="1" value="Strat-O-Sphere" />
+			    				
+				<name type="alternate" sortindex="1" value="필로스" />
+			
+						               													<description>In Pylos, you want to be one who places the final ball on top of the pyramid. Sounds simple enough, right?&amp;#10;&amp;#10;At the start of the game, each player has fifteen balls, either light or dark, and they take turns placing them on a game board that has sixteen indentations on it in a 4x4 grid. Once four balls have been placed next to one another in a square, a ball can be placed on top of them, forming a second level of play. Players can then place balls on this second level, eventually allowing a ball to be placed on the third level &amp;ndash; and once that level is full, which requires only four balls, a final ball can be placed on the fourth level, with that player winning the game.&amp;#10;&amp;#10;If a player forms a square of his own color &amp;ndash; that is, four balls placed next to one another on the same level &amp;ndash; that player can remove one or two of his balls (that don't support anything) from anywhere on the board and place them in his reserve, thereby giving him more balls to place in the future. Whenever a player forms a square that's not entirely his own color, he can &amp;quot;stack&amp;quot; one of his pieces &amp;ndash; that is, he can take any ball and place it on this square, locking some pieces in place and making a move without having to place a piece from his reserve.&amp;#10;&amp;#10;The rules include a variant for children (that removes the square bonus) and one for experts (that allows a player to return 1-2 balls to his reserve when he creates a line of his color).&amp;#10;&amp;#10;Reimplements&amp;#10;&amp;#10;&amp;#10;    Strat-O-Sphere&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1993" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="556" value="No necessary in-game text" numvotes="14" />
+					<result level="557" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="558" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="559" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="560" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5902" value="Components: Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21078" value="Series: Basic (Gigamic)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19100" value="Series: Classic (Gigamic)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="21047" value="Strat-O-Sphere" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="590" value="David G. Royffe" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21487" value="Ericsson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="124" value="Great American Trading Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50993" value="Hachette Board Games UK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4831" value="Strat-O-Sphere Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1980" />
+			<average value="6.29534" />
+			<bayesaverage value="5.8663" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3578" bayesaverage="5.8663" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="237" bayesaverage="6.06205" />
+												</ranks>
+
+			<stddev value="1.43753" />
+			<median value="0" />
+			<owned value="3145" />
+			<trading value="98" />
+			<wanting value="38" />
+			<wishing value="307" />
+			<numcomments value="504" />
+			<numweights value="117" />
+			<averageweight value="1.9402" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

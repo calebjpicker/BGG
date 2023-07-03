@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="239846">
+         <thumbnail>https://cf.geekdo-images.com/zuXPZSi5dAhjJAKq5bMDwQ__thumb/img/S2tcAjmSZdrVEpON1xdZbAmgMm8=/fit-in/200x150/filters:strip_icc()/pic3897552.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zuXPZSi5dAhjJAKq5bMDwQ__original/img/89PjrONjybenF-joFa-dmlmhcEA=/0x0/filters:format(jpeg)/pic3897552.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Barbers!" />
+			
+						                           
+						               													<description>In 'Barbers!', you and a partner face the Sunday rush as new barbers - giving customers all the cuts and shaves they need while preventing the pesky old barber of the neighborhood from stealing customers from right under your nose!&amp;#10;&amp;#10;'Barbers!' is a dice-drafting, action selection game for 1 or 2 players. You and your partner play barbers, running a hair salon. There are three chairs in your salon, and a queue outside your shop!&amp;#10;&amp;#10;Each chair is represented by a card, which has spaces to place cubes. The spaces designate the services for haircuts, sides and shaves. A deck of cards represents the customers. Each customer is unique, requiring different services - for example, a customer may need a haircut and side trim, another might need only a shave. Each of these service requirements are denoted by haircut, sides and shave icons on the customer cards. For the customer in a chair, you render these services by placing cubes on the cube placement spaces on the chair the customer is in. Each turn, if the chairs are unoccupied, a customer from the queue moves into a chair, and the queue is refilled to 3 customers from the customers deck.&amp;#10;&amp;#10;In the 2-player game, each player alternates taking turns. On their turn, a player rolls three dice, chooses one of the dice and takes an action associated with the dice score. These actions let you render the three different types of services i.e. hair, sides or shave. The second player then chooses one of the remaining two dice, and takes the associated action. The third die is for the Old Barber action - he is the shrewd old barber from the neighborhood. His actions almost always are meant to steal customers from you. He has many tricks up his sleeve for that - from offering free tea and coffee to chatting up customers to eventually lure them away from your salon! The players can counter him by taking 'Customer Preservation Actions' instead of the service actions - these can be buying tea for the customers themselves or by taking the help of a local goon to keep the Old Barber at bay! The players need to plan their actions carefully lest the die left for the Old Barber lets him steal a high- value customer!&amp;#10;&amp;#10;Players score points by &amp;lsquo;completing customers&amp;rsquo; i.e. by rendering all the required services. The customers claimed by the Old Barber through his actions earns him points. Sometimes, the players may need to work together to complete a customer to free up the chairs and move the queue forward - else the Old Barber may steal them!&amp;#10;&amp;#10;At the end of the game, the player with the most points wins! If the Old Barber has most points, he wins.&amp;#10;&amp;#10;In the solo game, the Old Barber challenges you to a &amp;lsquo;hair-off&amp;rsquo; or a hair-cutting duel in your own shop - and he plays as the second player. The rules remain the same with some slight changes.&amp;#10;&amp;#10;Barbers! was created for the 2017 Mint Tin Design Contest, where it stood 7th in Best Overall Design category from 37 entries, and 2nd in Best Theme!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51498" value="Contests: Mint Tin Design" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="105931" value="Harshad Deshmukh" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="58096" value="Marianne Waage" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.894427" />
+			<median value="0" />
+			<owned value="16" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="11" />
+			<numcomments value="8" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

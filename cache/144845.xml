@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="144845">
+         <thumbnail>https://cf.geekdo-images.com/ztrcd4iMhNoto_pZkDIePQ__thumb/img/QtZoY1f_MPgK9BVZoU9fqWvK_o4=/fit-in/200x150/filters:strip_icc()/pic6186134.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ztrcd4iMhNoto_pZkDIePQ__original/img/hUj2eacPPvCGnGXYm_Q93C9L2HA=/0x0/filters:format(jpeg)/pic6186134.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Games of Middle Earth" />
+			
+						                           
+						               													<description>SPI boxed compilation of their three Middle Earth games: War of the Ring is the big game, and Gondor and Sauron are smaller ziplock/folio style games. The games are primarily two-player hex-and-counter wargames.&amp;#10;&amp;#10;In War of the Ring, great armies battle while individual characters from the books control the fate of the One Ring. The &amp;quot;character game&amp;quot; can be played separately, to reduce playing time and complexity, and there is also a three-player scenario.&amp;#10;&amp;#10;Gondor is based on the siege of Minas Tirith along with the battle outside the city gate as depicted in J.R.R. Tolkien's novel The Lord of the Rings.&amp;#10;&amp;#10;Sauron is a simulation of the Battle of Dagorlad, from the 2nd Age, between Sauron and the forces of the Free Peoples (elves, men, and dwarves) outside the main gate of Mordor.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="210" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="210" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2884" value="Sudden Death Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4263" value="Authors: J.R.R. Tolkien" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2778" value="Gondor: The Siege Minas Tirith" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2779" value="Sauron" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2228" value="War of the Ring" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="722" value="Howard Barasch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="135" value="Richard H. Berg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1136" value="Rob Mosca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7661" value="Linda Mosca" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20676" value="Tim Kirk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1030" value="Redmond A. Simonsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="96" />
+			<average value="7.46458" />
+			<bayesaverage value="5.58649" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.58649" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="5.99964" />
+												</ranks>
+
+			<stddev value="1.37212" />
+			<median value="0" />
+			<owned value="443" />
+			<trading value="22" />
+			<wanting value="35" />
+			<wishing value="65" />
+			<numcomments value="59" />
+			<numweights value="11" />
+			<averageweight value="3.2727" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

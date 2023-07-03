@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="333255">
+         <thumbnail>https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__thumb/img/3et-UTpNaMhKlHPgnj89mkTkGkU=/fit-in/200x150/filters:strip_icc()/pic6985339.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__original/img/qtWs6Wg0a241k2D1TWWbesVwu-s=/0x0/filters:format(jpeg)/pic6985339.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Keep the Heroes Out!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Helden müssen draußen bleiben!" />
+			    				
+				<name type="alternate" sortindex="1" value="Příšeří: Hrdinům vstup zakázán" />
+			    				
+				<name type="alternate" sortindex="1" value="Героям Здесь не Место" />
+			    				
+				<name type="alternate" sortindex="1" value="Ходу Героям Нема!" />
+			
+						               													<description>An asymmetric, cooperative dungeon defense game for 1-4 players where you play as the monsters protecting their hard earned treasures against invading hordes of looters (so-called heroes) trying to steal it.&amp;#10;&amp;#10;In their turn players draw 5 cards and play, these cards allow them to move, activate the tiles they are to perform the tiles actions, attack heroes, and move their units around. After each player, draw and perform cards from the heroes deck.&amp;#10;&amp;#10;Your goal as a team in every scenario is to survive the 3 levels of threat from the invading heroes by protecting the treasures on each room. If the main treasure is taken, the game ends and you lose, but if you manage to protect the treasures for long enough, you all win.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="66">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="50" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="5" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39912" value="Category: Tower Defense" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67861" value="Theme: Villainy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351550" value="Keep the Heroes Out!: Guild Master's Revenge Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351549" value="Keep the Heroes Out!: The Great Dreamer Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="375424" value="Keep the Heroes Out!: Deluxe Tokens" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74125" value="Luís Brüeh" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74125" value="Luís Brüeh" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51114" value="Brueh Games Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50624" value="Board Zeppelin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48742" value="Dice&amp;Bones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42204" value="Mirakulus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1251" />
+			<average value="8.04818" />
+			<bayesaverage value="6.39831" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1377" bayesaverage="6.39831" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="251" bayesaverage="6.70506" />
+												</ranks>
+
+			<stddev value="1.39749" />
+			<median value="0" />
+			<owned value="3123" />
+			<trading value="22" />
+			<wanting value="157" />
+			<wishing value="1221" />
+			<numcomments value="362" />
+			<numweights value="50" />
+			<averageweight value="2.38" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

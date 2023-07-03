@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="140620">
+         <thumbnail>https://cf.geekdo-images.com/IiJ1JK6AjlSCKsC8U_DqMw__thumb/img/sRsfWxhyB9hPjkFVSE1y_W_AiP8=/fit-in/200x150/filters:strip_icc()/pic5375937.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IiJ1JK6AjlSCKsC8U_DqMw__original/img/4W8ffc5xOvC6sl660XMGCBqkzJ8=/0x0/filters:format(jpeg)/pic5375937.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lewis &amp; Clark: The Expedition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Lewis &amp; Clark" />
+			    				
+				<name type="alternate" sortindex="1" value="Lewis &amp; Clark: A Expedição" />
+			    				
+				<name type="alternate" sortindex="1" value="Lewis &amp; Clark: Cesta na Severozápad" />
+			    				
+				<name type="alternate" sortindex="1" value="Lewis &amp; Clark: Die Expedition" />
+			    				
+				<name type="alternate" sortindex="1" value="루이스 앤 클라크" />
+			
+						               													<description>On November 30, 1803, the United States purchased Louisiana from Napoleon. U.S. President Thomas Jefferson decided to send two explorers &amp;ndash; Meriwether Lewis and William Clark &amp;ndash; to discover this huge terra incognita.&amp;#10;&amp;#10;Lewis &amp;amp; Clark is a board game in which each player manages an expedition intended to cross the North American continent. Their goal is to be the first to reach the Pacific. Each one has his own Corps of Discovery that will be completed by the Native Americans and the trappers met during the journey. He has to cleverly manage his characters and also the resources he finds along the way. Beware, sometimes frugality is better than abundance.&amp;#10;&amp;#10;Lewis &amp;amp; Clark features dual use cards. To be activated, one card must be combined with another one, which becomes unavailable for a while. Thus, players are faced with a constant dilemma: play a card or sacrifice it. During the game, each player acquires character cards that enlarge his hand, building a crew that gives him more options but it needs to be optimized as he will recycle his cards more slowly. This new &amp;quot;handbuilding&amp;quot; mechanism fits strongly with the historical background.&amp;#10;&amp;#10;Since the aim of the game is to be the first on the Pacific coast, the timing and the opportunistic use of the other players' positions are crucial.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="347">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="129" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="70" />
+					<result value="Recommended" numvotes="174" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="191" />
+					<result value="Recommended" numvotes="73" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="128" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="149" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="113" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="53">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="23" />
+					<result value="14" numvotes="16" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="57">
+			
+		<results>		
+					<result level="736" value="No necessary in-game text" numvotes="54" />
+					<result level="737" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="738" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="739" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="740" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2948" value="Resource to Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46058" value="Game: Lewis &amp; Clark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46059" value="Historical Figures: Lewis &amp; Clark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43639" value="Theme: Native Americans / First Peoples" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164557" value="Lewis &amp; Clark: Bauza &amp; Cathala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="155402" value="Lewis &amp; Clark: Benjamin Bord" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164554" value="Lewis &amp; Clark: Cédrick Chaboussit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164556" value="Lewis &amp; Clark: Martin Wallace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="314494" value="Lewis &amp; Clark: Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164555" value="Lewis &amp; Clark: Uwe Rosenberg" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="283523" value="Lewis &amp; Clark: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272927" value="Lewis &amp; Clark: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="149251" value="Lewis &amp; Clark: Sticker Sheet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329456" value="Lewis &amp; Clark: Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273452" value="Lewis &amp; Clark: x3 Resource Markers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="67874" value="Cédrick Chaboussit" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11688" value="Ludonaute" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45494" value="EVA GAMES" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39594" value="Hunter &amp; Cron" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32591" value="MeepleBR" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15060" />
+			<average value="7.45606" />
+			<bayesaverage value="7.21608" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="262" bayesaverage="7.21608" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="188" bayesaverage="7.26474" />
+												</ranks>
+
+			<stddev value="1.29779" />
+			<median value="0" />
+			<owned value="18286" />
+			<trading value="511" />
+			<wanting value="573" />
+			<wishing value="3579" />
+			<numcomments value="2689" />
+			<numweights value="737" />
+			<averageweight value="3.3351" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

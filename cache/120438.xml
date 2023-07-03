@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="120438">
+         <thumbnail>https://cf.geekdo-images.com/AUhjxMXwClalRonqYj9JnA__thumb/img/I0zmw1taGhzjVkAhhhlbmxlS3Dg=/fit-in/200x150/filters:strip_icc()/pic1241980.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AUhjxMXwClalRonqYj9JnA__original/img/v07-DRTe_Ziv_UGbNvGuNEamo0U=/0x0/filters:format(jpeg)/pic1241980.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Obsolescence" />
+			
+						                           
+						               													<description>Develop, upgrade, and recycle electronic gadgets by laying tiles representing components on a circuit board.&amp;#10;&amp;#10;Designed during 48-hour 2012 Global Game Jam at NYU Game Center.  (Minimal playtesting, rules and tile mix require further fine tuning and balancing.)&amp;#10;&amp;#10;Tile Placement game in which players develop, upgrade, and recycle successive generations of Apple gadgets by laying tiles representing components on a circuit board, connector edge to connector edge in order to form closed loops consisting of newly laid and previously laid components.&amp;#10;&amp;#10;Component Tiles can only be placed adjacent to a tile with a shared connector edge (border) OR on top of one another to create Gadgets. Each successive generation of gadget is built on top of the prior generation's components. Components on the stack level corresponding to the current device generation are added to the builder's score, components hidden by others on higher stack levels are subtracted from the score. A completed gadget-- a closed loop of component tiles also referred to as a device-- is defined by it's most numerous component type, with each component corresponding to a different device, and scores a bonus upon completion. Gadget Cards depict their majority component requirement and keep track of descending bonus values for each device generation of that type built by all players (the first one built is worth more).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="0" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17452" value="Misc: Global Game Jam" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58141" value="Gregory Chase" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3058" value="CereBel" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

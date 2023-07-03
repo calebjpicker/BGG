@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="184151">
+         <thumbnail>https://cf.geekdo-images.com/nuHQ7Yf8ykd2xUm_p0PD-w__thumb/img/VWVFu9qjH2wYy4r-yztVAkritQM=/fit-in/200x150/filters:strip_icc()/pic3763363.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/nuHQ7Yf8ykd2xUm_p0PD-w__original/img/tywZJAf28E4gjG9iDn_F4NJCtZI=/0x0/filters:format(jpeg)/pic3763363.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Legend of the Five Rings: The Card Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Legend of the Five Rings: Das Kartenspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Legenda Pięciu Kręgów: Gra karciana" />
+			    				
+				<name type="alternate" sortindex="4" value="La Légende des Cinq Anneaux: Le jeux de cartes" />
+			    				
+				<name type="alternate" sortindex="4" value="La Leggenda dei Cinque Anelli: Il Gioco di Carte" />
+			    				
+				<name type="alternate" sortindex="4" value="La Leyenda de los Cinco Anillos: El Juego de Cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="五輪傳奇" />
+			
+						               													<description>Description from the publisher:&amp;#10;&amp;#10;Welcome to the realm of Rokugan: a land of samurai and mystics, mad dragons and divine beings &amp;mdash; a land where honor is stronger than steel. Here, the clans serve the Emperor and engage in courtly deceptions and power plays, even as they wage war against each other and the evil forces that plague their realm. This is the world of Legend of the Five Rings!&amp;#10;&amp;#10;Legend of the Five Rings: The Card Game is a Living Card Game set in the world of Rokugan, the original setting for the Legend of the Five Rings collectible card game. To play a Living Card Game, players create individual decks of cards from a base game with a fixed set of cards; they can then add supplemental card packs to this game world, with each pack also having a fixed set of cards, in order to vary their game experience.&amp;#10;&amp;#10;While the connection of Legend of the Five Rings: The Card Game to Rokugan and the Colonies &amp;mdash; as well as its pervasive themes of honor, nobility, magic, intrigue, duty, and warfare &amp;mdash; should carry over from the original L5R CCG, Legend of the Five Rings: The Card Game is not compatible with that original game and will feature significant changes in the game mechanisms.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="0" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1044" value="Collectible Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3004" value="Deck Construction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5337" value="Collectible: Living Card Game (Fantasy Flight Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4712" value="Setting: Legend of the Five Rings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283479" value="Legend of the Five Rings: The Card Game – A Champion's Foresight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324764" value="Legend of the Five Rings: The Card Game – A Crimson Offering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251395" value="Legend of the Five Rings: The Card Game – All and Nothing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307275" value="Legend of the Five Rings: The Card Game – As Honor Demands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="314102" value="Legend of the Five Rings: The Card Game – Atonement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="277421" value="Legend of the Five Rings: The Card Game – Bonds of Blood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251391" value="Legend of the Five Rings: The Card Game – Breath of the Kami" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="305707" value="Legend of the Five Rings: The Card Game – Campaigns of Conquest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262597" value="Legend of the Five Rings: The Card Game – Children of the Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="294453" value="Legend of the Five Rings: The Card Game – Clan War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331208" value="Legend of the Five Rings: The Card Game – Coils of Power" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="294387" value="Legend of the Five Rings: The Card Game – Defenders of Rokugan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245350" value="Legend of the Five Rings: The Card Game – Disciples of the Void" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296610" value="Legend of the Five Rings: The Card Game – Draft Starter Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251396" value="Legend of the Five Rings: The Card Game – Elements Unbound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237717" value="Legend of the Five Rings: The Card Game – Fate Has No Secrets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237713" value="Legend of the Five Rings: The Card Game – For Honor and Glory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272605" value="Legend of the Five Rings: The Card Game – For the Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324763" value="Legend of the Five Rings: The Card Game – Honor in Flames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307274" value="Legend of the Five Rings: The Card Game – In Pursuit of Truth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237714" value="Legend of the Five Rings: The Card Game – Into the Forbidden City" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278323" value="Legend of the Five Rings: The Card Game – Justice for Satsume" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270215" value="Legend of the Five Rings: The Card Game – Masters of the Court: Crane Clan Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237718" value="Legend of the Five Rings: The Card Game – Meditations on the Ephemeral" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335023" value="Legend of the Five Rings: The Card Game – Peace at Any Cost" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307271" value="Legend of the Five Rings: The Card Game – Rokugan at War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="294356" value="Legend of the Five Rings: The Card Game – Seekers of Wisdom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="294390" value="Legend of the Five Rings: The Card Game – Shoju's Duty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307272" value="Legend of the Five Rings: The Card Game – Spreading Shadows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251392" value="Legend of the Five Rings: The Card Game – Tainted Lands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="236478" value="Legend of the Five Rings: The Card Game – Tears of Amaterasu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289588" value="Legend of the Five Rings: The Card Game – The Children of Heaven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237716" value="Legend of the Five Rings: The Card Game – The Chrysanthemum Throne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251394" value="Legend of the Five Rings: The Card Game – The Ebb and Flow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291902" value="Legend of the Five Rings: The Card Game – The Emperor's Legion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251393" value="Legend of the Five Rings: The Card Game – The Fires Within" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332677" value="Legend of the Five Rings: The Card Game – The Temptation of the Scorpion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324762" value="Legend of the Five Rings: The Card Game – Twisted Loyalties" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331894" value="Legend of the Five Rings: The Card Game – Under Fu Leng's Shadow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256369" value="Legend of the Five Rings: The Card Game – Underhand of the Emperor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270214" value="Legend of the Five Rings: The Card Game – Warriors of the Wind: Unicorn Clan Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="364616" value="Legend of the Five Rings: The Card Game – Defender of the Wall Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="237605" value="Legend of the Five Rings: The Card Game – Extended Akodo Toturi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="249009" value="Legend of the Five Rings: The Card Game – Extended Cloud the Mind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="236969" value="Legend of the Five Rings: The Card Game – Extended Hida Kisada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="363383" value="Legend of the Five Rings: The Card Game – Extended Kyuden Bayushi/Support of the Scorpion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="245522" value="Legend of the Five Rings: The Card Game – Extended Shiba Tsukune" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="244967" value="Legend of the Five Rings: The Card Game – Extended Shinjo Altansarnai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="252068" value="Legend of the Five Rings: The Card Game – Extended Wandering Ronin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306578" value="Legend of the Five Rings: The Card Game – Honored Duel Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="364617" value="Legend of the Five Rings: The Card Game – Master of the High House of Light Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="376547" value="Legend of the Five Rings: The Card Game – Mistress of the Five Winds Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="364618" value="Legend of the Five Rings: The Card Game – Right Hand of the Emperor Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368721" value="Legend of the Five Rings: The Card Game – The Soul of Shiba Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="256370" value="Legend of the Five Rings: The Card Game – The Sword and the Spirits Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271386" value="Legend of the Five Rings: The Card Game – Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="256371" value="Legend of the Five Rings: The Card Game – Whispers of Shadow and Steel Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="277430" value="Legend of the Five Rings: The Card Game – Winter Court – 2018 World Championship Deck" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1887" value="Legend of the Five Rings" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74189" value="Brad Andres" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="54149" value="Erik Dahlman (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11655" value="Nate French" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="112588" value="Tyler Parrott" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74189" value="Brad Andres" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="54149" value="Erik Dahlman (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11655" value="Nate French" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29998" value="Emperor Penguin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2704" />
+			<average value="7.36" />
+			<bayesaverage value="6.4959" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1176" bayesaverage="6.4959" />
+																				<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="41" bayesaverage="6.97537" />
+												</ranks>
+
+			<stddev value="1.69945" />
+			<median value="0" />
+			<owned value="6460" />
+			<trading value="283" />
+			<wanting value="59" />
+			<wishing value="698" />
+			<numcomments value="622" />
+			<numweights value="123" />
+			<averageweight value="4.0163" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

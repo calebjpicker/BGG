@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="75358">
+         <thumbnail>https://cf.geekdo-images.com/Y1AWbx_RenVFC8-MDtou1w__thumb/img/Yz9FMDM-uTr1ydK0dWxHRpaqovw=/fit-in/200x150/filters:strip_icc()/pic1266518.png</thumbnail>
+      <image>https://cf.geekdo-images.com/Y1AWbx_RenVFC8-MDtou1w__original/img/Lf1dnpwv5mRp8KcUGKSf4ksUkw8=/0x0/filters:format(png)/pic1266518.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Paris Connection" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="SNCF" />
+			
+						               													<description>A re-issue of David V. H. Peters' SNCF (Soci&amp;eacute;t&amp;eacute; Nationale des Chemins de fer Fran&amp;ccedil;ais).  Originally released by Winsome Games as part of its 2010 Essen Set, SNCF was subsequently licensed by Queen Games and rereleased as Paris Connection in 2011.  This is a fast network-/portfolio-building game with a train theme, with the objective of having the most valuable stock portfolio at the end of the game.  Players can own and trade stocks as well as influence the value of each company.&amp;#10;&amp;#10;There are 6 colors of wooden locomotives, each color representing a company.  Players are dealt random hands of 5-10 (depending on number of players) locomotives, which are essentially a stock portfolio; the rest of each color are placed in a pool.  On your turn, you can either increase the value of a single company by placing 1-5 locomotives from the remaining pool of that company, or you can trade one locomotive in your portfolio for one or two locomotives from the remaining pool in a company.&amp;#10;&amp;#10;The game board is a map of France, with cities worth anywhere from 1-4 points, and rural hexes worth 0.  Connecting to a city adds to a company's value.&amp;#10;&amp;#10;The game ends when Marseille is reached by a company, or when there is only one company with locomotives remaining in the pool.  Players' scores are determined by the value of each company at the end multiplied by the number of locomotives the player has for each color.&amp;#10;&amp;#10;SNCF expansions may be used with this game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="34">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="1001" value="No necessary in-game text" numvotes="17" />
+					<result level="1002" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="1003" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="1004" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="1005" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17520" value="Cities: Paris (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18979" value="Series: Cube Rails" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18796" value="Series: Winsome Essen Sets" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373960" value="Berlin Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348736" value="Paris Connection: Hiawatha Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="102152" value="SNCF: Germany Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="102155" value="SNCF: Iberia Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125689" value="SNCF: The Moon/Mars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127222" value="SNCF: The Netherlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="201050" value="SNCF: Transcontinental Railroads" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="366" value="John Bohrer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34863" value="Oliver Schlemmer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="65" value="Winsome Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2980" />
+			<average value="6.66234" />
+			<bayesaverage value="6.21187" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1887" bayesaverage="6.21187" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="977" bayesaverage="6.30937" />
+												</ranks>
+
+			<stddev value="1.25512" />
+			<median value="0" />
+			<owned value="3502" />
+			<trading value="188" />
+			<wanting value="105" />
+			<wishing value="379" />
+			<numcomments value="900" />
+			<numweights value="154" />
+			<averageweight value="1.8182" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

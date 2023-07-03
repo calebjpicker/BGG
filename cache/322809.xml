@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="322809">
+         <thumbnail>https://cf.geekdo-images.com/1cij_SvuyVDQIkPvvOgihg__thumb/img/5wLGHK8c3qKAduPr9DTraWmPgPM=/fit-in/200x150/filters:strip_icc()/pic5742039.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1cij_SvuyVDQIkPvvOgihg__original/img/Fjy3eLvggQbedLKuzVJmg0tQpAU=/0x0/filters:format(jpeg)/pic5742039.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Diabolik: Heists and Investigations" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Diabolik: Colpi e Indagini" />
+			
+						               													<description>In Diabolik: Heists and Investigations, players will experience in first person the &amp;quot;impossible thefts&amp;quot; that are told every month in the comic books, both from the side of Diabolik and Eva Kant, and from Inspector Ginko and the police.&amp;#10;&amp;#10;The mechanics are that of hidden movement, but with the exception that when discovered, the criminals will be forced to flee on the main board, visible to all cops. Thanks to the cards, every turn offers different situations.&amp;#10;&amp;#10;The Criminals will have to complete two heists out of the three available to win the game and to do so they will have to move hidden in the shadows, leaving traces of their path that the Police will have to find to ruin the plans of the Criminals.&amp;#10;&amp;#10;The Police will have the hard job of investigating the traces of Diabolik and Eva, but they are not alone, in fact they will have the opportunity to call four total Police Officers to help, to keep every corner of the city under observation. To win the game, the cops will have to raise the Danger Level to the maximum on the Danger Track. Usually, solving a Clue increases the Danger Level by 1 point, but that's not the only way to do it. On the other hand, if Eva or DIabolik complete a Heist, the Danger Luevel is lowered.&amp;#10;&amp;#10;In their turn, each player can perform a maximum of 3 individual actions. The only exception is for drawing, discarding or playing cards, which is a repeatable action.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="151" value="No necessary in-game text" numvotes="0" />
+					<result level="152" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="153" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="154" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="155" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2953" value="Programmed Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2892" value="Roles with Asymmetric Information" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2866" value="Targeted Clues" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56938" value="Mechanism: Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75435" value="Theme: Burglary and Heists" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="358680" value="Diabolik: La lama della vendetta" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="131312" value="Luca Maragno" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82967" value="Matteo Buffagni" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17917" value="Ares Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46976" value="DAM Things!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27654" value="Pendragon Game Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="50" />
+			<average value="7.456" />
+			<bayesaverage value="5.54895" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11291" bayesaverage="5.54895" />
+												</ranks>
+
+			<stddev value="1.19301" />
+			<median value="0" />
+			<owned value="154" />
+			<trading value="6" />
+			<wanting value="5" />
+			<wishing value="52" />
+			<numcomments value="14" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

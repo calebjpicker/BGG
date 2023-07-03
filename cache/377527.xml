@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="377527">
+                                     				
+				<name type="primary" sortindex="1" value="Colour-blind" />
+			
+						                           
+						               													<description>Start&amp;#10;Deal four hands of 13 cards, one hand to each of three players and one face down to the table. Turn the extra hand face up and spread it out in a row, overlapping the cards slightly so that all are identifiable.&amp;#10;&amp;#10;Object&amp;#10;Count how many row cards are red and how many black. Whichever colour there are more cards of is the 'good' colour, the other 'bad'. The aim is to capture cards of the good colour and avoid those of the bad.&amp;#10;&amp;#10;Play&amp;#10;The player at dealer's left leads to the first of 13 tricks. You must follow suit if you can, but may otherwise play any card. The trick is taken by the highest card played, regardless of suit. For this purpose cards rank from high to low AKQJ1098765432. Of equally high cards, the last played wins. Upon winning a trick, you take the current top card of the row (the one at the uncovered end), lay it face up before you, discard the trick face down to a wastepile, and lead to the next.&amp;#10;&amp;#10;Score&amp;#10;When all tricks have been played and row cards taken, you total the face value of all cards you have taken of the good colour and subtract the total face value of those of the bad colour. For this purpose Aces count 1 each, numerals 2 to 10 count at face value, Jack counts 11, Queen 12, and King 13. If your count is positive, you record it as your score; if negative, you score zero for that round. (Thus you never actually score a minus number.) Play up to any previously agreed target.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="166" value="David Parlett" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11930">
+         <thumbnail>https://cf.geekdo-images.com/qCwdbdCf6PEzcCeNwDNu8w__thumb/img/GWVxwXgTlHY2TG9q-w1sWveRJxY=/fit-in/200x150/filters:strip_icc()/pic48012.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/qCwdbdCf6PEzcCeNwDNu8w__original/img/AXxwwJo_I5gnQKnrnuuUOj7FaUo=/0x0/filters:format(jpeg)/pic48012.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Renju" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Omok" />
+			    				
+				<name type="alternate" sortindex="1" value="오목" />
+			
+						               													<description>Renju is the adult/tournament version of the Japanese game Go-Moku.  Renju is played on a 15x15 Go board, with Go pieces.&amp;#10;&amp;#10;The goal is the same: to get five stones in a row.  Renju has evolved rules to balance the game however: Go-Moku heavily favors the first player.&amp;#10;&amp;#10;Renju counters this with two important rules:&amp;#10;&amp;#10;&amp;#10;     Setup: one player places two black stones and one white stone on the board.  The other player chooses which side to play.  White places one stone, then Black places two more stones.  White removes one of these last two Black stones, then the game proceeds normally.&amp;#10;     Restrictions: Black may not create a three-three or four-four.  (That is, a move that creates two open-ended threes at once, or two fours at once.)  Black may not create an &amp;quot;overline&amp;quot; - six or more stones in a row.  White is NOT thus restricted, and can win by any of those moves, OR by forcing Black to make such a move to block White.&amp;#10;&amp;#10;&amp;#10;Renju lacks the depth of Go, but the strategies are far easier to understand, and mere mortals can become quite good at it.&amp;#10;&amp;#10;Similar to:&amp;#10;&amp;#10;    5ive Straight&amp;#10;    Take 5&amp;#10;    5 in a Row&amp;#10;    Go-Moku&amp;#10;    Pente&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="2" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4220" value="Category: n in a row" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78570" value="Components: 15 x 15 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="102" />
+			<average value="6.25264" />
+			<bayesaverage value="5.53231" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13597" bayesaverage="5.53231" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="730" bayesaverage="5.61607" />
+												</ranks>
+
+			<stddev value="1.96281" />
+			<median value="0" />
+			<owned value="117" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="23" />
+			<numcomments value="51" />
+			<numweights value="18" />
+			<averageweight value="2.5556" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

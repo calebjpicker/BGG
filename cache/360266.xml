@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="360266">
+         <thumbnail>https://cf.geekdo-images.com/BcQ0zPu3IbLqGyITVy91lA__thumb/img/FiooBi3sPOhbxSGft-Gl0-L00dM=/fit-in/200x150/filters:strip_icc()/pic6963526.png</thumbnail>
+      <image>https://cf.geekdo-images.com/BcQ0zPu3IbLqGyITVy91lA__original/img/z5qXD5qZTyT2odLsEVPawPh3VFg=/0x0/filters:format(png)/pic6963526.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Draft Cider" />
+			
+						                           
+						               													<description>At the start of the game, you are each given a board, this is your orchard.&amp;#10;&amp;#10;At the start of a phase, a set of cards is placed in the centre of the tables. 3 cards are put down per player, or 2 if playing 3/6 player.&amp;#10;&amp;#10;The players take it in turns selecting a single card and adding it to one of 8 batches in their orchard. When it's their turn the players MUST draw a card and play it into one of their batches. They will earn points depending on the batch as described below.&amp;#10;&amp;#10;The Batches&amp;#10;&amp;#10;Monochrome Batch&amp;#10;All apples must be the same colour, as indicated by the card. Points are triangle numbers starting at 1. I.e: 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, 66 max:78&amp;#10;Apples of a Feather Batch&amp;#10;Rule: When you place the second card, it must match the 1st card's Sweetness or Height. Any additional cards must then follow this rule. If a pair of cards have the same Sweetness and Height, you may continue with either attribute based on your next card.&amp;#10;E.g. the first card is Sweetness 3, Height 2. The player can place either, but once he places a Sweetness '3', he must continue to do so exclusively&amp;#10;Scoring is n(n-1), where n is the number of cards:&amp;#10;0, 2, 6, 12, 20, 30, 42, 56, 72, 90, &amp;#10;110, 132&amp;#10;Special Colour Tree&amp;#10;Points 20, but only if no other apples of this colour are outside of the bad batch.&amp;#10;Loses 20 if an apple of the same colour is played outside of the bad batch. &amp;#10;This card cannot be placed if there is a card of its colour anywhere but the Bad Batch. However, a card of the same colour may be played at the cost of all points for this batch.&amp;#10;Unlucky batch&amp;#10;Sweetness must add to 13 or worthless. &amp;#10;Points: Square numbers per card used, but only if hit 13 exactly!&amp;#10;E.g. two 5s and a 3 would be 3 cards, so 9 points &amp;#10;9, 16, 25, 36, 49, 64, 81, 100, 121, 144&amp;#10;Fortepiano Height Batch&amp;#10;Points are the difference in Height between each pair * 2. Heights may not be the same.&amp;#10;E.g. Heights 1&amp;amp;5=8 points. 2&amp;amp;3=2&amp;#10;Max: 48&amp;#10;Sweet Couple Batch&amp;#10;7 points for each 2 of the same Sweetness. &amp;#10;Each pair must have the same Sweetness to be played.&amp;#10;Max: 42&amp;#10;Steady Height Batch&amp;#10;Rule: Height must be within one of the previous cards each time. &amp;#10;E.g 3-3 or 3-2 or 3-4&amp;#10;Points: Odd Prime numbers&amp;#10;I.e 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41&amp;#10;Max: 41&amp;#10;Bad batch&amp;#10;-1 point for each tree planted here. (0/1 points on easy mode)&amp;#10;Max: -12&amp;#10;&amp;#10;The game ends when each player has 12 cards, and the winner is whoever has the most cards.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="0" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69363" value="Occupation: Farmer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="144897" value="Joseph Webb" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="144896" value="Jason Stanford" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51435" value="Infernal Productions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="55" />
+			<average value="4.73709" />
+			<bayesaverage value="5.47569" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="23151" bayesaverage="5.47569" />
+												</ranks>
+
+			<stddev value="1.77471" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="5" />
+			<numcomments value="9" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

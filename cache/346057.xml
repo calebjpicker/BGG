@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="346057">
+         <thumbnail>https://cf.geekdo-images.com/iK9X7Y4mN4Prbohvb0EDyQ__thumb/img/sCQrFd8GYsgKfP0ThoTmjqU-3AQ=/fit-in/200x150/filters:strip_icc()/pic6379484.png</thumbnail>
+      <image>https://cf.geekdo-images.com/iK9X7Y4mN4Prbohvb0EDyQ__original/img/NMl3N2Qn3NEa_2E1gehR0denhLI=/0x0/filters:format(png)/pic6379484.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Don&#039;t Go In There" />
+			
+						                           
+						               													<description>You play as meddling kid wandering too far into a creepy haunted house. You knew you shouldn't touch anything, but like any protagonist in a horror story, your curiosity got the best of you and now you've accidentally awoken an evil presence in the house. You'll have to undo the curse to escape with your sanity or forever be haunted!&amp;#10; It's a fast, easy-to-learn game that uses push your luck &amp;quot;set destruction.&amp;quot; Decide how risky to play as you venture deep into the haunted house. Do you take first choice of the items and risk attracting haunts, or play it safe? Collect the right items and you can dispel some of your curses.&amp;#10;&amp;#10;On your turn, choose a part of the haunted house to explore by placing a meeple in one of the 3 rooms. Each room has 5 placement spaces. The deeper you go into a room the more likely you are to get the cursed item you desire, but be careful! The further you go, the more ghosts will haunt you.&amp;#10;&amp;#10;When 3 meeples have been placed into a room, the ghost dice are rolled. Depending on the result the placement of the meeples players will gain ghosts tokens. Next players will take cards from the room, depending on their meeple's position.&amp;#10;&amp;#10;At the end of the game. The player with the most ghost tokens is haunted! They will gain curses equal to the number of ghosts they have collected. Players will then add up the curses from their ghosts and their item cards.&amp;#10;&amp;#10;The player with the fewest curses wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="35" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="35" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2922" value="Constrained Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2926" value="Selection Order Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64948" value="Components: Glow in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7479" value="Creatures: Ghosts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61993" value="Theme: Spooky Old Houses" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="82021" value="Jeff Chin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="82022" value="Andrew Nerger" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="147388" value="Rupert Lewis Jones" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39068" value="Road To Infamy Games (R2i Games)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="492" />
+			<average value="6.89939" />
+			<bayesaverage value="5.75618" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4616" bayesaverage="5.75618" />
+												</ranks>
+
+			<stddev value="1.28369" />
+			<median value="0" />
+			<owned value="1254" />
+			<trading value="12" />
+			<wanting value="44" />
+			<wishing value="264" />
+			<numcomments value="153" />
+			<numweights value="8" />
+			<averageweight value="1.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

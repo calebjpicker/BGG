@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2349">
+         <thumbnail>https://cf.geekdo-images.com/Qbk4zcQkcF4_8lg9ZSx7UQ__thumb/img/No4_YYwhoXp0POCgAdqcTaBrc10=/fit-in/200x150/filters:strip_icc()/pic2766482.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Qbk4zcQkcF4_8lg9ZSx7UQ__original/img/DcQro2JoVfj-Ucu1AfeuP85Mop4=/0x0/filters:format(jpeg)/pic2766482.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Inspector Higgins" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Il Commissario" />
+			    				
+				<name type="alternate" sortindex="1" value="Commissaris Speurneus" />
+			    				
+				<name type="alternate" sortindex="1" value="Fang Røverene" />
+			    				
+				<name type="alternate" sortindex="1" value="Fang røverne!" />
+			    				
+				<name type="alternate" sortindex="1" value="Inspecteur Lamalice" />
+			    				
+				<name type="alternate" sortindex="1" value="Kommissar Spürnase" />
+			    				
+				<name type="alternate" sortindex="1" value="Kommissarie Snutlund" />
+			
+						               													<description>One player plays Kommissaris Speurneus/Inspector Higgins with the goal of capturing the thief carrying the treasure and as many other thieves as possible. The remaining players play cooperatively, in turn moving any of the five thief figures as they choose. The thieves' goal is to discover which of the nine houses on the game board contains the treasure and return the treasure to the thieves' hideout. Movement is based on die rolls, with the number and type of dice rolled changing depending on the total number of players in the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1988" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="3" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder/Mystery" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2950" value="Different Dice Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="500" value="Manfred Ludwig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="976" value="Doris Plümacher" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="54" />
+			<average value="6.01852" />
+			<bayesaverage value="5.51342" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17490" bayesaverage="5.51342" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="429" bayesaverage="5.58215" />
+												</ranks>
+
+			<stddev value="1.5604" />
+			<median value="0" />
+			<owned value="151" />
+			<trading value="11" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="26" />
+			<numweights value="6" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

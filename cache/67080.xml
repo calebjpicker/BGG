@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="67080">
+         <thumbnail>https://cf.geekdo-images.com/VEsFCpGgXjVWmvUlgxTCpw__thumb/img/8RR409z0xcd7WO0iHb0lijHc4uo=/fit-in/200x150/filters:strip_icc()/pic669547.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VEsFCpGgXjVWmvUlgxTCpw__original/img/eyw8HnTQOimhXO-tQTuQoRMzdWM=/0x0/filters:format(jpeg)/pic669547.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Flume" />
+			
+						                           
+						               													<description>Flume is an extremely simple game for two players.  Start with a Go board lined with a perimeter of green stones (painted on).  The players, Red and Blue, take turns adding stones of their own color.  If you add a stone which forms 3 or 4 connections (orthogonal adjacencies) with neighboring stones of any color (red, blue or green) add another stone while it's still your turn.  And so on.  Your turn concludes when you add a stone which forms 2 or less connections with neighboring stones.  The object is to have the most stones on the board after it has been filled with stones.&amp;#10;&amp;#10;Flume gameplay is strongly related to Dots and Boxes gameplay.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="3" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2321" value="Mark Steere" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7854" value="Mark Steere Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="34" />
+			<average value="4.62941" />
+			<bayesaverage value="5.48479" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22417" bayesaverage="5.48479" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1239" bayesaverage="5.41865" />
+												</ranks>
+
+			<stddev value="1.64398" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="14" />
+			<numweights value="3" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

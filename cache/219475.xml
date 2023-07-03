@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="219475">
+         <thumbnail>https://cf.geekdo-images.com/wROIUYusbdD2Lov5cnMCNw__thumb/img/HWL8-wSYeAFltK3OfSAKhnKtIso=/fit-in/200x150/filters:strip_icc()/pic3742268.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wROIUYusbdD2Lov5cnMCNw__original/img/KZ4ikPksvug5e2zrTM0tdFtAT3U=/0x0/filters:format(jpeg)/pic3742268.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Axio" />
+			
+						                           
+						               													<description>In Axio, players take turns adding tiles to a shared playing area. Each time you play a tile &amp;mdash; with tiles bearing one or two colored symbols &amp;mdash; you score points for symbols of the same type that are in rows extending from the recently-placed tile. Tiles can be placed on other tiles in some situations.&amp;#10;&amp;#10;When the game ends, players check the scores for each of their symbols, and their final score is equal to the lowest value among them. Whichever player has the highest low score wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="5" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78564" value="Components: 13 x 13 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70711" value="Digital Implementations: Triqqy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3854" value="Game: Ingenious" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324316" value="AXIO: Duel Hexagonal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="270637" value="Axio Rota" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9674" value="Ingenious" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7496" value="Egmont Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="461" />
+			<average value="6.77731" />
+			<bayesaverage value="5.73674" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4875" bayesaverage="5.73674" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="170" bayesaverage="6.2091" />
+												</ranks>
+
+			<stddev value="1.24616" />
+			<median value="0" />
+			<owned value="792" />
+			<trading value="33" />
+			<wanting value="25" />
+			<wishing value="110" />
+			<numcomments value="123" />
+			<numweights value="14" />
+			<averageweight value="1.6429" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

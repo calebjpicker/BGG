@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="285192">
+         <thumbnail>https://cf.geekdo-images.com/oaD1ZQ3yGj6lacLdtqgdnQ__thumb/img/1mCz7HPEFMeqaqJHsDZwEUc9ftw=/fit-in/200x150/filters:strip_icc()/pic5558118.png</thumbnail>
+      <image>https://cf.geekdo-images.com/oaD1ZQ3yGj6lacLdtqgdnQ__original/img/LJXy5--WfYNypO-Xd7nhkzU5Xzs=/0x0/filters:format(png)/pic5558118.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Destinies" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cesty osudu" />
+			    				
+				<name type="alternate" sortindex="1" value="Destinos" />
+			    				
+				<name type="alternate" sortindex="1" value="In Cautarea Destinului" />
+			    				
+				<name type="alternate" sortindex="1" value="Végzetek" />
+			    				
+				<name type="alternate" sortindex="1" value="Предназначение" />
+			    				
+				<name type="alternate" sortindex="1" value="デスティニーズ" />
+			    				
+				<name type="alternate" sortindex="1" value="데스티니즈" />
+			
+						               													<description>Destinies is a competitive, story-driven, game of adventure and exploration, mixing an app and a board game.&amp;#10;&amp;#10;The first in a series of games using a brand-new system called Destinies. This game is set in a dark medieval-fantasy universe.&amp;#10;&amp;#10;The Destinies system offers a fully story-driven, app-supported, RPG-like board game experience, without the need for a game master. Each scenario depicts a part of a vivid world, full of dark stories, epic NPCs and mysteries to solve. Each player takes the role of a hero on a quest to fulfill their destiny. Each destiny is a final goal of the character and has at least two, completely different paths to victory, composed of branching series of quests. Players compete with each other to push the world towards their own destiny.&amp;#10;&amp;#10;The game uses an app and the Scan&amp;amp;Play technology to offer players a unique story-driven experience full of dynamic events, epic adventures, and an ever-changing game world. Each turn players discover new parts of the world presented on tiles, explore them and pick one point of interest to visit. There they learn more about the story and make crucial choices of how they want to interact with people, creatures or situations faced there. The consequences of each choice are meaningful and often change the state of the world forever.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="157">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="91" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="71" />
+				</results>					
+	</poll> 			               				<playingtime value="150" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="150" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="41">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="11" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="756" value="No necessary in-game text" numvotes="0" />
+					<result level="757" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="758" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="759" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="760" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77287" value="Game: Destinies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72224" value="Misc: Limited Replayability" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373547" value="Destinies: Adversity Module" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303835" value="Destinies: Bound By Fate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373548" value="Destinies: Character Traits Module" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303837" value="Destinies: Myth &amp; Folklore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303836" value="Destinies: Sea of Sand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368270" value="Destinies: Witchwood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373553" value="Destinies: Witchwood – All That Glitters Scenario Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373550" value="Destinies: Deluxe Point of Interest Flags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373551" value="Destinies: Deluxe Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="303840" value="Destinies: Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="303838" value="Destinies: Neoprene Player Mats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="303839" value="Destinies: Neoprene World Mat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94184" value="Michał Gołąb Gołębiowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="21812" value="Filip Miłuński" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119673" value="Karolina Jędrzejak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32247" value="Mateusz Komada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103553" value="Katarzyna Kosobucka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119674" value="Magdalena Leszczyńska" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49208" value="Asmodee Korea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47851" value="Gameology (Gameology Romania)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42144" value="Grimspire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34778" value="Last Level" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6959" />
+			<average value="7.7949" />
+			<bayesaverage value="7.12475" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="324" bayesaverage="7.12475" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="66" bayesaverage="7.29265" />
+												</ranks>
+
+			<stddev value="1.5277" />
+			<median value="0" />
+			<owned value="13342" />
+			<trading value="256" />
+			<wanting value="262" />
+			<wishing value="2915" />
+			<numcomments value="1349" />
+			<numweights value="193" />
+			<averageweight value="1.9119" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

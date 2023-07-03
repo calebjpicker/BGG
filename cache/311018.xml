@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="311018">
+         <thumbnail>https://cf.geekdo-images.com/F-VyT-HmQOiMbm8hwxEVWw__thumb/img/t0pw-owR1zu4xED9qmKSJR22ypE=/fit-in/200x150/filters:strip_icc()/pic5463557.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/F-VyT-HmQOiMbm8hwxEVWw__original/img/_s0oPYviyKd_NyGgJQPIDifMEvI=/0x0/filters:format(jpeg)/pic5463557.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Survive a Nightmare" />
+			
+						                           
+						               													<description>The objective of the game is to find the required items to perform a conjuring and take them to the conjuring room to win the game. The items you need to find are scattered across the map.&amp;#10;&amp;#10;In Survive a Nightmare there are two types of specters, &amp;quot;Ghosts&amp;quot; and &amp;quot;Demons&amp;quot;, if you have an encounter with a specter your panic level will increase respectively: Ghost +1 panic point, Demon +2 panic points. If your panic level reaches &amp;quot;5&amp;quot; you will suffer a panic attack and lose the game.&amp;#10;&amp;#10;Each player turn has 2 phases, &amp;quot;Player's&amp;quot; phase and &amp;quot;Specters&amp;quot; phase, on the player's phase you have 4 action points, which can be used to move your character marker to an adjacent room, search for an item (rolling a die), use an item (each one has a different effect), activate fuse boxes, use a portal or to activate the rewards track which grants you additional items.&amp;#10;&amp;#10;After ending a player's phase, the specter's phase begins. The active player will roll the die twice and resolve a spawning of specters across the rooms. When the specter's phase ends, the active player's turn ends. The game takes place by alternating turns between each player, until one player completes the conjuring and wins the game. Survive a Nightmare has a solo mode and a cooperative mode.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2965" value="Multiple Maps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="127418" value="Damian Jimenez" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127418" value="Damian Jimenez" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="8.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.08972" />
+			<median value="0" />
+			<owned value="36" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="11" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="123966">
+                                     				
+				<name type="primary" sortindex="1" value="System: The Customisable Hacker Game" />
+			
+						                           
+						               													<description>System is a Player Versus Player card game on which Player's take on the role of hackers and try to take control over their Opponent's System Cards via damaging them by battling on the plains of cyberspace with the use of Virus cards while defending from their opponent's attacks with their own anti-Virus cards.&amp;#10;&amp;#10;A Player starts with a Memory value of 0. During the start of a Player's turn they may play (upload) Anti-Virus Cards that increase a Player's Memory value while on the field and or Virus cards that decrease a Player's Memory value while active on the field. If anytime during the game, a player's Memory value is below 0, then they must send their active Virus cards from their field to the discard pile until their Memory value is restored to at least 0, if not higher.&amp;#10;&amp;#10;In addition to Anti-Virus and Virus Cards, Players may also use &amp;quot;Input&amp;quot; costs which have a Memory Cost and can be activated at anytime except the Upload Phase by returning Anti-Virus cards that have an equal or higher memory value than the costs of the input card back to the owner's hand.&amp;#10;&amp;#10;To reduce your opponent's System Points, you declare which Virus Cards you choose to attack with and then the defending player may block with an Anti-Virus card (An Anti-Virus card may block any number of Virus Cards but if it's Memory Value is equal to or less than the total sum of the Virus Card's Memory Value, it is destroyed)&amp;#10;&amp;#10;If a Virus card attacks succesfully, you inflict 1 Critical Damage to your Opponent's System (ie you reduce their System Points by 1.) When an Opponent's System is reduced to 0, you win the game.&amp;#10;&amp;#10;Start-Up&amp;#10;Both Players draw 5 cards. Player who goes first may not attack.&amp;#10;&amp;#10;Phases&amp;#10;&amp;#10;    Draw &amp;ndash; Turn Player draws 1 card&amp;#10;    Upload &amp;ndash; Turn Player uploads Anti-Virus or Virus Cards. No Input Cards may be activated.&amp;#10;    System &amp;ndash; Turn Player selects which Virus cards to attack with.&amp;#10;    End &amp;ndash; Some effects may happen here.&amp;#10;&amp;#10;&amp;#10;Zones&amp;#10;&amp;#10;    Deck - Directory&amp;#10;    Discard &amp;ndash; Recycle Bin&amp;#10;    Field - Desktop&amp;#10;    Hand - Hand&amp;#10;    Removed From Play &amp;ndash; Archive&amp;#10;&amp;#10;&amp;#10;Other Terminology&amp;#10;&amp;#10;    Card Collective (on table) - Program&amp;#10;    Card Collective (off table) - File&amp;#10;    Counter - Cancel&amp;#10;    Destroy - Terminate&amp;#10;    Discard - Delete&amp;#10;    Effect - Process&amp;#10;    Player - Host&amp;#10;    Return - Buffer&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="772" value="(Looking for a publisher)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

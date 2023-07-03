@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="332866">
+         <thumbnail>https://cf.geekdo-images.com/jkG5Z_w3wi8RHW3vCVuEhA__thumb/img/gj_njCm685zwsR3OS9EvF1eOSIs=/fit-in/200x150/filters:strip_icc()/pic6022230.png</thumbnail>
+      <image>https://cf.geekdo-images.com/jkG5Z_w3wi8RHW3vCVuEhA__original/img/4jb2mlox8jU_LUFYan9Eo9yRy1o=/0x0/filters:format(png)/pic6022230.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="ViceVersi" />
+			
+						                           
+						               													<description>ViceVersi is an abstract strategy game for 2 players. You can play it immediately if you have Othello/Reversi.&amp;#10;&amp;#10;As setup, arrange 64 double faced disks as the checkers pattern (as the diagram above). The object is to connect all your color orthogonally on the board.&amp;#10;&amp;#10;GAMEPLAY&amp;#10;At first, white choose a disk facing black color up and flip it over.&amp;#10;Then black takes turn and from then on, players alternate turns taking one of two action below.&amp;#10;&amp;#10;(1. Choose a pair of disks with opponent&amp;rsquo;s color facing up that are orthogonally sandwiching one of your color disk or an unbroken line of your color disks, flip them over to friendly color. You may not divide an opponent&amp;rsquo;s group to two or more groups by this action, unless it makes your winning condition.&amp;#10;&amp;#10;(2. Choose a disk with your color facing up, flip it over to opponent&amp;rsquo;s color. It is required the target disk is not a part of your largest group, and adjacent the largest group of opponent&amp;rsquo;s color.&amp;#10;&amp;#10;If both players achieve the winning condition simultaneously, the turn player wins.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="0" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="130246" value="Kanare Kato" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50098" value="Kanare_Abstract" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

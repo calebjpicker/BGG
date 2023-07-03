@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="357210">
+         <thumbnail>https://cf.geekdo-images.com/oBkXI_RoOldS7T3qbsAHVg__thumb/img/bB8xhLiZilHJcfJz28jOsMopL_8=/fit-in/200x150/filters:strip_icc()/pic2507369.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/oBkXI_RoOldS7T3qbsAHVg__original/img/jGVo-iLaPgc-aOTpnEHnFKD_i9w=/0x0/filters:format(jpeg)/pic2507369.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lasca &amp; Caos" />
+			
+						                           
+						               													<description>Argentinian compilation of Laska and Chaos.&amp;#10;&amp;#10;&amp;#10;World Chess Champion Emanuel Lasker developed Laska (a.k.a. Lasca), a variant of the Checkers Family, in 1911. The game board and play resembles that of Checkers, but captured pieces remain on the board and can possibly be freed later in the game.&amp;#10;&amp;#10;Each player starts the game on the 7x7 board with eleven soldiers. On a turn, a player moves one soldier diagonally forward one space. If a capture is available, then the player must make that capture, trapping the captured piece underneath the capturing one; if the newly captured piece had previously had one or more pieces underneath it, then those pieces are now free to move in future turns. If a soldier reaches the opponent's back row, it's flipped and promoted to an officer, which can move diagonally in all directions. The game continues until either a player can't move or a player has no pieces remaining on the board. In both cases, this player loses the game.&amp;#10;&amp;#10;&amp;#10;In Chaos, The object of the game is to move your six playing pieces from one side of the board to the opposite side.  The game is played by either two or four players.  The catch is that the pieces all look identical; they are identified by a colored ring on their underside only.&amp;#10;&amp;#10;On your turn, you move a piece forward, sideways or diagonally, possibly jumping over a single piece (a series of jumps is possible if the right gaps are present, as in Checkers).  When a piece reaches the far side, it is turned over to reveal its true owner.  If yours, it stays there; if not, it reverts to its indistinguishable side and its true owner must move it on his next turn.  During play, you can also challenge the ownership of a piece being moved.  The incorrect player forfeits his turn.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="5077" value="Chaos" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="6862" value="Laska" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50902" value="C.A.J.A." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

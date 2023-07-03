@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="133421">
+         <thumbnail>https://cf.geekdo-images.com/ASP2qfq7Rp5qbUmkRU9oMQ__thumb/img/-RONuRAXvL5J72syLEq2dKxjIwE=/fit-in/200x150/filters:strip_icc()/pic1609133.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ASP2qfq7Rp5qbUmkRU9oMQ__original/img/fC__08CBEdkbgiuSpIz1Qve2PDU=/0x0/filters:format(jpeg)/pic1609133.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bankraub" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bank Robbery" />
+			
+						               													<description>In Bankraub (a.k.a. &amp;quot;Bank Robbery&amp;quot;) each player is trying to get as much money as possible during a series of bank robberies.&amp;#10;&amp;#10;The center of the game board has four banks on it, each equipped with some combination of safes, guards and alarm bells &amp;ndash; and the more equipment guarding a facility, the more money you'll find inside should you be the one to crack the bank. Of course the more equipment present, the more gangsters you'll need to get past everything. For a perfect robbery, you'll want to have blueprints of the bank, a safehouse to escape to (so that you don't have to wander the city eternally like the flying Dutchman), and gangsters who are perfect for the situation: an electrician for alarms, a safecracker for safes, and one &amp;quot;gorilla&amp;quot; for each guard. Oh, and unless you want to try walking away with the loot, you'll need some method of transportation.&amp;#10;&amp;#10;Everything that players need is on the four types of cards: banks, hideouts, gangsters, and movement/action. In the first phase of the game, players draft their eleven-card hand &amp;ndash; drawing a card from one stack and discarding a different type of card &amp;ndash; until one player feels he has the perfect hand and shouts &amp;quot;Bank robbery!&amp;quot; This player is announcing that he has already robbed a bank, and now the other players need to figure out where the robbery took place and stop those thugs from getting to their hideout. (After all, if you're not getting the money, you don't want anyone else to have it either!)&amp;#10;&amp;#10;This second phase ends when the gangsters reach their safehouse or one or more opponents block them and show a stronger hand of criminals. During this phase, the bank robber receives no new cards (since he's on the run) while the other players do, giving them resources to hunt down the crooks. If two or more opponents catch the crooks, they each get 10% of the money as a reward; if only one opponent catches the crooks, she can keep the 10% or she can grab the money herself and try to make it to her hideout.&amp;#10;&amp;#10;After playing a predetermined number of bank robberies, the game ends and whoever holds the most money wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="2" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1062" value="Till Meyer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17414" value="Christian Opperer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="550" value="Spieltrieb" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="67" />
+			<average value="6.33284" />
+			<bayesaverage value="5.5243" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15120" bayesaverage="5.5243" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2465" bayesaverage="5.53356" />
+												</ranks>
+
+			<stddev value="1.54373" />
+			<median value="0" />
+			<owned value="171" />
+			<trading value="10" />
+			<wanting value="2" />
+			<wishing value="14" />
+			<numcomments value="25" />
+			<numweights value="5" />
+			<averageweight value="1.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

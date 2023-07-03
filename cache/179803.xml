@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="179803">
+         <thumbnail>https://cf.geekdo-images.com/1nK95H00UfV88m7aXSPmXA__thumb/img/U7ic5aJM0fo42OaiK8pjTGdq0ko=/fit-in/200x150/filters:strip_icc()/pic3836517.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1nK95H00UfV88m7aXSPmXA__original/img/tlLePVCNTRX_690ubGro-ZMzM3c=/0x0/filters:format(jpeg)/pic3836517.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Arcadia Quest: Inferno" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Arcadia Quest: Infierno" />
+			
+						               													<description>Inferno is a standalone expansion to Arcadia Quest. It is 100% compatible with the original base game and introduces four new Guilds: Sharks, Tigers, Crows, and Serpents.  It features new types of heroes, such as Alchemists and Gladiators.&amp;#10;&amp;#10;There is a new branching campaign system, and the storyline revolves around the guilds descending into a fiery abyss.  There are Brimstone cards that make the terrain risky to navigate, which operate similarly to the Tombstone cards from Arcadia Quest: Beyond the Grave.&amp;#10;&amp;#10;A new mechanism called &amp;quot;Damnation&amp;quot; will tempt the heroes with powerful weapons that can corrupt the characters over time or change the behavior of nearby monsters.  There are also Angels, which are allied characters for the heroes to rescue, escort or assist.  Working with the Angels can affect the branching campaign path system and even allow the player to recruit them for use in later missions.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28338" value="Game: Arcadia Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Theme: Anime / Manga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52433" value="Theme: Chibis" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204298" value="Arcadia Quest: Anvil &amp; Valma" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="366786" value="Arcadia Quest: Black Newt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189197" value="Arcadia Quest: Chaos Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189455" value="Arcadia Quest: Fire Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188447" value="Arcadia Quest: Frost Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188448" value="Arcadia Quest: Hïlda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199352" value="Arcadia Quest: Hoshi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188339" value="Arcadia Quest: Inferno – Kickstarter Exclusives" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189273" value="Arcadia Quest: Inferno – Whole Lotta Lava" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204295" value="Arcadia Quest: Mamba &amp; Rosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189261" value="Arcadia Quest: Nina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204302" value="Arcadia Quest: Pet Pack 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204303" value="Arcadia Quest: Pet Pack 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188699" value="Arcadia Quest: Pets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189262" value="Arcadia Quest: Pets – Cerby" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234069" value="Arcadia Quest: Pets – Chuck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348794" value="Arcadia Quest: Poison Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234070" value="Arcadia Quest: Princess Pearl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233917" value="Arcadia Quest: Riders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199741" value="Arcadia Quest: Steady Slingshot Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204296" value="Arcadia Quest: Viola &amp; Crash" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204299" value="Arcadia Quest: Yona &amp; Kuruk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199743" value="Cool Mini Or Not Promo Pack 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260196" value="Starcadia Quest: Showdown" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="356122" value="Arcadia Quest: Hellfire Token Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="287069" value="Arcadia Quest: Inferno – Feldherr Inlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306281" value="Arcadia Quest: Inferno – War Box Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="218687" value="Arcadia Quest: Plastic Token Pack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="155068" value="Arcadia Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="181524" value="Masmorra: Dungeons of Arcadia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="223136" value="Masmorra: Dungeons of Arcadia – Kickstarter Exclusives" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="155068" value="Arcadia Quest" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="73547" value="Thiago Aranha" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42568" value="Guilherme Goulart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1533" value="Eric M. Lang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="73548" value="Fred Perret" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26720" value="Spaghetti Western Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2287" />
+			<average value="7.90396" />
+			<bayesaverage value="6.72438" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="779" bayesaverage="6.72438" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="118" bayesaverage="7.08252" />
+												</ranks>
+
+			<stddev value="1.41039" />
+			<median value="0" />
+			<owned value="7173" />
+			<trading value="203" />
+			<wanting value="106" />
+			<wishing value="637" />
+			<numcomments value="594" />
+			<numweights value="25" />
+			<averageweight value="2.44" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

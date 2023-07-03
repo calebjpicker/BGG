@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="149867">
+                                     				
+				<name type="primary" sortindex="1" value="Activation Petteia" />
+			
+						                           
+						               													<description>This game was created for a design contest as documented here:&amp;#10;&amp;#10;http://boardgamegeek.com/article/13809424#13809424&amp;#10;&amp;#10;The game is played on an uncheckered board of 8 rows and 12 files; the game does scale though to boards of smaller size. Each player starts the game (sitting across the board from one another facing a long side of the board) with 12 stones placed in the nearest row, 10 identical pieces starting one each on all spaces except the two corners each of which is occupied by an activator. A supply of neutral colored stones and of additional pieces in the player's own color (designated white and black) are also needed.&amp;#10;&amp;#10;All stones move like rooks in chess, i.e., vertically or horizontally in an unobstructed line.&amp;#10;&amp;#10;The object is to create a situation where one has at least twice as many pieces on the board as one's opponent or where the opponent has no legal move. Draws are not possible.&amp;#10;&amp;#10;What's notable here is the use of two activator pieces based on an a notion created by designer Joe Joyce, as per the contest mentioned above. This allows captured pieces to be removed from play, converted to immobile neutral pieces or replaced by a piece of one's own color, depending on how they are captured.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4055" value="Traditional Games: Petteia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11064" value="Moshe Callen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

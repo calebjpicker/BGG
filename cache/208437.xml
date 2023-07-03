@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="208437">
+         <thumbnail>https://cf.geekdo-images.com/tkPQiXotwzVY04PIJZmNQw__thumb/img/SislOQtegENeDJ82b_qPzDEdX5w=/fit-in/200x150/filters:strip_icc()/pic3368265.png</thumbnail>
+      <image>https://cf.geekdo-images.com/tkPQiXotwzVY04PIJZmNQw__original/img/2zB6IVzcfD_zbk-seCDfI-s84dY=/0x0/filters:format(png)/pic3368265.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Morphos" />
+			
+						                           
+						               													<description>&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Introduction&amp;#10;&amp;#10;Morphos is a drawless connection game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The top and bottom edges of the board are colored black; the left and right edges are colored white.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Definitions&amp;#10;&amp;#10;To flip a stone means to replace it with a stone of the opposite color.&amp;#10;&amp;#10;A vulnerable black stone is a black stone that is part of at least one of the following two patterns or their translations, rotations or reflections:&amp;#10;&amp;#10;a) Black stone on b2 and white stones on b3, a3, a2 and b1.&amp;#10;&amp;#10;b) Black stone on b2 and white stones on a4, a3, a2, b1 and c1.&amp;#10;&amp;#10;Likewise, with colors reversed, for vulnerable white stones. In all cases, the colored edges of the board count as lines of stones of their respective colors, with a length equal to that of a normal row or column of the board. The status of any points outside those patterns is irrelevant.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Play&amp;#10;&amp;#10;Black plays first, then turns alternate. On their turn, a player must either place a stone of their color on an empty point of the board or flip a vulnerable enemy stone.&amp;#10;&amp;#10;If a player has no moves available on their turn, they must pass. Passing is otherwise not allowed. There will always be a move available to at least one of the players.&amp;#10;&amp;#10;If, at the end of a player's turn, there is a chain of orthogonally adjacent stones of their color touching the two opposite board edges of their color, that player wins. Draws are not possible.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Pie rule&amp;#10;&amp;#10;The pie rule is used in order to make the game fair. This means that White will have the option, on his first turn only, to change sides instead of making a regular move.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Variants&amp;#10;&amp;#10;The following mutators can be used (together or separately) to alter the character of the game:&amp;#10;&amp;#10;a) Both vulnerability patterns have the stone in the top left corner removed from them. This results in a game reminiscent of Crossway, but somewhat slower and free of illegal moves on empty points. All other mutators on this list work best when combined with this one.&amp;#10;&amp;#10;b) A stone that was flipped by the enemy on their latest turn still counts as a friendly stone for flipping purposes. In this case, the winning condition must be checked for a player at the start of their turn instead of at the end of it, and it's illegal to flip a stone if the opponent could flip it back on their next turn.&amp;#10;&amp;#10;c) On their turn, a player must either place up to two stones of their color on empty points or flip one vulnerable enemy stone.&amp;#10;&amp;#10;d) When a player captures (flips) a stone and there are empty points on the board, the captured stone is placed next to the board, and the opponent must place it on an empty point of the board before making a regular move.&amp;#10;&amp;#10;e) Before the start of the game, the board is filled with stones forming a checkered pattern. This results in a game very similar to Metamorphosis but without draws.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="344525" value="Morlox" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47001" value="Luis Bolaños Mures" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

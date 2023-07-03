@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="267319">
+         <thumbnail>https://cf.geekdo-images.com/p3O_MWuvpPODqPzxqWf-og__thumb/img/CT4vHKPKP7ftPuxAmUjIw7i2ezM=/fit-in/200x150/filters:strip_icc()/pic4862867.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/p3O_MWuvpPODqPzxqWf-og__original/img/GhQHUI2ALi0uoRmfa-nOr5dAmwY=/0x0/filters:format(jpeg)/pic4862867.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Roam" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Périple" />
+			    				
+				<name type="alternate" sortindex="1" value="Roam: Verloren in Arzium" />
+			    				
+				<name type="alternate" sortindex="1" value="Tu i tam" />
+			    				
+				<name type="alternate" sortindex="1" value="Zbloudilí" />
+			    				
+				<name type="alternate" sortindex="1" value="Во сне и Наяву" />
+			    				
+				<name type="alternate" sortindex="1" value="ท่องดินแดนนิทรา" />
+			    				
+				<name type="alternate" sortindex="1" value="云游" />
+			    				
+				<name type="alternate" sortindex="1" value="방랑" />
+			
+						               													<description>Welcome to Arzium, land of ancient civilizations, bizarre creatures, unexplained wonders, and vibrant characters.&amp;#10;&amp;#10;A great sleeping sickness has spread across the land, sending every type of creature to roam for hundreds of miles in a dazed, incoherent march. It's your job to seek them out and wake them from their sleepwalk, recruiting them to help you find even more lost souls!&amp;#10;&amp;#10;In Roam, you and up to three friends compete to find lost adventurers. The game includes more than fifty unique, tarot-sized adventurer cards, which feature characters from Near and Far, Above and Below, and Islebound. The opposite side of each card depicts a landscape split into six squares, and two rows of three of these cards are placed in the center of the playing area to make the board.&amp;#10;&amp;#10;Each turn, you may activate one of the adventurer cards in your party by flipping the card face down. Activating an adventurer allows you to place search tokens on the board in the shape depicted on your adventurer card. When every square on a landscape card has been searched, the player who did the most claims the card, finding the lost adventurer and adding them to their party. Each adventurer you add to your party gives you points and a new search pattern that you can use.&amp;#10;&amp;#10;When searching, you also claim coins, which can be spent to use special actions or purchase artifacts with useful powers. When one player has ten adventurers in their party, the game ends, and the player with the most points wins.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="58">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="711" value="No necessary in-game text" numvotes="7" />
+					<result level="712" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="713" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="714" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="715" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3098" value="Auction Compensation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39414" value="Setting: World of Arzium" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278820" value="Roam:  Animals Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278822" value="Roam: Gem Maps" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="300072" value="Roam: Metal Frog Coins" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11854" value="Ryan Laukat" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18617" value="Red Raven Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36210" value="Lanlalen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3439" />
+			<average value="7.32605" />
+			<bayesaverage value="6.6472" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="908" bayesaverage="6.6472" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="208" bayesaverage="6.78776" />
+												</ranks>
+
+			<stddev value="1.1081" />
+			<median value="0" />
+			<owned value="6602" />
+			<trading value="78" />
+			<wanting value="184" />
+			<wishing value="1288" />
+			<numcomments value="648" />
+			<numweights value="76" />
+			<averageweight value="1.8158" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

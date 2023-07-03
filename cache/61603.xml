@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="61603">
+         <thumbnail>https://cf.geekdo-images.com/5tJl7QP0gkPqiG_wsfTnJg__thumb/img/6eWadG7rQ2z2AE-Ri2rY6pPaJOk=/fit-in/200x150/filters:strip_icc()/pic647020.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5tJl7QP0gkPqiG_wsfTnJg__original/img/yf1cDx5tV11OQwomsHQ4TKtK8BM=/0x0/filters:format(jpeg)/pic647020.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Snakes" />
+			
+						                           
+						               													<description>Boardgame version of the well-known video-game Snake.&amp;#10;&amp;#10;Players move on the 8x8 grid game board hunting food or bonus objects and try to avoid to hit the walls and opponents' snakes. For every food they eat they grow 1 snake-piece longer. Eaten food may be use for scoring or for their special abililities.&amp;#10;&amp;#10;In his turn player:&amp;#10;1) roll 3xd8 for placing food/object on the board&amp;#10;player chooses 1xd8 as food/object and other 2xd8 for coordinates.on the game board&amp;#10;2) playing card with the food icon and number for snake moving&amp;#10;a) exchanging all these food for points (1 food = 1 point, &amp;#10;2 foods = 1+2=3 points, 3 foods = 1+2+3=6 points etc.)&amp;#10;b) moving his snake in straight direction as many squres as showed on the card.&amp;#10;&amp;#10;Game ends if player places his last snake-piece on the table in his turn and then the scoring take places. Players add 1 point for every snake-piece on the scoring track. Player with the most points is the winner.&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;     1 gameboard&amp;#10;     40 Snake-pieces in 4 colors&amp;#10;     4 scoring markers in 4 colors&amp;#10;     36 cards&amp;#10;     35 Food tiles (Mice, Rats, Rabbits, Snails, Moles, Crabs)&amp;#10;     15 Bonus object tiles marked with &amp;quot;?&amp;quot; (Magnets, Scissors, Bombs, Clues, Stones)&amp;#10;     3xd8 dice&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7509" value="Animals: Snakes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78605" value="Components: 10 x 12 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12362" value="Meelis Looveer" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="772" value="(Looking for a publisher)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="3.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.471405" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

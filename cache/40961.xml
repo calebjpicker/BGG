@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="40961">
+         <thumbnail>https://cf.geekdo-images.com/yWJr9iLY_U91iOf1sE8PGQ__thumb/img/MQBKMmNX8Vpf5p_2YWD2BB6uYgw=/fit-in/200x150/filters:strip_icc()/pic452282.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yWJr9iLY_U91iOf1sE8PGQ__original/img/urI6uf7cZ00_ydI3uMu_OA3yc0k=/0x0/filters:format(jpeg)/pic452282.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Topas" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="钻石方块 (鑽石方塊) (Topas)" />
+			
+						               													<description>A distant relative to Ingenious. There are 36 cards, each showing 1-3 gems in one of 4 different colors on each half. Players place these cards on the table, creating a pattern, and score points for matching gems on adjacent cards.&amp;#10;&amp;#10;A player always has a hand of 3 cards. On his turn, he places one on the table, adjacent to at least one other card half. He now scores points for the number of gems matching the type/color of its neighbours. Placement and scoring are limited by the fact that there may never be more than 7 gems of one kind in a continuous row.&amp;#10;&amp;#10;The game ends after 7 rounds. The player with the highest total points wins.&amp;#10;&amp;#10;An enhanced edition from Wargames Club Publishing will include a sand timer and variant rules for more tight playing.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="7" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11846" value="Barbara Spelger" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="135" />
+			<average value="5.71593" />
+			<bayesaverage value="5.5127" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17648" bayesaverage="5.5127" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="955" bayesaverage="5.54162" />
+												</ranks>
+
+			<stddev value="1.28757" />
+			<median value="0" />
+			<owned value="246" />
+			<trading value="16" />
+			<wanting value="6" />
+			<wishing value="15" />
+			<numcomments value="58" />
+			<numweights value="14" />
+			<averageweight value="1.0714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

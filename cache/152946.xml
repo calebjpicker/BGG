@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="152946">
+         <thumbnail>https://cf.geekdo-images.com/5JJQuoO_FJ6CglF1Ifsydw__thumb/img/pdP9FH85bi5yWUEiAF_5XqltL9Q=/fit-in/200x150/filters:strip_icc()/pic2949510.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5JJQuoO_FJ6CglF1Ifsydw__original/img/NNs7E1TrBhe-O1OtewSK2d39Un8=/0x0/filters:format(jpeg)/pic2949510.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Uptake" />
+			
+						                           
+						               													<description>The game uses 24 cards from a standard card deck: one red suit and one black suit, minus aces and jokers.&amp;#10; These are shuffled and dealt face-up into a 5x5 grid, the central space being left open.&amp;#10;&amp;#10;One player uses black, the other red. Turns are alternate. The goal is to capture an opponent's cards using one of yours of lower rank, until you have the highest ranked card remaining.&amp;#10;&amp;#10;Captures are only valid if they take place in the same row or column as the card you want to use, the card-to-be-captured also must be of higher rank. For example, 2black can capture 5red, but 5red cannot capture 2black (or anything below a 6). A capture is performed by placing your card on your opponent's, and removing the captured card from the field.&amp;#10;&amp;#10;When no legal moves are possible, the person with the highest ranked card remaining wins the round, and earns the point value of the card. Kings are 13 points, Queens 12, Jacks 11. For example, if 8black and 5red remain, black wins and gets 8 points. If the round ends in a tie, then the person who made the last move wins. The game continues until someone gets 30 points.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8026" value="Stephen Sniderman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="752" value="GAMES Magazine" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

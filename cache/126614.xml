@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="126614">
+         <thumbnail>https://cf.geekdo-images.com/EbvjAXWUPYl5FXFVTecNEQ__thumb/img/YlOgo_VzqMQIaTmnBv75SaIOOxY=/fit-in/200x150/filters:strip_icc()/pic1380190.png</thumbnail>
+      <image>https://cf.geekdo-images.com/EbvjAXWUPYl5FXFVTecNEQ__original/img/CgdGPSjjToXRNl3ELw0J6TfovNc=/0x0/filters:format(png)/pic1380190.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Burstsort" />
+			
+						                           
+						               													<description>Burstsort is an abstract game for two players, run in a 7x5 square board with 2 floors - a lower major borderline and an upper central field of 5x3. Both players starts with 21 pieces divided in 7 single use columns of 3 pieces each and the goal of the game is strategically move them all from the upper to the lower floor, one by one, looking forward to become the first to get just one piece left.&amp;#10;&amp;#10;Three kinds of actions are allowed:&amp;#10;1. Exit - Progress a single piece from upper to lower ground.&amp;#10;2. Move - Move a column of 1 to 3 pieces to one of the nearest spaces (one square, orthogonal and diagonal).&amp;#10;3. Merge - Merge a column with another one standing in the nearest spaces (columns are exclusive and no one can be split or have more than 3 pieces).&amp;#10;&amp;#10;What firstly seems an easy task suddenly becomes a mess, with both players trying to take profit from opponent positions, while saving the best exit spots for themselves. Once a piece reaches a lower floor position it cannot be moved and that exit spot cannot be used by the opponent.&amp;#10;&amp;#10;Wins the game the first player to have only one piece left on the upper field, however, it isn&amp;rsquo;t finish yet, as the other player needs to take the necessary moves until also finishes the game (the number of used moves is the score of the winner). The first to reach 7 or more points wins the match.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="57630" value="Ricardo Jorge Gomes" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="7.96667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.50628" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

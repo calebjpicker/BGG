@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="200886">
+         <thumbnail>https://cf.geekdo-images.com/ql-dVARS93dFv1CJ1N_QrA__thumb/img/WqSnlWkP8XeSVbi9H0flZwc03cs=/fit-in/200x150/filters:strip_icc()/pic3034628.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ql-dVARS93dFv1CJ1N_QrA__original/img/4Pi5RfKrvp1zgZs_GURn6yZvNaY=/0x0/filters:format(png)/pic3034628.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Manaforge" />
+			
+						                           
+						               													<description>Manaforge is a dice-rolling resource management game of crafting magical equipment for 2 to 4 players. Each player plays a wizard that specializes in creating magic items. These wizards cater to rich adventurers looking to trade their hard-won spoils for magical gear to make themselves more powerful. Each wizard owns a magic shop in which they display the fruits of their labor for gold-laden adventurers to come in and purchase. However, the adventurers' funds are finite. The wizards are competing to make their shops the most famous so that the adventurers will stop there first. And the best way to make a shop famous is to have the most impressive selection of useful and powerful magical gear. Whichever player's store obtains the most Prestige (victory points) will attract the customers and make the sales. May the craftiest wizard win!&amp;#10;&amp;#10;Manaforge is played over nine rounds. At the beginning of each round, six cards representing the items that can be created that round are placed on the center board. Each player rolls their own handful of dice, the symbols on which represent the types of mana that they have to spend this round. Then in player order, each player spends that mana to construct one of the items in the center, taking its card and adding it to their collection. Some cards have an instantaneous effect and are then discarded, while other cards stay in play and grant the player benefits such as additional mana each turn or the ability to turn mana into Prestige. Beware, though: time is short! Each player may create only one item each round, so a player can only ever get nine cards in total.&amp;#10;&amp;#10;A game of Manaforge takes an hour on average, depending on the number of players and their level of skill. Manaforge is intended for players ages 13 and up.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91972" value="Bryan Kline" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="91973" value="Jes Cole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82020" value="Rastislav Le" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="78940" value="Justin Lynch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32912" value="Mystic Tiger Games, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="91" />
+			<average value="7.0555" />
+			<bayesaverage value="5.56237" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10124" bayesaverage="5.56237" />
+												</ranks>
+
+			<stddev value="1.59147" />
+			<median value="0" />
+			<owned value="197" />
+			<trading value="6" />
+			<wanting value="9" />
+			<wishing value="45" />
+			<numcomments value="32" />
+			<numweights value="4" />
+			<averageweight value="2.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

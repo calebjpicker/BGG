@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="127023">
+         <thumbnail>https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__thumb/img/930_NppLsnIGUDG_W6wkdOGgKR8=/fit-in/200x150/filters:strip_icc()/pic3979527.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__original/img/kRFfkVnQRsBDcbO46TKS6PcT6aE=/0x0/filters:format(jpeg)/pic3979527.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kemet" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Кемет" />
+			
+						               													<description>In Kemet, players each deploy the troops of an Egyptian tribe and use the mystical powers of the gods of ancient Egypt &amp;ndash; along with their powerful armies &amp;ndash; to score points in glorious battles or through invasion of rich territories. A game is typically played to 8 or 10 victory points, which may be accrued through winning attacks, controlling temples, controlling fully-developed pyramids, sacrificing to the gods, and wielding particular magical powers.&amp;#10;&amp;#10;The conquest for the land of Kemet takes place over two phases: Day and Night. During the day, choose an action amongst the nine possible choices provided by your player mat and perform it immediately. Once every player has taken five actions, night falls, with players gathering Prayer Points from their temples, drawing Divine Intervention cards, and determining the turn order before the start of the new day.&amp;#10;&amp;#10;As the game progresses, they can use Prayer Points to acquire power tiles. Some of these enroll magical creatures and have them join their troops. In addition to intimidating enemies, these creatures provide special powers!&amp;#10;&amp;#10;Detailed miniature components represent the combat units and the supernatural creatures that are summoned to enhance them. Combat is resolved through cards chosen from a diminishing six-card hand and enhanced by bonuses.&amp;#10;&amp;#10;Play By Forum&amp;#10;&amp;#10;     Kemet PBF #1&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="289">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="174" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="85" />
+					<result value="Not Recommended" numvotes="136" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="44" />
+					<result value="Recommended" numvotes="169" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="155" />
+					<result value="Recommended" numvotes="85" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="151" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="129" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="54">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="25" />
+					<result value="14" numvotes="13" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="46">
+			
+		<results>		
+					<result level="671" value="No necessary in-game text" numvotes="30" />
+					<result level="672" value="Some necessary text - easily memorized or small crib sheet" numvotes="14" />
+					<result level="673" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="674" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="675" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51382" value="Game: Kemet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62771" value="Mythology: Egyptian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13265" value="Theme: Deserts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="146781" value="C3K: Creatures Crossover Cyclades/Kemet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207149" value="Kemet: Dice Tower Promo 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="190744" value="Kemet: New Power Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254543" value="Kemet: Seth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="190743" value="Kemet: Skills and Black Power Tile For Ta-Seti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="161842" value="Kemet: Ta-Seti" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330392" value="Cyclades: Hades – 7 miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="330391" value="Cyclades: The 5 creatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313477" value="Kemet: Blood and Sand Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306409" value="Kemet: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313484" value="Kemet: Green Pyramids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309586" value="Kemet: Pyramids Bag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271250" value="Kemet: Quick-Start Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="185103" value="Kemet: Storage Bags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="300203" value="Kemet: Tuck Boxes" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="297562" value="Kemet: Blood and Sand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="336849" value="Kemet: Blood and Sand – Kickstarter Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10395" value="Jacques Bariot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10393" value="Guillaume Montiage" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30958" value="Dimitri Bielak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46405" value="Émile Denis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12935" value="Nicolas Fructus" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26638" value="Bureau de Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44144" value="Buró" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40171" value="Funiverse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin' Meeple China" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18601" />
+			<average value="7.66785" />
+			<bayesaverage value="7.43028" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="137" bayesaverage="7.43028" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="111" bayesaverage="7.46656" />
+												</ranks>
+
+			<stddev value="1.33755" />
+			<median value="0" />
+			<owned value="20278" />
+			<trading value="433" />
+			<wanting value="1031" />
+			<wishing value="6396" />
+			<numcomments value="3063" />
+			<numweights value="709" />
+			<averageweight value="3.0028" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

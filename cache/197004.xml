@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="197004">
+         <thumbnail>https://cf.geekdo-images.com/7wgshAw9zbbLv9mRKWmtqg__thumb/img/ItuLpbTaAOA9R7SeOIuuM65V2oQ=/fit-in/200x150/filters:strip_icc()/pic2965496.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7wgshAw9zbbLv9mRKWmtqg__original/img/a9TrxnjLaZ_AAfJkRqW18pMQ-_M=/0x0/filters:format(jpeg)/pic2965496.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Donsol" />
+			
+						                           
+						               													<description>Donsol is a simple solitaire card game where you are tasked with exploring the rooms of a dungeon using a standard 54-card poker deck. It was designed by John Eternal for Train Jam 2015.&amp;#10;&amp;#10;Clubs, Spades, and Jokers serve as monsters, hearts as potions, and diamonds as shields. Red numbered cards possess their face value with royals and aces equaling 11. Black numbered cards also possess their face value with Jack at 11, Queen at 13, King at 15, Ace at 17, and Jokers equal to 21.&amp;#10;&amp;#10;The rooms of the dungeon are created by laying out cards in groups of four. Progress is made by playing all four dungeon cards or passing to another room when three of the four dungeon cards have been played. Four more cards are then dealt for the new room. Rooms can be reset in their entirety as many times as needed but never twice in a row.&amp;#10;&amp;#10;Shields may be equipped to defend against monsters in descending order of their value with damage being dealt to the player for monster values in excess of the equipped shield. The shield breaks if it is used to attack a monster of equal or greater value than the previous monster. Attacking a monster without a shield depletes the players health for the full attack value of the monster. Health potions may be used to increase life points up to the maximum starting value of 21. Playing a second potion in succession nullifies the effect of the second potion.&amp;#10;&amp;#10;The game ends when life points reach zero or the player has successfully slayed all monsters and exited the dungeon alive.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62001" value="Game: Scoundrel" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="90040" value="John Eternal" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="13" />
+			<average value="6.30769" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.89674" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="9" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

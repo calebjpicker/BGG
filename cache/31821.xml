@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="31821">
+         <thumbnail>https://cf.geekdo-images.com/57iumxbdKGK7QIYv9t1w8Q__thumb/img/BZl5dWlUwCytqV1wJRnxOqy5WuI=/fit-in/200x150/filters:strip_icc()/pic247290.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/57iumxbdKGK7QIYv9t1w8Q__original/img/UsolcKpZJrbuuZZa87k5CfUHfko=/0x0/filters:format(jpeg)/pic247290.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Goita" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ATIGO" />
+			    				
+				<name type="alternate" sortindex="1" value="Sankaku Goita (三角ごいた）" />
+			    				
+				<name type="alternate" sortindex="1" value="Shogi Goita" />
+			    				
+				<name type="alternate" sortindex="1" value="ごいた" />
+			
+						               													<description>&amp;#10;    Japanese chessmen cardgame&amp;#10;&amp;#10;&amp;#10;Goita is a partnership card game that blends skill and chance.  Goita is played by four players who form two pairs. Aim of the game is to collect more Victory Points (VP) more quickly than your opponents. Partners sit opposite each other at same game table. Each player receives 8 cards (as hand) which have images of Japanese Chessmen on it.&amp;#10;&amp;#10;&amp;#10;    Grimpeur/Japon Brand version&amp;#10;&amp;#10;&amp;#10;Each card is made of hard cardboard.&amp;#10;The Set also provides a 3 player battle royal variant.&amp;#10;It includes victory point markers.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1860" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67877" value="Traditional Games: Goita" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298257" value="Sankaku Goita Clear (三角ごいたクリア）" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="152961" value="Princess Wonder" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="280107" value="Kami" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28879" value="Seiemon Nunoura" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="10551" value="Kai Fujiwara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="117814" value="Yuya Hirano (ユウヤ ヒラノ)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12439" value="Noboru Sugiura" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42319" value="BREMEN Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1649" value="Grimpeur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5885" value="Japon Brand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34218" value="JuegosdeMesa.com.ar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7552" value="Kanai Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10710" value="Man-indo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14233" value="Nekomado" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13477" value="Pigphone" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="185" />
+			<average value="6.98811" />
+			<bayesaverage value="5.62609" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7019" bayesaverage="5.62609" />
+												</ranks>
+
+			<stddev value="1.52424" />
+			<median value="0" />
+			<owned value="322" />
+			<trading value="1" />
+			<wanting value="10" />
+			<wishing value="46" />
+			<numcomments value="42" />
+			<numweights value="12" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

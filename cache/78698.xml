@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="78698">
+                                     				
+				<name type="primary" sortindex="1" value="Portito" />
+			
+						                           
+						               													<description>User Summary: The game is played by rolling five dice, and setting aside aside at least one scoring dice after each role, rolling only the dice that aren't kept for as long as the player keeps scoring.  If, at any point, no dice rolled score, then all points set aside in that turn are lost, and the dice passed to the next player.  Following any roll in which at least one dice scores, the active player may 'bank' the points accumulated that turn, and pass the dice to the next player.  The next player then has the option of building on that score by rolling only the non-scoring dice, or picking up all five dice and starting from zero.  At any time, the active player may call 'portito', which has the effect of flipping all dice following the roll: 1s become 6s, 2 become 5s, etc.  The player remains 'portito' until calling 'normal', which they can only do when the dice are in their possession (so you remain 'portito' while the dice go round the players).  The game continues until one player exactly reaches some pre-determined target score: 5000 or 10000 is common.&amp;#10;&amp;#10;Scoring dice within each roll are as follows:&amp;#10;1 = 100 points&amp;#10;5 = 50 points&amp;#10;3 of a kind = dice score * 100&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

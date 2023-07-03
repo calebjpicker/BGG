@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="370913">
+         <thumbnail>https://cf.geekdo-images.com/JDp6QChGMYgYdZOrIztwSw__thumb/img/LkZP5TcnOQIcmGqwVcDlVaXjXy8=/fit-in/200x150/filters:strip_icc()/pic7091709.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JDp6QChGMYgYdZOrIztwSw__original/img/bF4XneSxbh6rzDG4jTULqX5hKYs=/0x0/filters:format(jpeg)/pic7091709.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Star Wars: The Clone Wars" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Star Wars: A klónok háborúja" />
+			    				
+				<name type="alternate" sortindex="1" value="Star Wars: Klonové války" />
+			    				
+				<name type="alternate" sortindex="1" value="Star Wars: Las Guerras Clon" />
+			    				
+				<name type="alternate" sortindex="1" value="Star Wars: Wojny Klonów" />
+			    				
+				<name type="alternate" sortindex="1" value="スター・ウォーズ/クローン・ウォーズ" />
+			    				
+				<name type="alternate" sortindex="1" value="스타 워즈: 클론 전쟁" />
+			    				
+				<name type="alternate" sortindex="1" value="스타워즈: 클론전쟁" />
+			
+						               													<description>Traverse a galaxy where iconic Jedi heroes utilize the familiar gameplay mechanisms of the Pandemic series in Star Wars: The Clone Wars.&amp;#10;&amp;#10;Planets under siege populate the game board as players take on the role of legendary Jedi traveling from battle to battle, teaming up and fighting off the Separatist threat. Battle droids attack on sight, and a planet invaded by too many will fall under a blockade, hindering Jedi from liberating it from the enemy or accomplishing missions.&amp;#10;&amp;#10;Players must work together to confront the onslaught of droids by moving into their spaces and engaging them in combat, utilizing dice and squad cards to deal damage and push back the threat. In between battles, players move from planet to planet, battling more droids, crushing blockades, completing missions to turn the tide of war, and facing off against iconic villains.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="56">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3430" value="Game: Pandemic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5602" value="Movies: Star Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79018" value="Versions &amp; Editions: Versions with IP after the original release" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="371995" value="Star Wars: The Clone Wars – Premium Battle Droids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="30549" value="Pandemic" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85379" value="Alexandar Ortloff" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80022" value="Atha Kanaani" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2217" />
+			<average value="7.68338" />
+			<bayesaverage value="6.61135" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="977" bayesaverage="6.61135" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="551" bayesaverage="6.73364" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="218" bayesaverage="6.75875" />
+												</ranks>
+
+			<stddev value="1.13277" />
+			<median value="0" />
+			<owned value="6309" />
+			<trading value="60" />
+			<wanting value="168" />
+			<wishing value="1279" />
+			<numcomments value="369" />
+			<numweights value="71" />
+			<averageweight value="2.0986" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

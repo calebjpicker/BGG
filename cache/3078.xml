@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3078">
+         <thumbnail>https://cf.geekdo-images.com/hMCUvvhJkLvM4ZICs4jMFQ__thumb/img/UCw6wVuLfoSFvc-fnbLz6221-Mw=/fit-in/200x150/filters:strip_icc()/pic9226.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/hMCUvvhJkLvM4ZICs4jMFQ__original/img/d9XA3rqry1-6RZj1Wc9t00Yh-7Q=/0x0/filters:format(jpeg)/pic9226.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Knockabout" />
+			
+						                           
+						               													<description>Knockabout is an abstract board game where players are trying to push the other players' pieces off the hexagonal board.  The pieces are 4-, 6-, and 8-sided dice which move in a straight line as far as the number on their top face.  Whenever a die gets hit by other pieces (friendly or otherwise), the last die to move as a result of the collision gets rerolled. Pieces knocked into the outer ring are eliminated from the game, but still can prevent future pieces from being knocked into the same spot.  The first player to knock five out of his opponent's nine pieces into the outer ring wins.&amp;#10;&amp;#10;The game is mostly a mixture of attempting to maneuver ones pieces into strong positions, gently bumping them to get high numbers, and sabotaging the opponents' positions so their pieces have more limited movement.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2001" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="1" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6363" value="Containers: Tubes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="338556" value="Knockabout / Warp 6" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1263" value="Greg Lam" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="696" value="Pair-of-Dice Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="99" />
+			<average value="6.75606" />
+			<bayesaverage value="5.56114" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10220" bayesaverage="5.56114" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="385" bayesaverage="5.82895" />
+												</ranks>
+
+			<stddev value="1.51264" />
+			<median value="0" />
+			<owned value="145" />
+			<trading value="13" />
+			<wanting value="9" />
+			<wishing value="35" />
+			<numcomments value="57" />
+			<numweights value="9" />
+			<averageweight value="2.5556" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

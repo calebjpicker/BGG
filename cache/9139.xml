@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="9139">
+         <thumbnail>https://cf.geekdo-images.com/mEQfWzxkTPNZ2l9Auxy22Q__thumb/img/IPGkPOaTD2RYgjJutwSc2SZumbw=/fit-in/200x150/filters:strip_icc()/pic804654.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mEQfWzxkTPNZ2l9Auxy22Q__original/img/thryXxsfG57i4VOX9udfmd__F5Q=/0x0/filters:format(jpeg)/pic804654.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Marco Polo Expedition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Auf den Spuren von Marco Polo" />
+			    				
+				<name type="alternate" sortindex="1" value="Marco Polo" />
+			    				
+				<name type="alternate" sortindex="1" value="On the Trail of Marco Polo" />
+			
+						               													<description>The objective of Marco Polo Expedition is to collect as much gold as possible while traveling a set path.&amp;#10;&amp;#10;Each player starts with 3 gold and a hand of cards. The cards represent 4 different types of valuable goods and caravan handlers.&amp;#10;&amp;#10;Gold is collected along the path and at the midpoint of the game and the end (when the first player reaches Kantschou and then Daidu). The player reaching Kantschou first receives 6 gold, anyone in the next space receives 5 gold, and so on down to 1 gold. After the first scoring round, all players start together again at Kantschou. The first player to reach Daidu receives 7 gold, next space 6, then 5 and so on.&amp;#10;&amp;#10;Play is by matching cards from hand to requirements in next free space (e.g. one of each good or 3 cards the same colour). Caravans tend to leap frog forward, so one player's move changes the requirements for the next. In each turn, a player may move as often as they can match from their hand. For those really stuck with a poor hand, 1 gold will move your caravan one place forward, but only so long as they aren't the leading caravan.&amp;#10;&amp;#10;At the end of each turn, the active player draws one of five face-up cards or a random card from the draw pile to replenish their hand.&amp;#10;&amp;#10;The player with the most gold at the end of the game wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="486" value="No necessary in-game text" numvotes="8" />
+					<result level="487" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="488" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="489" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="490" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1052" value="Arabian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6480" value="Animals: Camels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9470" value="Continents: Asia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13265" value="Theme: Deserts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15754" value="Michael Bayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11804" value="Joachim Krause" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="822" />
+			<average value="6.15769" />
+			<bayesaverage value="5.68832" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5595" bayesaverage="5.68832" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1550" bayesaverage="5.74167" />
+												</ranks>
+
+			<stddev value="1.24196" />
+			<median value="0" />
+			<owned value="1059" />
+			<trading value="66" />
+			<wanting value="20" />
+			<wishing value="88" />
+			<numcomments value="324" />
+			<numweights value="82" />
+			<averageweight value="1.8049" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

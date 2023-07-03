@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="117959">
+         <thumbnail>https://cf.geekdo-images.com/aQJ0HRKx2mobP0g3FCeR_Q__thumb/img/7g-l6beAu5RtsAykBhoO7kMWexc=/fit-in/200x150/filters:strip_icc()/pic1261796.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/aQJ0HRKx2mobP0g3FCeR_Q__original/img/0lvxwLBBElto13XPMisB0ZCTSkA=/0x0/filters:format(jpeg)/pic1261796.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Las Vegas" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Casino: Welcome to Fabulous Las Vegas, Nevada" />
+			    				
+				<name type="alternate" sortindex="1" value="Vegas" />
+			    				
+				<name type="alternate" sortindex="1" value="Vegas Dice Game" />
+			    				
+				<name type="alternate" sortindex="1" value="拉斯維加斯 Las Vegas" />
+			    				
+				<name type="alternate" sortindex="1" value="라스베가스" />
+			
+						               													<description>Developer Stefan Br&amp;uuml;ck at alea describes Las Vegas as &amp;quot;an easy, dice-rolling, fun-and-luck game with a lot of interaction and 'schadenfreude'&amp;quot;. Who doesn't love schadenfreude? (Well, other than those being schadened, I suppose...)&amp;#10;&amp;#10;In more detail, Las Vegas includes six cardboard casino mats, one for each side of a normal six-sided die. For each mat, players draw money cards until at least $50k is showing, but the amount may end up being a lot more, making that casino more desirable.&amp;#10;&amp;#10;Each player has eight dice of a different color, which they take turns rolling. When you roll your dice, you can choose to place them on the relevant casino cards; for example, a die showing a 1 will be placed on the casino mat marked &amp;quot;1&amp;quot;. You must place all dice of one number on one casino in your turn. All players take turns doing this until all the dice have been used. Finally, the player with the most dice on each casino card takes the money associated with it. In case of a tie, the next non-tied player takes the highest-valued money card at that casino.&amp;#10;&amp;#10;Las Vegas rates a 1 out of 10 on alea's difficulty scale.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="168">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="90" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="67" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="109" />
+					<result value="Recommended" numvotes="43" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="39">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="24" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="34" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18238" value="Cities: Las Vegas (Nevada, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79497" value="Components: Dice as Playing Units" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59" value="Series: Alea Medium Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178656" value="Brettspiel Adventskalender 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149975" value="Las Vegas Boulevard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189199" value="Las Vegas: The Slot Machine" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="269476" value="拉斯維加斯 Las Vegas" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="271319" value="Las Vegas Royale" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="209886" value="Las Vegas: The Card Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="381" value="Rüdiger Dorn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53324" value="Markus Schmuck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21152" value="Mia Steingräber" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9" value="alea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6011" value="Oya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46567" value="VAKKO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10835" />
+			<average value="7.15539" />
+			<bayesaverage value="6.88683" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="571" bayesaverage="6.88683" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="130" bayesaverage="6.95993" />
+												</ranks>
+
+			<stddev value="1.22541" />
+			<median value="0" />
+			<owned value="13368" />
+			<trading value="149" />
+			<wanting value="343" />
+			<wishing value="1333" />
+			<numcomments value="2080" />
+			<numweights value="429" />
+			<averageweight value="1.1772" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

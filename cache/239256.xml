@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="239256">
+         <thumbnail>https://cf.geekdo-images.com/JoSUQ2CByg2NPCR-7azmzw__thumb/img/jmR0tsoL0W0CyLPpDMc32DUN-m8=/fit-in/200x150/filters:strip_icc()/pic3837369.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JoSUQ2CByg2NPCR-7azmzw__original/img/bigYhOpI7PxSpdQDeuWq5-o4c-I=/0x0/filters:format(jpeg)/pic3837369.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Alone in the Desert: a solitaire expansion for Armageddon War" />
+			
+						                           
+						               													<description>The expansion includes rules for playing Armageddon War solitaire, six solitaire scenarios in a loose campaign, counters and cards.&amp;#10;&amp;#10;Each hex of enemy units in a solitaire scenario will have a &amp;ldquo;stance&amp;rdquo; counter, &amp;ldquo;aggressive&amp;rdquo;, &amp;ldquo;cautious&amp;rdquo; or &amp;ldquo;defensive&amp;rdquo;. When an enemy formation activates, each hex of units will draw a card and act according to the keywords on the card. These are shorthand and more fully delineated in the solitaire rules, but you can get a feel for them from the card. For instance, &amp;ldquo;Close(2)&amp;rdquo; means close 2 hexes with the nearest appropriate enemy unit (if &amp;ldquo;close&amp;rdquo; is in gold you close with armor, red is infantry). &amp;ldquo;Cover&amp;rdquo; would mean movement that utilizes available cover instead of open terrain, and the way you would decide is covered in the rules. Fire would be at the appropriate armor or infantry target, and so on.&amp;#10;&amp;#10;On the player turn, the player draws a card each time a unit declares a movement, to see if an AI unit declares opportunity fire, and when that opportunity fire happens. For instance, &amp;ldquo;Strongest(1)&amp;rdquo; would mean that of all the AI units which can see your unit after it moves 1 hex, the strongest one able to opportunity fire does so. Tie-breaker situations are covered in the rules to determine who does it. For instance &amp;ldquo;Strongest(1)&amp;rdquo; would have a tie-breaker of &amp;quot;Color-Closest&amp;quot;, so if two possible Opfire units had the same firepower, you would check to see if one had the same color firepower as the defense type (armor vs. armor, infantry vs. infantry), and if still tied, then the closer of the two would make the attack.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1069" value="Modern Warfare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61989" value="Players: Expansions Adding Solo Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59608" value="Region: Middle East" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225759" value="Armageddon War: Platoon Level Combat in the End War" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2343" value="Mark H. Walker" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2343" value="Mark H. Walker" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28732" value="Flying Pig Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="29" />
+			<average value="8.32759" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.943543" />
+			<median value="0" />
+			<owned value="205" />
+			<trading value="4" />
+			<wanting value="16" />
+			<wishing value="39" />
+			<numcomments value="20" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

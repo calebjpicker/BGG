@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="319262">
+         <thumbnail>https://cf.geekdo-images.com/eCvmsYs0nRW37DianO7glA__thumb/img/aRtxMFSaAyf-0a72Xv2l7v4dXAM=/fit-in/200x150/filters:strip_icc()/pic5695047.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/eCvmsYs0nRW37DianO7glA__original/img/CnU3ndFkbThi52MVRvaoojCMFlo=/0x0/filters:format(jpeg)/pic5695047.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="DNGN" />
+			
+						                           
+						               													<description>DNGN is a solitaire print and play euro-inspired dungeon crawler with a minimalist style and a branching campaign.&amp;#10;&amp;#10;The player assigns cubes to Action Slots on Skill and Equipment cards each turn, determining the Actions they want to take. Each card has three Action Slots, but they must be filled from left to right on each card. Some Action Slots are Exhausting, and will make the cube assigned to them unavailable next turn, and others can only be activated by special Mana Cubes which must first be gained with another Action. Once cubes have been assigned, a Behaviour card is drawn, describing what Monsters will do turn. Only once this is revealed does the Player take her Actions, which may not now be the most efficient choices.&amp;#10;&amp;#10;After the Player has performed her Actions, Monsters resolve their Behaviours according to fixed rules, with four different AI types for different types of Monsters, and unique monster behaviours leading to them behaving in very varied ways.&amp;#10;&amp;#10;Monsters are represented on the map by tokens with minimalist shapes, and a Mission Card shows which shape represents which Monster. The details of each Monster are on a Monster Card, which shows their attributes and special behaviours.&amp;#10;&amp;#10;At the end of each turn, a timer ticks down, and when it hits zero it resets, but the Player must lose one Stamina cube for the rest of the Mission, a constant fatigue effect that pushes you on and makes Missions harder as they go on.&amp;#10;&amp;#10;At the end of each Mission, the reverse of the Mission card will branch the story depending on whether you succeeded or failed, and sometimes a decision you have to make. There are 18 Mission Cards, but in any one campaign you'll play about 10, so there is high replay value. Every time you succeed in a Mission you'll get a chance to upgrade your Character in a way of your choice, allowing you to customise as you improve.&amp;#10;&amp;#10;DNGN was first released in the BGG 2020 Solitaire Print and Play Contest.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2965" value="Multiple Maps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2844" value="Order Counters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2964" value="Pieces as Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="122188" value="Barny Skinner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18" />
+			<average value="7.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.34371" />
+			<median value="0" />
+			<owned value="40" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="36" />
+			<numcomments value="14" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

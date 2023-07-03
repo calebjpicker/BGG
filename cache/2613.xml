@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2613">
+         <thumbnail>https://cf.geekdo-images.com/2lRhAjih7e5KhhFASvUWiQ__thumb/img/KT4ENXn9Dg8FJxbjiYNhAC8prBI=/fit-in/200x150/filters:strip_icc()/pic69228.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2lRhAjih7e5KhhFASvUWiQ__original/img/OXpJwrX48JFKSuaFMVk3no0fx9s=/0x0/filters:format(jpeg)/pic69228.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Intruder" />
+			
+						                           
+						               													<description>&amp;quot;IT'S LOOSE!!!&amp;quot;&amp;#10;&amp;quot;Lab, this is command. WHAT'S loose?&amp;quot;&amp;#10;&amp;quot;It broke out of the lab! It killed Jones!&amp;quot;&amp;#10;&amp;quot;What is it? WHAT killed Jones?&amp;quot;&amp;#10;&amp;quot;I don't know, but it's headed your way!&amp;quot;&amp;#10;&amp;#10;The Intruder is an alien being of unknown power. During the course of the game the Intruder will move through the space station as both the hunter and the hunted. One or more players must cope with a monster that moves rapidly and changes continuously as it undergoes metamorphosis into a more powerful being, and possibly divides into two or more clones.&amp;#10;&amp;#10;The game includes 54 multi-color die-cut playing pieces representing the crew and their weapons, lab animals (which confuse the search) and the Intruder. The playing map shows in detail the interior of deep space station 'Prometheus'. The map also contains special charts to record the development of the Intruder.&amp;#10;&amp;#10;Intruder is an exciting game of terror and suspense for one, two, or more players.&amp;#10;&amp;#10;Task Force Games Pocket Game #6&amp;#10;&amp;#10;Reimplemented as Hidden Intruder -- same design but with improved graphics and modern manufacturing methods.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1980" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21630" value="Series: Pocket Games (Task Force Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="137637" value="Hidden Intruder" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="721" value="B. Dennis Sustare" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13288" value="Alvin Belflower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1247" value="R. Vance Buck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="675" value="Stephen V. Cole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1498" value="Allen D. Eldridge" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="352" value="Task Force Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="268" />
+			<average value="6.70004" />
+			<bayesaverage value="5.63221" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6829" bayesaverage="5.63221" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1136" bayesaverage="6.07171" />
+											<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="956" bayesaverage="5.7515" />
+												</ranks>
+
+			<stddev value="1.52402" />
+			<median value="0" />
+			<owned value="734" />
+			<trading value="35" />
+			<wanting value="41" />
+			<wishing value="180" />
+			<numcomments value="175" />
+			<numweights value="38" />
+			<averageweight value="1.8947" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

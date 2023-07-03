@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="172340">
+         <thumbnail>https://cf.geekdo-images.com/78jMAFWzJkRB9L2eLPtmEg__thumb/img/gI9NTry916lKCT2QXtfJIo7N030=/fit-in/200x150/filters:strip_icc()/pic2394900.png</thumbnail>
+      <image>https://cf.geekdo-images.com/78jMAFWzJkRB9L2eLPtmEg__original/img/N5pTfgMdFGGCiH7kl6PcSzuZUeI=/0x0/filters:format(png)/pic2394900.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Card City Nights" />
+			
+						                           
+						               													<description>A simple TCG game with an interesting mechanic about the disposition of card in a 3x3 grid (resembling Tic-Tac-Toe)&amp;#10;&amp;#10;There are 4 types of cards: attack (red sword icon), defend (blue shield icon), revitalization (green cross icon) and neutral (yellow circle icon). Also, the cards may have arrows in one or more 8-way directions (up, diagonal up-right, right, diagonal down-right...) Each player starts with a 3x3 grid, 10 points of life and a deck of 25-40 cards. With the flip of a coin is decided the order of playing, at the first turn you must draw 5 cards and play 1 card, for the rest of the match you must have 5 cards in your hand (except when you have 0 cards on your deck)&amp;#10;&amp;#10;The purpouse of the game is to combine at least 2 cards to produce a combination of at least 3 symbols. To combine the cards you must put them in the 3x3 grids and achieve to match the arrows (for example, a card in the second row and second column with an up arrow matches with a card with a down arrow that is in the first row and second column). The effect is determined by the greatest symbol value (except neutral, that haves no effect), in case of draw (for example, 2 sword and 2 crosses) the player chooses what effect it should be. Attack effect (sword) deducts 1 point of defence from the life of the opponent for each sword in the combination OR you can disable a card in the rival's 3x3 grid. Defence adds to the player 1 point of life for each shield in the combination. Revitalization can undisable 1 card in your grid.&amp;#10;&amp;#10;There are 2 ways to win the game: by reducing the rival's life to 0 OR when the rival have cards in the hand and cannot play a card (the grid is filled with 9 cards that cannot combine in this turn) It should be noted that when a player haves 0 cards in its deck, losses 1 point of life at the start of his turn.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="1" />
+						               				<maxplaytime value="10" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14291" value="Ludosity Interactive" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="6.7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.32594" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="6" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

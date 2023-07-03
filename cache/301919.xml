@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="301919">
+         <thumbnail>https://cf.geekdo-images.com/U9OFkdvdz3cKe7d48iP65Q__thumb/img/UWCsCXNVcdaTeqcJD9xp2hm76Ks=/fit-in/200x150/filters:strip_icc()/pic5483300.png</thumbnail>
+      <image>https://cf.geekdo-images.com/U9OFkdvdz3cKe7d48iP65Q__original/img/zZJwKHM4LoIBQy1_R4cFnwo-Cy0=/0x0/filters:format(png)/pic5483300.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pandemic: Hot Zone – North America" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pandemic: Zona 0 – Norteamérica" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandemic: Zona Crítica" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandemic: Zona Rossa – Nord America" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandemic: Zone Rouge – Amérique Du Nord" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandemie: Hot Zone – Nordamerika" />
+			    				
+				<name type="alternate" sortindex="1" value="パンデミック：ホットゾーン" />
+			
+						               													<description>Disease threatens North America and only you can stop it! In Pandemic: Hot Zone &amp;ndash; North America, players work together against the game to discover cures for three deadly diseases that threaten the continent. Travel to different North American cities to treat local populations, prevent outbreaks, and share research with your team. Can you discover the cures before it's too late?&amp;#10;&amp;#10;Hot Zone &amp;ndash; North America is a shorter, more portable version of the best-selling cooperative game Pandemic.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="45">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="516" value="No necessary in-game text" numvotes="0" />
+					<result level="517" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="518" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="519" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="520" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2145" value="Medical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61646" value="Continents: North America" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3430" value="Game: Pandemic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61854" value="Medical: Diseases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63525" value="Occupation: Researcher / Scientist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66167" value="Theme: Science" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="329670" value="Pandemic: Hot Zone – Europe" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="30549" value="Pandemic" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="378" value="Matt Leacock" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1836" />
+			<average value="7.04065" />
+			<bayesaverage value="6.22017" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1861" bayesaverage="6.22017" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="518" bayesaverage="6.35115" />
+												</ranks>
+
+			<stddev value="1.24636" />
+			<median value="0" />
+			<owned value="6146" />
+			<trading value="176" />
+			<wanting value="28" />
+			<wishing value="324" />
+			<numcomments value="468" />
+			<numweights value="45" />
+			<averageweight value="1.8444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

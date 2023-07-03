@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="309110">
+         <thumbnail>https://cf.geekdo-images.com/_Zj858ai-PlnbTjXnzZBfg__thumb/img/0c_SBrgtsGmY__zKaDDyBqAI9Zw=/fit-in/200x150/filters:strip_icc()/pic5425050.png</thumbnail>
+      <image>https://cf.geekdo-images.com/_Zj858ai-PlnbTjXnzZBfg__original/img/jjn9pstYb6f0Pow5Qoj8LSoHHfo=/0x0/filters:format(png)/pic5425050.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Food Chain Island" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Isla Animal" />
+			    				
+				<name type="alternate" sortindex="1" value="L&#039;Île des Prédateurs" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Schmatzinsel" />
+			
+						               													<description>On this forgotten island in a tiny corner of the ocean the animals are hungry! Your goal is to influence the wildlife - and arrange their meals - so there is only one animal left!&amp;#10;&amp;#10;In this game, you will take as many turns as possible with a goal of only having one land animal card left on the table after starting with a grid of 16. On each turn, you must move one animal to eat another smaller, adjacent animal. If you cannot move an animal to eat another, the game ends.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66271" value="Game: Food Chain Island" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73392" value="Players: Solitaire Only Card Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66185" value="Series: Simply Solo Games (Button Shy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27795" value="Series: Wallet Games (Button Shy)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367057" value="Food Chain Island: Expansion Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320857" value="Food Chain Island: Friendly Waters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="344762" value="Food Chain Island: Legendary Creatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="323314" value="Food Chain Island: Lost Beasts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320856" value="Food Chain Island: Tough Skies" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367060" value="Food Chain Island: Expansion Collection – Wallet" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="43431" value="Scott Almes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127387" value="Annie Wilkinson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26991" value="Button Shy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40599" value="Salt &amp; Pepper Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2021" />
+			<average value="7.25683" />
+			<bayesaverage value="6.36938" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1445" bayesaverage="6.36938" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="775" bayesaverage="6.4852" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="373" bayesaverage="6.51741" />
+												</ranks>
+
+			<stddev value="1.07196" />
+			<median value="0" />
+			<owned value="5265" />
+			<trading value="42" />
+			<wanting value="75" />
+			<wishing value="555" />
+			<numcomments value="506" />
+			<numweights value="66" />
+			<averageweight value="1.3485" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

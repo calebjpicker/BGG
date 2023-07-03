@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="19914">
+         <thumbnail>https://cf.geekdo-images.com/BwzD_4RmsOdqAG-f5400uA__thumb/img/bOVrACDuSAiVDQoQ1gk4Mbv66-w=/fit-in/200x150/filters:strip_icc()/pic94904.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/BwzD_4RmsOdqAG-f5400uA__original/img/67Vf6sOxevl_2jAZbiIHnD4FS1E=/0x0/filters:format(jpeg)/pic94904.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hexxagon" />
+			
+						                           
+						               													<description>Two players attempt to control the majority of spaces on a customizable board by spreading, jumping and infecting. Spreading involves adding a new piece adjacent to an existing one. Jumping means moving a piece two spaces away. Whenever a piece is placed adjacent to opposing pieces these are infected, meaning replaced with friendly ones. Hexxagon is an adaptation of the game Ataxx for a hexagonal grid instead of a square grid board. Like Ataxx, it has only been published as computer software.&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     Gamerz (turn-based, play by email or play by web)&amp;#10;     Yucata (turn-based)&amp;#10;     Vying Games (turn-based, featuring 2 or 3 players, and random blocks)&amp;#10;     http://www.iggamecenter.com/ - igGameCenter (real-time, 2-3 players)&amp;#10;     SkillGamesBoard (cross-platform, real-time play, human opponents, bots, turn-based for registered users)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1992" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="91313" value="Ataxx" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6023" value="Jason Blochowiak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6022" value="Abraham Edlin" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4586" value="Argo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4587" value="Software Creations Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25685" value="Taş Devrı Oyuncak" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="140" />
+			<average value="5.38821" />
+			<bayesaverage value="5.48909" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21976" bayesaverage="5.48909" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1213" bayesaverage="5.43576" />
+												</ranks>
+
+			<stddev value="1.63629" />
+			<median value="0" />
+			<owned value="25" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="45" />
+			<numweights value="14" />
+			<averageweight value="1.9286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

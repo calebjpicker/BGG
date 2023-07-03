@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="303734">
+         <thumbnail>https://cf.geekdo-images.com/biKFNvY_Lqq4yFJzajrK2g__thumb/img/yNtYjZEVTnBJrnwpAvCI6Ch4yrY=/fit-in/200x150/filters:strip_icc()/pic5269974.png</thumbnail>
+      <image>https://cf.geekdo-images.com/biKFNvY_Lqq4yFJzajrK2g__original/img/r9ZUBTbk3kz9RuJ9ITcj1apNe1Y=/0x0/filters:format(png)/pic5269974.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Golems" />
+			
+						                           
+						               													<description>In Golems, you will need to collect resources and summon Golems to score victory points while trying not to be anticipated by your opponent.&amp;#10;&amp;#10;You will take alternating turns. During each turn you collect cards from the grid by using your Gems and choosing how to use the collected cards to maximize your strategy.&amp;#10;There are 3 types of cards: Golem cards, Gem cards, Rune cards.&amp;#10;&amp;#10;To pick a card from a row that contains 3 cards, place a Gem from your reserve on each of the 2 undesired cards and then take the card.&amp;#10;To pick a card from a row that contains 2 cards, move the Gem from the desired card to the undesired card.&amp;#10;To pick the last card of a row, collect the Gems and then take the card. Immediately refill the row with 3 new cards from the deck.&amp;#10;&amp;#10;During your turn:&amp;#10;- You may use a Golem card as a resource by placing the card upside down in front of you. &amp;#10;- You may summon a Golem if you have all the resources needed to do this, by placing the card face-up next to your resource cards and by discarding 1 to 3 cards with the matching resources of the Golem you want to summon. Tuck the cards under the summoned Golem. These resources cannot be used anymore, but each card will score 1 point at the end of the game.&amp;#10;&amp;#10;- You may use a Rune card as a resource.&amp;#10;- You may take a Rune card in hand and use it to score additional points, but only if you have at least 3 Gems in your reserve and pay 1 Gem to the supply.&amp;#10;&amp;#10;- You may take a Gem card in hand to gain the bonus shown on the card.&amp;#10;- You may take a Gem card to gain set-collection points by placing the card face-down next to your Rune cards and creating Gem dust.&amp;#10;&amp;#10;The game ends when you are not able to refill a row with new cards. &amp;#10;Score 2 points for every summoned Golem, 1 point for every card under your summoned Golems, additional victory points for your collected Gem dust symbols, and additional points depending on your Rune cards in hand.&amp;#10;Whoever has the most points, wins. In the case of a tie, whoever collected the most points for their summoned Golems wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="2" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59656" value="Series: The Matchbox Collection (Thundergryph)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335524" value="Golems: Golem Runes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="334370" value="Golems: Sound and Time" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="277034" value="Xi'an Prestige" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="103305" value="Francesco Testini" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98973" value="Sergio Chaves" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32922" value="ThunderGryph Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="263" />
+			<average value="6.41438" />
+			<bayesaverage value="5.60428" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7783" bayesaverage="5.60428" />
+												</ranks>
+
+			<stddev value="1.41958" />
+			<median value="0" />
+			<owned value="1506" />
+			<trading value="45" />
+			<wanting value="5" />
+			<wishing value="44" />
+			<numcomments value="114" />
+			<numweights value="12" />
+			<averageweight value="1.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

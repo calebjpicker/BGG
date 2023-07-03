@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="29796">
+         <thumbnail>https://cf.geekdo-images.com/gm51xpBxfVQLuy8u3wk0kw__thumb/img/u7us88csH0xB360pXrrZuMhntQE=/fit-in/200x150/filters:strip_icc()/pic432110.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gm51xpBxfVQLuy8u3wk0kw__original/img/6MQS2YCdzVs-GhwD91iGkvzv2cs=/0x0/filters:format(jpeg)/pic432110.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rush" />
+			
+						                           
+						               													<description>Rush is a territory game played with a Go set.  Players take turns adding their own stones.  Players cannot add a stone which is horizontally adjacent to two or more stones, if all of the connecting stones are the same color as the added stone.  If a player adds a stone which forms two or more connections, he must add another stone during his turn, and keep adding stones during his turn until his most recent stone connects to one or less stones, concluding his turn.  The object is to have the majority of stones on the board when the board fills up.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="2" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2321" value="Mark Steere" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7854" value="Mark Steere Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="4.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.54919" />
+			<median value="0" />
+			<owned value="15" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="6" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

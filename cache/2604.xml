@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2604">
+         <thumbnail>https://cf.geekdo-images.com/zYE_qfgGOPHH9cKY_OY4fA__thumb/img/xnzLetqYVIbyjxPg_z8hKPOLN-I=/fit-in/200x150/filters:strip_icc()/pic336536.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zYE_qfgGOPHH9cKY_OY4fA__original/img/qRhdEbCImyQ58jXg3d96JWdHEoc=/0x0/filters:format(jpeg)/pic336536.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Compatibility" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="天生絕配" />
+			
+						               													<description>Play is in teams of two. Each person has a deck of picture cards. Each deck has the same set of pictures. There is also a deck of word cards with words like &amp;quot;marriage&amp;quot;, &amp;quot;de facto&amp;quot;, and &amp;quot;pimple&amp;quot;.&amp;#10;&amp;#10;A word is chosen and each player chooses 2-5 cards from his/her deck. Teams score points for choosing the same pictures, and score extra points for putting the pictures in the same order (from most to least important).&amp;#10;&amp;#10;The board is used to keep track of the score, and to dictate how many pictures a team may select. First team to the end wins.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Compatibility 15th Anniversary Edition&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1996" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="126" value="No necessary in-game text" numvotes="1" />
+					<result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="130" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="130053" value="Compatibility 15th Anniversary Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10102" value="Craig Browne (I)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="52070" value="Stivo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28207" value="Alexandra Violet" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="792" value="Crown &amp; Andrews Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="117" value="International Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12047" value="Oliphante" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1270" />
+			<average value="6.56292" />
+			<bayesaverage value="5.8879" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3425" bayesaverage="5.8879" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="205" bayesaverage="6.18143" />
+												</ranks>
+
+			<stddev value="1.43475" />
+			<median value="0" />
+			<owned value="1844" />
+			<trading value="66" />
+			<wanting value="45" />
+			<wishing value="248" />
+			<numcomments value="379" />
+			<numweights value="71" />
+			<averageweight value="1.1127" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

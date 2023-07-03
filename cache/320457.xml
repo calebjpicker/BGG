@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="320457">
+         <thumbnail>https://cf.geekdo-images.com/doHQ-Wh8qlylKlqaspWVdQ__thumb/img/57h3UBJ2VuKpTiO4xyN9u_EZb2Q=/fit-in/200x150/filters:strip_icc()/pic5691871.png</thumbnail>
+      <image>https://cf.geekdo-images.com/doHQ-Wh8qlylKlqaspWVdQ__original/img/ZY-pkNW4W6IqgZKZyhn1tP52vuw=/0x0/filters:format(png)/pic5691871.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dyad" />
+			
+						                           
+						               													<description>A traditional deck trick-taking game that is rare for its use of playing paired cards rather than a single card at a time.&amp;#10;The game uses values 2-7 in a 2 or 3 player game, 2-9 in a 4 player game.&amp;#10;&amp;#10;Lead Pairs consist of&amp;#10;A matched pair: Two cards sharing a suit - totaled and requiring others to follow suit.&amp;#10;An unmatched pair: Two cards that have different suits - totaled but not requiring others to follow suit.&amp;#10;&amp;#10;Following Pairs consist of&amp;#10;&amp;#10;A matched pair: Same as above.&amp;#10;&amp;#10;An unmatched pair following an unmatched pair: cards are totaled.&amp;#10;&amp;#10;An unmatched pair following a matched pair: the lowest card is considered the total.&amp;#10;&amp;#10;A double - An unmatched pair containing a 2, following a matched pair. The higher valued card is doubled.&amp;#10;&amp;#10;The highest total takes the trick; the player who takes the trick retrieves an opponent's card played to the trick and leads the next trick.&amp;#10;&amp;#10;After a number of tricks (4 in a 3 or 4 player game; 6 in a 2 player game) players total the cards remaining in their hands. This is their score for the round.&amp;#10;&amp;#10;At the end of the round in which any player has scored at least 50 points, the highest score wins. If tied, the tied player with the highest score in the last round wins the game.&amp;#10;&amp;#10;&amp;#10;Dyad plays with a number of variants:&amp;#10;&amp;#10;Cipher - (Usually with 3 or 4 players) A player may choose to cipher prior to the start of a phase. If that player takes 0 points, the player scores 20 points.&amp;#10;&amp;#10;2's - If a player ends the round with a 2 and any other card, the 2 is subtracted from the score, but having a sole 2 at the end of the round scores 20 points.&amp;#10;&amp;#10;Teams - (4 players) Players on a team sit across from one another. Teamed players pass 2 cards to each other prior to the start of the phase. Teams play to score 100 points.&amp;#10;&amp;#10;The game generally includes themed decks where themes include new variants.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="342824" value="Traders of Cardonia" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="38058" value="Iffix Y. Santaph" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37850" value="Wooden Robot Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

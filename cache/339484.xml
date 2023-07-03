@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="339484">
+         <thumbnail>https://cf.geekdo-images.com/D7UzjghUmmKWXiiGt3rUcA__thumb/img/Y24B-tNoz7UvzbpPit7J3QORZPg=/fit-in/200x150/filters:strip_icc()/pic6202222.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/D7UzjghUmmKWXiiGt3rUcA__original/img/slTwvhxSaiasMT3wQswcpDGTtE0=/0x0/filters:format(jpeg)/pic6202222.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Savannah Park" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Park Sawanna" />
+			    				
+				<name type="alternate" sortindex="1" value="Sabana Park" />
+			    				
+				<name type="alternate" sortindex="1" value="サバンナパーク" />
+			    				
+				<name type="alternate" sortindex="1" value="薩凡納公園" />
+			    				
+				<name type="alternate" sortindex="1" value="사바나 파크" />
+			
+						               													<description>In Savannah Park, you each run your own wildlife park, and your goal is to group animals with their own kind &amp;mdash; but everyone takes turns deciding what to move, so you might not be able to shuffle animals into the right spaces.&amp;#10;&amp;#10;Each player starts the game with the same set of 33 unique animal tiles, with those tiles laid out at random in your personal wildlife park. Three bush-fire spaces and one rock space will remain unoccupied in your park for the entire game, and six tree spaces and four grass spaces are unoccupied at the start of play.&amp;#10;&amp;#10;On a turn, you name a specific face-up tile that all players must pick up, flip face down, then move to a different empty space within their own park. Tiles that have been flipped cannot move again, and once all tiles have moved, the game ends with a scoring round. First, tiles adjacent to bush fires are removed if they depict as many animals as the number of fires (1, 2, or 3) on the bush-fire space. Score for each grass and tree uncovered on your board. Finally, score for each of the six animal species; the bigger the main herd of each of species and the more water holes it contains, the more points you score, e.g. a herd of five rhinos and three watering holes is worth (5x3) 15 points. The player with the most points wins.&amp;#10;&amp;#10;Savannah Park includes a solo mode, a set-up variant that allows you to place the bush fires and trees where you wish, and a scoring variant that rewards you for bumping a lion out of the animals' way.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="326" value="No necessary in-game text" numvotes="3" />
+					<result level="327" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="328" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="329" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="330" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7576" value="Animals: Deer / Antelope" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6979" value="Animals: Elephants" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17170" value="Animals: Giraffes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19327" value="Animals: Ostriches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19030" value="Animals: Rhinoceroses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19328" value="Animals: Zebras" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27383" value="Continents: Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28767" value="Theme: Safaris" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76846" value="Theme: Zoos, Aquaria, Safari Parks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="367047" value="Caldera Park" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7" value="Wolfgang Kramer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="132529" value="Annika Heller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72037" value="Fabrice Weiss" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44712" value="Deep Print Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48779" value="Bright Eye Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30958" value="Capstone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1470" />
+			<average value="7.10843" />
+			<bayesaverage value="6.18461" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1982" bayesaverage="6.18461" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="528" bayesaverage="6.3407" />
+												</ranks>
+
+			<stddev value="1.08379" />
+			<median value="0" />
+			<owned value="2509" />
+			<trading value="54" />
+			<wanting value="87" />
+			<wishing value="578" />
+			<numcomments value="253" />
+			<numweights value="33" />
+			<averageweight value="1.7273" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

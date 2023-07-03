@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="277080">
+         <thumbnail>https://cf.geekdo-images.com/B4UHClTcbyeB9sO0t7fVIA__thumb/img/foYhIusWFaoUMw-PfaPhekLf8VA=/fit-in/200x150/filters:strip_icc()/pic5006657.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/B4UHClTcbyeB9sO0t7fVIA__original/img/x2hcmyi0LqHeL0qBVQl8XhS0cj8=/0x0/filters:format(jpeg)/pic5006657.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Titans" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tytani" />
+			    				
+				<name type="alternate" sortindex="1" value="泰坦国度" />
+			
+						               													<description>Titans is a territory control miniatures game for 1-4 players (up to 5 with an expansion).&amp;#10;&amp;#10;The game is set in a historical fantasy setting of 17th century Europe. Endless wars are taking their toll as the people fall into despair. There is no hope for an end, no prospects for a peaceful order. The faith of the people slowly burns out. Dorment Spirits of the Nations wake up from centuries-long rest, rekindling the hearts of the people and raising ancient warriors called the Titans. People, filled with extraordinary powers, standing hand-by-hand with mighty Titans, fight to reclaim Europe. That war will end it all, and a King of Kings will be chosen.&amp;#10;&amp;#10;In Titans players take roles of a king that leads an Army with a mythical Titan into Battle. There are 4 Nations to choose from, one of the European empires of that time - Polish-Lithuanian Commonwealth, Russia, Sweden, and the Ottoman Empire.&amp;#10;&amp;#10;The game revolves around a unique, yet simple Order Card Mechanics. Players will use a shared deck of Order Cards that will allow them to recruit Units, awake the Nation&amp;rsquo;s Power and move their Armies across the Game Board. Players draw a specific number of Order Cards and place them face-up for all players to see. Players also see the upcoming Order Cards so they can plan their long=term strategy.  In his turn, the active player chooses 1 of the available Order Cards and uses it's available Actions. Players will try to gain strategic positions, move their front line and attack their opponents where they are the weakest. The next player uses the same Pool of Order Cards so the active player may try to anticipate opponents movement and use that to their advantage. When there is only 1 Order Card available it's discarded, the &amp;quot;upcoming Order Cards&amp;quot; become the available pool and new Order Cards are drawn. That allows for dynamic gameplay with a lot of planning, both tactical and strategical.&amp;#10;&amp;#10;The game is divided into Rounds and the Round ends after the Order Deck is empty. After each Round players collect Victory Points for the Regions they control, so players constantly want to expand their domain. Winning Battles also bring players Victory Points so deciding when, where and how to attack is crucial as well. The player with the most Victory Points at the end of the game is the winner.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="160" />
+						               				<minplaytime value="80" />
+						               				<maxplaytime value="160" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="0" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2725" value="Pike and Shot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50153" value="Continents: Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63529" value="Country: Ottoman Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50203" value="Crowdfunding: zagramw.to" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26464" value="Theme: Alternate History" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338156" value="Titans: 5th Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368818" value="Titans: Echoes of the Past" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338155" value="Titans: Fields of Blood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368856" value="Titans: King's Emissaries" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368732" value="Titans: Monuments" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368802" value="Titans: Rain of Fire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368864" value="Titans: Spirit of War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="342854" value="Titans: The Fallen Titan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368858" value="Titans: Titans Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347839" value="Titans: King's miniature" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51428" value="Łukasz Woźniak" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81877" value="Tomasz Kalisz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="116811" value="Piotr Krężelewski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37558" value="Go On Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34778" value="Last Level" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="524" />
+			<average value="7.60011" />
+			<bayesaverage value="5.85494" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3662" bayesaverage="5.85494" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1013" bayesaverage="6.1296" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1529" bayesaverage="5.94126" />
+												</ranks>
+
+			<stddev value="1.82149" />
+			<median value="0" />
+			<owned value="886" />
+			<trading value="13" />
+			<wanting value="32" />
+			<wishing value="371" />
+			<numcomments value="136" />
+			<numweights value="26" />
+			<averageweight value="2.4615" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

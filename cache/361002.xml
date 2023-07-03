@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="361002">
+         <thumbnail>https://cf.geekdo-images.com/7I586JmkRosV8Da7ySrFtg__thumb/img/6fJQYhCWwwQzgJ1IWANug7OAPyY=/fit-in/200x150/filters:strip_icc()/pic6814770.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7I586JmkRosV8Da7ySrFtg__original/img/ZWPxNK0XCbdtHRpWbcGR3s3pFbM=/0x0/filters:format(jpeg)/pic6814770.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="에어라인 81 (Airline 81)" />
+			
+						                           
+						               													<description>Currently, Airline 81 is severely underperforming. All players will participate in the game as the new management of Airline 81 Airlines, and must strive to normalize airline performance. Management expects that the new aircraft A81 introduced to normalize its performance will play a role as a game changer.&amp;#10;&amp;#10;The goal of the game is to operate the A81 aircraft in an efficient manner, producing high performance.&amp;#10;&amp;#10;The game board and auxiliary game board are placed in the center, and the player takes a personal board with the same color as his cube according to the number of players. The game starts with a first player and runs several rounds clockwise.&amp;#10;&amp;#10;In player turn, each player proceeds in the order of the next three steps.&amp;#10;1. [Rolling the dice]&amp;#10;The player rolls three dice at the same time in his turn and distinguishes the top color of each dice. Designate A for the same color on the top of each die and B and C for the different colors. &amp;#10;(Example: Yellow+yellow+red = A+A+B / Blue+Purple+Red = A+B+C / Blue+Blue+Blue= A+A+A)&amp;#10;2. [Choose 1 out of 2 tasks]&amp;#10;The player chooses one of the two tasks(flight Service, staff training) in his turn and behavior once.&amp;#10; - Task 1: Flight Service&amp;#10; - Task 2: Staff Training&amp;#10;3. [Moving score markers based on behavior]&amp;#10;Move the score marker according to the player's behavior immediately.&amp;#10;&amp;#10;The next player will also continue in the same way in the three-step order, and the round will end when all players play once. As several rounds progress, if the cube is no longer available after one's turn(if there is no A81 reservation), the game ends after only the corresponding round.&amp;#10;&amp;#10;At the end of the game, the A81 aircraft management performance(passenger fare score, employee training score, reservation waiting score, checked baggage import performance, profitability improvement performance, marketing performance) is all calculated and the player with the highest total wins.&amp;#10;If the total is tied, the player with more colored cubes in the business class wins. If it is still a tie, more players will win the cube(reserved waiting) remaining on the individual board, and if it is still a tie, they will win jointly.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="2" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="140529" value="HEO YONG JIN" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="140587" value="JEONG JONG CHEOL" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49922" value="EduNEdu" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="9.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.829156" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="2" />
+			<numcomments value="4" />
+			<numweights value="3" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

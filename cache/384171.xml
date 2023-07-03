@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="384171">
+         <thumbnail>https://cf.geekdo-images.com/VD-vLwYGD45GGkkA5C3O5w__thumb/img/-kBWTqEywRsSicxjrf2Uk8sp9O8=/fit-in/200x150/filters:strip_icc()/pic7472569.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VD-vLwYGD45GGkkA5C3O5w__original/img/ikLDN571oXDqpEhVQyYWAptahik=/0x0/filters:format(jpeg)/pic7472569.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dropper" />
+			
+						                           
+						               													<description>Rules.&amp;#10;&amp;#10;1. The game is played on an 8x8 board, but it can also be played on boards of different sizes.&amp;#10;&amp;#10;2. The first player places 1 stone at their discretion on the empty board.&amp;#10;&amp;#10;3. The second player places 2 stones according to a protocol in 2 moves: 1Drop - 1Free.&amp;#10;Drop move: the player places their stone in place of an opponent's stone, moving that opponent's stone to a free adjacent square that is diagonally or orthogonally adjacent.&amp;#10;Free move: the player then places their own stone in a free square that has no stones adjacent diagonally or orthogonally.&amp;#10;&amp;#10;4. Players take turns placing their 2 stones according to the 1Drop - 1Free protocol on the board until it is no longer possible to place Free moves. At that point, players proceed only with Drop moves.&amp;#10;&amp;#10;5. When placement possibilities are exhausted, the groups sizes for each player are counted. The player with the largest&amp;#10;group wins, in the event of a tie, the size of the second largest group is counted and so on.&amp;#10;&amp;#10;&amp;quot;Groups&amp;quot; refer to a single stone or a set of stones of the same color adjacent orthogonally.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="152548" value="Andrea Chia" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

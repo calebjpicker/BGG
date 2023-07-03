@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="350458">
+         <thumbnail>https://cf.geekdo-images.com/5tjbJJ21hE-ScRlV3DvjPQ__thumb/img/eDTauDf9jGKJ99l8P6v2h3htrds=/fit-in/200x150/filters:strip_icc()/pic6949932.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5tjbJJ21hE-ScRlV3DvjPQ__original/img/oFVZWHX2exjGnior8uy6UQ--kB0=/0x0/filters:format(jpeg)/pic6949932.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Terracotta Army" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agyaghadsereg" />
+			    				
+				<name type="alternate" sortindex="1" value="Ejército de Terracota" />
+			    				
+				<name type="alternate" sortindex="1" value="Terakotowa Armia" />
+			    				
+				<name type="alternate" sortindex="1" value="Terracotta Army: L&#039;armée de terre cuite" />
+			    				
+				<name type="alternate" sortindex="1" value="Terrakotta-Armee" />
+			    				
+				<name type="alternate" sortindex="1" value="兵马俑" />
+			
+						               													<description>Emperor Qin Shi Huang has passed away. To protect him in the afterlife, a great army in the form of statues of faithful warriors must be assembled to stand guard in the Emperor's tomb. You will be among those tasked with building this magnificent army.&amp;#10;&amp;#10;In Terracotta Army, you represent talented craftsmen and artists laboring to build the wondrous assembly of statues. During the game, you collect resources, upgrade your workers, and seek favor with the Emperor's advisors. Your goal is to play a crucial role in the process of creating the terracotta army, and your success is measured in victory points (VPs). During the game, you and your fellow players build the army together, but after the fifth round of the game is over, only one of you &amp;mdash; the one with the most points &amp;mdash; will stand as the winner.&amp;#10;&amp;#10;During the game, you place warrior miniatures within the mausoleum, forming groups.  A group's miniatures may belong to multiple players as denoted by the player bases on those miniatures. Multiple separate groups consisting of the same type of miniature may exist within the mausoleum.&amp;#10;&amp;#10;You will have many opportunities to score points based on domination and presence. To achieve domination, you must be the only player with the most of the specific resource or type of statue currently being scored. (If you are the only player, you have domination.) To have presence, you must have at least one of the specific resource or type of statue currently being scored.&amp;#10;&amp;#10;At the end of the fifth round, the player with the most VPs wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="42">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="3" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11518" value="Country: China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58463" value="History: Early Imperial China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="106683" value="Przemysław Fornal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61569" value="Adam Kwapiński" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="141620" value="Zuzanna Kołakowska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="141525" value="Jan Lipiński" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="129439" value="Aleksander Zawada" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44580" value="Board Game Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53235" value="BoardGameMan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42147" value="Giant Roc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1139" />
+			<average value="7.58054" />
+			<bayesaverage value="6.22619" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1845" bayesaverage="6.22619" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="882" bayesaverage="6.39749" />
+												</ranks>
+
+			<stddev value="1.39073" />
+			<median value="0" />
+			<owned value="2464" />
+			<trading value="38" />
+			<wanting value="172" />
+			<wishing value="1077" />
+			<numcomments value="221" />
+			<numweights value="52" />
+			<averageweight value="3.3077" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="128081">
+                                     				
+				<name type="primary" sortindex="1" value="Sudoku Puzzle Game" />
+			
+						                           
+						               													<description>A 1- or 2(+)-Player sudoku game where players place number tiles to complete up to 100 different puzzles.&amp;#10;&amp;#10;From the Rule Book:&amp;#10;For 2 or more players. Game One: Chose a puzzle from the book, place the red number squares on the puzzle board in the same positions as in the puzzle you have selected from the book.  Now take turns -- one move each player -- to try to comlete the game as quickly as possible.  Socring -- if you complete a line either across or down then that player adds up the numbers in that line and that is that players score for that game.  The player with the highest score is the winner after you have completed all nine squares.&amp;#10;&amp;#10;For 2 or more players.  Game Two: Set up the numbers in the squares as before.  Player one now turns over the timer and puts on black squares until the timer runs out.  As before add up the numbers in any line that player completes to determine that players score.  When the timer runs out pass on the timer to player 2 who then turns over the timer and when it runs out that player scores as above.  Then pass the timer to the next player who plays the game in the same way and so on depending on the number of players.  When the puzzle is finished then the player with the highest score wins that game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="0" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8068" value="Traditional Games: Sudoku" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="672" value="Family Games, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.24722" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

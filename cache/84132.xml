@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="84132">
+         <thumbnail>https://cf.geekdo-images.com/mgaDTaweiGUho6oTYt4FsA__thumb/img/XOO0Pg4RMDbJur6Rkf16I_w5D_w=/fit-in/200x150/filters:strip_icc()/pic1763432.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mgaDTaweiGUho6oTYt4FsA__original/img/chm_OazzEbGDW4pS2zM-85uczl8=/0x0/filters:format(jpeg)/pic1763432.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hyperchess4" />
+			
+						                           
+						               													<description>This 4-dimensional chess variant, using the standard 16 chesspieces and pawns, is played on a 4x4x4x4 board. (A printable 2D version of the board is provided, with coordinate numbers in each square.) This printable gameboard is laid out as a 4x4 arrangement of 16 &amp;quot;levels&amp;quot;, each level being a 4x4 2D chessboard. Alternatively, 4 3D 4x4x4 gameboards set up in a row are usable. The game is available on Zillions, in a version by L Lynn Smith.&amp;#10;&amp;#10;Piece moves are translated as directly as possible from 2D to 4D, with some adaptations for play balance. So a rook now can move not only north-south and east-west, but up-down and side to side, too, for a maximum of 8 possible directions. Bishops move diagonally within each level, and may also move diagonally from level to level, which simplifies the move somewhat, changing the bishop from a fully 4D piece to one that is 2D+2D. This change makes the game much easier to play.&amp;#10;&amp;#10;The knight, on the other hand, rivals the queen in power, because it is the only piece in chess that already moves in 2 dimensions. On a 4x4x4x4 board, it can reach up to 2 dozen spots. The queen combines the moves of rook and bishop, and the king is a one-square queen in movement.&amp;#10;&amp;#10;Pawns are the most changed, moving 1 square &amp;quot;forward&amp;quot; or &amp;quot;sideways&amp;quot; - 6 locations in all, and capturing as it moves. This allows 2 pawns to support each other, a useful feature on &amp;#10;a 4D board.&amp;#10;&amp;#10;The game is won by checkmate, which with the held king rule, can be achieved in the standard fashion, or it can be forced on a bare king by a king and 2 major pieces, from any legal positions on the board. The held king rule allows a king moving onto the other king's current &amp;quot;level&amp;quot; to pin the enemy king in that level. This solves a major problem in higher dimensional chess, that of mating the opponent on a 4D board, which has so many ways to escape.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="1" />
+						               				<minplaytime value="1" />
+						               				<maxplaytime value="1" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78629" value="Components: 4x4x4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78626" value="Components: 4x4x4x4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="37621" value="Joe Joyce" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

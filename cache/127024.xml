@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="127024">
+         <thumbnail>https://cf.geekdo-images.com/urP8ZiJeGJ_WFJ5ovqA5kg__thumb/img/zPupx0-vzzjHrdZ2gJ2aQGCE64k=/fit-in/200x150/filters:strip_icc()/pic3046708.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/urP8ZiJeGJ_WFJ5ovqA5kg__original/img/NANOcJLn4zmuhsk91TqBvQD9RTQ=/0x0/filters:format(jpeg)/pic3046708.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Room 25" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pokój 25" />
+			    				
+				<name type="alternate" sortindex="1" value="Кімната 25" />
+			    				
+				<name type="alternate" sortindex="1" value="ルーム25" />
+			
+						               													<description>Trapped in a prison in which each room has four doors but apparently no exit, the players must try to find Room 25, the supposed exit to this nightmare. But some amongst them might be guardians of the prison, waiting for the right moment to strike. In the cooperative game Room 25, not everyone wants to escape from imprisonment &amp;ndash; but who is the traitor? Each turn, the player moves are preprogrammed, requiring discussion, negotiation &amp;ndash; and possibly betrayal.&amp;#10;&amp;#10;Room 25 includes five different playing modes, from full cooperation to a solitaire game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="96">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="28">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="13" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="28">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="21" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2953" value="Programmed Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207150" value="Room 25: Dice Tower Promo 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193209" value="Room 25: Escape Room" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132429" value="Room 25: Promo – The Audience" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156407" value="Room 25: Season 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="247627" value="Room 25: VIP" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256782" value="Room 25: VIP – Raptor Promo Tile" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="212956" value="Room 25 Ultimate" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61329" value="François Rouzé" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61338" value="Daniel Balage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61339" value="Camille Durand-Kriegel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61329" value="François Rouzé" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48430" value="Nova Era (Нова Ера)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6603" />
+			<average value="6.7109" />
+			<bayesaverage value="6.40248" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1366" bayesaverage="6.40248" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="370" bayesaverage="6.48523" />
+												</ranks>
+
+			<stddev value="1.32133" />
+			<median value="0" />
+			<owned value="8526" />
+			<trading value="202" />
+			<wanting value="177" />
+			<wishing value="1221" />
+			<numcomments value="974" />
+			<numweights value="258" />
+			<averageweight value="1.9302" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

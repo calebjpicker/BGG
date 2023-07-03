@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="153064">
+         <thumbnail>https://cf.geekdo-images.com/4EVpaxECrqdKYVtBJnFLeA__thumb/img/XHjyZnIevY46IZZAxbma6HvWlIw=/fit-in/200x150/filters:strip_icc()/pic3008714.png</thumbnail>
+      <image>https://cf.geekdo-images.com/4EVpaxECrqdKYVtBJnFLeA__original/img/FxbhktE-icFY-fQTbE14-GCa318=/0x0/filters:format(png)/pic3008714.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Good Cop Bad Cop" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dobry Glina Zły Glina" />
+			    				
+				<name type="alternate" sortindex="1" value="Poli Bueno Poli Malo" />
+			    				
+				<name type="alternate" sortindex="1" value="Бешеные псы" />
+			    				
+				<name type="alternate" sortindex="1" value="無間風雲" />
+			
+						               													<description>Good Cop Bad Cop is a 52 card hidden identity, deduction game where each player takes on the role of a law enforcement officer in a corrupt district. Players must investigate others to figure out who is on their side, grab one of the 2-3 guns on the table, and shoot the opposing leader to win the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="44">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="371" value="No necessary in-game text" numvotes="0" />
+					<result level="372" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="373" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="374" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="375" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2916" value="Alliances" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65489" value="Game: Good Cop Bad Cop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66325" value="Theme: Police" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168037" value="Good Cop Bad Cop: Bombers and Traitors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319814" value="Good Cop Bad Cop: Deliriant Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188781" value="Good Cop Bad Cop: Equipment Pack #1 – Protect" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="197157" value="Good Cop Bad Cop: Equipment Pack #2 – Serve" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="197158" value="Good Cop Bad Cop: Equipment Pack #3 – Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309885" value="Good Cop Bad Cop: Promoted" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188154" value="Good Cop Bad Cop: Undercover" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="366497" value="Good Cop Bad Cop: Zombies" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="287821" value="Good Cop Bad Cop (Third Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="195237" value="Leaders of Euphoria: Choose a Better Oppressor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="228483" value="Total Recall: The Official Tabletop Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70761" value="Brian Henk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70762" value="Clayton Skancke" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="78712" value="Dwayne Biddix" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26472" value="Overworld Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27067" value="Fullcap Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35035" value="Mandala Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Primigenio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3203" />
+			<average value="6.58555" />
+			<bayesaverage value="6.16079" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2072" bayesaverage="6.16079" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="137" bayesaverage="6.35344" />
+												</ranks>
+
+			<stddev value="1.41091" />
+			<median value="0" />
+			<owned value="4961" />
+			<trading value="210" />
+			<wanting value="85" />
+			<wishing value="570" />
+			<numcomments value="701" />
+			<numweights value="103" />
+			<averageweight value="1.2621" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

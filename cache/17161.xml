@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="17161">
+         <thumbnail>https://cf.geekdo-images.com/HbByF3L0K1SdYldIlOJK_Q__thumb/img/2LMtuAl4hssI5FCi5VfpApvdBi0=/fit-in/200x150/filters:strip_icc()/pic218485.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HbByF3L0K1SdYldIlOJK_Q__original/img/I5ptZKlYNda-RllUrHfDcdkGTlU=/0x0/filters:format(jpeg)/pic218485.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tempus" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tempvs" />
+			
+						               													<description>User review&amp;#10;&amp;#10;Set up:&amp;#10;&amp;#10;The game contains twelve map tiles. Each map tile is made of one hexagon surrounded by six hexagons. Each tile will have a mixture of any or all of five types of terrain: grasslands, farmlands, mountains, woods, and hills. Each player gets a Player Aid card, selects a color of people tokens and places the era cube of the matching color on The Era Starting Box on the Progress Column part of the game board. A starting player is selected. Some tiles are placed contiguously on the game board (the number of tiles depends on the number of players) one at a time in turn order. Each player, in turn, places three of their people tokens on the game board contiguously. The game is now ready to begin.&amp;#10;&amp;#10;Game play:&amp;#10;&amp;#10;Players should note which terrain will be worth Progress Points at the end of the era. Progress Points are the number of hexes occupied of the scoring terrain by one&amp;rsquo;s token plus the number of city tiles plus the value of all eligible Idea Cards. The player or players with the most Progress Points will advance to the new era and get an advantage over the other players.&amp;#10;&amp;#10;In turn, a player may:&amp;#10;-    Move people&amp;#10;-    Have babies (increase the number of people tokens on the game board)&amp;#10;-    Have a fight (initiate the diceless combat system against another player)&amp;#10;-    Have an idea (draw chance cards)&amp;#10;-    Build a city (replace people tokens with a city tile)&amp;#10;&amp;#10;After all the players have used all of their turns the era has ended. If this not the first round then all the players&amp;rsquo; Era Cubes are advanced to the level of the leader(s). Progress Points are then compared and the leader(s) advance to take advantage of one&amp;rsquo;s newest ability.&amp;#10;&amp;#10;The game is over after ten eras. Victory Points are the total of number of non-mountain hexagons occupied by one&amp;rsquo;s tokens plus the values of one&amp;rsquo;s cities plus three points for advancing to the final era. The player with most Victory Points is the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="2" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2887" value="Catch the Leader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6" value="Martin Wallace" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12011" value="Eckhard Freytag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20742" value="Ron Magin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2757" value="Cafe Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2778" value="Pro Ludo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2962" value="PS-Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3446" value="Ubik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7" value="Warfrog Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2579" />
+			<average value="6.4658" />
+			<bayesaverage value="6.04505" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2539" bayesaverage="6.04505" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1220" bayesaverage="6.1303" />
+												</ranks>
+
+			<stddev value="1.399" />
+			<median value="0" />
+			<owned value="3019" />
+			<trading value="260" />
+			<wanting value="76" />
+			<wishing value="376" />
+			<numcomments value="1062" />
+			<numweights value="331" />
+			<averageweight value="2.7976" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

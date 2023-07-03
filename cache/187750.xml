@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="187750">
+                                     				
+				<name type="primary" sortindex="1" value="Alician Draughts" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Jeu de Dames Aliciennes" />
+			
+						               													<description>The rules of Alician Draughts were first described in the book &amp;quot;Les Jeux de dames non orthodoxes et autres jeux &amp;agrave; pions&amp;quot; in 1956.&amp;#10;&amp;#10;The standard game of International Draughts is played using two boards, A and B. The normal array is on board A; board B starts empty.&amp;#10;&amp;#10;In turn, each player makes a single move on either board following these three rules:&amp;#10;&amp;#10;1. A move must be legal on the board where it is played.&amp;#10;2. A piece can only move or capture if the corresponding destination square on the other board is vacant.&amp;#10;3. After moving, the piece is transfered to the corresponding square on the other board.&amp;#10;&amp;#10;The original board (not the &amp;quot;mirror board&amp;quot;) decides the game:&amp;#10;&amp;#10;Whenever a player has no piece left on the original board, he loses even within a move. A move consists of up to three stages: Movement (which can be a jump in case of a capture), Transfer of the moved piece to the other board, Removal of any captured pieces. That is, if at any stage a player had no pieces left on the original board, he lost the game.&amp;#10;&amp;#10;In practice, it is possible to play Alician Draughts on a single board, if the checkers have a piece of felt glued to their bottom. When a piece (men or king) is transferred to the &amp;quot;mirror board&amp;quot;, it is just turned upside down.&amp;#10;&amp;#10;Despite many similarities Alician Draughts is in fact a very different game. While in International Draughts more than 50% of all tournament games today end in a draw, in Alician Draughts a draw is impossible.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1956" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="136" value="No necessary in-game text" numvotes="1" />
+					<result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="140" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65493" value="V. R. Parton" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

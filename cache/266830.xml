@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="266830">
+         <thumbnail>https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__thumb/img/gT07BJ5Ynlopp-UIQRIySERKUmI=/fit-in/200x150/filters:strip_icc()/pic4383594.png</thumbnail>
+      <image>https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__original/img/V6-uacjfLFXQyOVHcLmEOVoZgf8=/0x0/filters:format(png)/pic4383594.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="QE" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Q.E." />
+			    				
+				<name type="alternate" sortindex="1" value="量化寬鬆" />
+			
+						               													<description>Financial crisis has occurred. Sixteen &amp;quot;too big to fail&amp;quot; companies from four countries need bailing out. The central banks have unlimited financial resources, so lots of money is going to be printed, but the central banks also face disaster &amp;mdash; print too much money and the country they represent goes bust.&amp;#10;&amp;#10;In Q.E., a term that stands for &amp;quot;quantitative easing&amp;quot;, you play the role of a central bank. You bid on different size companies to accumulate various levels of victory points. The amount you bid is unlimited since you are the central bank and you own the printing press! After the initial &amp;quot;open&amp;quot; bid by the lead player, the other players bid in secret. After the sixteen companies have been &amp;quot;bailed out&amp;quot;, bonus victory points are awarded for company sets of nationalization, monopolization, and diversification.&amp;#10;&amp;#10;Player markers on the scoring track now reveal which player has the most victory points, but this is not the end. Players must now add up the amount of money they printed and the player who printed the most money loses all their victory points!&amp;#10;&amp;#10;Previous editions of Q.E. supported up to four players, with a fifth-player expansion being available separately. This new edition of Q.E. is playable with up to five players out of the box.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="53" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="47" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="4" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2920" value="Auction: Sealed Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360699" value="QE: Commodities" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="363205" value="QE: Alternative Artwork Bid Checks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="209136" value="Q.E." inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13391" value="Gavin Birnbaum" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="108732" value="Anca Gavril" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39164" value="BoardGameTables.com" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44580" value="Board Game Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45845" value="Strohmann Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46508" value="SUNNY BIRD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52477" value="拾刻桌游（O'Clock Games）" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4717" />
+			<average value="7.40198" />
+			<bayesaverage value="6.85335" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="602" bayesaverage="6.85335" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="357" bayesaverage="6.97372" />
+												</ranks>
+
+			<stddev value="1.23085" />
+			<median value="0" />
+			<owned value="7881" />
+			<trading value="91" />
+			<wanting value="416" />
+			<wishing value="1992" />
+			<numcomments value="856" />
+			<numweights value="84" />
+			<averageweight value="1.5714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

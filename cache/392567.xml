@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="392567">
+         <thumbnail>https://cf.geekdo-images.com/jZwCzEobq3GadPYfKv6tRg__thumb/img/AHOu1a486X0c80i-Z1c4YjJFVsU=/fit-in/200x150/filters:strip_icc()/pic7580124.png</thumbnail>
+      <image>https://cf.geekdo-images.com/jZwCzEobq3GadPYfKv6tRg__original/img/XfW56AtysTbZgvSC_H0rrebEU6s=/0x0/filters:format(png)/pic7580124.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Meigo" />
+			
+						                           
+						               													<description>Meigo is a territory game for two players: Black and White. It is played on the intersections (points) of an initially empty square grid (board). There is also an off-board location called prison. Each player has access to a sufficient supply of stones of their own color. One of the two sides of each stone is marked.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Definitions&amp;#10;&amp;#10;A chain is a stone along with all stones one can reach from it through a series of steps onto orthogonally adjacent stones of the same color.&amp;#10;&amp;#10;A liberty of a chain is an empty point orthogonally adjacent to it.&amp;#10;&amp;#10;A stone is marked if its marked side is up, and unmarked otherwise.&amp;#10;&amp;#10;A point reaches a stone if a path along the lines of the board can take you from one to the other without stepping onto an unmarked stone. Note that the path can go through marked stones of any colors.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Play&amp;#10;&amp;#10;Black plays first, then turns alternate. On your first turn of the game, place an unmarked stone of your color on an empty point. On any other turn, play or hold. To hold, remove an enemy stone from the prison. To play, follow these steps:&amp;#10;&amp;#10;&amp;#10;     Select an empty point.&amp;#10;     If the selected point is orthogonally adjacent to both marked and unmarked friendly stones, unmark (by flipping them) all marked friendly stones reached by the selected point.&amp;#10;     If the selected point reaches a marked friendly stone or no friendly stones at all, place a marked friendly stone on that point. Otherwise, place an unmarked friendly stone on that point.&amp;#10;     Move to the prison all enemy chains without liberties. After this, the stone you just placed must be part of a chain with at least one liberty.&amp;#10;&amp;#10;&amp;#10;You cannot place a marked stone and move a marked stone to the prison on the same turn if the last stone placed on the board was marked.&amp;#10;&amp;#10;The last player to play or hold wins.&amp;#10;&amp;#10;To make the game fair, before the game starts, the first player places a number of black stones in the prison, and then the second player chooses sides. For handicap games, the weaker player takes Black and opens instead by placing on the board a number of unmarked black stones proportional to the skill gap between the players.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Notes&amp;#10;&amp;#10;Meigo is a seemingly finite game that plays almost like Go. It was inspired by Cavity, a Go variant created by Michael Amundsen. Christopher Field provided valuable input that helped refine the rules of the game. The prison mechanism was introduced by David Wolfe and Elwyn Berlekamp in their book Mathematical Go: Chilling Gets the Last Point.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="1" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47001" value="Luis Bolaños Mures" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

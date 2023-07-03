@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="327831">
+         <thumbnail>https://cf.geekdo-images.com/YTAWV2dWsPSGyFR5kWZ9GA__thumb/img/SkFfp5ODrgfy65G4S_tI3R2jD1M=/fit-in/200x150/filters:strip_icc()/pic5975807.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YTAWV2dWsPSGyFR5kWZ9GA__original/img/ivOhP4IATLw2c-3ppLWafoZ9qGk=/0x0/filters:format(jpeg)/pic5975807.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lost Cities: Roll &amp; Write" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Lost Cities: Gra kościana" />
+			
+						               													<description>In Lost Cities: Roll &amp;amp; Write, you want to start your expeditions on the six colored paths with the smallest possible numbers on the dice. Each turn, decide whether to continue with an expedition or start a new one. Acceleration fields and artifacts provide opportunities to advance quickly, but you'll have to carefully consider which paths to take on which roll. If you make good progress, victory beckons &amp;mdash; but if an expedition gets stuck, you will lose points just as quickly as you earned them!&amp;#10;&amp;#10;In more detail, each player has their own score sheet, which has eight columns on it: six colored columns matching the colors of Lost Cities (red/orange/yellow/green/blue/purple), an artefact column, and a dice column. You will fill or mark all of these columns from the bottom up.&amp;#10;&amp;#10;On a turn as the active player, you roll the six dice &amp;mdash; three six-sided color dice and three ten-sided dice numbered 0-9 &amp;mdash; then choose one number die and one color die, then mark this number in this color column on your sheet. If you choose 0 and haven't started this color column, you can mark the &amp;quot;double point&amp;quot; circle at the bottom of the column. If you choose a non-0 number and haven't started this column, you write the number in the bottommost space of the column; if you have started this column, then you can add another number to this column only if it's the same value or higher. (A 0 is written as 10 in a column.) Other players choose a number die and a color die from the two of each that remain, then mark one of their columns in a similar manner.&amp;#10;&amp;#10;If you place a number on an arrow in a column, then you can &amp;quot;accelerate&amp;quot; any color column by filling the bottommost empty space with the same number currently at the top of that column. If you write over another arrow, then you accelerate once again! If you place a number on an artefact box, then you mark off a space in the artefact column. If you've filled all nine spaces in a column and can write a number there once again, you instead mark off an artefact.&amp;#10;&amp;#10;If you wish, you can refuse to choose a number-color combination. If you do, then you mark off a die in the dice column.&amp;#10;&amp;#10;If you write a number in the seventh box in a color column or mark off the seventh space in the artefact or dice column &amp;mdash; and you're the first player to do so &amp;mdash; then you score a 20 point &amp;quot;bridge bonus&amp;quot; for being the first player to cross that bridge.&amp;#10;&amp;#10;If you mark off the ninth space in the dice column, you are considered to be &amp;quot;exhausted&amp;quot;, but you continue to play. The game ends after the turn in which all players are exhausted or all eight bridges have been crossed. Players then score points for each color column based on the number of spaces they've filled, doubling this score &amp;mdash; whether positive or negative &amp;mdash; if they've marked the &amp;quot;double point&amp;quot; circle at the bottom of the column. Players also score points for the number of spaces marked in the artefact and dice columns, but if you're exhausted, then you score 0 points for that column. Add your bridge bonus points to the sum of these eight columns, and whoever has the highest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="3" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="149" value="Game: Lost Cities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63122" value="Versions &amp; Editions: Roll- or Flip-and-Write Versions of Non-Writing Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12380" value="Bernd Wagenfeld" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="760" />
+			<average value="7.06572" />
+			<bayesaverage value="5.93404" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3135" bayesaverage="5.93404" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="893" bayesaverage="6.07115" />
+												</ranks>
+
+			<stddev value="1.24136" />
+			<median value="0" />
+			<owned value="1913" />
+			<trading value="29" />
+			<wanting value="34" />
+			<wishing value="260" />
+			<numcomments value="168" />
+			<numweights value="21" />
+			<averageweight value="1.1905" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

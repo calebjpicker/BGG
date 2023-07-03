@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="269936">
+         <thumbnail>https://cf.geekdo-images.com/HSLERjQ-Mz_cBb57X93s4w__thumb/img/hZR5ioBPG6hgC_8K7By2Kat8mRM=/fit-in/200x150/filters:strip_icc()/pic4565422.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HSLERjQ-Mz_cBb57X93s4w__original/img/svMVnNh4MshgVvub7C9IVM6eNgA=/0x0/filters:format(jpeg)/pic4565422.jpg</image>
+                                     				
+				<name type="primary" sortindex="4" value="De Bello Galactico" />
+			
+						                           
+						               													<description>De Bello Galactico puts you in control of one the interstellar civilizations competing for galactic supremacy. To prevail, you will need to explore and colonize new star systems, build space ships, research new technologies, politicize in the galactic council, and keep your population happy.&amp;#10;&amp;#10;There are many routes to victory; smart plotting and investing in the right political Agenda could secure your political supremacy, or you might science your way to the top, uniting the galaxy in a holistic singularity event. You might slowly plod to economic predominance. An aggressive colonization strategy with the support of your population could secure your superior power, as would the military domination of one of the other big intergalactic players. Reading which path your opponents follow and outsmarting them is key to victory.&amp;#10;&amp;#10;De Bello Galactico is a straightforward and streamlined true 4X space game. The vast interstellar distances covered are baked into the Hyperspace movement system, doing away with the need for a board. Each Faction has different upgradeable ships, as well as a different way to handle their population. Thanks to a staggered action and pass system, downtime is minimal and rounds flow fast.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="0" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2838" value="Action Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2840" value="Action/Event" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2847" value="Advantage Token" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2884" value="Sudden Death Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2830" value="Turn Order: Pass Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12210" value="Mechanism: 4X" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="79137" value="Tobias Gohrbandt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50716" value="Heiko Günther" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50716" value="Heiko Günther" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="6.8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.92575" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="12" />
+			<numcomments value="5" />
+			<numweights value="3" />
+			<averageweight value="2.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

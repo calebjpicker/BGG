@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="151894">
+         <thumbnail>https://cf.geekdo-images.com/OwTUWbJsTe7pTt2R3scDgA__thumb/img/B0q9b4PhRUc1Vf6BWEqc2NvZur8=/fit-in/200x150/filters:strip_icc()/pic1874981.png</thumbnail>
+      <image>https://cf.geekdo-images.com/OwTUWbJsTe7pTt2R3scDgA__original/img/QlwLRX5d7yhSgIWBmMUTUKpJTy8=/0x0/filters:format(png)/pic1874981.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ariadne&#039;s Thread" />
+			
+						                           
+						               													<description>A 2 player card game you can play with a standard 52-deck of cards.&amp;#10;&amp;#10;In Greek mythology Theseus was sent to convey the tributes of the Athenians to the Minotaur, which prowled a Labyrinth. Ariadne the daughter of King Minos of Crete and his wife Pasiphae, fell in love with the dashing Greek hero Theseus. Now according to the myth, it was Ariadne who helped Theseus to escape the Labyrinth by supplying him with a sword to kill the Minotaur and a ball of thread to navigate the tangled passages&amp;hellip;&amp;#10;&amp;#10;THREAD&amp;ndash; An orthogonally connected group of five or more like color cards.&amp;#10;&amp;#10;The goal is to have the most points within your color threads.&amp;#10;&amp;#10;THE DECK &amp;ndash; Remove the 10s from a 52-card deck and divide the rest of the deck into red suit cards and black suit cards. You will also need one Joker card with a different color back and a way of keeping score. Aces can be either high or low. An Ace can beat a King but a King cannot beat an Ace. Cards are ranked in this order (A-2-3-4-5-6-7-8-9-J-Q-K-A) A=1 or 14, J =10, Q=11, K=12.&amp;#10;&amp;#10;PLAY&amp;ndash; Player 1 has the black suit cards and Player 2 has the red suit cards.&amp;#10;&amp;#10;Thoroughly shuffle each other&amp;rsquo;s decks and return them.&amp;#10;&amp;#10;The decks are placed face down in front of their respective players, these are now the draw decks from which the players will draw cards from during the game.&amp;#10;&amp;#10;The game is played in 2 rounds.&amp;#10;&amp;#10;The back side of the Joker card will be the Minotaur and the face of the card will be our hero Theseus.&amp;#10;&amp;#10;At the start of the first round the Joker card is placed face down at the center of the tableau and at the start of the second round the Joker card is placed face up at the center of the tableau.&amp;#10;&amp;#10;Each player at the start of a round draws 3 cards from their draw deck to their hand.&amp;#10;&amp;#10;In round 1 the player holding the black suit cards plays first, while in round 2 the player holding the red suit cards plays first.&amp;#10;&amp;#10;Players take turns.&amp;#10;&amp;#10;On your turn you may take 1 of 3 actions:&amp;#10;&amp;#10;1.Play a card from your hand face up to the tableau or&amp;#10;&amp;#10;2.You may swap out the last card played with a higher ranking card from your hand as long as the lower card does not divide evenly into the higher card or the lower card is not one number below the higher card. Then flip over and move the swapped card to a different spot on the tableau or&amp;#10;&amp;#10;3.Swap out the Joker card with a card from your hand and then flip the Joker card over and move it to a different spot on the tableau.&amp;#10;&amp;#10;Players then draw a card from their draw decks returning their hands to 3 cards, this now ends a player&amp;rsquo;s turn.&amp;#10;&amp;#10;&amp;bull;Once players run out of cards in their draw decks they continue to play the cards that are left in their hands.&amp;#10;&amp;bull;The game ends when all the cards have been played to the tableau.&amp;#10;&amp;bull;The round is then scored.&amp;#10;&amp;#10;CONSTRAINTS &amp;ndash; All cards must touch at least one other card either orthogonally or diagonally.&amp;#10;&amp;#10;Cards may not be played on top of other cards.&amp;#10;&amp;#10;You may not play a card from your hand to the tableau so that the playing area exceeds 7 cards in any direction, this also applies to moving a card.&amp;#10;&amp;#10;SCORING &amp;ndash; The point values of the cards are as follows: Aces are worth 1 point, (2-9) are face value and (J-Q-K) are worth 10 points each.&amp;#10;&amp;#10;To score a round, add up all the threads in your color suit.&amp;#10;&amp;#10;If the Joker card is face down and is orthogonally adjacent to one of your threads you subtract 10 points from your score. If the Joker card is face up and is orthogonally adjacent to one of your threads you add 10 points to your score.&amp;#10;&amp;#10;Finally players add up their scores from both rounds and the player with the highest score wins!&amp;#10;&amp;#10;If after scoring both rounds there is a draw, play another round.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="25" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62677" value="Rey Alicea" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="62677" value="Rey Alicea" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

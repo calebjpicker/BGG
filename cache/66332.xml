@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="66332">
+         <thumbnail>https://cf.geekdo-images.com/yubSJpBK2rHaAkdp8Dp1Ww__thumb/img/UqXfxBvs4F-nlZbSwe1B2DcJ3fE=/fit-in/200x150/filters:strip_icc()/pic1267071.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yubSJpBK2rHaAkdp8Dp1Ww__original/img/yrs_CKzH7Hr6h1-x9k62-Wd7Rt0=/0x0/filters:format(jpeg)/pic1267071.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Seegover" />
+			
+						                           
+						               													<description>This is an attempt to make a game like Seega which is less subject to draws.&amp;#10;&amp;#10;This game is played on an empty 5x5 square board. There are 24 double-sided pieces. The game is played in two phases. In the first players alternate placing two pieces at a time with their color showing; any squares may be occupied except the center. In the second phase players alternate moving one piece into the empty square.&amp;#10;&amp;#10;A capture is made by sandwiching a single opposing piece between two of one's own. The captured piece is turned over. If at least one capture is made the moving piece may be moved back to the space it came from if that will result in additional captures.&amp;#10;&amp;#10;There are two different versions of the game, depending on which rule one uses for the case where a player cannot move because they have no pieces adjacent to the empty space. In version one the player may take any of their pieces and place it in the empty space, but even if they capture they cannot then move it to its original space. In version two the player may turn over a piece adjacent to the empty square; in this case if captures are made the piece may be moved into the empty square if it can make further captures.&amp;#10;&amp;#10;In either version the game ends when a player loses by having fewer than five pieces.&amp;#10;&amp;#10;The game may also be played by three players using cubes with three colors on them; each player starts with eight of these.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1797" value="Trevor Truran" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6354" value="Games and Puzzles (magazine)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

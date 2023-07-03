@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168435">
+         <thumbnail>https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__thumb/img/BaLQhhGkNB6LaNqGnaNzz88GLOA=/fit-in/200x150/filters:strip_icc()/pic6352795.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__original/img/Z1jHr2yyOS982h3F5IktoEYTxeU=/0x0/filters:format(jpeg)/pic6352795.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Between Two Cities" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ふたつの街の物語 完全日本語版" />
+			    				
+				<name type="alternate" sortindex="1" value="雙城爭霸" />
+			    				
+				<name type="alternate" sortindex="1" value="두 도시 사이에서" />
+			
+						               													<description>It is the early 1800s, a time of immense construction and urbanization. You are a world-renowned master city planner who has been asked to redesign two different cities. Projects of such significance require the expertise of more than one person, so for each assignment you are paired with a partner with whom to discuss and execute your grandiose plans. Will your planning and collaborative skills be enough to design the most impressive city in the world?&amp;#10;&amp;#10;Between Two Cities is a partnership-driven tile-drafting game in which each tile represents part of a city: factory, shop, park, landmarks, etc. You work with the player on your left to design the heart of one city, and with the player on your right to design the heart of another city. On each turn you select two tiles from hand, reveal them, then work with your partners separately to place one of those tiles into each of your two cities before passing the remaining hand of tiles around the table.&amp;#10;&amp;#10;At the end of the game, each city is scored for its livability. Your final score is the lower of the livability scores of the two cities you helped design. To win, you have to share your attention and your devotion between two cities. The player with the highest final score wins the game.&amp;#10;&amp;#10;The game features play for 3-7 players in 20-25 minutes, a 2-player variant for head-to-head competition as well as a solo variant (Automa).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="7" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="147">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="60" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="74" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="71" />
+					<result value="Recommended" numvotes="41" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="45" />
+					<result value="Recommended" numvotes="53" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="50" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="25" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="49">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="22" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="30">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="28" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3104" value="Neighbor Scope" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72487" value="Organizations: Automa Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225370" value="Between Two Cities: Capitals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="327893" value="Between Two Cities: BGGCon 2015 Promo City Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="189821" value="Between Two Cities: Essen 2015 Promo City Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="200898" value="Between Two Cities: Geekway to the West 2016 Promo City Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="186790" value="Between Two Cities: Gen Con 2015 Promo City Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378947" value="Between Two Cities: Seating Randomizer card 16" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="252560" value="Between Two Cities: Tantrum House Promo City Tokens" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="258036" value="Between Two Castles of Mad King Ludwig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="369635" value="Between Two Cities Essential Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65581" value="Matthew O'Malley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="60749" value="Ben Rosset" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23202" value="Stonemaier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28323" value="Morning" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10843" />
+			<average value="6.98784" />
+			<bayesaverage value="6.74579" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="750" bayesaverage="6.74579" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="203" bayesaverage="6.80261" />
+												</ranks>
+
+			<stddev value="1.21289" />
+			<median value="0" />
+			<owned value="13486" />
+			<trading value="439" />
+			<wanting value="303" />
+			<wishing value="2439" />
+			<numcomments value="2202" />
+			<numweights value="359" />
+			<averageweight value="1.8134" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

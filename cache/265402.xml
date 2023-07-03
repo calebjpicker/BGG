@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="265402">
+         <thumbnail>https://cf.geekdo-images.com/O85rGsVqqTfrFbcHQCIFHg__thumb/img/td7Xjx0NMeSUrBVm4fBoIweCxjA=/fit-in/200x150/filters:strip_icc()/pic4421569.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/O85rGsVqqTfrFbcHQCIFHg__original/img/DhTYEiUShjAY599TQ9yQaJxpu9I=/0x0/filters:format(jpeg)/pic4421569.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="In the Hall of the Mountain King" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="In der Halle des Bergkönigs" />
+			    				
+				<name type="alternate" sortindex="1" value="L&#039;Antre du Roi de la Montagne" />
+			    				
+				<name type="alternate" sortindex="4" value="El Rey de la Montaña" />
+			    				
+				<name type="alternate" sortindex="1" value="W grocie Króla Gór" />
+			    				
+				<name type="alternate" sortindex="1" value="マウンテンキング" />
+			
+						               													<description>Play as trolls rebuilding your abandoned kingdom under the mountain in In the Hall of the Mountain King. With muscle and magic, you'll unearth riches, dig out collapsed tunnels, and carve out great halls as you raise the toppled statues of your ancestors to their places of honor at the heart of the mountain. Gameplay is driven by the innovative cascading production system. Timing and tactics are key as you work to restore your home to its former glory and win the crown!&amp;#10;&amp;#10;Working on the same game board with the other players (but beginning at your own entrance), you'll dig a competing network of tunnels by spending increasingly valuable materials to lay polyomino tiles onto the map. You want to extend your tunnels to connect with buried gold and materials, with workshop locations that can transform resources, and especially with toppled statues. Statues are key to scoring, and you'll spend carts to move them through the tunnels to prime scoring locations near the heart of the mountain.&amp;#10;&amp;#10;A major aspect of the game is the cascading production. You begin with a line of four trolls, and every troll shows the combination of resources &amp;mdash; gold, stone, iron, marble, carts, runes, and hammers &amp;mdash; that it produces. When a new troll is hired, place it above two other trolls, forming a &amp;quot;pyramid&amp;quot;. The new troll activates, gaining its resources, and any trolls beneath it ALSO activate, gaining any resources that they have room to carry. In this way as you hire more trolls, you gain bigger and bigger windfalls of resources as the end of the game nears. The timing of your hiring turns versus your building turns is important as you try to maximize your cascades while making sure you get the trolls you want from the shared market and also stay competitive on the map.&amp;#10;&amp;#10;The game ends shortly after the last player hires their sixth troll, then the player with the most honor (earned for digging tunnels of increasing quality, for excavating great halls, and for moving statues closer to the heart of the mountain, especially onto matching pedestals) is crowned the Mountain King and wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="108">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="55" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="47" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="41" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="161" value="No necessary in-game text" numvotes="0" />
+					<result level="162" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="163" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="164" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="165" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68281" value="Creatures: Trolls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4705" value="Organizations: The Game Artisans of Canada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21425" value="Theme: Mining" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297693" value="In the Hall of the Mountain King: Champions Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296636" value="In the Hall of the Mountain King: Cursed Mountain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290524" value="In the Hall of the Mountain King: Tantrum House Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="318076" value="In the Hall of the Mountain King: Game Trayz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="341238" value="In the Hall of the Mountain King: Metal Coins" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20990" value="Jay Cormier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="29176" value="Graeme Jahns" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9731" value="Josh Cappel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28024" value="Kwanchai Moriya" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36961" value="Burnt Island Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8351" value="Gen-X Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43169" value="リゴレ (rigoler)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40058" value="Skellig Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3963" />
+			<average value="7.65262" />
+			<bayesaverage value="6.89606" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="559" bayesaverage="6.89606" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="315" bayesaverage="7.03268" />
+												</ranks>
+
+			<stddev value="1.1899" />
+			<median value="0" />
+			<owned value="7123" />
+			<trading value="142" />
+			<wanting value="287" />
+			<wishing value="1742" />
+			<numcomments value="957" />
+			<numweights value="158" />
+			<averageweight value="2.8165" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="20165">
+         <thumbnail>https://cf.geekdo-images.com/AqnSHcqaiUDGP16OUXF0WQ__thumb/img/yvQ7gkjThMRNc_Rz9QM9J3us5Wo=/fit-in/200x150/filters:strip_icc()/pic1319804.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AqnSHcqaiUDGP16OUXF0WQ__original/img/sj-08AXAscvhiEKjzmlZOVZHgz4=/0x0/filters:format(jpeg)/pic1319804.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Soccer Replay" />
+			
+						                           
+						               													<description>Soccer replay/simulation game.&amp;#10;&amp;#10;Brief outline of the game system&amp;#10;&amp;#10;The Team Cards provide Attack and Defence Ratings, for home and away matches, for each team. Theses Ratings are based on the average number of goals scored and conceded in each match and are the built-in guarantee of accuracy of results. The respective Ratings for the two teams involved in a match are cross-referenced on a Chart to obtain a Goal Rating for each team. These Goal Ratings serve two purposes. Added together they indicate which Elapsed Time Card to use (this controls the average time lapse between potentially dangerous attacks and thus determines whether the match will be high or low scoring), and when cross-referenced against each other produce the number of the Match Card applicable, this Card providing, on average, the correct ratio of attacks between the home and away team. Five dice are used to re-create, with the help of the twenty Action Cards, the important moves in the match. No attempt has been made to simulate every pass and tackle, the game concentrates only on the decisive moves, the &amp;lsquo;highlights&amp;rsquo; of the game. This action is controlled on the Stadium Card which incorporates a playing pitch containing a Mid-Field and twenty lettered Attack Zones for each team and a Defence State Track on which is recorded the current &amp;lsquo;tightness of each team&amp;rsquo;s defence.&amp;#10;&amp;#10;Each Action Card lists six attacking options and used in conjunction with the dice rolls determines the development or break down of each attack. The Goal Attempt Cards come into play when a scoring chance occurs but the result of such attempts depend to a large degree on the current state of the opponent&amp;rsquo;s Defence which will need to be probed and confused by the build-up preceding the shot or header at goal.&amp;#10;&amp;#10;The Team Cards also show the team&amp;rsquo;s line-up and substitutes, and this is used to keep track of the player currently in possession, receiving or intercepting a pass, committing a foul, etc. etc. Finally, the Timing Chart is used to record the passage of time and to trigger off &amp;lsquo;tactical options&amp;rsquo; which can result in players being pushed forward or pulled back depending on the state of the game. The Referee&amp;rsquo;s Card is consulted in the event of fouls to decide if disciplinary action is taken against the offender, and this also incorporates the Short handed Chart and Substitution Chart.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1987" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5551" value="Sports: Football / Soccer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125288" value="Soccer Replay: 1934 Italy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125289" value="Soccer Replay: 1938 France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125290" value="Soccer Replay: 1950 Brazil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125291" value="Soccer Replay: 1954 Switzerland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125292" value="Soccer Replay: 1958 Sweden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125293" value="Soccer Replay: 1962 Chile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125294" value="Soccer Replay: 1966 England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125295" value="Soccer Replay: 1970 Mexico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125296" value="Soccer Replay: 1974 West Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125297" value="Soccer Replay: 1978 Argentina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125298" value="Soccer Replay: 1982 Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125299" value="Soccer Replay: 1986 Mexico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125300" value="Soccer Replay: 1990 Italy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125301" value="Soccer Replay: 1994 U.S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125594" value="Soccer Replay: Champions – A Selection of League and Cup Winning Teams from the 1970's and 1980's" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125302" value="Soccer Replay: Euroclub 94/5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125591" value="Soccer Replay: Euroclub 95/6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125593" value="Soccer Replay: The Best Of Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125592" value="Soccer Replay: Top English &amp; Scottish Clubs 1995/6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125287" value="Soccer Replay: Uruguay 1930" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="278" value="Terry Goodchild" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1259" value="Lambourne Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4902" value="Owzat Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18" />
+			<average value="6.90556" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.98647" />
+			<median value="0" />
+			<owned value="39" />
+			<trading value="0" />
+			<wanting value="5" />
+			<wishing value="10" />
+			<numcomments value="9" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

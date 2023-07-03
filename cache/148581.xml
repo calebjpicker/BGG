@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="148581">
+         <thumbnail>https://cf.geekdo-images.com/QMRXQ2NRIG7YGah6fQRAbA__thumb/img/hZAUrsPDEqsoO4XOxV3m9MhMvQU=/fit-in/200x150/filters:strip_icc()/pic2534369.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QMRXQ2NRIG7YGah6fQRAbA__original/img/ZwMu_1YITyPELDpBTAu1gst2F5c=/0x0/filters:format(jpeg)/pic2534369.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="District-Z" />
+			
+						                           
+						               													<description>The city is overrun with undead and you are one of its last survivors. Kill the zombies, stay alive, and escape while you still can! But be careful, zombies await around every corner. They are desperate and eager to sink their teeth into you and make you yet another member of their growing legion.&amp;#10;&amp;#10;DISTRICT-Z is a zombie-killing card game for 1-4 players in which you must survive and make your way to the safety of the City&amp;rsquo;s Edge. Each game takes about 30 minutes or less to play. The game &amp;ldquo;board&amp;rdquo; is always randomly generated and determines the layout of the city at the start of each game. The game is easy to play and easy to learn and allows players to get into the action right away.&amp;#10;&amp;#10;During the game, you play the role of one of the six Survivors. Each one of these Survivors has a special ability that helps you on your way to the City&amp;rsquo;s Edge.&amp;#10;&amp;#10;During your turn, you must visit different Location cards. Each Location card has an Event Table at the top of its text area. This table is used to determine what happens as you make your way to safety. When you find a Location Objective, survive and make your way to the City&amp;rsquo;s Edge. A multi-player game is semi-cooperative, however, you must be the first to escape the city to win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="0" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2481" value="Zombies" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41799" value="Theme: Post-Apocalyptic" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70862" value="George Rubio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70862" value="George Rubio" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="113" />
+			<average value="5.83009" />
+			<bayesaverage value="5.50758" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18794" bayesaverage="5.50758" />
+												</ranks>
+
+			<stddev value="1.96603" />
+			<median value="0" />
+			<owned value="296" />
+			<trading value="10" />
+			<wanting value="3" />
+			<wishing value="27" />
+			<numcomments value="45" />
+			<numweights value="10" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

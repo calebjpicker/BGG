@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="39615">
+                                     				
+				<name type="primary" sortindex="1" value="Selus" />
+			
+						                           
+						               													<description>A mancala game. From http://mancala.wikia.com/wiki/Selus:&amp;#10;&amp;#10;&amp;quot;Selus is a generic name given to mancala games which are played on three-row boards. Apparently, the word derived from Geez selus which means &amp;quot;three&amp;quot;. [NB: This makes sense since Ge'ez is an Afro-Asiatic language and this is then cognate with Hebrew shelosh.]&amp;#10; In 1972, Richard Pankhurst wrote an excellent 53-page article on Ethiopian mancala games, including games from Eritrea, Djibouti and Somalia. He gave the rules of 103 games, of which 12 were three-row games or &amp;quot;Selus&amp;quot;.&amp;#10;&amp;#10;In the 1970s, Selus was still played in the highlands of Eritrea and in certain regions of modern Ethiopia, notably northern Tigre, Dorz&amp;eacute; and Kulu Konta.&amp;#10;&amp;#10;This particular variant was reported from the city of Massawa, Eritrea. It was described as Game 13 by Pankhurst.&amp;#10;&amp;#10;Rules:&amp;#10;&amp;#10;The board has 3x6 holes. Initially there are three seeds in each hole. Each player owns the row closest to him and the three holes of the central row at his right hand.&amp;#10;&amp;#10;Each move starts with a player emptying the contents of one of his holes that is not a wegue (&amp;quot;wound&amp;quot;). Then, the seeds are dropped one by one into the following holes.&amp;#10;&amp;#10;If the last seed falls into an occupied hole other than a wegue, the player takes up its contents and distributes these seeds in a new lap. Let's suppose you start the move in your left corner: the seeds are first distributed in your own back row from left to right, then in your central holes from right to left, afterwards in your opponent's back row from right to left and finally in your opponent's central row from right to left (see the diagram).&amp;#10;&amp;#10;It is not permitted to pass a move unless a player has no legal move left.&amp;#10;&amp;#10;The move ends if the last seed is dropped into an empty hole. This is called kwah, an onomatopoetic word that imitates the sound of the stone alighting on the board.&amp;#10;&amp;#10;Wegues are created when the last seed distributed falls into a hole of three, thus making four seeds. The creator is called the owner of the wound who marks it in a distinctive way. Creating a wegue ends the move. A wegue can be created on either side of the board.&amp;#10;&amp;#10;If the last seed of a move is dropped into a wegue, the player captures this seed and, unless the wound was empty, one of the seeds it contained. Capturing is permitted from any wegue, irrespective of the owner. The player must move again (beginning with any hole of his side which is not a wegue) if he captured from a wegue he owns, but must stop moving, if he captured from a wegue owned by his opponent.&amp;#10;&amp;#10;Exception:&amp;#10;&amp;#10;&amp;#10;     The two left-hand holes in a player's back row are called ayemi (&amp;quot;eye&amp;quot;). A player is not permitted to capture from an eye on his side, only from the opponent's side. In that case, he must move again, even if he has captured from an opponent's wegue. If the last seed fell into a wegue in your own ayemi, the move ends. &amp;#10;&amp;#10;&amp;#10;The creation of a wound is only permitted after the original set-up has been destroyed, i.e. after the first move of a game. If, in the first move, the last seed makes four seeds, they are distributed in another lap.&amp;#10;&amp;#10;The game ends when both players have no move left. Each player scores a point for each captured seed and a point for each seed in a wegue owned by him. The player with most points wins.&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="2" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2955" value="Mancala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9" value="Traditional Games: Mancala" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

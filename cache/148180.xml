@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="148180">
+         <thumbnail>https://cf.geekdo-images.com/phbtKPmIZ3N5ErgP63Jylg__thumb/img/vVIDPnPMkiIqwPAdhl7ZepbNs4o=/fit-in/200x150/filters:strip_icc()/pic1804843.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/phbtKPmIZ3N5ErgP63Jylg__original/img/2kbhqL2Pophhj7c-veGDzlRbGOk=/0x0/filters:format(jpeg)/pic1804843.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fox and Hounds" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Devil and Tailors" />
+			    				
+				<name type="alternate" sortindex="1" value="Fox and Geese" />
+			    				
+				<name type="alternate" sortindex="1" value="Hounds and Hare" />
+			    				
+				<name type="alternate" sortindex="1" value="Wilk i owce" />
+			    				
+				<name type="alternate" sortindex="1" value="Wolf and Sheep" />
+			    				
+				<name type="alternate" sortindex="1" value="Wolf und Schafe" />
+			
+						               													<description>Fox and Hounds, Fox and Geese, Fox and Dogs, Wolf and Sheep, Hounds and Hare or Devil and Tailors. There might be even more alternate names. In Dutch it is called Kat en Muizen.&amp;#10;&amp;#10;Fox and Hounds is played on a chess board or checkers board sized 8x8. 4 similar colored pawns or checkers as hounds and a single pawn or checker in other color as a fox.&amp;#10;&amp;#10;Hounds are placed onto fields b8, d8, f8, and h8. Fox starts set onto e1. Fox moves first.&amp;#10;&amp;#10;&amp;#10;8 H H H H&amp;#10;7. . . .&amp;#10;6 . . . .&amp;#10;5. . . .&amp;#10;4 . . . .&amp;#10;3. . . .&amp;#10;2 . . . .&amp;#10;1. . F .&amp;#10; abcdefgh&amp;#10;&amp;#10;&amp;#10;Hounds hunting the fox. The fox moves diagonally one field range forward or backward onto an empty adjacent square per turn. Hounds can only move diagonally one field forward (towards row 1) onto an empty adjacent square.&amp;#10;&amp;#10;Since only diagonal moves are allowed the game is played on the 32 dark fields of the chess board only.&amp;#10;&amp;#10;There is no capturing by jumping and no stacking of checkers. Neither by jumping the opponent as in Checkers nor by moving onto its field replacing the opponent.&amp;#10;&amp;#10;Fox wins by reaching the other side of the board (8th row where hounds started their hunt).&amp;#10;Hounds win by blocking the fox such that it cannot move anymore (when fox has no legal move left).&amp;#10;&amp;#10;If moving perfect then hounds will win.&amp;#10;&amp;#10;Due to simplicity of the material it is sometimes part of family game collections where a Checkers or Chess set is already included.&amp;#10;&amp;#10;See this thread for more information: Same name but played 4:1 on chessboard&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="4" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="2" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="349795" value="Generic Board &quot;Square&quot; Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="28" />
+			<average value="4.28929" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.78692" />
+			<median value="0" />
+			<owned value="33" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="11" />
+			<numweights value="3" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

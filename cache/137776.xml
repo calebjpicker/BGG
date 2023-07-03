@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="137776">
+         <thumbnail>https://cf.geekdo-images.com/lda6XfSeUyAF3vaqm_L2LQ__thumb/img/kkOs_DVyCMMQwoQ_Z0kpTKr8s9Y=/fit-in/200x150/filters:strip_icc()/pic1963503.png</thumbnail>
+      <image>https://cf.geekdo-images.com/lda6XfSeUyAF3vaqm_L2LQ__original/img/-mdqPjzQwV4xgOZEJaPDP97nbbw=/0x0/filters:format(png)/pic1963503.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Praetor" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Praetor: Zum Ruhme Roms!" />
+			    				
+				<name type="alternate" sortindex="1" value="Pretor" />
+			    				
+				<name type="alternate" sortindex="1" value="프리터: 로마 집정관" />
+			
+						               													<description>It's the year AD 122, and the Roman Empire is at the peak of its glory. Caesar Hadrian is no longer waging war against the barbarians, but building cities and fortifications to ensure a lengthy domination of the Roman culture and wealth.&amp;#10;&amp;#10;The southern part of Britain is under Roman domination, and Caesar has already begun the construction of Hadrian's Wall to protect the empire from invasions from the North. Together with the wall, Caesar has ordered the founding of a new city that will remind the locals of the glory of Rome. He has appointed five of his most trusted men to take resources and workers from Rome and to build the city together &amp;ndash; but in the end only one of them will be appointed Praetor and rule the Province in the name of Caesar.&amp;#10;&amp;#10;In Praetor, you will take the role of a Roman engineer, and you will work together with the other players to build a magnificent city. You will manage your limited resources wisely and look for new ones, you will recruit new Workers while your old experienced ones will retire, you will build settlements to keep the population happy, and you will praise the Gods to earn their favor. Caesar will reward you if you give away precious resources to build Hadrian&amp;rsquo;s Wall, thus increasing your chances of becoming Praetor.&amp;#10;&amp;#10;Every turn, you will place your Workers on previously built City Tiles to gain resources, Morale, new Workers, or Favor points. You may also assign Workers to build new City Tiles or spend resources to meet Caesar&amp;rsquo;s demands to gain Favor Points. At the end of each turn, you will have to pay your Workers. Otherwise, the mood in the city will deteriorate.&amp;#10;&amp;#10;Most of the actions your Workers will perform will help them gain experience. They will become increasingly skilled in collecting resources. Your most experienced Workers will eventually retire and bring you additional Favor Points, but you will still have to show solidarity and pay them until the end of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="12" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41855" value="Series: Expert (Granna)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158030" value="Praetor: PromoPack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51955" value="Andrei Novac" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31235" value="David J. Coffey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="58645" value="Agnieszka Kopera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72963" value="David Szilagyi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18529" value="NSKN Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11742" value="Éditions Sans-Détour" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5350" value="Granna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22863" value="Play &amp; Win" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9495" value="Spiral Galaxy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1376" />
+			<average value="6.55269" />
+			<bayesaverage value="5.91989" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3225" bayesaverage="5.91989" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1407" bayesaverage="6.0107" />
+												</ranks>
+
+			<stddev value="1.37114" />
+			<median value="0" />
+			<owned value="2558" />
+			<trading value="238" />
+			<wanting value="45" />
+			<wishing value="265" />
+			<numcomments value="432" />
+			<numweights value="81" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

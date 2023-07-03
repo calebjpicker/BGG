@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="299178">
+         <thumbnail>https://cf.geekdo-images.com/_oJNvgLFVSkUdyuR__VSDg__thumb/img/k2K8909OtsOXCbRZt2QjT8wS5BU=/fit-in/200x150/filters:strip_icc()/pic6011431.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_oJNvgLFVSkUdyuR__VSDg__original/img/Mp9lQEXK1CRK41Y2HC4a29RbQtE=/0x0/filters:format(jpeg)/pic6011431.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Small Railroad Empires" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="小小鐵路帝國" />
+			
+						               													<description>Small Railroad Empires is a pickup and deliver, track-laying and set-collection board game for 2-4 players, where players build railroad tracks, send trains with goods from industries to cities, and complete achievements to earn prestige!&amp;#10;&amp;#10;During their turn, players will build their tracks by placing 2 trains on the modular board. When building tracks, players must pay the gold costs for the different terrain that the track passes through. Once a track connects an industry that produces a good with a city that demands that certain good, the player may send a train to complete the delivery and earn gold depending on the track length.&amp;#10;&amp;#10;Players will also race to complete achievements such as: &amp;quot;Be first to make 4 deliveries&amp;quot; or &amp;quot;Be first to build 3 Tunnels&amp;quot; for which they will earn extra prestige.&amp;#10;&amp;#10;Finally, when all players run out of tracks to lay down, the game ends. Player calculate the final prestige points they have from the achievements and the player with the most prestige is the winner!&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61276" value="Series: Small Empires (Archona Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349991" value="Small Railroad Empires: Freight on Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332594" value="Small Railroad Empires: Red Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332595" value="Small Railroad Empires: Scenario Pack 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332597" value="Small Railroad Empires: Scenario Pack 2" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="342408" value="Small Railroad Empires: Custom Wooden Tracks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="82565" value="Milan Tasevski" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82565" value="Milan Tasevski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29829" value="Archona Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44580" value="Board Game Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44955" value="Jing Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="199" />
+			<average value="6.82261" />
+			<bayesaverage value="5.61594" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7343" bayesaverage="5.61594" />
+												</ranks>
+
+			<stddev value="1.44071" />
+			<median value="0" />
+			<owned value="707" />
+			<trading value="31" />
+			<wanting value="19" />
+			<wishing value="100" />
+			<numcomments value="71" />
+			<numweights value="6" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="335857">
+         <thumbnail>https://cf.geekdo-images.com/olHL4zeLplDzjGgl3o942A__thumb/img/rM7jlskLfGWFexgfoXs6hCi_bU4=/fit-in/200x150/filters:strip_icc()/pic6329985.png</thumbnail>
+      <image>https://cf.geekdo-images.com/olHL4zeLplDzjGgl3o942A__original/img/zeCPxAkB_GAnPC8-_oICYbeQNfk=/0x0/filters:format(png)/pic6329985.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="6th Sense" />
+			
+						                           
+						               													<description>In the trick-taking card game 6th Sense, you score by correctly predicting the number of tricks you'll take in a round.&amp;#10;&amp;#10;The game lasts 4-6 rounds depending on the player count. The deck contains cards numbered 0-14 in five colors, and at the start of a round players are dealt a hand of 11-15 cards, then the top card of the deck is revealed to designate a trump suit. Each player then simultaneously chooses a card from their hand to predict the number of tricks they'll win this round, then places this card face down on the table.&amp;#10;&amp;#10;In general, standard trick-taking rules apply: Someone leads a card, and other players must follow suit, if possible, with the highest trump or highest card of the suit lead winning the trick. That said, some cards have special effects when played:&amp;#10; &amp;#10;    When you play a 0, you can treat it as a 0 of that color, or you can remove the 0 and one previously played card from the current trick.&amp;#10;    A trick with a 4 in it is won by the lowest card played instead of the highest; a second 4 cancels this effect.&amp;#10;    The 6 and 9 are on the same card, and you declare which value you want when playing it (or when using it to predict the number of tricks you'll win).&amp;#10;    When you start a trick with an 8, you can peek at the prediction card of whoever wins that trick.&amp;#10;    If a trick contains at least one 12, the trick's winner can choose to immediately split the cards in that trick to count as two tricks.&amp;#10;&amp;#10;&amp;#10;At the end of the round, if you've collected as many tricks as you predicted at the start of the round, you score that many points. If you failed to collect that number, you lose as many points as the difference between your prediction and what you collected, e.g., if you predicted 5 and collected 4 or 6 tricks, you lose 1 point. After the designated number of rounds, whoever has the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="121244" value="Robert Brouwer" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="59" />
+			<average value="6.46828" />
+			<bayesaverage value="5.52413" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15158" bayesaverage="5.52413" />
+												</ranks>
+
+			<stddev value="1.4992" />
+			<median value="0" />
+			<owned value="172" />
+			<trading value="3" />
+			<wanting value="0" />
+			<wishing value="16" />
+			<numcomments value="21" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="129322">
+         <thumbnail>https://cf.geekdo-images.com/POCowcKgBf5Lyzr6MC9ZVA__thumb/img/dJ6GCijOBjCZsf-fWchYXVM8mhI=/fit-in/200x150/filters:strip_icc()/pic1412291.png</thumbnail>
+      <image>https://cf.geekdo-images.com/POCowcKgBf5Lyzr6MC9ZVA__original/img/-VhP-C1oQNp346WiHw6_hhSlSJo=/0x0/filters:format(png)/pic1412291.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kaijudo" />
+			
+						                           
+						               													<description>This is a reincarnation of TCG &amp;quot;Duel Masters&amp;quot; with some minor changes in rules.&amp;#10;Each player has a deck full of creatures and spells. The goal of the game is to finish an opponent with one of your creature's attacks. However, each player is protected by 5 shields, represented by face-down cards from a player's own deck. When your creature attacks an opponent (and is not blocked by another creature) it breaks one of his shields, and the shield card goes to the owner's hand.  When your creature attacks a defenseless opponent, you win the game.&amp;#10;&amp;#10;The game has some similarities with the grandfather of collectible card games - Magic: the Gathering, which is also made by Wizards of the Coast. However, it has two major differences:&amp;#10;1. There is no distinct card class for producing mana. The same cards, representing creatures and spells, can produce mana if placed in the Mana Zone instead of the Battle Zone. This removes what many see as a major flaw of Magic: the Gathering - &amp;quot;mana flood&amp;quot; and &amp;quot;mana screw&amp;quot;.&amp;#10;2. There are no instant spells or activated abilities. Therefore, there are far fewer surprises for players from their opponents and also fewer tactical decisions during play. On the other hand, it plays quicker and can be easier for children to learn and understand. Even so, it has strong strategic aspects and fun deck building.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1044" value="Collectible Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6040" value="Collectible: Collectible Card Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="10445" value="Duel Masters Trading Card Game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7873" value="Tyler Bielman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="615" value="Mike Elliott" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7245" value="Andrew Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="18590" value="James Hata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="44664" value="Mons Johnson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39677" value="Tom LaPille" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10424" value="Bill McQuillan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2276" value="Ryan Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4087" value="Mark Rosewater" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50055" value="D-Suzuki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50053" value="Dai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14343" value="Matt Dixon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50056" value="Dustmoss" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50090" value="Asai Genji" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50095" value="Haccan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50058" value="Akira Hamada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65337" value="Keita Hattori" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65339" value="Hippo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65333" value="Hirokoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19952" value="Masaki Hirooka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50059" value="Soushi Hirose" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50060" value="Masateru Ikeda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50061" value="Hikaru Ikusa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50091" value="Iron Pot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40224" value="Ittoku" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50062" value="Daisuke Izuka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50063" value="Jason" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50064" value="Youichi Kai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50065" value="Eiji Kaneda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50066" value="Katsuya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40250" value="Tsutomu Kawade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50067" value="Atsushi Kawasaki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50087" value="Katsuhiko Kojoh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50068" value="Hisanobu Kometani" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50069" value="Kou1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50081" value="Takesi Kuno" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65334" value="Mikio Masuda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50070" value="Miho Midorikawa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50094" value="Mikumo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50097" value="Miya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50071" value="Norikatsu Miyoshi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50072" value="Hisashi Momose" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50073" value="Yusaku Nakaaki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50100" value="Nakagawa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65332" value="Ryosuke Nishiyama" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19538" value="Nottsuo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50030" value="Syuichi Obata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50074" value="Tomofumi Ogasawara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50023" value="Okera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65338" value="Ozica" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14348" value="Steve Prescott" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12316" value="Wayne Reynolds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50076" value="Nakoi Saito" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19944" value="Sansyu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14614" value="Chris Seaman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50077" value="Seki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65341" value="Kairi Shoyama" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65340" value="Somen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50088" value="Ken Sugawara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50083" value="Yoshio Sugiura" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65336" value="Hiroyuki Tadokoro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40380" value="Hideaki Takamura" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50096" value="Toshiaki Takayama" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49893" value="Hiroshi Tanigawa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65342" value="Towa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50089" value="Yoko Tsukamoto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50092" value="Tsuu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15022" value="Eva Widermann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50078" value="Akifumi Yamamoto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50084" value="Taro Yamazaki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50627" value="Yarunoca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65335" value="Yocky" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50080" value="Ryoya Yuki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50690" value="ZENTOYO" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13" value="Wizards of the Coast" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="101" />
+			<average value="6.08416" />
+			<bayesaverage value="5.51935" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16126" bayesaverage="5.51935" />
+																				<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="254" bayesaverage="5.52773" />
+												</ranks>
+
+			<stddev value="1.81472" />
+			<median value="0" />
+			<owned value="178" />
+			<trading value="17" />
+			<wanting value="0" />
+			<wishing value="9" />
+			<numcomments value="36" />
+			<numweights value="6" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

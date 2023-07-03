@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="9138">
+         <thumbnail>https://cf.geekdo-images.com/WTXrkzZNxnZrurndJkwUnQ__thumb/img/VqiIwzJpTPw3xb8p5Xg92W-IJPs=/fit-in/200x150/filters:strip_icc()/pic38574.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WTXrkzZNxnZrurndJkwUnQ__original/img/wAAzJ4JOcL5kUqjYEYb8PhwpkyM=/0x0/filters:format(jpeg)/pic38574.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Teeko" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Teko" />
+			
+						               													<description>The game Teko was first released in 1945. Teko is played on a 4x4 grid. The name was changed to Teeko (and the board grid changed to 5x5) for the 1952 release by John Scarne Games.&amp;#10;&amp;#10;Each player has four pieces. Players start by alternately placing pieces on a 5x5 grid, then alternate moves (moving one piece each turn to an adjacent point on the grid). Object is to get four pieces in a row, or to form a square with your four pieces.&amp;#10;&amp;#10;Teko Junior rules do not allow diagonal moves. A player can win with the same patterns, but can also win by blocking his opponent's 4 pieces from moving (on a 4x4 grid).&amp;#10;&amp;#10;In 1998 Guy Steele solved standard Teeko, as well as all variants proposed by the original inventor. The solution was brute force. Standard Teeko (only win with 4 in a row or a 2x2 square) is a draw with perfect play. Advanced Teeko (win with 4 in a row or a square of any size) is a win for the first player.&amp;#10;&amp;#10;Reimplementations or successors:&amp;#10;&amp;#10;A fully independently developed successor of the game with similar material and quite close winning conditions is Mondrago. Anyway instead of starting from a clean board Mondrago uses a fixed setup of the player's pawns. Besides winning with squares being parallel to board edges Mondrago uses diagonally and obliquely aligned perfect squares as well.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1945" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="3" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1547" value="John Scarne" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2131" value="John Scarne Games, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22843" value="Musto Bros., Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="22" />
+			<average value="6.15909" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.72143" />
+			<median value="0" />
+			<owned value="45" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="11" />
+			<numcomments value="18" />
+			<numweights value="6" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

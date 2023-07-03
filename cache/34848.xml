@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="34848">
+         <thumbnail>https://cf.geekdo-images.com/ORu97ezdDq8e3Xgg4m1Miw__thumb/img/2iv-e_ce_v4uhtJPVCkrbc_22yQ=/fit-in/200x150/filters:strip_icc()/pic517014.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ORu97ezdDq8e3Xgg4m1Miw__original/img/hGlUYGN1xs60bdudOQ0eSYSd4IQ=/0x0/filters:format(jpeg)/pic517014.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Raumschach" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="3 dimensional chess" />
+			    				
+				<name type="alternate" sortindex="1" value="3D chess" />
+			    				
+				<name type="alternate" sortindex="1" value="Space chess" />
+			    				
+				<name type="alternate" sortindex="1" value="Three dimensional chess" />
+			
+						               													<description>Doctor Ferdinand Maack refined the design of Lionel Kieseritzky's original Kubikschach, which translates from the German as 'Cube Chess' and is the earliest known form of 3D Chess, in 1907 and created Raumschach which is German for 'Space chess'.&amp;#10;A Raumschach board is smaller than that of Kubikschach, being only five 5x5 boards stack above each other and incorporated two additional unicorn pieces as well as two extra pawns into each side.&amp;#10;It was very popular in Germany throughout the early 20th century and widely played.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1907" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="2" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78627" value="Components: 5x5x5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5061" value="Components: Three Dimensional Chess" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10213" value="Ferdinand Maack" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="7.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.29904" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="7" />
+			<numcomments value="2" />
+			<numweights value="3" />
+			<averageweight value="4.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

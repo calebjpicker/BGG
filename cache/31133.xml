@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="31133">
+         <thumbnail>https://cf.geekdo-images.com/0EMZ1ZcjJyUCpdVXXTlbCw__thumb/img/oJTKbCyJHfD0E_oFkcSWQvCO_U4=/fit-in/200x150/filters:strip_icc()/pic310029.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0EMZ1ZcjJyUCpdVXXTlbCw__original/img/ZEe5LrJ4k239qA6Ob_jqRrJ3jDA=/0x0/filters:format(jpeg)/pic310029.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ice Flow" />
+			
+						                           
+						               													<description>Ice Flow is a strategic family game, interesting enough for gamers, as there are many tactical decisions to make.&amp;#10;&amp;#10;Inspired by Karl Bushby's 1998 Goliath Expedition, players race their explorers across the Bering Strait from Alaska to Siberia - riding ice floes, dodging polar bears, and collecting useful items on the way.  Thus, at its heart, Ice Flow is a resource management game coupled with a traveling salesman type problem where the ground (or ice) is constantly moving.&amp;#10;&amp;#10;Each player has three explorers and rucksack card (to store a limited amount of rope and fish in).  The board consists of an array of hexagonal spaces with ice floes (hexagonal plastic tiles) that are introduced at the top and can be moved down the board by players with rates dependent on where they are on the board.  On their turn players must first move, rotate or introduce a new ice floe, then they can move one of their explorer as far as they can (or want) before collecting an item from the tile they finished on.  When moving, explorers are limited by the obstacles they must overcome and the tools they have available.  For example, the ice floes have smooth sides and rough side: the rough sides depict &amp;quot;pack ice&amp;quot; which is hard to cross, and costs a rope.  Similarly, explorers can swim up to one space, but that costs a fish as swimming through arctic waters is energy sapping.  Polar bears are also a hazard that must be avoided or lured away with fish; beware they can be lured away from one player straight into the path of another!&amp;#10;&amp;#10;The winner is the first player to negotiate all the hazards and arrive in Siberia with his three explorers intact.&amp;#10;&amp;#10;Not to be confused with:  IceFloe&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="75" />
+						               				<minage value="11" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="18">
+			
+		<results>		
+					<result level="366" value="No necessary in-game text" numvotes="18" />
+					<result level="367" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="368" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="369" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="370" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2957" value="Bias" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2948" value="Resource to Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12809" value="Region: Arctic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43646" value="States: Alaska" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7533" value="Dean Conrad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9287" value="John Streets" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11926" value="R. H. Aidley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2843" value="JKLM Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5108" value="Ludorum Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1425" />
+			<average value="6.38726" />
+			<bayesaverage value="5.8684" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3565" bayesaverage="5.8684" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1532" bayesaverage="5.93991" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1087" bayesaverage="5.95297" />
+												</ranks>
+
+			<stddev value="1.20437" />
+			<median value="0" />
+			<owned value="1661" />
+			<trading value="132" />
+			<wanting value="77" />
+			<wishing value="261" />
+			<numcomments value="521" />
+			<numweights value="141" />
+			<averageweight value="2.1489" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

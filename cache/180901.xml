@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="180901">
+         <thumbnail>https://cf.geekdo-images.com/VGP4ZTOzo4OHjHiDBDfx1Q__thumb/img/EcU2AzVuptcrjEhUohyC9VBn4Ro=/fit-in/200x150/filters:strip_icc()/pic7049926.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VGP4ZTOzo4OHjHiDBDfx1Q__original/img/uLaMPJWtKAnJrT67m2qlDkpM56s=/0x0/filters:format(jpeg)/pic7049926.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Joraku" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="上洛" />
+			
+						               													<description>Joraku is an ancient Japanese word commonly used before the Edo period which means &amp;ldquo;Going to Kyoto&amp;rdquo;.&amp;#10;&amp;#10;Specifically, during the Sengoku period, Joraku refers to the act of local warlords, the Daimyo, marching their armies toward Kyoto to &amp;quot;protect the Shogun and Emperor from other rogue lords&amp;quot; and ultimately rule in their place.&amp;#10;&amp;#10;Onward to Kyoto! Take command of your army, and defeat every Daimyo blocking the way! March on! To victory! March on! Kachidoki!&amp;#10;&amp;#10;Joraku is a trick-taking area control game. Outwit your opponents with tactical card play, use your loyal Samurais to bid control of areas and build prestige. Only the Daimyo with the highest reputation and the biggest stick can rule Japan!&amp;#10;&amp;#10;&amp;#10;Round Overview&amp;#10;&amp;#10;&amp;#10;    Recruit Phase&amp;#10;        Draw new hand of 5(6) skirmish cards in a 4(3) player game. &amp;#10;        Pass 2 cards to the left simultaneously.&amp;#10;    &amp;#10;    Skirmish Phase&amp;#10;         Each player plays 1 card and resolves it. &amp;#10;         Check who wins this skirmish.&amp;#10;         Pass the Kachidoki card to winner. All players rank influence where the winner's Daimyo token is to gain RP.&amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;        Repeat 1~3 until all cards in hand are played.&amp;#10;&amp;#10;&amp;#10;&amp;#10;    Prestige Phase:&amp;#10;&amp;#10;&amp;#10;&amp;#10;        Rank influence of players in each area, earn Reputation Points based on the score charts on the map.&amp;#10;&amp;#10;&amp;#10;The game lasts for 3 rounds, and the player with the highest RP wins.&amp;#10;The points given in each area will be different for every round. &amp;#10;Your Samurai cubes will stay on the map between rounds, so plan for the future when you place them.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="576" value="No necessary in-game text" numvotes="2" />
+					<result level="577" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="578" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="579" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="580" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58059" value="History: Sengoku Period" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="84052" value="Iori Tsukinami (月並いおり)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="97285" value="Nariko (ナリコ)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="100769" value="Katie Welch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23245" value="Moaideas Game Design" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40510" value="Delirium Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1237" />
+			<average value="7.12854" />
+			<bayesaverage value="6.13362" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2184" bayesaverage="6.13362" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1033" bayesaverage="6.27274" />
+												</ranks>
+
+			<stddev value="1.23512" />
+			<median value="0" />
+			<owned value="2332" />
+			<trading value="75" />
+			<wanting value="132" />
+			<wishing value="599" />
+			<numcomments value="317" />
+			<numweights value="26" />
+			<averageweight value="2.1923" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

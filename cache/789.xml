@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="789">
+         <thumbnail>https://cf.geekdo-images.com/7pDn8gNMqq2dcsU3jjr25A__thumb/img/buEso4cVVvDoinSz4_FR90te418=/fit-in/200x150/filters:strip_icc()/pic125970.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7pDn8gNMqq2dcsU3jjr25A__original/img/l9IdQb0PQene8X3gu-xYzkJFduE=/0x0/filters:format(jpeg)/pic125970.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Focus" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Domination" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominio" />
+			    				
+				<name type="alternate" sortindex="1" value="Focus logica e tattica" />
+			    				
+				<name type="alternate" sortindex="1" value="Fokus" />
+			
+						               													<description>Focus (or Domination) is a Sid Sackson abstract strategy game in which players attempt to make moves and capture pieces in such a manner that their opponent(s) have no moves remaining.&amp;#10;&amp;#10;On a turn a player may move a piece or stack of pieces based on the number of pieces that comprise it as well as the number of pieces to be moved (e.g. 1-piece = 1 space, 3 piece stack = 3 spaces.)  When a stack grows over five pieces, pieces from the bottom of the stack are removed to bring the stack back down to five.  Pieces of a player's own color that are taken by that player are reserved to re-enter the game at a later time; pieces of the opponent's color are kept as captured.  Reserved pieces can be entered on a turn in any space on the board in place of making a move of pieces; strategic use of reserved pieces can make the game by utilizing them to capture stacks controlled by opponent(s).&amp;#10;&amp;#10;Sackson includes the game In his 1969 book, A Gamut of Games.  The book  makes a reference to the Whitman Publishing  Company production of 1965, along with reporting that the two-handed version was first described in the October 1963 issue of Scientific American Magazine.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1963" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="5" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8842" value="Series: Gamut of Games (Sid Sackson)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="4385" value="A Gamut of Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4" value="Sid Sackson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24191" value="Marion Pott" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22961" value="Daekor Designs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1731" value="Estrela" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="595" value="Hugendubel Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15944" value="Labo Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="807" value="Mondadori Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="823" value="Random House, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="329" value="Whitman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7387" value="WOSI &quot;Wspolna Sprawa&quot;" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="814" />
+			<average value="6.46705" />
+			<bayesaverage value="5.77475" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4408" bayesaverage="5.77475" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="188" bayesaverage="6.17071" />
+												</ranks>
+
+			<stddev value="1.46903" />
+			<median value="0" />
+			<owned value="1630" />
+			<trading value="83" />
+			<wanting value="46" />
+			<wishing value="177" />
+			<numcomments value="378" />
+			<numweights value="73" />
+			<averageweight value="2.3836" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

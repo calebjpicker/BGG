@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="191475">
+         <thumbnail>https://cf.geekdo-images.com/4a3UjVGj7ZqwG8aGqWE0KQ__thumb/img/iS--SJ-r-M7CsFyd9Z-KmKygRsM=/fit-in/200x150/filters:strip_icc()/pic5895064.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4a3UjVGj7ZqwG8aGqWE0KQ__original/img/hDAER9V5vnYlJv9Aj08iOlh6BeA=/0x0/filters:format(jpeg)/pic5895064.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wizard: Jubiläumsedition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Wizard: 25 Jahre Jubiläumsedition" />
+			    				
+				<name type="alternate" sortindex="1" value="Wizard: Gra Przepowiedni" />
+			
+						               													<description>The trick-taking game Wizard uses a sixty-card deck that consists of the traditional 52-card deck (1-13 in four suits) along with four Wizards (high) and four Jesters (low).&amp;#10;&amp;#10;Players compete over multiple rounds based on the number of players, and whoever ends with the highest score wins. In each round, players are dealt a hand of cards &amp;mdash; one card in the first round, two cards in the second, three in the third, etc. &amp;mdash; then trump is determined by flipping the top card of the undealt deck; if a suit is revealed, that suit is trump, while if a Wizard or Jester (or no card in the final round) is revealed, then the round has no trump. Players then state how many tricks they expect to win in the round.&amp;#10;&amp;#10;The playing and winning of the tricks uses mostly standard trick-taking rules. If a player leads a suited card, then all other players must follow suit, if possible. If a player leads a Jester, then the second player determines the suit led. If a player leads a Wizard, then those who follow can play whatever they want. However, in all cases a player may always play a Wizard or Jester, even if they hold cards in the suit led.&amp;#10;&amp;#10;After each player has played a card, determine the winner of the trick as follows: If one or more Wizards were played, the player of the first Wizard wins the trick, collects the cards, and leads to the next trick. If not, whoever played the highest trump wins the trick. If not, whoever played the highest card of the suit led wins the trick. If all players played Jesters, whoever played the first Jester wins.&amp;#10;&amp;#10;After all tricks have been played, players tally their score for the round. If a player matched their bid, winning exactly as many tricks as stated at the start of the round, they score 20 points, plus 10 points for each trick taken. If a player missed their bid, they lose 10 points for each trick that they were off, whether they took more or fewer than predicted.&amp;#10;&amp;#10;A common variant in Wizard is to not allow the total number of tricks bid in a round to match the round number, thereby forcing (at least) one player to be off each round.&amp;#10;&amp;#10;Wizard: 20th Jubil&amp;auml;umsedition is a special edition of Wizard that includes six cards not present in the normal game, including a single dragon card that beats a Wizard, a four-colored 7-1/2 Juggler card, and a bomb card that negates the bids for the round, with players then scoring points based on the total number of tricks they take.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="1" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73583" value="Creatures: Dwarves &amp; Gnomes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19299" value="Creatures: Fairies / Elves / Pixies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14370" value="Series: Wizard (Amigo)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1465" value="Wizard" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="618" value="Ken Fisher" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="419" />
+			<average value="7.68092" />
+			<bayesaverage value="5.86344" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3591" bayesaverage="5.86344" />
+												</ranks>
+
+			<stddev value="1.36925" />
+			<median value="0" />
+			<owned value="1384" />
+			<trading value="11" />
+			<wanting value="9" />
+			<wishing value="66" />
+			<numcomments value="60" />
+			<numweights value="11" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

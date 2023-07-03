@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8195">
+         <thumbnail>https://cf.geekdo-images.com/agslhCTZF1YGmq5Qb44YsA__thumb/img/I3d2mP4F7UJ8ZXpJXzVB5QOT2FA=/fit-in/200x150/filters:strip_icc()/pic4907101.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/agslhCTZF1YGmq5Qb44YsA__original/img/c-IPFOVHh8s8PCfMLBeMARneDCc=/0x0/filters:format(jpeg)/pic4907101.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Viva Topo!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Carrera Mice" />
+			    				
+				<name type="alternate" sortindex="1" value="Dzielne myszki" />
+			    				
+				<name type="alternate" sortindex="1" value="Kazensnaaiers" />
+			    				
+				<name type="alternate" sortindex="1" value="Mlsné myšky" />
+			    				
+				<name type="alternate" sortindex="1" value="Ratones a la Carrera" />
+			    				
+				<name type="alternate" sortindex="1" value="Sajtbirodalom" />
+			    				
+				<name type="alternate" sortindex="1" value="Viva Maus!" />
+			    				
+				<name type="alternate" sortindex="1" value="Сырный край" />
+			    				
+				<name type="alternate" sortindex="1" value="起司天堂" />
+			    				
+				<name type="alternate" sortindex="1" value="생쥐 만세!" />
+			
+						               													<description>In Viva Topo!, players attempt to advance their mice (pieces) from the start to any of various goals. The further the goal, the more cheese (points) it is worth. Pursuing the mice is the cat that removes the mice from the game should it catch the mice.&amp;#10;&amp;#10;Movement is regulated by a die which has 1/1/2/3/4/5 on the sides. The &amp;quot;1&amp;quot; sides also move the cat. Initial cat moves are only one space, but become two spaces after once around the track, so when the cat speeds up, the game is almost all over!&amp;#10;&amp;#10;Viva Topo! is a family game that has players balancing risk and rewards as they attempt to outrun the cat and score for cheese.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2002" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="4" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="37">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="9" />
+					<result value="4" numvotes="22" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="12" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7269" value="Animals: Mice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28421" value="Series: Pegasus Children's Games (Matagot)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="59543" value="Den Letzten beißen die Hunde" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="21562" value="Die Maus im Nacken" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="500" value="Manfred Ludwig" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3897" value="Barbara Kinzebach" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="500" value="Manfred Ludwig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43873" value="Anne Pätzke" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1917" value="Selecta Spielzeug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7496" value="Egmont Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1448" />
+			<average value="6.82416" />
+			<bayesaverage value="6.03911" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2554" bayesaverage="6.03911" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="26" bayesaverage="6.63226" />
+												</ranks>
+
+			<stddev value="1.24391" />
+			<median value="0" />
+			<owned value="2268" />
+			<trading value="52" />
+			<wanting value="88" />
+			<wishing value="341" />
+			<numcomments value="546" />
+			<numweights value="111" />
+			<averageweight value="1.0811" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

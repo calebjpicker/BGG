@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="259394">
+         <thumbnail>https://cf.geekdo-images.com/19ZM_UPxeotq2PsY0do_xw__thumb/img/yXx3knEbMjsdPKGmg7qcVb_Zjio=/fit-in/200x150/filters:strip_icc()/pic5722884.png</thumbnail>
+      <image>https://cf.geekdo-images.com/19ZM_UPxeotq2PsY0do_xw__original/img/Md0FKSivqqq01LTv-EbPqO9Yr5w=/0x0/filters:format(png)/pic5722884.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Storm Above the Reich" />
+			
+						                           
+						               													<description>&amp;quot;Storm Above the Reich&amp;quot; is a solitaire wargame depicting a Luftwaffe squadron of Fw190s struggling to deter and destroy the relentless daylight raids over Germany during World War Two. The player&amp;rsquo;s individual aircraft, each represented by a stickered block, must confront the mighty &amp;ldquo;combat box&amp;rdquo; formation of the United States Army Air Force, a deadly terrain of B-24 Liberator heavy bombers. Like its counterpart, Skies Above the Reich, the game is a broad strokes depiction that presents the arc of the desperate air war. Stretching from late 1942 to early 1945, Storm Above the Reich follows that trajectory in a series of missions strung together to make a campaign. Each mission will take a half hour or more to play, while a campaign can last anywhere between 6 to 60 missions.&amp;#10;&amp;#10;Stand-Alone and an Expansion: &amp;quot;Storm Above the Reich&amp;quot; is a stand-alone game; you don&amp;rsquo;t need &amp;quot;Skies Above the Reich&amp;quot; to play. However, it can also serve as an expansion for that game. Storm uses the same rules as Skies, and components in one game transfer seamlessly to the other. Combined, Storm and Skies present eight formation maps, six pursuit maps, B-17s and B-24s. In Storm, you get an oversized staffel of 18 Fw190s, with the option of augmenting it into a Sturmbocke staffel. In Skies, you get a staffel of Bf109s, and with the games combined, the staffels can also be combined.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="4" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="201" value="No necessary in-game text" numvotes="0" />
+					<result level="202" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="203" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="204" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="205" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61978" value="Players: Solitaire Only Wargames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="191612" value="Skies Above the Reich" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="57592" value="Mark Aasted" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="44467" value="Jeremy White" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105186" value="Antonis Karidis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44467" value="Jeremy White" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="173" />
+			<average value="8.07089" />
+			<bayesaverage value="5.67342" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5870" bayesaverage="5.67342" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="593" bayesaverage="6.40092" />
+												</ranks>
+
+			<stddev value="1.21632" />
+			<median value="0" />
+			<owned value="821" />
+			<trading value="14" />
+			<wanting value="26" />
+			<wishing value="177" />
+			<numcomments value="77" />
+			<numweights value="15" />
+			<averageweight value="3.1333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

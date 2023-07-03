@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="266734">
+         <thumbnail>https://cf.geekdo-images.com/ksIeNvJgsg1LEJyEF4bW4g__thumb/img/KzhU3iXZxgVsa7D5gvnjNeqKowg=/fit-in/200x150/filters:strip_icc()/pic4470018.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ksIeNvJgsg1LEJyEF4bW4g__original/img/6dHRkbmJCHtTwBo4m9kHUju8V10=/0x0/filters:format(jpeg)/pic4470018.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hexdominimum" />
+			
+						                           
+						               													<description>Hexdominimum uses the Double-seven binary-coding hexdominoes by Nestorgames, that includes 36 tiles (with numbers from 0 to 7) composed of two adjacent hexagons. Instead of the standard &amp;lsquo;pips&amp;rsquo;, this set uses a special concentric binary representation. A central pip equals 1, a small circle equals 2 and a big circle equals 4.&amp;#10;&amp;#10;Hexdominimum is a derivative of Mystique Energy and Dominimum (by the same designer) that can be played with this dominoes set. Hexdominimum is for 2 to 4 players.&amp;#10;&amp;#10;To set up, shuffle the tiles face-down on the table. Each player then draws a tile without showing it to the other players, looks at it, then places it before them so the other players can&amp;rsquo;t see it. If both symbols are the same (i.e. it is a double tile) then discard the tile to the supply and re-draw until you get a tile with two different symbols; then reshuffle the supply. This is your &amp;quot;mission tile&amp;quot;. Each player then draws a second tile; this is your &amp;quot;playing tile&amp;quot;.&amp;#10;&amp;#10;The first player places her playing tile on the table face-up. Then, starting with the second player, players take turns in anticlockwise order, placing their playing tile on the table adjacent to at least one placed tile so that the tiles fit into an imaginary hexagonal grid, then drawing a new playing tile from the supply (if possible). The values of adjacent tiles don&amp;rsquo;t need to match.&amp;#10;&amp;#10;The game ends when the last tile has been placed on the table, and each player then calculates her score. For each of the two symbols on your mission tile, find the largest contiguous, connected group of that symbol. Count the number of hexagons in that group. Once you have counted the largest group for each of your two symbols, multiply these two values to determine your score.&amp;#10;&amp;#10;The player with the lowest score wins. In case of a tie, the tied player who played her final tile first wins.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="136" value="No necessary in-game text" numvotes="0" />
+					<result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="140" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="326018" value="Puppy Park: Secret Mission" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="182233" value="Dominimum" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

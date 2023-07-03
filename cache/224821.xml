@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="224821">
+         <thumbnail>https://cf.geekdo-images.com/rfkpP2id0JwDWw5694PRQQ__thumb/img/5A9VoUaZ1B5Wx1t0n74mfLBHW2o=/fit-in/200x150/filters:strip_icc()/pic3496794.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rfkpP2id0JwDWw5694PRQQ__original/img/Od_smbHwsk-3Qw2HntZbU-oUg4I=/0x0/filters:format(jpeg)/pic3496794.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="One Deck Dungeon: Forest of Shadows" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Karciane Podziemia: Las Cieni" />
+			    				
+				<name type="alternate" sortindex="1" value="One Deck Dungeon: Forêt des Ombres" />
+			    				
+				<name type="alternate" sortindex="1" value="One Deck Dungeon: La Foresta delle Ombre" />
+			    				
+				<name type="alternate" sortindex="1" value="Winziges Verlies: Schattenwald" />
+			
+						               													<description>One Deck Dungeon is a card game &amp;quot;roguelike&amp;quot; &amp;mdash; a dungeon delve that is different every time, difficult to survive, with a character you build up from scratch. The deck consists of various foes to combat and other perils from the dungeon. Each card depicts both the obstacle to overcome and the potential rewards for doing so. When you defeat a card, you claim it as either experience, an item, or a skill, tucking it under the appropriate side of your character card to show its benefits. The longer you take exploring the dungeon, the deeper you'll delve, and the difficulty will scale up quickly! If you make it far enough, you'll have to fight the dungeon boss. Survive, and you'll be a legend!&amp;#10;&amp;#10;One Deck Dungeon: Forest of Shadows is a standalone expansion for  One Deck Dungeon that contains new heroes, new dungeons, new perils, new foes, and new mechanisms: Poison and event Perils! It can be combined with the original game for a hybrid dungeon experience, with the heroes and dungeons being compatible with the original, or played on its own.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="49">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="38" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79059" value="Series: One Deck  (Asmadi Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73724" value="Theme: Boss Battle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295146" value="One Deck Dungeon: Abyssal Depths" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368337" value="One Deck Dungeon: Felisi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286136" value="One Deck Dungeon: Mist" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="233617" value="One Deck Dungeon: Forest of Shadows – Neoprene Playmat" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="179275" value="One Deck Dungeon" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7011" value="Chris Cieslik" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73851" value="Alanna Cervenak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="83354" value="Will Pitzer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113182" value="Vicki Sarkissian" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5407" value="Asmadi Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37959" value="MS Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2892" />
+			<average value="7.13235" />
+			<bayesaverage value="6.43283" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1305" bayesaverage="6.43283" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="281" bayesaverage="6.64301" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="363" bayesaverage="6.52775" />
+												</ranks>
+
+			<stddev value="1.28329" />
+			<median value="0" />
+			<owned value="9482" />
+			<trading value="234" />
+			<wanting value="116" />
+			<wishing value="672" />
+			<numcomments value="703" />
+			<numweights value="53" />
+			<averageweight value="2.3396" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

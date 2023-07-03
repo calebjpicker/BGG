@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="436">
+         <thumbnail>https://cf.geekdo-images.com/--ft4w4hRnsbSUqhEvB5VA__thumb/img/mSHFCm80JFwYqw6HjNQSOd3YVeI=/fit-in/200x150/filters:strip_icc()/pic70466.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/--ft4w4hRnsbSUqhEvB5VA__original/img/Y50BdXA9OSr1ZNb5ld8TzZQlDQE=/0x0/filters:format(jpeg)/pic70466.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Canyon" />
+			
+						                           
+						               													<description>Canyon is a trick-taking game in which players try to predict exactly how many tricks they will take.  The number of cards in a hand increases and then decreases in size.  A correct prediction gives your marker movement points around a scoring track depicted on a river in a canyon, whose main feature of interest is a section of &amp;quot;rapids&amp;quot; near the finish line where your marker will be &amp;quot;caught in the current&amp;quot; and sent back a few spaces if you go too many hands without a correct prediction.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Bid &amp; Bluff&amp;#10;&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Grand Canyon&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="226" value="No necessary in-game text" numvotes="5" />
+					<result level="227" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="228" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="229" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="230" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43639" value="Theme: Native Americans / First Peoples" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1020" value="Canyon: Grand Canyon" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5628" value="Bid &amp; Bluff" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="218" value="Frederick A. Herschler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29" value="ABACUSSPIELE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="716" value="Grünspan-Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="799" />
+			<average value="6.24964" />
+			<bayesaverage value="5.71832" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5124" bayesaverage="5.71832" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1446" bayesaverage="5.7817" />
+												</ranks>
+
+			<stddev value="1.33264" />
+			<median value="0" />
+			<owned value="1041" />
+			<trading value="42" />
+			<wanting value="31" />
+			<wishing value="84" />
+			<numcomments value="307" />
+			<numweights value="73" />
+			<averageweight value="1.5753" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

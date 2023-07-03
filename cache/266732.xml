@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="266732">
+         <thumbnail>https://cf.geekdo-images.com/khqSCzF5mRu6WDyIGstjVw__thumb/img/Eo1ouOpHw-TakXRFrRikW2PUjH0=/fit-in/200x150/filters:strip_icc()/pic4469418.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/khqSCzF5mRu6WDyIGstjVw__original/img/wqWoSrGoweiliFFiWq0zZUHm9KQ=/0x0/filters:format(jpeg)/pic4469418.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hexdominup" />
+			
+						                           
+						               													<description>Hexdominup is a game that uses the Double-seven binary-coding hexdominoes set by Nestorgames.&amp;#10;&amp;#10;Double-seven binary-coding hexdominoes includes 36 tiles (with numbers from 0 to 7) composed of two adjacent hexagons. Instead of the standard &amp;lsquo;pips&amp;rsquo;, this set uses a special concentric binary representation. A central pip equals 1, a small circle equals 2 and a big circle equals 4.&amp;#10;&amp;#10;Hexdominup is a game for 2 to 4 players, derived from Dominup, by the same designer.&amp;#10;&amp;#10;There are two types of placements in Hexdominup. In both cases the tile must be aligned with an imaginary hexagonal grid:&amp;#10;&amp;#10;&amp;#10;     &amp;lsquo;Climb&amp;rsquo; placement: The tile is placed atop two adjacent tiles of the same level, so that the numbers (symbols) of the placed tile match the symbols underneath (one of each supporting tile).&amp;#10;     &amp;lsquo;Expand&amp;rsquo; placement: The tile is placed on the table and adjacent to at least one tile already placed. The values of adjacent hexagons don&amp;rsquo;t need to match.&amp;#10;&amp;#10;&amp;#10;How to play&amp;#10;&amp;#10;Randomly distribute the tiles face-down among the players (as in dominoes).&amp;#10;&amp;#10;The player with the double-7 starts by placing it in the middle of the playing surface.&amp;#10;&amp;#10;Starting with the second player, players take turns in anticlockwise order doing all of the following steps in order until the game end condition is reached:&amp;#10;&amp;#10;&amp;#10;     If you can make a climb placement with at least one of your tiles, then you must do so. You can choose which tile to place, as long as the placement is legal. Repeat this action until you can&amp;rsquo;t make any more climb placements.&amp;#10;     If you have at least one tile left, then make one expand placement.&amp;#10;&amp;#10;&amp;#10;If, at the end of your turn, you have no tiles left, then you&amp;rsquo;ve won and the game ends. However, the other players can continue playing to determine 2nd, 3rd, and 4th place if they wish.&amp;#10;&amp;#10;Variant: Misere Hexdominup. In this variant, the player who runs out of tiles first loses.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="182232" value="Dominup" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.471405" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

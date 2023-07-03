@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="173096">
+         <thumbnail>https://cf.geekdo-images.com/UhtxFEXDXOmxyMf0wsnIrA__thumb/img/GwRP4puZbkO0P0yzm0TG6Bjhqac=/fit-in/200x150/filters:strip_icc()/pic4231262.png</thumbnail>
+      <image>https://cf.geekdo-images.com/UhtxFEXDXOmxyMf0wsnIrA__original/img/VRvop7Xu98fiPdjozAZIo_o_ufc=/0x0/filters:format(png)/pic4231262.png</image>
+                                     				
+				<name type="primary" sortindex="3" value="A Tale of Pirates" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Une Histoire de Pirates" />
+			    				
+				<name type="alternate" sortindex="1" value="Příběhy pirátů" />
+			    				
+				<name type="alternate" sortindex="5" value="Una storia di pirati" />
+			
+						               													<description>Put on your captain's hat and navigate the 3D pirate ship using sand timers in this unique real-time cooperative game.&amp;#10;&amp;#10;As a member of an adventurous pirate crew, your goal is to be crowned Admiral of the Black, the most feared pirate ship in the Caribbean. To earn this title, you must complete dangerous scenarios in the shortest possible time frame. The most innovative element of the game is that the player uses their own 30-second sand timer as a character to be placed on the ship to perform actions. Each time a player places their own sand timer, they have to wait for the sand to run out to be able to perform the action needed. Each hole in the ship represents an area where you can perform a specific action: turning the ship, loading cannons, shooting enemy ships, repairing damage, and so forth...&amp;#10;&amp;#10;A Tale of Pirates (previously announced as Admiral of the Black) has ten different scenarios, ranging from ordinary pirating activities like looking and shooting, to kraken-hunting, prison breaks, treasure hunts, and much more. An app for any smartphone or tablet will lead the players along the missions, assist with scenario data, random events, multiple paths, upgrades, and gamestate-saving for later sessions. It also serves as a timer for the individual round as the typical scenario lasts 2-3 rounds, each five minutes long.&amp;#10;&amp;#10;The players have to react to events and maneuver the ship to fight enemy gunboats, catch rich merchant vessels, and avoid other obstacles. They must communicate to agree and organize things to do, but they have to be quick because time is always ticking.&amp;#10;&amp;#10;A Tale of Pirates is swift playing with simple rules, but it's exciting and involving, with great interactions among players. Unlike some other real time coop games the stress is present but not dominating. The thirty-second delays, in addition to the intermittent rounds, always allow you to catch your breath!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="1" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2834" value="Action Timer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80520" value="Asger Harding Granerud" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80521" value="Daniel Skjold Pedersen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="59986" value="Daniele Tascini" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="95148" value="Ruslan Audia" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41518" value="Bucaneiros Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24972" value="Lion Rampant Imports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="906" />
+			<average value="7.06384" />
+			<bayesaverage value="5.9656" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2935" bayesaverage="5.9656" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="864" bayesaverage="6.08866" />
+												</ranks>
+
+			<stddev value="1.39521" />
+			<median value="0" />
+			<owned value="2147" />
+			<trading value="99" />
+			<wanting value="88" />
+			<wishing value="621" />
+			<numcomments value="191" />
+			<numweights value="23" />
+			<averageweight value="1.8261" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

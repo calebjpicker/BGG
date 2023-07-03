@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="162041">
+         <thumbnail>https://cf.geekdo-images.com/Ty-JHPr90_4rLlITJ7fT8A__thumb/img/oIlaBwFPrOtwPDR4K8Ar8pRyiJA=/fit-in/200x150/filters:strip_icc()/pic7488814.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Ty-JHPr90_4rLlITJ7fT8A__original/img/Tr9wuQxPOuqRIPgIRO5syijo5yI=/0x0/filters:format(jpeg)/pic7488814.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ninja Taisen" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pojedynek Ninja" />
+			    				
+				<name type="alternate" sortindex="1" value="忍者対戦" />
+			
+						               													<description>Ninja Taisen is a two-player, dice-driven open information abstract game with a random set-up. Both players have identical sets of ten fighters, with three fighters in each of three colors with values 1&amp;ndash;3 along with a tri-colored boss valued at 4; these fighters are placed in small stacks of varying size onto a line that's eleven steps long. On a player's turn, he rolls the three colored dice and can make up to three moves accordingly, with the blue die moving a blue fighter, etc. Moving a fighter that has other fighters on top of him moves these other fighters as well.&amp;#10;&amp;#10;If, as a result of movement, his fighter (or stack of fighters) encounters an enemy, a fight between the two top cards in each stack occurs, the result of which is decided primarily by the color (via a rock-paper-scissors mechanism) and secondarily by the number (highest wins). If the boss wins a fight, its power is reduced by the enemy's power for the remainder of the current fight; if two fighters draw, they both retreat one step toward their own village, possibly precipitating other fights on the same turn. The fight continues until either pile is depleted.&amp;#10;&amp;#10;The first player to either defeat all of the opposing fighters or reach the end of the line (and clear out the opponent's fighters in his village) wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61206" value="Category: Two players fighting games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28174" value="Series: Mini Games (IELLO)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5701" value="Theme: Ninjas" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="76414" value="Katsumasa Tomioka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14550" value="Florent Maudoux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76415" value="Shigeto Murata" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27795" value="minimalGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27733" value="Penta merone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27665" value="Table Cross" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="521" />
+			<average value="6.36025" />
+			<bayesaverage value="5.68129" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5714" bayesaverage="5.68129" />
+												</ranks>
+
+			<stddev value="1.29159" />
+			<median value="0" />
+			<owned value="1151" />
+			<trading value="53" />
+			<wanting value="14" />
+			<wishing value="129" />
+			<numcomments value="143" />
+			<numweights value="21" />
+			<averageweight value="1.4762" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

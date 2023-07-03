@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="389336">
+                                     				
+				<name type="primary" sortindex="1" value="Taugo" />
+			
+						                           
+						               													<description>Taugo (from Proto-Germanic: Taug&amp;ocirc;, meaning &amp;quot;string, rope&amp;quot;) is an abstract board game for two players who play on an initially empty square board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective is to have the most stones on the perimeter line of the board with the fewest strings.&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;     A square board with 16 intersections (points) per side, with no lines on the edges.&amp;#10;     A set of black stones and one a of white stones.&amp;#10;&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;#10;     A string is a set of orthogonally connected stones. A single stone is also a string.&amp;#10;     A knot is a 2x2 configuration of friendly stones. The formation of knots in the strings is prohibited.&amp;#10;     A cut is placing friendly stones through enemy stones to break through them and replace them with friendly stones.&amp;#10;     An isolated stone is a stone not orthogonally adjacent to any string stone.&amp;#10;     A lateral stone is a stone orthogonally adjacent to a single string stone.&amp;#10;     A central stone is a stone orthogonally adjacent to two, three or four string stones.&amp;#10;&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternate. On your turn, do one of the following actions:&amp;#10;&amp;#10;&amp;#10;     Place a stone on an empty point not orthogonally adjacent to friendly stones to form a new string.&amp;#10;     Place a stone on an empty point orthogonally adjacent to stones on one or more strings to make them grow or join them.&amp;#10;     Pass your turn.&amp;#10;&amp;#10;&amp;#10;When growing a string, you can keep placing more stones on any number of empty points in a straight line to the empty point of the perimeter line or to a friendly stone, you can also do it on any number of points occupied by enemy stones to cut them replacing them with friendly stones, unless they are lateral stones or isolated stones since they are immune.&amp;#10;&amp;#10;Also, no player is allowed to place stones on the empty points on the edge, but they can be accessed by using them as cut points as we will define below.&amp;#10;&amp;#10;Cut points:&amp;#10;A cut point is a point orthogonally adjacent to an enemy stone, which point is located in a straight line to a friendly lateral stone on the opposite side of the enemy stone. To make the cut we must place a minimum amount of stones that reach the cutting point and we can continue placing more stones in that same direction optionally.&amp;#10;&amp;#10;End of the game:&amp;#10;If a player cannot place stones, he must pass his turn. If both players pass consecutively, the game is over and the player with the highest value strings wins.&amp;#10;&amp;#10;The value of a string is determined by the number of stones found on the perimeter line. The value is calculated by adding the consecutive natural numbers from 1 to the number of stones on the string.  For example, a string with 3 stones on the perimeter line has a value of 1 + 2 + 3 = 6. In case of a tie in the total value of the strings, the player with the fewest strings wins.&amp;#10;&amp;#10;In addition, additional points are awarded for each stone that has been able to reach the edge of the board following the same method of scoring described above, but without taking into account the strings to which they belong.&amp;#10;&amp;#10;In order to make the game fair, before the game starts, the first player starting black stone and the second player chooses the sides. This balancing method is called the pie rule.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64143" value="Players: Three Players Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

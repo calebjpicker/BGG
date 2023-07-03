@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="221298">
+         <thumbnail>https://cf.geekdo-images.com/1erLse3FISQa3yyb9ADEBQ__thumb/img/RLSEvDBTfb2cV_Fmu_VDGRT1lf8=/fit-in/200x150/filters:strip_icc()/pic4531133.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1erLse3FISQa3yyb9ADEBQ__original/img/wl-G5lmXJnNdhHMLY3gfNR_FgXg=/0x0/filters:format(jpeg)/pic4531133.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="NewSpeak" />
+			
+						                           
+						               													<description>Newspeak is a tense game of dystopian subversion in which you take the role of either the 'dissidents' or the 'moderators' in a mind-bending battle of wits to determine the reality around you.&amp;#10;&amp;#10;Will you challenge the status quo and shatter your fragile reality or seek to protect the safety of what you know?&amp;#10;&amp;#10;Dissidents utilise matching underground codes to coordinate meetings at one of the disturbingly illustrated locations on your map. They then each secretly use their location dials to declare their intended meeting point.&amp;#10;&amp;#10;The Mods, in a short amount of time, then have to determine where they expect the Dissidents to meet by inferring their intent from a book of every possible code set the subversives could use, and agree upon a location to direct a state raiding party.&amp;#10;&amp;#10;Once they've agreed on a location, the Dissidents each reveal their location dials. Depending on whether the majority of Dissidents have successfully coordinated at a single location, or the Mods have caught them in an attempt at subversion will determine whether that location becomes 'hacked' or 'moderated'.&amp;#10;&amp;#10;As the game progresses, moderated locations produce potential accomplices for the Dissidents to recruit, as undesirables are driven from now sanitized districts. However, as the Dissidents progress their mission to 'hack' as many locations as possible, the Moderators strike back with increasing numbers of surveillance outposts, installed to limit the Dissident's ability to move around the city undetected.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="396" value="No necessary in-game text" numvotes="0" />
+					<result level="397" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="398" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="399" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="400" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235843" value="NewSpeak: Dead Drop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235514" value="NewSpeak: Dissonance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282292" value="NewSpeak: Rated" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282293" value="NewSpeak: Sabotage" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="282294" value="NewSpeak: Deluxe Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="329509" value="NewSpeak: Deluxe Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="106508" value="Fiona Jackson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="106479" value="Mark Stockton-Pitt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103298" value="David Thor Fjalarsson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31638" value="Inside the Box Board Games LLP (ITB)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="49" />
+			<average value="5.93367" />
+			<bayesaverage value="5.50884" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18519" bayesaverage="5.50884" />
+												</ranks>
+
+			<stddev value="1.87952" />
+			<median value="0" />
+			<owned value="154" />
+			<trading value="9" />
+			<wanting value="13" />
+			<wishing value="127" />
+			<numcomments value="29" />
+			<numweights value="3" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

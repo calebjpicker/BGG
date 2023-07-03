@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="293101">
+         <thumbnail>https://cf.geekdo-images.com/u5x7kaqU7sl9aH2f8YT-dA__thumb/img/n1lWzk-55vVQM4JMr9y8cCY7Dxg=/fit-in/200x150/filters:strip_icc()/pic5036217.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u5x7kaqU7sl9aH2f8YT-dA__original/img/Q9ZkfY-G2ZO3n_lmqAJZalrbLiw=/0x0/filters:format(jpeg)/pic5036217.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="SQU" />
+			
+						                           
+						               													<description>INTRODUCTION&amp;#10;&amp;#10;In SQU, players alternate turns placing stones on the board with the aim of creating the largest &amp;lsquo;squ&amp;rsquo;, an arrengement of 4 stones in the corners of a square.&amp;#10;&amp;#10;SQU adds up to the family of other &amp;lsquo;square-creation games&amp;rsquo; such as Dakapo (Stephan Miksch) or Quartetto (Artyom Tchebotaryov). It also uses the 1-2-2-2&amp;hellip; piece-entering mechanism of Connect6 to balance the game.&amp;#10;&amp;#10;EQUIPMENT&amp;#10;&amp;#10;10x10 orthogonal board (checkered for clarity) with an inner 8x8 board for shorter games, 50 red discs, 50 black discs, 4 red pyramids, 4 black pyramids, carrying case.&amp;#10;&amp;#10;HOW TO PLAY&amp;#10;&amp;#10;Definition: a Squ is an arrangement of 4 discs of the same colour on the corners of a square with the sides parallel to the sides ot the board (this is, the square must not be rotated).&amp;#10;&amp;#10;Each player has an allocated colour (Red or Black).&amp;#10;&amp;#10;The board starts empty. Decide the size of the board (8x8 or 10x10).&amp;#10;&amp;#10;Red places one disc onto an empty cell of the board. Then, starting with Black, players alternate turns placing 2 discs of their colour onto empty spaces until either one of the players resigns or all cells are occupied.&amp;#10;&amp;#10;If, at the end of a player&amp;rsquo;s turn (after placing both stones) a squ bigger than any previous squ of any colour has been created, the player places one pyramid of her colour on each of the 4 corners of that squ (covering each of the 4 discs). This is, the pyramids are used to keep track of the largest squ of each colour. Notice that the discs covered by pyramids still count for future squs.&amp;#10;&amp;#10;HOW TO WIN&amp;#10;&amp;#10;When the game ends, the player with the largest squ wins the game.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="1" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="340033" value="Il Gioco è Tratto" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="7.34444" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.31412" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="5" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

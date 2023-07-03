@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6732">
+         <thumbnail>https://cf.geekdo-images.com/aIWvSsD7fFpPi165oEP8Vg__thumb/img/k-4ye6aU751avHZQsAE-m6rpwHs=/fit-in/200x150/filters:strip_icc()/pic216360.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/aIWvSsD7fFpPi165oEP8Vg__original/img/I3-VBV3fDtiXSk-R9MwCJSzDkDw=/0x0/filters:format(jpeg)/pic216360.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Aces High" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Blue Max" />
+			
+						               													<description>The war in the air 1914-1918, published in The Wargamer Magazine issue 12 and later in a box.&amp;#10;From the back of the box &amp;quot;Aces High is a simultaneous movement game that puts you in the cockpit, with only your own skill between you and your opponent's triumphant cry of &amp;quot;Flamer!&amp;quot; &amp;quot;.&amp;#10;Includes data on 72 different types of aircraft. The data includes information on Speed, flying qualities, armament, ability to absorb punishment, etc.&amp;#10;&amp;#10;Aces High, although not as detailed as Wings, includes rules for stalls, spins, ropey (unreliable) engines, aircrew quality, spotting, archie (anti-aircraft fire), and more.&amp;#10;Aces High even has rules for different types of missions, from photo-reconnaissance to balloon busting to bombing.&amp;#10;&amp;#10;The number of maneuvers is limited to banks, turns, sideslips, and half-loops. For example, there are no rules for Immelman turns or barrel-rolls, but the Immelman is accomplished just as in real life... a half-roll followed by continuous banking from the inverted position back to the upright position; a barrel roll is accomplished by a combination of banking and altitude changes during otherwise forward-flight.&amp;#10;&amp;#10;There is an interesting rule for ace pilots where the ace pilot can withhold (i.e. not write a movement plot for) a certain number of movement points. After the non-aces have completed their entire movement plot then the ace's can plot out the rest of their move and therefore react to the less-skilled pilots actions. The number of points the ace can withhold is based on the 'grade' of the pilot with a 'grade 5' pilot unable to withhold any points to a 'grade 1' pilot being able to withhold 3.&amp;#10;&amp;#10;Game related to Aces High: The American Aces&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1980" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1065" value="World War I" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6207" value="Magazine: The Wargamer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17147" value="Aces High: Blue Max" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="8310" value="The American Aces" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="8409" value="Red Baron" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="8315" value="Spitfire!" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1310" value="Jim Hind" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40619" value="Roy Grinnell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="489" value="3W (World Wide Wargames)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2176" value="Simulation Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="124" />
+			<average value="6.46694" />
+			<bayesaverage value="5.5497" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11218" bayesaverage="5.5497" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2031" bayesaverage="5.81016" />
+												</ranks>
+
+			<stddev value="1.45107" />
+			<median value="0" />
+			<owned value="476" />
+			<trading value="28" />
+			<wanting value="14" />
+			<wishing value="48" />
+			<numcomments value="84" />
+			<numweights value="18" />
+			<averageweight value="2.9444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

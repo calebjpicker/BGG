@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="320097">
+         <thumbnail>https://cf.geekdo-images.com/_cUEgwdygSY-luQLXhLA-w__thumb/img/B022rNPllq0ORbAhMXrT9pq7hFQ=/fit-in/200x150/filters:strip_icc()/pic5673038.png</thumbnail>
+      <image>https://cf.geekdo-images.com/_cUEgwdygSY-luQLXhLA-w__original/img/sub7-hMKIpAArdv-ySKgl7cISbs=/0x0/filters:format(png)/pic5673038.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="ECK: A solo trick-taking card game" />
+			
+						                           
+						               													<description>ECK (pronounced like &amp;ldquo;deck&amp;rdquo; without the &amp;lsquo;d&amp;rsquo;) is an abstract solo trick-taking game where the you play against the AI opponent ECK by attempting to collect trick cards by winning exactly the number of tricks shown on the available trick cards.  The ranks are polygon shapes where increased complexity means increased trick value: line, triangle, square, pentagon, hexagon, octagon.  The suits are colors red, orange, yellow, green, blue, and purple.  So there are 6 ranks and 6 suits.  There are also 6 circle cards, three white and three black, which act as trump cards.&amp;#10;&amp;#10;The player draws a hand of 13 cards and plays one trick for each card.  The AI opponent ECK is the remaining cards, and in each trick the player plays one card and ECK plays one card based on the rules for following suit.&amp;#10;&amp;#10;There are 7 trick cards numbered 2,4,6,8,10,12, and 13/0. The player's goal is, at the end of each round, to have won exactly the number of tricks shown on one of the available trick cards, collecting that card if successful.  Collecting 4 trick cards wins the game, though there are ways for ECK to win also.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19564" value="Contests: Solitaire Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="130937" value="John Burton" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="130937" value="John Burton" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="49" />
+			<average value="7.45714" />
+			<bayesaverage value="5.54457" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11791" bayesaverage="5.54457" />
+												</ranks>
+
+			<stddev value="1.17073" />
+			<median value="0" />
+			<owned value="88" />
+			<trading value="2" />
+			<wanting value="12" />
+			<wishing value="55" />
+			<numcomments value="32" />
+			<numweights value="5" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

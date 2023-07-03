@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="322421">
+         <thumbnail>https://cf.geekdo-images.com/7xA6Vubzp85U2XpoZkB82A__thumb/img/aRD43WKJKXVxaaeFgVi-GdQNi_Y=/fit-in/200x150/filters:strip_icc()/pic5731962.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7xA6Vubzp85U2XpoZkB82A__original/img/4VGEYAOP7bf0ZBYjzjCkdzrhAd0=/0x0/filters:format(jpeg)/pic5731962.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Aqua Garden" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="아쿠아 가든" />
+			
+						               													<description>In Aqua Garden, you're the owner of an aquarium and want to stock its six tanks with a variety of sea life, but you have a limited amount of funds and only one employee on hand to place the fish in the tanks. Do your best to outshine the other aquariums in town!&amp;#10;&amp;#10;A game lasts 3-4 rounds depending on the number of players. You have your own aquarium board with six tanks, and a shared player board has sea creatures placed at random on its perimeter. Seaweed and coral tokens are placed on the separate sea board, along with five random sea creatures.&amp;#10;&amp;#10;During a round, whoever is farthest back on the perimeter of the shared board takes the next turn, moving their owner as many spaces as they want to an empty space, then taking the action of that space. If you stop on an advertising space, you receive funds based on what's currently in your tanks. If you stop on a sea creature space, you take them all, move your single employee 1-3 spaces clockwise on your aquarium board, then place the creatures in one or both tanks adjacent to the employee. (If the employee passes the feeding event card you were randomly dealt at the start of the game, then you receive funds from the bank based on how well the creatures in the two tanks next to the feeding event card match that card.)&amp;#10;&amp;#10;Each tank has only 4 units of oxygen available, so you can't add creatures to a tank that would consume more oxygen than this. You can add one seaweed to each tank, however, to increase the available oxygen to 6. You must also observe other placement restrictions, such as keeping sharks separate from fish and sea turtles. Additionally, you can pay to purchase creatures, seaweed, and coral from the sea board.&amp;#10;&amp;#10;If during your turn, the contents of one or more of your tanks matches one of the four randomized milestones on display, you mark the highest empty space on that milestone with a token. The first player to achieve each milestone receives a related creature that they can place in any tank.&amp;#10;&amp;#10;If you've circled the board, you wait for other players to finish, then start a new round, with players moving out in the order that they arrived. After the game ends, players score points for the milestones achieved, funds remaining, order in which they finished, and the sets of creatures they've collected in each tank.&amp;#10;&amp;#10;Aqua Garden includes manta rays, remoras, and flapjack octopuses that can be added to play to create new scoring opportunities.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="60" />
+						               				<minage value="15" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="386" value="No necessary in-game text" numvotes="3" />
+					<result level="387" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="388" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="389" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="390" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2663" value="Turn Order: Time Track" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57261" value="Animals: Coral / Jellyfish / Anemones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7975" value="Animals: Fish / Fishes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7691" value="Animals: Sharks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76846" value="Theme: Zoos, Aquaria, Safari Parks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="370817" value="Aqua Garden: Beach Combing Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327466" value="Aqua Garden: Kickstarter Rewards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373122" value="Aqua Garden: New Facility Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327465" value="Aqua Garden: Outdoor Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="326993" value="Aqua Garden: Sea Jewelry Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327083" value="Aqua Garden: Sea Kings Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373123" value="Aqua Garden: Sea Mimicry Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="373124" value="Aqua Garden: Seaside Cottage Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="311829" value="The Arctic" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="127626" value="Totsuca Chuo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="123534" value="Urabe Rocinante" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="108040" value="別府さい (Sai Beppu)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44250" value="uchibacoya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46428" value="Underdog Games (II)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="507" />
+			<average value="7.37284" />
+			<bayesaverage value="5.85696" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3638" bayesaverage="5.85696" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1052" bayesaverage="5.97158" />
+												</ranks>
+
+			<stddev value="1.2438" />
+			<median value="0" />
+			<owned value="1169" />
+			<trading value="6" />
+			<wanting value="161" />
+			<wishing value="670" />
+			<numcomments value="141" />
+			<numweights value="22" />
+			<averageweight value="2.1364" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

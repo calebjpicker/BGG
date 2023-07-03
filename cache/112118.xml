@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="112118">
+         <thumbnail>https://cf.geekdo-images.com/66qLtGA6-Bt-00z3LtbRfg__thumb/img/7OXH5mo0u2uSp0zqSUBI4MZKzo4=/fit-in/200x150/filters:strip_icc()/pic1153728.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/66qLtGA6-Bt-00z3LtbRfg__original/img/ledDZlEiSrTMJmmf8oLRIXbgPyQ=/0x0/filters:format(jpeg)/pic1153728.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="RED" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Rojo" />
+			
+						               													<description>RED is a game from the RED, BLUE, GreenGreenerGreenest trilogy.&amp;#10;&amp;#10;RED is a three-colored tile-laying game for three players. The three colors in the game are black, white, and red, and each player will be a different color. Each tile has a background color and a different-colored circle in the middle. There are 6 different combinations and 5 small tiles and 1 large tile for each combination.&amp;#10;&amp;#10;Players place tiles on the table trying to connect groups of their border color and groups of their circle color.&amp;#10;&amp;#10;RULES&amp;#10;&amp;#10;Place all the tiles face-up in a pool, leaving room to play the game.&amp;#10;&amp;#10;Each player is assigned one of the three colors by some agreeable method and takes the corresponding counter; the counters just show which player is which color. The order of play is White player, then Black, then Red. Players take turns placing any tile from the pool on the playing surface according to the following rules:&amp;#10;&amp;#10;- Tiles must be placed so that they align with an imaginary grid of squares the size of the small tiles.&amp;#10;&amp;#10;- White cannot play a large tile on the first turn.&amp;#10;&amp;#10;- Except for the obvious exception of the first tile, each new tile must be orthogonally adjacent to at least one small tile (i.e. must touch a small tile). Just having the corners touch isn't good enough.&amp;#10;&amp;#10;- A large tile cannot be placed orthogonally adjacent to another large tile (that is, no two large tiles can touch each other, except at the corners).&amp;#10;&amp;#10;The game ends when there are no available moves.&amp;#10;&amp;#10;SCORING&amp;#10;&amp;#10;Small tiles count as 1 point, and large tiles count as 2 points.&amp;#10;&amp;#10;Find the largest connected group of tiles with your border color, and then find the largest connected group of tiles with your circle color. Multiply these two numbers to determine your score.&amp;#10;&amp;#10;The player with the most points wins. If two players tie, the third player wins! If all three tie, play again!&amp;#10;&amp;#10;The rules include a variant for 2 players.&amp;#10;&amp;#10;Microbadges:&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="2" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64143" value="Players: Three Players Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46130" value="Series: Three Colors Trilogy (nestorgames)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="95" />
+			<average value="6.94421" />
+			<bayesaverage value="5.56109" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10224" bayesaverage="5.56109" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="388" bayesaverage="5.82446" />
+												</ranks>
+
+			<stddev value="1.31979" />
+			<median value="0" />
+			<owned value="110" />
+			<trading value="2" />
+			<wanting value="25" />
+			<wishing value="82" />
+			<numcomments value="36" />
+			<numweights value="9" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

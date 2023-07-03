@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="181494">
+         <thumbnail>https://cf.geekdo-images.com/I8Etc3YLRGTfVCPC33kXmg__thumb/img/rq_Jan0KtbayZyIH94VdfnZ6iE8=/fit-in/200x150/filters:strip_icc()/pic2690487.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/I8Etc3YLRGTfVCPC33kXmg__original/img/za7Jf_laSu9KUsk25QIb6HUPK0Y=/0x0/filters:format(jpeg)/pic2690487.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="CVlizations" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="CV-лизации" />
+			    				
+				<name type="alternate" sortindex="1" value="CVlizacje" />
+			    				
+				<name type="alternate" sortindex="1" value="CVЛізація" />
+			    				
+				<name type="alternate" sortindex="1" value="シヴライゼーション" />
+			    				
+				<name type="alternate" sortindex="1" value="撰寫文明史" />
+			
+						               													<description>In CVlizations, you take the role of a leader of a tribe, and you are charged with the task of &amp;quot;writing&amp;quot; its CV (Curriculum Vitae - r&amp;eacute;sum&amp;eacute;). To do so, you choose which orders to give and which inventions, tools, buildings and ideologies to develop. The happiness of your people depends on you.&amp;#10;&amp;#10;Gameplay is built around action selection. Each turn, every player chooses two order cards, and the strength of the action depends on how many other players have chosen that action. Players manage their resources to develop ideas, and in the end the one who collected the most happiness points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2833" value="Turn Order: Role Order" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41855" value="Series: Expert (Granna)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186153" value="CVlizations: Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78425" value="Jan Zalewski" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32201" value="Piotr Socha" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22650" value="GeGe Co. Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5350" value="Granna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23296" value="Passport Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Бельвіль" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1083" />
+			<average value="6.27101" />
+			<bayesaverage value="5.7748" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4408" bayesaverage="5.7748" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1298" bayesaverage="5.84973" />
+												</ranks>
+
+			<stddev value="1.29274" />
+			<median value="0" />
+			<owned value="1863" />
+			<trading value="167" />
+			<wanting value="40" />
+			<wishing value="253" />
+			<numcomments value="314" />
+			<numweights value="33" />
+			<averageweight value="1.8788" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

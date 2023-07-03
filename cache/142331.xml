@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="142331">
+         <thumbnail>https://cf.geekdo-images.com/FzRsPpdi2zKyc1k8eZSuQw__thumb/img/AT6B7r9r0LEGt2500GoBBwbhPzY=/fit-in/200x150/filters:strip_icc()/pic1653765.png</thumbnail>
+      <image>https://cf.geekdo-images.com/FzRsPpdi2zKyc1k8eZSuQw__original/img/42HrNbsaM681ITr31KsOY8DwdCI=/0x0/filters:format(png)/pic1653765.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Experior" />
+			
+						                           
+						               													<description>Experior is a 2-player game with minimalist rules and an emergent complexity.&amp;#10;&amp;#10;The game is about a combat in a fantasy world between a Human and an Elf. A character can perform three types of attack (sword, bow or magic attack), and each attack can be strong, causing great damages, or quick, causing damages more often. The damage intensity depends on the experience in that type of attack. A successful attack increases the experience of the fighter in that type of attack.&amp;#10;&amp;#10;SETUP&amp;#10;Players choose randomly who is the Human and who is the Elf.&amp;#10;&amp;#10;In a common paper is written down the initial experiences for each type of attack and the initial number of wounds of both characters, as shown below. Another option is to print the board in the section files.&amp;#10;&amp;#10;ELF &amp;#10;Wounds: 0&amp;#10;Sword: 2&amp;#10;Bow: 3&amp;#10;Magic: 2&amp;#10;&amp;#10;HUMAN&amp;#10;Wounds: 0&amp;#10;Sword: 3&amp;#10;Bow: 2&amp;#10;Magic: 2&amp;#10;&amp;#10;ATTACK: TYPES AND MODALITIES&amp;#10;There are three types of attack: sword, bow and magic. For each of those there are two modalities: quick and strong.&amp;#10;&amp;#10;So, each player has 6 cards for every possible attack: strong sword, quick sword, strong bow, quick bow, strong magic, quick magic.&amp;#10;&amp;#10;You can print the custom cards in the images section. Another options is to use 6 cards, for each player, from an UNO game: two red cards with 1 and 3 values for quick sword and strong sword, two green cards with 1 and 3 values for quick bow and strong bow, two blue cards with 1 and 3 values for quick magic.&amp;#10;&amp;#10;Winning order: sword beats bow, bow beats magic and magic beats swords.&amp;#10;&amp;#10;TURN&amp;#10;Each player places a face down card in the middle of the table. When both cards are placed, they are revealed.&amp;#10;&amp;#10;&amp;bull; With a successful quick attack, the opponent takes a number of wounds equal to the value of experience the winner has in that type of attack.&amp;#10;&amp;bull; With a successful strong attack, the opponent takes a number of wounds equal to the value of experience the winner has in that type of attack multiplied by 3.&amp;#10;&amp;#10;After the opponent&amp;rsquo;s damaging, the winner increases his experience in that type of attack by one.&amp;#10;&amp;#10;The winning order (sword &amp;gt; bow; bow &amp;gt; magic; magic &amp;gt; swords) determines who has done a successful attack. If both players chooses the same type of attack, the winner is who played a quick attack.&amp;#10;&amp;#10;In case both players choose the same type of attack and the same modality, the player with less experience in that type of attack increases by one that type of attack and nobody takes any wounds. In case both players has the same amount of experience neither of them gain experience.&amp;#10;&amp;#10;At the end of the turn, the two cards just played stay on the table, aside but in full view and unavailable for the next turn. At the end of the next turn, the new played cards will stay on the table, whereas the cards from the previous turn will return in the players&amp;rsquo; hands.&amp;#10;&amp;#10;END OF THE GAME&amp;#10;The game ends when one player reaches a number of wounds greater than or equal to 100. (The game is perfectly scalable, so players can choose any number of wounds as end condition.)&amp;#10;&amp;#10;After that, players have to check who will get a bonus attack. Each player subtracts the value in his highest experience with the value his lowest experience. Who has the greater difference makes a number of wounds to the enemy equal to his highest experience multiplied by 3 (like a strong attack). If the differences are equal, whoever has less wounds gets the bonus attack..&amp;#10;&amp;#10;The winner is the player with less wounds.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="2" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41103" value="Matteo Perlini" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="5.375" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.38157" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="10" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

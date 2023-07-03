@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="314462">
+         <thumbnail>https://cf.geekdo-images.com/KSSDoy6Y4zALaikTl_h7BQ__thumb/img/5bLIKaFmGph6RGRC_WDuCGhT4Hs=/fit-in/200x150/filters:strip_icc()/pic5535741.png</thumbnail>
+      <image>https://cf.geekdo-images.com/KSSDoy6Y4zALaikTl_h7BQ__original/img/U8up3MEINzhos3mpGfnAD9V7hxM=/0x0/filters:format(png)/pic5535741.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Swack" />
+			
+						                           
+						               													<description>&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Introduction&amp;#10;&amp;#10;Swack is a finite territory game for two players: Black and White. It is played on the spaces (squares) of a square board of any size.&amp;#10;&amp;#10;At the start of the game, all squares of the board are covered with black and white pieces in a checkered pattern. On odd-sized boards, the center square is occupied by White. Additionally, each player must have access to a sufficient number of off-board pieces of their own color.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Definitions&amp;#10;&amp;#10;In these rules, &amp;quot;adjacent&amp;quot; always means &amp;quot;orthogonally adjacent&amp;quot;.&amp;#10;&amp;#10;A stack is a piece lying directly on the board along with all other pieces piled onto it on the same square. The color of a stack is the color of its topmost piece, which denotes its owner. The height of a stack is the number of pieces in it.&amp;#10;&amp;#10;A group is a stack along with all other like-colored stacks one could reach from it through a series of steps between adjacent stacks of its color. The size of a group is the number of stacks in it.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Play&amp;#10;&amp;#10;Black plays first, then turns alternate. On your turn, perform exactly one of the following actions:&amp;#10;&amp;#10;&amp;#10;     Pass.&amp;#10;&amp;#10;&amp;#10;&amp;#10;     Move the topmost piece of a stack of your color onto an adjacent enemy stack, provided that, before the move, the heights of both stacks are the same. Then, place a piece of your opponent's color onto the stack from which you just moved your piece.&amp;#10;&amp;#10;&amp;#10;The game ends when both players pass in succession. Then, the players jointly remove pairs of opposite-colored groups of the same size from the board until there are no more such pairs to remove. The player with the biggest group left over wins. On even-sized boards, if the board is empty, whoever made the last move before the game's end loses.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Pie rule&amp;#10;&amp;#10;The pie rule is used in order to make the game fair. This means White will have the option, on their first turn only, to swap sides with their opponent instead of making a regular move.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Variants&amp;#10;&amp;#10;Free Swack: The board is initially empty. On your turn, instead of making a swap, you may place a friendly stack of height two on an empty square and an enemy stack of height one on an empty square orthogonally adjacent to it. At the end of the game, if the scores are tied all the way down to the smallest group, whoever made the last move wins.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Notes&amp;#10;&amp;#10;Swack is based on the same designer's Escabel and Micha&amp;#197;&amp;#130; Zapa&amp;#197;&amp;#130;a's Slyde.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="1" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3005" value="Slide/Push" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47001" value="Luis Bolaños Mures" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

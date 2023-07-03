@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="37362">
+         <thumbnail>https://cf.geekdo-images.com/xQgxJgmHMs5StCI6JSKj8g__thumb/img/v9DDe_Z0j8v38FGu_ALoVcHJnEg=/fit-in/200x150/filters:strip_icc()/pic530242.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xQgxJgmHMs5StCI6JSKj8g__original/img/qGI0z8HIpDrT8Ty7FVonWdM5EGk=/0x0/filters:format(jpeg)/pic530242.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Robot Master" />
+			
+						                           
+						               													<description>A game of strategical placement as players have a deck of 36 robots with six cards each of values 0 to 5, and they want to maximize the value of their rows or columns of robots on a 5x5 grid.&amp;#10;&amp;#10;The value of a row is the sum of the robots in it, except that a pair of identical robots in a row is worth ten times the face value of a single robot (two 3s gives you 30 points, but of course two 0s is still worthless); place three robots of the same type in a row, however, and they're worth 100 points no matter which type they are. The goal isn't to max out your score, but rather to beat your opponent as whoever has the lowest-valued row or column at game's end loses. Since 11 of the cards don't come into play, you have to play the odds on which robots will shuffle your way.&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     Jijbent.nl (turn-based, Dutch)&amp;#10;     YourTurnMyTurn.com (English - turn based)&amp;#10;     Mindgames.com (solitaire version)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="7" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="11396" value="Dragon Master" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41386" value="Patrick Cerf" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9382" value="Hutter Trade GmbH + Co KG" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="262" />
+			<average value="6.35144" />
+			<bayesaverage value="5.60119" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7915" bayesaverage="5.60119" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1891" bayesaverage="5.64205" />
+												</ranks>
+
+			<stddev value="1.18287" />
+			<median value="0" />
+			<owned value="368" />
+			<trading value="15" />
+			<wanting value="12" />
+			<wishing value="60" />
+			<numcomments value="82" />
+			<numweights value="30" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

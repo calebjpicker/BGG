@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="368675">
+         <thumbnail>https://cf.geekdo-images.com/akNYCKAEANp2fQ6gm2MmuQ__thumb/img/9fAxEy3sOAwfImRcLFYbPiGMjpA=/fit-in/200x150/filters:strip_icc()/pic7009732.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/akNYCKAEANp2fQ6gm2MmuQ__original/img/fbOQP1QLNhXZIGzaGuxAoJx-5Cg=/0x0/filters:format(jpeg)/pic7009732.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lobo" />
+			
+						                           
+						               													<description>Lobo is a solitaire card game for Crab Fragment Labs' Vines (or Postas)  deck.  The Vines deck has eleven cards in five suits.  Lobo uses 1 - 10 in all five suits.&amp;#10;&amp;#10;In Lobo, the Player and the Wolf start with a face up hand of four cards each.  Through a series of captures, the player is attempting to get rid of all of the Wolf&amp;rsquo;s cards.&amp;#10;&amp;#10;Your goal is to empty the Wolf&amp;rsquo;s hand, by playing cards from your own hand.  Even if you cannot defeat the Wolf, you are still trying to reduce its point value as far as you can. You will play several hands against the Wolf, racing to 100 points.&amp;#10;&amp;#10;On each turn, you have the choice of several actions. The Wolf does not take turns.&amp;#10;&amp;#10;Perfect - play one card from your hand to capture one card of the same rank from the Wolf&amp;rsquo;s hand, then draw a card.&amp;#10;&amp;#10;Sum - play more than one card from your hand, which must add up exactly to one card in the Wolf&amp;rsquo;s hand, then draw a card.&amp;#10;&amp;#10;Split - play one card, and capture more than one card adding up exactly to the value of the card you play, then draw a card into the Wolf's hand.&amp;#10;&amp;#10;Over - play one card from your hand to capture one smaller card from the Wolf&amp;rsquo;s hand, then draw one card into the Wolf's hand for every point of difference.&amp;#10;&amp;#10;Fold - If you feel you cannot safely make any more plays, you can stop.&amp;#10;&amp;#10;If the Wolf's hand is empty, you score the points remaining in your hand.&amp;#10;&amp;#10;If you Fold, the Wolf scores the points remaining in their hand.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="2" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73392" value="Players: Solitaire Only Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61" value="James Ernest" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45935" value="Crab Fragment Labs" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="8.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.471405" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

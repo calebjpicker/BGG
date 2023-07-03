@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="363369">
+         <thumbnail>https://cf.geekdo-images.com/7I__jIr66wVLeyZA2s1Whg__thumb/img/7xO4UasL9l6z7aRbDTf65aLTAnE=/fit-in/200x150/filters:strip_icc()/pic6878308.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7I__jIr66wVLeyZA2s1Whg__original/img/P5i05u_zS2_cN3QDH-ey80K-b3U=/0x0/filters:format(jpeg)/pic6878308.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Starship Captains" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Gwiezdna Flota" />
+			    				
+				<name type="alternate" sortindex="1" value="Hvězdní kapitáni" />
+			    				
+				<name type="alternate" sortindex="1" value="Звёздные Капитаны" />
+			    				
+				<name type="alternate" sortindex="1" value="Капітани Зорельотів" />
+			    				
+				<name type="alternate" sortindex="1" value="スターシップ・キャプテンズ" />
+			
+						               													<description>Welcome aboard and congrats on the promotion! Your &amp;quot;new&amp;quot; starship is ready to embark on its first big voyage. Just scrape off some of the rust, and she'll do fine. And that crew? Might look a little green around the edges, but they're your crew now. Make us proud.&amp;#10;&amp;#10;The stars are calling...and adventure awaits!&amp;#10;&amp;#10;As newly promoted Starship Captains, players are in command of their first starship and hungry to prove themselves in a galaxy full of space pirates, grumpy old androids, ancient artifacts, and interplanetary adventures.&amp;#10;&amp;#10;In this 1-4 player Eurostyle game, which mixes action selection and engine building, you'll manage a diverse crew of cadets, ensigns, androids, and officers &amp;mdash; each with different special roles and capabilities. By earning medals, you can promote and train your crew for even greater effectiveness. Similarly, you can upgrade your ship with powerful engine building technology for maximum synergy.&amp;#10;&amp;#10;What will you do with this enhanced crew and ship? Explore an ever-shifting galaxy full of dangerous pirates and interplanetary missions in order to boost your reputation with three distinct galactic factions for bountiful rewards.&amp;#10;&amp;#10;Do you have what it takes to deftly command your crew and become the best captain in the cosmos? We'll see!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="34">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll> 			               				<playingtime value="100" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="100" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64949" value="Components: Map (Interplanetary or Interstellar scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63869" value="Contests: Fastaval Design Competition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372384" value="Starship Captains: Convention Visit Promo Card" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="145649" value="Peter B. Hoffgaard" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="145647" value="Mergen Erdenebayar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="145646" value="Jiří Mikovec" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11938" value="Radim Pech" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94497" value="Jakub Politzer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119983" value="František Sedláček" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7345" value="Czech Games Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38505" value="HeidelBÄR Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1455" />
+			<average value="7.2621" />
+			<bayesaverage value="6.24174" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1797" bayesaverage="6.24174" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="909" bayesaverage="6.38041" />
+												</ranks>
+
+			<stddev value="1.20369" />
+			<median value="0" />
+			<owned value="2773" />
+			<trading value="48" />
+			<wanting value="249" />
+			<wishing value="1765" />
+			<numcomments value="298" />
+			<numweights value="54" />
+			<averageweight value="2.3704" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

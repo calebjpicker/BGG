@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11901">
+         <thumbnail>https://cf.geekdo-images.com/UImMYmMZKE4AGTMPHRM9fA__thumb/img/Usf_w0hroenXwFopRfYCtZtdjmU=/fit-in/200x150/filters:strip_icc()/pic48183.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/UImMYmMZKE4AGTMPHRM9fA__original/img/yAjwt5O95x6cthCVs0HhHl4y4H0=/0x0/filters:format(jpeg)/pic48183.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tic-Tac-Toe" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="3 em Linha" />
+			    				
+				<name type="alternate" sortindex="1" value="3 In A Row Tic-Tac-Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Boter, kaas en eieren" />
+			    				
+				<name type="alternate" sortindex="1" value="Drop Tit-Tat-Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Giant Tic-Tak-Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Jätkänshakki" />
+			    				
+				<name type="alternate" sortindex="1" value="Jogo da Velha" />
+			    				
+				<name type="alternate" sortindex="1" value="Jogo do Galo" />
+			    				
+				<name type="alternate" sortindex="1" value="Kółko i Krzyżyk" />
+			    				
+				<name type="alternate" sortindex="1" value="Kružić-Križić" />
+			    				
+				<name type="alternate" sortindex="1" value="Kryds og bolle" />
+			    				
+				<name type="alternate" sortindex="1" value="Lego Castle Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Lego Pirates Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Lego Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Luffarschack" />
+			    				
+				<name type="alternate" sortindex="1" value="Magnetic Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Magnetic Tik-Tak-Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Mini-Mühle" />
+			    				
+				<name type="alternate" sortindex="1" value="Naughti-Crosses" />
+			    				
+				<name type="alternate" sortindex="1" value="Noughts and Crosses" />
+			    				
+				<name type="alternate" sortindex="1" value="oxo" />
+			    				
+				<name type="alternate" sortindex="1" value="Ristinolla" />
+			    				
+				<name type="alternate" sortindex="1" value="Sigoga de Tusco" />
+			    				
+				<name type="alternate" sortindex="1" value="Star Wars Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Terni Lapilli" />
+			    				
+				<name type="alternate" sortindex="1" value="Three" />
+			    				
+				<name type="alternate" sortindex="1" value="Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Tik-Tak" />
+			    				
+				<name type="alternate" sortindex="1" value="Tit Tat Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Transformers Animated Tic Tac Toe" />
+			    				
+				<name type="alternate" sortindex="1" value="Tres en linea" />
+			    				
+				<name type="alternate" sortindex="1" value="Tres en raya" />
+			    				
+				<name type="alternate" sortindex="1" value="Trips-Traps-Trull" />
+			    				
+				<name type="alternate" sortindex="1" value="Triqui" />
+			    				
+				<name type="alternate" sortindex="1" value="Tris" />
+			    				
+				<name type="alternate" sortindex="1" value="WWF Jogo do Galo Tartaruga" />
+			    				
+				<name type="alternate" sortindex="1" value="Τρίλιζα" />
+			    				
+				<name type="alternate" sortindex="1" value="Крестики-нолики" />
+			    				
+				<name type="alternate" sortindex="1" value="圈圈叉叉" />
+			    				
+				<name type="alternate" sortindex="1" value="打井" />
+			    				
+				<name type="alternate" sortindex="1" value="過三關" />
+			
+						               													<description>A very old game where each player attempts to place three of their markers (usually an X or an O) in a line on a 3x3 grid.&amp;#10;&amp;#10;The Romans called this game Terni Lapilli (this does not appear to be true, Terni Lapilli seems to be a distinct and separate game). It shares the board but the players only have 3 pieces each. The same game may be played not on the grid spaces but on lines where it is aka Three Men's Morris.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="-1300" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="102">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="76" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="79" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="83" />
+				</results>					
+	</poll> 			               				<playingtime value="1" />
+						               				<minplaytime value="1" />
+						               				<maxplaytime value="1" />
+						               				<minage value="4" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="49">
+			<results>		
+					<result value="2" numvotes="7" />
+					<result value="3" numvotes="10" />
+					<result value="4" numvotes="19" />
+					<result value="5" numvotes="8" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="31">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="30" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4220" value="Category: n in a row" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6994" value="Animals: Frogs / Toads" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78572" value="Components: 3 x 3 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21540" value="Series: Game in a Tin (HABA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5619" value="Toys: Transformers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19291" value="Video Game Theme: Super Mario Bros." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="65713" value="Martian Tic-Tac-Toe" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="149072" value="Giant 30 Game Cube" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="96628" value="Miscellaneous Game Compilation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="377176" value="National Geographic: Rock &amp; Mineral Game Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1017" value="ABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6514" value="Adrenaline Brush Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33079" value="Alox Manufacturing Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="225" value="Cardinal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5314" value="Cayro, the games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2401" value="CHH Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18726" value="Coca-Cola" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17388" value="Creative Crafthouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11320" value="Dilemma Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11188" value="Fame Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28983" value="Giftco, Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="384" value="HABA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52774" value="Hearth &amp; Hand with Magnolia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="62" value="Hexagames (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50685" value="HistoryGames.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8402" value="Inovac Rima SA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="233" value="Invicta Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54216" value="Jay Franco and Sons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28533" value="John Millman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="495" value="K.E.Leg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="734" value="LEGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24497" value="Logoplay Holzspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1670" value="Magnetic Poetry Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2627" value="Majora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4554" value="MB Spellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8760" value="Melissa &amp; Doug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16715" value="Monkey Pod Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="304" value="Noris Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11187" value="Oriental Trading Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2924" value="Papita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="209" value="Patch Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2188" value="Pavilion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="648" value="Peri Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45960" value="Pier 1 Imports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1087" value="Pin International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25511" value="The Purple Cow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22994" value="Screen Patch Co." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1917" value="Selecta Spielzeug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18514" value="The Shanin Group, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6088" value="Super Accord" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="964" value="Tactic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46032" value="Terra Toys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3983" value="Tobar Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="254" value="University Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7028" value="Wales Game Systems" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3245" value="Wm F. Drueke &amp; Sons, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7506" value="Wood Expressions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9301" value="Woodstock Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3769" />
+			<average value="2.72772" />
+			<bayesaverage value="3.62303" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24547" bayesaverage="3.62303" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="1025" bayesaverage="2.65053" />
+											<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1353" bayesaverage="2.7775" />
+												</ranks>
+
+			<stddev value="1.9805" />
+			<median value="0" />
+			<owned value="1608" />
+			<trading value="37" />
+			<wanting value="9" />
+			<wishing value="33" />
+			<numcomments value="1079" />
+			<numweights value="426" />
+			<averageweight value="1.284" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

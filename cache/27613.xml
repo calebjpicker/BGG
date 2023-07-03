@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="27613">
+         <thumbnail>https://cf.geekdo-images.com/1Evyveh97FeXPsWKzh8jAA__thumb/img/AN59bNy-yH-Ti1WqlcqwG9_XgBo=/fit-in/200x150/filters:strip_icc()/pic179534.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1Evyveh97FeXPsWKzh8jAA__original/img/oucVJCSlEI__94N7pcBzEj-82jU=/0x0/filters:format(jpeg)/pic179534.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Code Cracker" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Code Craker" />
+			    				
+				<name type="alternate" sortindex="1" value="Code Knacker" />
+			    				
+				<name type="alternate" sortindex="8" value="コード破り (Codebreaking)" />
+			
+						               													<description>You have to crack the safe codes by throwing dice to earn victory points. Each safe card is worth 2 through 5 points. The player with the most points at the end of the game wins.&amp;#10;&amp;#10;When it is your turn, you must roll all 5 dice. After each roll, you must set aside at least one die. The pips of this die tell you on which number you can put a marker on one of the three revealed safe cards.&amp;#10;&amp;#10;Now you must decide to stop or go on. If you go on, you roll the remaining dice and have to put aside at least one die and, therefore, another counter on a safe card. If you stop, you can take a safe card that has all its code numbers covered by markers.&amp;#10;&amp;#10;If you roll only pips that are not on any of the revealed safe cards, your turn ends immediately and you cannot claim any of the completed safe cards.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="6" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17387" value="Series: Würfelspiele (Ravensburger)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="39080" value="IGOR: The Monster Making Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12879" value="Celia Johnson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29154" value="数寄ゲームズ (Suki Games)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="197" />
+			<average value="5.99858" />
+			<bayesaverage value="5.54813" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11387" bayesaverage="5.54813" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2245" bayesaverage="5.56666" />
+												</ranks>
+
+			<stddev value="1.13747" />
+			<median value="0" />
+			<owned value="352" />
+			<trading value="15" />
+			<wanting value="9" />
+			<wishing value="37" />
+			<numcomments value="57" />
+			<numweights value="24" />
+			<averageweight value="1.2083" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

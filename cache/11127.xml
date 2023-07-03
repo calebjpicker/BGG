@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11127">
+         <thumbnail>https://cf.geekdo-images.com/8SIPvQDN8lyH7zYsO_NWLg__thumb/img/fvO6KK0urGwHDA9UNzuBWVnzzeQ=/fit-in/200x150/filters:strip_icc()/pic293628.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8SIPvQDN8lyH7zYsO_NWLg__original/img/ZQrnvGGbzXVr3TamumuOi9MkRV8=/0x0/filters:format(jpeg)/pic293628.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kursk: Operation Zitadelle, 4 July 1943" />
+			
+						                           
+						               													<description>&amp;quot;Kursk: Operation Zitadelle, 4July 1943&amp;quot; is the first wargame by SPI (or anyone else) on history's largest land battle.&amp;#10;&amp;#10;The stark four-color map extends 440 miles from north to south at about 9 miles per hex. Games last 6 turns. The time scale, though not stated, is probably two days per turn. (The historical battle ran 12 days.) Units are German divisions (light gray) and ahistorical Soviet &amp;quot;corps&amp;quot; (brown), plus a handful of smaller formations. They have combat and movement factors (e. g., 6-8 for the best German panzer divisions, 2-4 for a Soviet infantry &amp;quot;corps&amp;quot;). The Germans have several non-divisional panzer units that must be stacked with a German division in order to use their combat factor.  The Soviets have artillery and anti-tank brigades that can only use their combat factor in attack or defense, respectively.&amp;#10;&amp;#10;Four bands of fortified lines dominate the map, one German line and three Soviet lines. The Soviet fortified lines are indicated as they existed in May, June and July 1943.  All four lines are used during the historical scenario but not all of the Soviet lines apply to some of the hypothetical scenarios.&amp;#10;&amp;#10;Players alternate turns, each having a movement phase, combat phase and second movement phase for mechanized units. Zones of control are &amp;quot;semi-active&amp;quot; (requiring extra movement points to enter or leave). The stacking limit is three divisions or &amp;quot;corps&amp;quot;, plus one smaller formation, per hex. The Combat Results Table has the classic Eliminate, Exchange, Retreat outcomes. Supply lines must be traced over no more than 10 hexes to a rail line leading off a friendly map edge, with lack of supply halving movement and combat factors.&amp;#10;&amp;#10;Air power is represented semi-abstractly by air units that can fly close support, interdiction, combat air patrol, air superiority or interception missions. There are no command rules, but a couple of optional rules try to suggest organizational differences between the two armies. These options are quite advantageous to the Germans, who, as in reality, need all the help they can get. One of these optional rules is the ability of the German mechanized divisions to not be completely removed from play on an Eliminate result, but be replaced by low-strength Kampfgrupen (this became a standard rule in later games).&amp;#10;&amp;#10;The wargame includes six scenarios: historical and free setup scenarios for the historical July start date, hypothetical May and June German attacks, and two hypothetical August Soviet counteroffensives (one with a fixed and the other with a free setup). 255 counters&amp;#10;&amp;#10;For its day, Kursk: Operation Zitadelle was a &amp;quot;monster game&amp;quot; and more attentive to history than many of its rivals. SPI used the same basic system, generally with elaborations, in later World War II games, such as Breakout &amp;amp; Pursuit, The Moscow Campaign and Destruction of Army Group Center.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1971" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="210" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="210" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68583" value="Cities: Kursk (Russia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18581" value="Country: Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73775" value="History: World War II (Eastern Front)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48332" value="Series: Kursk (SPI)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1879" value="Sterling S. Hart" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1030" value="Redmond A. Simonsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="70" />
+			<average value="6.09857" />
+			<bayesaverage value="5.51719" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16609" bayesaverage="5.51719" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="3197" bayesaverage="5.6222" />
+												</ranks>
+
+			<stddev value="1.79097" />
+			<median value="0" />
+			<owned value="239" />
+			<trading value="7" />
+			<wanting value="8" />
+			<wishing value="16" />
+			<numcomments value="58" />
+			<numweights value="14" />
+			<averageweight value="2.4286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

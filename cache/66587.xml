@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="66587">
+         <thumbnail>https://cf.geekdo-images.com/QC1oI4zCSy9lKl34JUpykw__thumb/img/RgXeVyZ0qAldnZKIgP9GRqf02cQ=/fit-in/200x150/filters:strip_icc()/pic821651.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QC1oI4zCSy9lKl34JUpykw__original/img/16GyAbVRO9aaz-mIsqpS_XL4nQY=/0x0/filters:format(jpeg)/pic821651.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="GOSU" />
+			
+						                           
+						               													<description>In a fantasy world dominated by goblins, when the blood moon rises in the sky, a new war begins and new warlords raise their armies.&amp;#10;&amp;#10;GOSU plays like a hybrid of Race for the Galaxy and Magic: The Gathering with each player trying to recruit an army of goblins made up of soldiers, heroes, magicians, and other classes &amp;ndash; then swing it into action against the other players. Five clans of goblins are represented on the game cards, with goblins in one of three ranks. To build an army, a player must first recruit level I goblins, then build on those goblins with level II and finally level III. Those higher level goblins can be played only if a lower level goblin is of the same clan, and since goblins of the same clan have similar abilities or powers that mesh well, players tend to specialize in who they recruit to their ranks.&amp;#10;&amp;#10;Each turn, a player can play a new goblin, activate a goblin, draw cards, or pass. To activate a goblin or draw cards, players need to spend 1-2 activation tokens, with them having only two at the start of each battle. Many goblins have special powers that come into play when they're recruited, attacked, removed from play, placed with other goblins, and so on.&amp;#10;&amp;#10;Once all players have passed, the player with the most powerful army wins the battle. Players keep cards in hand from one battle to the next, so laying out all your forces at once can leave you with little to do but get hit in later battles. The first player to win three battles wins the game.&amp;#10;&amp;#10;Reimplemented as:&amp;#10;&amp;#10;    GOSU 2: Tactics&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="92">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="67" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="27">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="19" />
+					<result level="90" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2887" value="Catch the Leader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22861" value="Creatures: Goblins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="85037" value="Gosu: Kamakor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286989" value="Gosu: Kao" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="123536" value="GOSU 2: Tactics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="368119" value="Gosu X" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="37674" value="Kim Satô" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21070" value="Bertrand Benoit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37675" value="Romain Gaschet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37676" value="Ian Parovel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12446" value="Moonster Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2610" />
+			<average value="6.49685" />
+			<bayesaverage value="6.04656" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2527" bayesaverage="6.04656" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1255" bayesaverage="6.10536" />
+												</ranks>
+
+			<stddev value="1.48974" />
+			<median value="0" />
+			<owned value="2950" />
+			<trading value="218" />
+			<wanting value="38" />
+			<wishing value="363" />
+			<numcomments value="670" />
+			<numweights value="180" />
+			<averageweight value="2.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

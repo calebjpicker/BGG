@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="230336">
+                                     				
+				<name type="primary" sortindex="1" value="Biohazard War" />
+			
+						                           
+						               													<description>A 2-player card game based on the Resident Evil franchise using collectible card game style mechanics. One player is the Heroes. The other is the Umbrella Corporation.&amp;#10;&amp;#10;There are 2 decks:  &amp;#10;&amp;#10;     The Hero Deck has 3 types of cards: Teams, Characters and Events.  These have the following sub-types: Operative, Merc, Survivor&amp;#10;     The Umbrella Deck has 3 types of cards: Facilities, Units and Events.  Unit cards are further divided into the following sub-types: Soldiers, Monsters, Zombies and Vehicles. Traps are a subtype of Event.&amp;#10;&amp;#10;&amp;#10;Event cards and Traps, when played, take effect immediately and are then discarded. Other types of cards remain in play.&amp;#10;&amp;#10;The Umbrella player starts with all 6 Facility cards in play except for the New Facility. &amp;#10;The Hero searches his deck for 1 Team Card and puts it into play. &amp;#10;Each player draws 2 cards for their starting Hand.&amp;#10;&amp;#10;Each turn has 6 phases:&amp;#10;&amp;#10;&amp;#10;     Draw Phase&amp;#10;         Each player draws 2 cards from their respective decks.  &amp;#10;         If the Hero player has no teams in play, he must search his deck for a team, put it in play, and then shuffle his deck. &amp;#10;    &amp;#10;     Event Phase&amp;#10;         Certain event cards are played only in this Phase.  Players take turns, starting with the Umbrella player. &amp;#10;    &amp;#10;     Recruit Phase&amp;#10;         Cards are put into play from the players hand. When putting a card into play it is placed face up on the table. &amp;#10;         The Hero player puts team cards into play. The Hero player then puts character cards into play. Character cards must be attached to team cards.  A team card may have up to 2 characters attached (or 3, if at least one of them is a survivor).&amp;#10;         The Umbrella player may play one or more Units.&amp;#10;         The Umbrella player may play the New Facility card.  &amp;#10;    &amp;#10;     Assault Phase&amp;#10;         The Hero player may conduct one assault - one of his teams may attack one target facility.  The Hero player commits the team, its characters, and any event cards he wants to play that will assist an assault. He adds up the force values and bonuses of all these cards and adds 2D6. This is the Assault Force Total (AFT). &amp;#10;         The Umbrella player commits the targeted facility, one unit, one or more traps and any events that will assist in defending against the assault. He adds up the force values and bonuses of all these cards and adds 2D6. This is the Facility Defence Total (FDT). &amp;#10;         If the AFT is equal to or greater than the FDT the base is destroyed and removed from play. If the FDT is greater the Team is destroyed and removed from play.  Of the attached characters of a destroyed Team 50% are discarded and 50% put back in the Hero players hand. &amp;#10;         If the facility is destroyed all other cards used in its defence are discarded. If the facility wins, there is a 50% chance the defending unit is still discarded. Win or lose all Event and Trap cards are discarded. &amp;#10;    &amp;#10;     Search Phase&amp;#10;         The Umbrella player may conduct one Search and Destroy Mission - one of his Units may attack one target team.  This is handled just like an assault.  The Umbrella player generates a Search and Destroy Force Total (SDFT). The Hero player generates a Team Defence Total (TDT). An Umbrella unit, even if it wins, has a 50% chance after combat of being discarded. &amp;#10;    &amp;#10;     End Phase&amp;#10;         Max hand size is 5 cards.  Players discard excess cards. &amp;#10;    &amp;#10;&amp;#10;&amp;#10;The Hero Player wins if all the Umbrella facilities are destroyed.  The Umbrella Player wins if all the teams are destroyed.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="810" value="Lloyd Krassner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="873" value="Warp Spawn Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="302734">
+         <thumbnail>https://cf.geekdo-images.com/ffX1ifCCZziZnsfGXkxDQA__thumb/img/6i5691e1ymhynXwRMKnxGMB90Yo=/fit-in/200x150/filters:strip_icc()/pic5254404.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ffX1ifCCZziZnsfGXkxDQA__original/img/5vU0EJvw3oBmEUaIgTsKPvaiy_I=/0x0/filters:format(png)/pic5254404.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Master Word" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mazaný Lišák" />
+			    				
+				<name type="alternate" sortindex="1" value="Мастер слов" />
+			
+						               													<description>Are you as clever as a fox? As dogged as a bloodhound? Do you have an eagle-eye for details? Pool your team's resources together to seek out the master word!&amp;#10;&amp;#10;Master Word is a co-operative word-based deduction game in which players have to work together to try to find a secret word from a single starting hint.&amp;#10;&amp;#10;Each game, a guide selects a card, looks at the master word, then shows the other players (seekers) the starting hint. The seekers then have 90 seconds to discuss and each write a clue on a card, which they place in a row. Once this is done, the guide places a number of tokens at the end of the row equal to the number of clues that are &amp;quot;on the right track&amp;quot; toward the master word. The only catch: The seekers don't know which clues the tokens refer to!&amp;#10;&amp;#10;If the seekers write the master word on a solution card before the end of seven rounds, everyone wins! If they fail to do this or if they accidentally write the master word on a clue card, everyone loses!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="15" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="526" value="No necessary in-game text" numvotes="0" />
+					<result level="527" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="528" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="529" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="530" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3003" value="Induction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="351891" value="Master Word Pocket Version" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="124887" value="Gérald Cattiaux" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="124887" value="Gérald Cattiaux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="102563" value="NILS" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6352" value="Le Scorpion Masqué" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="758" />
+			<average value="6.80833" />
+			<bayesaverage value="5.84947" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3705" bayesaverage="5.84947" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="189" bayesaverage="6.21457" />
+												</ranks>
+
+			<stddev value="1.35554" />
+			<median value="0" />
+			<owned value="1425" />
+			<trading value="61" />
+			<wanting value="42" />
+			<wishing value="345" />
+			<numcomments value="137" />
+			<numweights value="22" />
+			<averageweight value="1.4545" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

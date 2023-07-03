@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2003">
+         <thumbnail>https://cf.geekdo-images.com/QA-7sOYR9zunP5WDak5UbQ__thumb/img/7UmfrzzQnlcCiy-pCqhJLN3z-cM=/fit-in/200x150/filters:strip_icc()/pic590267.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QA-7sOYR9zunP5WDak5UbQ__original/img/zJdfAYvRyYnKS0-Q5OQbkm8Oy7o=/0x0/filters:format(jpeg)/pic590267.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Spectrangle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Spectrangle 36" />
+			    				
+				<name type="alternate" sortindex="1" value="對對樂" />
+			
+						               													<description>The object of the game is to score the highest number of points. You achieve this by aiming to score as high as possible, and by trying to block the other player(s) or team. When the triangular board is filled or all players are blocked the game is finished.&amp;#10;&amp;#10;The game contains 36 colored triangles, with all kinds of combinations. Triangles with fewer colors score more. All triangles must be placed adjacent to already placed triangles. You score by multiplying the number on the triangle with number of adjacent sides and the bonus point at the bottom of the board (if more then 1).&amp;#10;&amp;#10;You either play with 2 persons or 2 teams (4 persons).&amp;#10;&amp;#10;The original game published by Greystone in 1989 had 60 &amp;quot;trangs&amp;quot; and an enlarged board and was advertised to be played by 1 to 8 players aged 5 to 135 [sic].&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1989" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24450" value="Components: Triangular Dominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64229" value="Containers: Triangular Boxes" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1376" value="Alain John Fraser-Dackers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1377" value="Maxwell Graham Gordon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1378" value="Lester Wynne Jordan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1376" value="Alain John Fraser-Dackers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1377" value="Maxwell Graham Gordon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1378" value="Lester Wynne Jordan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2919" value="Damm / Egmont" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="765" value="Educational Insights" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="774" value="Greystone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7829" value="Publijuego" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="282" />
+			<average value="5.73405" />
+			<bayesaverage value="5.52177" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15608" bayesaverage="5.52177" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="835" bayesaverage="5.58019" />
+												</ranks>
+
+			<stddev value="1.28448" />
+			<median value="0" />
+			<owned value="657" />
+			<trading value="23" />
+			<wanting value="3" />
+			<wishing value="18" />
+			<numcomments value="83" />
+			<numweights value="22" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

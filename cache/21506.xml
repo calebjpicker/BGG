@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="21506">
+         <thumbnail>https://cf.geekdo-images.com/628hhdWcDe5Y2I5MkjPIJw__thumb/img/OGey7RATKUDObI77Bkzdf52S74s=/fit-in/200x150/filters:strip_icc()/pic972468.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/628hhdWcDe5Y2I5MkjPIJw__original/img/uR1-q8R-6VIza9M5ipZ7dwFmss8=/0x0/filters:format(jpeg)/pic972468.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="New Mastermind" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mastermind" />
+			    				
+				<name type="alternate" sortindex="1" value="Nouveau Mastermind" />
+			    				
+				<name type="alternate" sortindex="1" value="Νέο Mastermind" />
+			    				
+				<name type="alternate" sortindex="1" value="珠璣妙算" />
+			
+						               													<description>Based on the classic version of Mastermind, the only real change is that this edition is multi-player, supporting up to 5 players.&amp;#10;&amp;#10;In a 5 player game, one person sets the code, and the others take turns making their guesses.  Each guess scores points based on its accuracy as follows.&amp;#10;&amp;#10;&amp;#10;    1 point for right color, wrong spot&amp;#10;    2 points for right color, right spot&amp;#10;    10 points for cracking the code&amp;#10;&amp;#10;&amp;#10;Game is played over a number of rounds equal to the number of players, most total points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="142" value="Game: Mastermind" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2392" value="Mastermind" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="260" />
+			<average value="5.84213" />
+			<bayesaverage value="5.53279" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13527" bayesaverage="5.53279" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="766" bayesaverage="5.60393" />
+												</ranks>
+
+			<stddev value="1.33765" />
+			<median value="0" />
+			<owned value="826" />
+			<trading value="17" />
+			<wanting value="4" />
+			<wishing value="15" />
+			<numcomments value="61" />
+			<numweights value="9" />
+			<averageweight value="1.7778" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="193191">
+         <thumbnail>https://cf.geekdo-images.com/1rxS-0405y50xHeW-s3BQw__thumb/img/Ft8tf8leghu7lXHZLJbkELm2R_U=/fit-in/200x150/filters:strip_icc()/pic2885963.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1rxS-0405y50xHeW-s3BQw__original/img/xWYO2M7dDhp8its9vjEeWGmMKPs=/0x0/filters:format(jpeg)/pic2885963.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="Doshboardgolf" />
+			
+						                           
+						               													<description>The Original Doshboardgolf is a golf strategy board game. A mathematical model coupled with a professional course design creates an experience that rivals the real thing. The winning player will be the one whom manages risk v.s. reward and the conditions in the most favorable way.&amp;#10;&amp;#10;Doshboardgolf uses a hex-based board to simulate a 9 hole golf course. Players have the choice of 12 directions to shoot from each hex and can even plan for fade and slice!&amp;#10;This course has everything a real course would; straight fairways; water and trees as hazards; elevation changes and even simulated wind conditions.&amp;#10;&amp;#10;The game is different every time &amp;ndash; there are 60 different wind settings and 32 different clubs. Four 12-sided dice establish the strategic variability expected with ace runs, doinked putts, roll-aways, out-of-bounds, elevation change, lost clubs, and difficult lies. You will feel the joy of an excellent shot and the defeat of a poor decision. Doshboardgolf is all the strategy of golf on your table.&amp;#10;&amp;#10;In Doshboardgolf, each player selects a set of 8 club cards that have differing distance and hook numbers. Players will have all the clubs they need, from the maximum distance driver and mid-range approach club down to the putter which will be used when holing out.&amp;#10;The distance will be determined by rolling a blue die, and the hook determined by the red die only after consulting the players chosen club card.&amp;#10;&amp;#10;Using advanced rules, a black die is introduced to simulate roll-aways when you land next to a downhill hex. Also making the game more realistic is elevation changes and penalties when having to shoot out of a hex containing trees.&amp;#10;&amp;#10;During a turn, each player in order will:&amp;#10;1. Plan a shot direction using one orange pawn as a directional marker on the board. Players have the ability to execute planned fade and slice to overcome obstructions on the board such as trees, water hazards and elevation changes&amp;#10;2. Select a club card from your 8 available options and place it face up for all players to see&amp;#10;3. Execute the shot by rolling the blue and red dice. After consulting the chosen club card, the blue die determines the distanced travelled, and the red die determines the hook which will happen after the distance is calculated&amp;#10;4. Place your player token in the new lie or if you have successfully holed out, mark your score on the included scorecard&amp;#10;Play continues in this way with the player furthest from the hole always going next.&amp;#10;As in real golf, the player with the lowest score at the end of the 9 hole round is the winner!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="141" value="No necessary in-game text" numvotes="0" />
+					<result level="142" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="143" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="144" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="145" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5652" value="Sports: Golf" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257465" value="Doshboardgolf: The Shoreline Course" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="87738" value="Rick Kapalko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="87739" value="Sean Kapalko" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="6.7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.1" />
+			<median value="0" />
+			<owned value="33" />
+			<trading value="0" />
+			<wanting value="8" />
+			<wishing value="15" />
+			<numcomments value="9" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

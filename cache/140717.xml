@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="140717">
+         <thumbnail>https://cf.geekdo-images.com/T7z9R5fSfg-mQ1_zOAPvKw__thumb/img/0IZVOmIQY6Xr9NUwrQRUb_VvCdQ=/fit-in/200x150/filters:strip_icc()/pic2042966.png</thumbnail>
+      <image>https://cf.geekdo-images.com/T7z9R5fSfg-mQ1_zOAPvKw__original/img/CokkxNs3YdjoPvvibjYob_Fta1k=/0x0/filters:format(png)/pic2042966.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Progress: Evolution of Technology" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Progrès: Évolution de la Technologie" />
+			    				
+				<name type="alternate" sortindex="1" value="Progress: Erfindung des Fortschritts" />
+			    				
+				<name type="alternate" sortindex="1" value="Прогресс" />
+			
+						               													<description>Progress: Evolution of Technology is a card game about researching technologies. Each player takes his civilization from early antiquity and learns various technologies, moving progressively to the Middle Ages, the Industrial Revolution, and Modern Times and ending with today's Internet or Social Welfare.&amp;#10;&amp;#10;Unlike other civilization games, Progress focuses on a single aspect of civilization building: researching technologies that help a society advance. The 210 technology cards in the game are divided into three ages (Ancient, Middle Ages, Industrial) and three types (Military, Science and Culture). With every advancement on a path, you gain easier access to its more advanced technologies and you'll end up opening the door to the next age.&amp;#10;&amp;#10;Each tech card provides one bonus, which can vary from one extra knowledge to a larger hand size. Even though most tech cards in the game come in multiple copies (usually one per player), the key technologies occur less frequently, forcing players to specialize and granting them unique advantages. Every technology you research decreases the cost of up to three more advanced technologies, accelerating the race towards the end of the game.&amp;#10;&amp;#10;The game play is streamlined, with players usually taking two actions, thus making each turn short and ensuring that you use the time when the others are playing for planning rather than seeing it as downtime.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="53">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="22">
+			
+		<results>		
+					<result level="741" value="No necessary in-game text" numvotes="12" />
+					<result level="742" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+					<result level="743" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="744" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="745" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25292" value="Crowdfunding: Giochistarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168610" value="Progress: Industrial Revolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168611" value="Progress: Milestones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168612" value="Progress: Personalities" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58645" value="Agnieszka Kopera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51955" value="Andrei Novac" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31235" value="David J. Coffey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68558" value="Kristi Kirisberg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72963" value="David Szilagyi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18529" value="NSKN Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1940" />
+			<average value="6.52421" />
+			<bayesaverage value="5.9988" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2752" bayesaverage="5.9988" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1291" bayesaverage="6.07854" />
+												</ranks>
+
+			<stddev value="1.44034" />
+			<median value="0" />
+			<owned value="2954" />
+			<trading value="230" />
+			<wanting value="48" />
+			<wishing value="337" />
+			<numcomments value="577" />
+			<numweights value="104" />
+			<averageweight value="2.4231" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

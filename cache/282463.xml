@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="282463">
+         <thumbnail>https://cf.geekdo-images.com/mWAQ54FpL0DRSGxHi_lqRA__thumb/img/j_cNewJz5wgMlUqXNTcZG7oKjWA=/fit-in/200x150/filters:strip_icc()/pic4865739.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mWAQ54FpL0DRSGxHi_lqRA__original/img/lH7l2QX14ce11U-a1pqZq6ThGxs=/0x0/filters:format(jpeg)/pic4865739.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Copenhagen: Roll &amp; Write" />
+			
+						                           
+						               													<description>Copenhagen: Roll &amp;amp; Write features gameplay similar to the Copenhagen board game, but with players now finishing the facade of their building thanks to the colors shown on rolled dice, not drafted and played cards.&amp;#10;&amp;#10;In the game, each player has a paper scoresheet that shows a building and five colored lines of boxes. A sheet in the center of the playing area shows various polyomino tiles in those same five colors, with tiles of two and three spaces on one side of a central divider and tiles of four and five spaces on the other side. The game includes five six-sided dice that feature the above mentioned five colors on five of their sides as well as a sixth color that serves as a joker. Each player starts with two red stars on their scoresheet; you can spend one of these stars on your turn to reroll as many dice as you wish.&amp;#10;&amp;#10;On a turn, you roll the five dice. If you have rerolls in reserve, you can use them if you wish. You then choose a group of dice in a single color, then you see the shape of the polyomino that corresponds to this choice, then you draw that polyomino on the facade of the building, with the polyomino needing to &amp;quot;rest&amp;quot; on the bottom of the building area. One space in this polyomino is brick (represented by an &amp;quot;X&amp;quot;) while the other spaces are all windows (represented by an &amp;quot;O&amp;quot;). If you created a polyomino of four or five spaces, you cross it off the central sheet of paper as each tile shown on the right side of the sheet can be used only once.&amp;#10;&amp;#10;Each other player then gets to choose one of the dice that you didn't use to claim that polyomino, then fill in the leftmost empty box of that color on their scoresheet. These boxes might have a symbol underneath them. If the box has a + under it, then this player can cross off the + on a future turn to add one &amp;quot;phantom&amp;quot; die showing this color to whatever they rolled that round, e.g., if you cross off a blue +, you effectively rolled three blue dice that turn instead of two. If a box has a star under it, then you can cross out that star on a future turn to use the power of that color:&amp;#10;&amp;#10;&amp;#10;    Red lets you reroll as many dice as you want.&amp;#10;    Blue lets you change one brick space to a window space when you're drawing something into your facade.&amp;#10;    Purple lets you draw one brick space in an empty space of your choice (as long as this space isn't floating in air).&amp;#10;    Green lets you change all dice of one color to another color of your choice.&amp;#10;    Yellow lets you use a polyomino shape that was crossed out on a previous turn.&amp;#10;&amp;#10;&amp;#10;You can use as many stars as you wish on your turn.&amp;#10;&amp;#10;When you fill in a horizontal row in the facade of your building, you score 2 points if all the spaces are filled with windows and 1 point if at least one space holds brick; when you fill in a vertical column, you score 4 points and 2 points under the same condition. When you fill in predesignated rows and columns, you receive an immediate bonus &amp;mdash; either drawing one window in an empty space or crossing off two boxes in one or two color lines on your scoresheet. If you cross out the final space in a color line, you score 2 points.&amp;#10;&amp;#10;Gameplay continues until someone has scored 12 or more points. Complete the round so that each player has had the same number of turns, then whoever has the most points wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="3" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19551" value="Cities: Copenhagen (Denmark)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10315" value="Country: Denmark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57043" value="Game: Copenhagen (Queen Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63122" value="Versions &amp; Editions: Roll- or Flip-and-Write Versions of Non-Writing Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="269595" value="Copenhagen" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80520" value="Asger Harding Granerud" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80521" value="Daniel Skjold Pedersen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68126" value="Markus Erdt" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="824" />
+			<average value="6.60678" />
+			<bayesaverage value="5.823" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3946" bayesaverage="5.823" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1151" bayesaverage="5.92156" />
+												</ranks>
+
+			<stddev value="1.2587" />
+			<median value="0" />
+			<owned value="1794" />
+			<trading value="45" />
+			<wanting value="49" />
+			<wishing value="267" />
+			<numcomments value="182" />
+			<numweights value="15" />
+			<averageweight value="1.4667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

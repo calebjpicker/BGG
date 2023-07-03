@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="27706">
+         <thumbnail>https://cf.geekdo-images.com/TjbzVX4JLWyO43M3kj52bw__thumb/img/Qtca-uEoeLz_jTfAmyU0jb398rA=/fit-in/200x150/filters:strip_icc()/pic7315291.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TjbzVX4JLWyO43M3kj52bw__original/img/LY6Xx3eFYUgEYJI1aque8yjg-qw=/0x0/filters:format(jpeg)/pic7315291.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bugs &amp; Looops" />
+			
+						                           
+						               													<description>Players program a simple Turing Machine, also known as a State Machine. One cube, called the pointer is positioned opposite a line of 7 other cubes, called the tape. For each state that the pointer/tape is in, a player writes an instruction changing the state, and moving the pointer. Points are scored for the number of times the pointer moves, unless the pointer moves past the end of the tape (a bug) or gets trapped in an endless cycle of instructions (a loop).&amp;#10;&amp;#10;The rulebook contains the instructions for a more complex version (Time-Sharing) and 4 simpler games, designed to introduce the concepts in the base game for younger players.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1970" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="216" value="No necessary in-game text" numvotes="0" />
+					<result level="217" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="218" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="219" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="220" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73593" value="Theme: Computer / Information Technology Industry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71023" value="Theme: Teaching Programming" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2550" value="Peter Kugel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74273" value="Judy F. Kugel" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6483" value="Creative Specialties, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="5" />
+			<wishing value="10" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

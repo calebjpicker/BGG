@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="122640">
+                                     				
+				<name type="primary" sortindex="1" value="3 to 13" />
+			
+						                           
+						               													<description>A traditional card game where the aim of the game is to score the minimum score possible over 11 rounds of play.&amp;#10;&amp;#10;using 2 standard decks of cards shuffled together, each player is dealt a number of cards depending on the round, starting with 3 cards, then 4, 5, 6 etc until the players have 13 cards in hand for the final round.&amp;#10;&amp;#10;Players attempt to &amp;quot;go out&amp;quot; by playing their cards out of their hand following the rules for each round, all other players add up the scores of their cards in hand in a running total. After 11 rounds, the player with the lowest score wins. As an extra, you can score individual points for who went out each round as a bonus competition.&amp;#10;&amp;#10;Cards are scored based on their number, with face cards counting as 10 points, and aces as 25&amp;#10;&amp;#10;Aces are wild cards, additionally, for each round, the card matching the number of cards in hand for that round (so, 3 in the first round, then 4, 5, 6 etc) is also wild (up to J, Q, K)&amp;#10;&amp;#10;Jokers can be used additionally as wild cards, and also score 25 points if left in hand when someone goes out&amp;#10;&amp;#10;On a player turn, they may draw a card from the face down draw pile, or lay any number of allowed hands to the table&amp;#10;When a player goes out, all other players have one final chance to play any cards from hand that they can before assessing the score of cards left in hand.&amp;#10;&amp;#10;Players play their own melds to the table in front of them and can extend those in any combination as part of playing hands to the table (usually this is done as a final turn to shed cards in hand). E.g. in the round of 9 cards, if you'd earlier played a 3 of a kind and a run of 3, you could later on play another 3 of a kind to finish, OR you could for example put 1 card on the 3 of a kind to make it a 4 of a kind, and another 2 cards on the run to make it a 5 card run.&amp;#10;&amp;#10;The rules for playing cards out of hand are as follows:&amp;#10;&amp;#10;Round, Cards in hand to start, wild cards, allowed plays&amp;#10;1,3,A+3+(Joker), 3 of a kind (3K), or 3 card run flush (3R)&amp;#10;2,4,A+4+(Joker), 4K or 4R&amp;#10;3,5,A+5+(Joker), 5K or 5R&amp;#10;4,6,A+6+(Joker), 6K or 6R or mix of 3R, 3K&amp;#10;5,7,A+7+(Joker), 7K or 7R, or a mix of 3R,3K,4R,4K&amp;#10;6,8,A+8+(Joker), 8K or 8R, or a mix of 3,4,5 card run or set&amp;#10;7,9,A+9+(Joker), 9K or 9R, or a mix of 3,4,5,6 card run or set&amp;#10;8,10,A+10+(Joker), 10K or 10R, or mix of 3,4,5,6,7 card hands&amp;#10;9,11,A+J+(Joker), 11K or 11R, or mix of 3,4,5,6,7,8 card hands&amp;#10;10,12,A+Q+(Joker), 10K or 10R, or mix of 3,4,5,6,7,9 card hands&amp;#10;11,13,A+K+(Joker), 10K or 10R, or mix of 3,4,5,6,7,8,9,10 card hands&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="0" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18" />
+			<average value="5.67222" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.42548" />
+			<median value="0" />
+			<owned value="18" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="6" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

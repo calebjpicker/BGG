@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="253789">
+         <thumbnail>https://cf.geekdo-images.com/WjuBjY84o71XCXoBkkEi3w__thumb/img/pAnV64ZslIviM5WaBr5g2BR1huI=/fit-in/200x150/filters:strip_icc()/pic4175910.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WjuBjY84o71XCXoBkkEi3w__original/img/PNeyfn1_loPhjwQrYioLAAJVcYw=/0x0/filters:format(jpeg)/pic4175910.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Golden Islands" />
+			
+						                           
+						               													<description>&amp;quot;Golden Islands&amp;quot; - a gambling and fun game with easy rules for 2-4 players, age 8+, in which you take on the role of the captain of the ship. You will plow the ocean, exploring the islands and collecting gold coins. Of course, it will not do without battles with other captains! Despite the seeming simplicity, the game has many strategies and options for progress towards victory!&amp;#10;&amp;#10;The goal of the game is collecting gold coins. To win, you need to collect more coins than other players.&amp;#10;&amp;#10;On your turn you will travel between islands (you choose your way), fight with other players and, using dice, play different events (good or bad).&amp;#10;&amp;#10;Turn sequence:&amp;#10;&amp;#10;Players turn consists of three phases: moving, battle and event.&amp;#10;&amp;#10;- Moving:&amp;#10;        Move your pawn to any neighboring island (including any starting position). You can move only vertically or horizontally (orthogonally). If another player is already on the island, go to the battle phase. If the coin is on the island, pick it up and put it in front of you, then go to the event phase. If the island has neither a coin nor another player - go to the event phase.&amp;#10;&amp;#10;- Battle:&amp;#10;        If you moved to an island on which another player is already located, it means that you attacked him. Proceed to battle. Each player has three health markers that represent the state of your ship. The battle consists of a series of rounds - attacks. Both players roll one die each. The player, who has less value, gets damaged and turns over one of his health markers. If both players have the same values, the dice are thrown. Attack is repeated until one of the players turns his last, third, health marker - this player lost in this fight. After the end of the battle, the winner takes half of the coins from the loser (rounding up), and the loser returns to his starting position. Players reverse their health markers (repairs the ship). If the losing player does not have a single coin, the winner does not receive anything. This ends your turn.&amp;#10;&amp;#10;- Event:&amp;#10;        The event is played if you moved to an island on which there is no other player. Throw three dice and play the event which corresponds to the rolled dice value. This ends your turn.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109556" value="Evgeniy Zhuravlevich" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109556" value="Evgeniy Zhuravlevich" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

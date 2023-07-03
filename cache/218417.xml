@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="218417">
+         <thumbnail>https://cf.geekdo-images.com/H2st1bZH4O0FM46NhKMqyQ__thumb/img/UqZx4Zn9Td--__2bRSdCDsddi_s=/fit-in/200x150/filters:strip_icc()/pic3430893.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/H2st1bZH4O0FM46NhKMqyQ__original/img/wR0VHD6Svlp34wxKN6OHV4YZZgM=/0x0/filters:format(jpeg)/pic3430893.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Aeon&#039;s End: War Eternal" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Aeon&#039;s End: Für die Ewigkeit" />
+			    				
+				<name type="alternate" sortindex="1" value="Aeon&#039;s End: Guerre Éternelle" />
+			    				
+				<name type="alternate" sortindex="1" value="Aeon&#039;s End: Wieczna Wojna" />
+			    				
+				<name type="alternate" sortindex="1" value="イーオンズ・エンド：終わりなき戦い" />
+			    				
+				<name type="alternate" sortindex="1" value="末日決戰：永恆之戰" />
+			
+						               													<description>Gravehold remains the last bastion of The World That Was. As the otherworldly incursions from the creatures known only as The Nameless intensify, a cadre of strange survivors emerge from the void itself. Will they be Gravehold's salvation or its undoing?&amp;#10;&amp;#10;War Eternal is a standalone game compatible with the cooperative deck-building game Aeon's End. Players struggle to defend Gravehold from The Nameless and their hordes using unique abilities, powerful spells, and an all-new cast of dynamic characters. Featuring a number of innovative mechanisms, including a variable turn order system that simulates the chaos of an attack and deck management rules that require careful planning, War Eternal can be played alone or combined with other Aeon's End content for a game experience like no other.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="122">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="71" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="80" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="57" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="50" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50251" value="Game: Aeon's End" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="246805" value="Aeon's End: Buried Secrets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272755" value="Aeon's End: Echo Stone and Splinter Missile Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365950" value="Aeon's End: Evolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264007" value="Aeon's End: Fleeting Vision Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="274927" value="Aeon's End: Into the Wild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363456" value="Aeon's End: Legacy of Gravehold – Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="364530" value="Aeon's End: Origins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="364426" value="Aeon's End: Past and Future" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365951" value="Aeon's End: Past and Future Kickstarter Exclusives" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="274930" value="Aeon's End: Shattered Dreams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353210" value="Aeon's End: Splitter-Geschoss Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222126" value="Aeon's End: Tabletop Day 2017 Promos – Drown in Flames / Glyph Enigma" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="196421" value="Aeon's End: The Depths" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212139" value="Aeon's End: The Nameless" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287915" value="Aeon's End: The New Age – Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228552" value="Aeon's End: The Outer Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223914" value="Aeon's End: The Void" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="244236" value="Aeon's End: Thieving Spirit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278956" value="Aeon's End: War Eternal – Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="239115" value="Aeon's End: Accessory Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272772" value="Aeon's End: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309178" value="Aeon's End: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313778" value="Aeon's End: Market Setup Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="243337" value="Aeon's End: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334732" value="Aeon's End: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291172" value="Aeon's End: War Eternal – Insert Here Insert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="191189" value="Aeon's End" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="241451" value="Aeon's End: Legacy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="331212" value="Aeon's End: Legacy of Gravehold" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="299317" value="Aeon's End: Outcasts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="270633" value="Aeon's End: The New Age" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="126022" value="Jenny Iglesias" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72770" value="Nick Little (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="88122" value="Kevin Riley" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="122536" value="Gong Studios" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26474" value="Action Phase Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10290" value="Indie Boards &amp; Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin' Meeple China" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5224" />
+			<average value="8.29698" />
+			<bayesaverage value="7.48553" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="114" bayesaverage="7.48553" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="68" bayesaverage="7.62882" />
+												</ranks>
+
+			<stddev value="1.29479" />
+			<median value="0" />
+			<owned value="11728" />
+			<trading value="184" />
+			<wanting value="230" />
+			<wishing value="1274" />
+			<numcomments value="921" />
+			<numweights value="132" />
+			<averageweight value="2.9091" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

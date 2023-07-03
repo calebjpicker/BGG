@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="200077">
+         <thumbnail>https://cf.geekdo-images.com/v05V4Po1FdP2tbIvWOGp-g__thumb/img/wBNdIabdazh-D5_f5ZjpxMGPvU8=/fit-in/200x150/filters:strip_icc()/pic3418969.png</thumbnail>
+      <image>https://cf.geekdo-images.com/v05V4Po1FdP2tbIvWOGp-g__original/img/D2VhcbE2XniRmCx8pFd-r4qajno=/0x0/filters:format(png)/pic3418969.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mint Works" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ミントワークス 日本語版" />
+			    				
+				<name type="alternate" sortindex="1" value="薄荷工厂" />
+			
+						               													<description>Mint Works is a light and straightforward worker placement game. Its compact size makes it easy to put in your pocket and take it anywhere. Its simple rules make it easy to introduce new players to the genre of worker placement.&amp;#10;&amp;#10;During the game each player will have a limited amount of Mint Tokens, which represent their workers. Players will use these mint tokens to earn more tokens, take first player or buy and build plans. Plans are how players earn points. Some plans will give only points, others will give extra powers to the owner.&amp;#10;&amp;#10;Once any player has at least 7 points earned (or if there are not enough plans to refill the stock) the end of the game is triggered. The game will then be over at the end of the current round.&amp;#10;&amp;#10;Whoever has the most points provided by plans they have built wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="138">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="28">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56591" value="Containers: Mint Tins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51498" value="Contests: Mint Tin Design" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58901" value="Misc: Self-Referential Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67352" value="Series: Mint (Five24 Labs/Poketto)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76593" value="Theme: Business/Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338154" value="Mint Works: Phil / Baseball Stadium promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233759" value="Mint Works: Promo 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382428" value="Mint Works: Spieleschmiede Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="277669" value="Mint Works: Tantrum House Intern Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="362336" value="Mint Works: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58853" value="Justin Blaske" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="91537" value="Felix Janson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69500" value="Thomas Tamblyn" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22785" value="Five24 Labs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39755" value="17wanzy (Yihu BG)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42203" value="funbot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46520" value="Poketto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34905" value="Saikorodo" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6350" />
+			<average value="6.94113" />
+			<bayesaverage value="6.57864" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1019" bayesaverage="6.57864" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="641" bayesaverage="6.62235" />
+												</ranks>
+
+			<stddev value="1.21555" />
+			<median value="0" />
+			<owned value="13241" />
+			<trading value="311" />
+			<wanting value="138" />
+			<wishing value="1228" />
+			<numcomments value="1459" />
+			<numweights value="159" />
+			<averageweight value="1.717" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="63347">
+         <thumbnail>https://cf.geekdo-images.com/fVmryz1EK9YZmewtpn8ZiQ__thumb/img/FwiVO-U-poDDPo1aiU8v3S5o4uU=/fit-in/200x150/filters:strip_icc()/pic960041.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/fVmryz1EK9YZmewtpn8ZiQ__original/img/b7t9dv08TJgl001UayWVuhGAEuo=/0x0/filters:format(jpeg)/pic960041.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Odd or Even" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Odd and Even" />
+			
+						               													<description>This Sackson design is a simple abstract. Players take turns placing pegs on the board, with each peg having to be adjacent to the last one. If playing with the Odd rule, when a peg is placed it must be adjacent to an odd number of pegs. If playing with the Even rule, it must be adjacent to an even number of pegs (except for the second peg placed).&amp;#10;&amp;#10;There are two further variants given in the rules, plus a solitaire version.&amp;#10;&amp;#10;Part of Stancraft's Hoyle Official Games line.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1970" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="1" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78592" value="Components: 6 x 7 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4" value="Sid Sackson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="752" value="GAMES Magazine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1964" value="Stancraft Products" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6.55" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.45" />
+			<median value="0" />
+			<owned value="11" />
+			<trading value="2" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

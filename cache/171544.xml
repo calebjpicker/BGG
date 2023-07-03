@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="171544">
+         <thumbnail>https://cf.geekdo-images.com/umPG3SM3u44J08jV7M-lUg__thumb/img/OgtlH4s3gUHNXg1cDpZQuaWHj5A=/fit-in/200x150/filters:strip_icc()/pic2367592.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/umPG3SM3u44J08jV7M-lUg__original/img/IR19xaneRU9vQuffE6RpcQeVdx8=/0x0/filters:format(jpeg)/pic2367592.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Think Str8!" />
+			
+						                           
+						               													<description>Think Str8! is about estimating, guessing and making clever deductions! Each player has six numbers in different colors in front of them. They can see the numbers of all the other players, but unfortunately, they see only the back of their own display. Who will manage to figure out through deduction what is standing in front of them?&amp;#10;&amp;#10;In more detail, the game includes cards in six colors, with each color having numbers 0-7. One card of each color is randomly removed from play and returned to the box without anyone knowing the numbers on those cards. Each player then sets up a rack with one card of each color on it, but with the racks facing toward the other players so that no one sees the numbers on their own rack. (In a game with two or three players, set up two or one additional racks visible to all players.)&amp;#10;&amp;#10;On a round, the active player rolls the three color dice, e.g., blue, red, and yellow. Each player tries to guess what the sum of the numbers on their rack is for the cards that correspond to the die colors. If the dice showed two green and one grey, for example, you'd add the green number twice and the grey number once &amp;mdash; but of course you can't see what your numbers are; you can only see what they aren't based on what's showing in the racks visible to you.&amp;#10;&amp;#10;The active player then takes one of the bid strips &amp;mdash; seven cardboard strips that come in different lengths &amp;mdash; and places it across one or more numbers on the number line in front of them to show the range in which their sum lies, e.g., 13-16. Each other player does the same, choosing from the strips not previously chosen. If you guess correctly, you score points, with shorter strips being worth more points; if you're wrong, then you must discard any one of your colored cards face up, then draw a new card of this color and place it in your rack unseen. You now see this hidden number, which may help you deduce sums from previous rounds, but now you have to start over with you deductions for that color! Other players see the new card you just placed, so they get more info, too.&amp;#10;&amp;#10;After 8-10 rounds, depending on the number of players, each player guesses the numbers on their racks, writing down one, two, or three guesses for each color. If you guess correctly, you score 5, 2, or 1 points for a color based on how many guesses you wrote. Add these points to whatever you scored previously, and whoever has the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="266" value="No necessary in-game text" numvotes="4" />
+					<result level="267" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="268" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="269" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="270" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="299702" value="The Lost Code" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="138" value="Leo Colovini" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3030" value="Kinetic" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="248" />
+			<average value="6.91484" />
+			<bayesaverage value="5.65897" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6160" bayesaverage="5.65897" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1597" bayesaverage="5.72603" />
+												</ranks>
+
+			<stddev value="1.3708" />
+			<median value="0" />
+			<owned value="293" />
+			<trading value="15" />
+			<wanting value="51" />
+			<wishing value="232" />
+			<numcomments value="81" />
+			<numweights value="12" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

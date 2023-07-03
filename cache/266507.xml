@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="266507">
+         <thumbnail>https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__thumb/img/8TA1Gn7jERN4yhtXD-xBCGk-QfM=/fit-in/200x150/filters:strip_icc()/pic4885780.png</thumbnail>
+      <image>https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__original/img/1Fpyz7j7rTvMPRiDdPjn0Vf0m2k=/0x0/filters:format(png)/pic4885780.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Clank!: Legacy – Acquisitions Incorporated" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Brzdęk! Legacy: Acquisitions Incorporated" />
+			    				
+				<name type="alternate" sortindex="1" value="Klong! Legacy" />
+			    				
+				<name type="alternate" sortindex="1" value="클랭크! 레거시: 전리품 주식회사" />
+			
+						               													<description>Clank! Legacy: Acquisitions Incorporated extends the deck-building fun of Clank! with legacy-style gameplay! Found your own franchise of the legendary adventuring company Acquisitions Incorporated, and shepherd your fledgling treasure-hunters to immortal corporate glory over the course of multiple games. Your game board, your deck, and your world change as you play to create a unique campaign tailored to your adventuring party. Be cunning, be bold, and most importantly be ready...&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="111">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="59" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="56" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2824" value="Legacy Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22861" value="Creatures: Goblins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48927" value="Game: Clank!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25404" value="Mechanism: Legacy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62899" value="Versions &amp; Editions: Legacy Versions of Non-Legacy Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286594" value="Clank! Legacy: Acquisitions Incorporated – Bureaucratic Tome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290036" value="Clank! Legacy: Acquisitions Incorporated – Fabulous Display" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290075" value="Clank! Legacy: Acquisitions Incorporated – Mister Whiskers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298015" value="Clank! Legacy: Acquisitions Incorporated – Pledge Support" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290071" value="Clank! Legacy: Acquisitions Incorporated – Shadow Chancellor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293208" value="Clank! Legacy: Acquisitions Incorporated – Shadow Council's Blessing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289559" value="Clank! Legacy: Acquisitions Incorporated – The &quot;C&quot; Team Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275532" value="Clank! Legacy: Acquisitions Incorporated – Upper Management Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308918" value="Clank!: Adventuring Party" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="383010" value="Clank! Legacy 2: Acquisitions Incorporated – Darkest Magic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="201808" value="Clank!: A Deck-Building Adventure" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="37507" value="Andy Clautice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="92370" value="Paul Dennen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119957" value="Clay Brooks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="118806" value="Anika Burrell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115889" value="Derek Herring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73773" value="Raul Ramos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31001" value="Nate Storm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53111" value="Alain Viesca" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33706" value="Dire Wolf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13274" value="Penny Arcade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22651" value="Origames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8143" />
+			<average value="8.57203" />
+			<bayesaverage value="7.94178" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24" bayesaverage="7.94178" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="7" bayesaverage="8.14959" />
+												</ranks>
+
+			<stddev value="1.41212" />
+			<median value="0" />
+			<owned value="14874" />
+			<trading value="74" />
+			<wanting value="624" />
+			<wishing value="5375" />
+			<numcomments value="1250" />
+			<numweights value="123" />
+			<averageweight value="2.7317" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

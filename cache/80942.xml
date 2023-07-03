@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="80942">
+         <thumbnail>https://cf.geekdo-images.com/ybE6_MilIX9a0yXKSx8WWA__thumb/img/qG2oWec5J5tFNgTaHvg66PpYN5o=/fit-in/200x150/filters:strip_icc()/pic819469.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ybE6_MilIX9a0yXKSx8WWA__original/img/yr-8vautlKYoSjGFNCv5o7WgSoI=/0x0/filters:format(jpeg)/pic819469.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ranking" />
+			
+						                           
+						               													<description>At the beginning of the game each player receives a different set of picture tiles. To start a round, a theme is shown, e.g. &amp;quot;Women like it...&amp;quot; Everyone thinks about this and selects a tile from his set, but does not show it to the other players. Players lay their tiles picture-side down on the table, and these tiles are mixed up with random tiles from the stock.&amp;#10;&amp;#10;On the board there are slots which are numbered from 0 to 6. Tiles are placed next to slot 3 so that everyone can see the pictures. The goal for each player is to have his tile reach the top (slot 6) of the ranking of items that best meet the requirement. Each player receives points equal to the slot number where his tile is at the end of each round. The point total is reduced if another player correctly guesses which tile belongs to whom and marks it with the player's color.&amp;#10;&amp;#10;When it is your turn, choose two tiles in the same row/slot and compare them to one another in meeting the requirement of the theme. (Important: You can only compare two tiles in the same row. If there is only one tile in row 4, you cannot compare this tile to one in a different row!)&amp;#10;For example, say, &amp;quot;I think women like lipstick more than a car.&amp;quot; Then, you move the lipstick tile up one row and the car tile down one row. After you have done that, the others can guess your tile, by placing a stone of your color on any tile. Each player has only one stone of each color and can only guess the active player, so this must be done selectively and timely!&amp;#10;&amp;#10;The round ends when one tile reaches the 6 slot and another is in the 0. Then, you calculate the points. Each player gets points equal his slot, minus every correct guess stone on the tile. So, if your tile is in slot 4, but there are 2 correct color stones are on it, you get only 2 points (4 - 2 = 2).&amp;#10;&amp;#10;Before the beginning of the next round everyone gets a new picture tile from the stock and a new theme is shown.&amp;#10;&amp;#10;The first player to score 15 points after a round ends the game and is the winner. He is the RanKING.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13" value="Stefan Dorra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="314" value="Ralf zur Linde" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="210" />
+			<average value="5.60562" />
+			<bayesaverage value="5.50428" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19497" bayesaverage="5.50428" />
+												</ranks>
+
+			<stddev value="1.56254" />
+			<median value="0" />
+			<owned value="448" />
+			<trading value="41" />
+			<wanting value="15" />
+			<wishing value="49" />
+			<numcomments value="84" />
+			<numweights value="19" />
+			<averageweight value="1.2632" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

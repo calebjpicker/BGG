@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="325421">
+         <thumbnail>https://cf.geekdo-images.com/Zy96U1Ygh7DJqyNUquN36g__thumb/img/tlbhCiV-AI7egkoJGbykmTriNPk=/fit-in/200x150/filters:strip_icc()/pic5907716.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Zy96U1Ygh7DJqyNUquN36g__original/img/0P74Og_2NfyjZ5RAjqo9FuWm4wg=/0x0/filters:format(jpeg)/pic5907716.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nibble" />
+			
+						                           
+						               													<description>Nibble is a strategy game for two players by Jared McComb, inspired by the works of Dieter Stein (SEVN) and Reiner Knizia. In Nibble, two players take turns taking pieces of nine colors trying to claim majorities in those colors, but can also win the game instantly in two different ways.&amp;#10;&amp;#10;COMPONENTS&amp;#10;&amp;#10;&amp;#10;     81 discs in 9 colours (9 each)&amp;#10;     Board&amp;#10;&amp;#10;&amp;#10;RULES OVERVIEW (Please refer to rulebook)&amp;#10;&amp;#10;Randomly place the 81 discs on the board such that no two of the same color are orthogonally adjacent (diagonally adjacent is OK).&amp;#10;&amp;#10;Players alternate turns taking discs from the board according to the following rules:&amp;#10;&amp;#10;1) Discs may only be taken if they have at least two adjacent exposed sides.&amp;#10;       &amp;#10;    2) A player must always take at least one disc on their turn (that is, players may not pass) and may take as many additional discs as they like on a turn, as long as all of those discs are the same color as the first one. They are not required to take all of the available discs of that color and may opt to leave one or more behind.&amp;#10;&amp;#10;3) A disc may not be taken if it would divide the remaining discs into two separate groups (counting orthogonal connections only).&amp;#10;&amp;#10;When a player takes discs, they should place them in a row on the table behind the correspondingly colored triangle on the board.&amp;#10;&amp;#10;If a player takes their 5th, 7th, or 9th disc of a color, they should place it on the corresponding circle on their side of the board to make it clear how close they are to reaching one of the three win conditions.&amp;#10;&amp;#10;WINNING THE GAME&amp;#10;&amp;#10;A player wins the game immediately if they achieve either of the following:&amp;#10;&amp;#10;&amp;#10;     Collect all 9 discs of one color&amp;#10;     Collect at least 7 discs each of three adjacent colors in a row.&amp;#10;&amp;#10;&amp;#10;If neither player is able to accomplish either of these, continue play until all the discs have been taken. The winner is the player with the majority of majorities (5 or more discs in each of 5 or more colors).&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="132146" value="Jared McComb" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="7.02778" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.88541" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="6" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

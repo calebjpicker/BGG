@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="104746">
+         <thumbnail>https://cf.geekdo-images.com/2hvgImVwYyywQN8PYLuHBA__thumb/img/9SZrYgsUQ3ojIPN-T78n17XwpO8=/fit-in/200x150/filters:strip_icc()/pic2047781.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2hvgImVwYyywQN8PYLuHBA__original/img/FbS7x04-KnRPVnuDz5bnNlyjO7M=/0x0/filters:format(jpeg)/pic2047781.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Eclipse: Supernova" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Eclipse: Supernova 2" />
+			
+						               													<description>The Supernova is by its nature very unstable, and in constant risk of exploding. Technological advancement may help to keep the Supernova stable.&amp;#10;&amp;#10;The expansion contains two Supernova sector hexes and one Discovery Tile. The Supernova hexes are shuffled with the other Outer Sector hexes before building the Outer Sector stack. The Discovery Tile is shuffled with the other Discovery Tiles.&amp;#10;&amp;#10;For each Supernova hex, roll two dice in the beginning of the Cleanup Phase. Add their values and the number of Technologies on the track where the hex owner has the fewest Technologies. If the hex does not have an Influence Disc, no Technology bonus is added. If the result is equal or less than the number of the current round, the Supernova explodes. All ships and structures are removed from the hex, the Population cubes go back to the Population tracks, Influence disc goes back to the Influence track and the hex is flipped over. You may move to an exploded Supernova with the Wormhole Generator technology, using the normal rules.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="4" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21459" value="Game: Eclipse (Lautapelit.fi)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="72125" value="Eclipse" inbound="true"/>
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="140119" value="Eclipse: Expanded Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139862" value="Eclipse: Population Cube Acrylic Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139943" value="Eclipse: Population Cube Acrylic Tray (set of 3)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139944" value="Eclipse: Population Cube Acrylic Tray (Set of 6)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139945" value="Eclipse: Population Cube Acrylic Tray (Set of 9)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="294546" value="Eclipse: Second Dawn for the Galaxy – Supernova" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13000" value="Touko Tahkokallio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32143" value="Sampo Sikiö" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1045" />
+			<average value="7.47277" />
+			<bayesaverage value="6.16943" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.16943" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.33904" />
+												</ranks>
+
+			<stddev value="1.43024" />
+			<median value="0" />
+			<owned value="3725" />
+			<trading value="144" />
+			<wanting value="60" />
+			<wishing value="200" />
+			<numcomments value="317" />
+			<numweights value="50" />
+			<averageweight value="3.36" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="285135">
+         <thumbnail>https://cf.geekdo-images.com/QzKQjZqYLSdIUeKgzTZ0fg__thumb/img/TgW1eVYiVC0ytX5gr62ChXxsP8w=/fit-in/200x150/filters:strip_icc()/pic4863937.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QzKQjZqYLSdIUeKgzTZ0fg__original/img/0m5LDFt6d1wfTXq-E_jwNgjTSJQ=/0x0/filters:format(jpeg)/pic4863937.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wunchunk" />
+			
+						                           
+						               													<description>Wunchunk is an abstract strategy game for 2 to 4 players that is played on a &amp;quot;hexhex&amp;quot; board (a hexagonal shaped board made of hexagonal cells).  Recommended playing sizes are boards with 5 to 8 cells per side.&amp;#10;&amp;#10;Players take turns placing stones on a hexhex board, until the board is full or until all players pass consecutively. Groups of like-colored stones are &amp;quot;chunks&amp;quot; if they contain two or more stones; single stones are merely &amp;quot;crumbs.&amp;quot; The winner is the player with the fewest CHUNKS in his/her color of stones at the end of the game.&amp;#10;&amp;#10;In the case of a tie in the number of chunks, the tied player with the &amp;quot;fewest smallest groups&amp;quot; wins. That is, tied players compare their number of CRUMBS; the player with the fewest crumbs wins.  If the number of crumbs is also tied, then players compare their number of groups consisting of exactly two stones; the player with the smallest number of size-2 groups wins -- and so on up through the various sizes (size-3, size-4, ...) until the tie is broken.  (In the two player game, an &amp;quot;all the way up&amp;quot; tie is mathematically impossible so long as the players did not prematurely pass; eventually the tie will necessarily be broken as players compare larger and larger groups. In the multi-player game, an &amp;quot;all the way up&amp;quot; tie is theoretically possible but non-existent in practice.)&amp;#10;&amp;#10;On his/her turn, a player is allotted a number of stones equal to his/her current number of chunks. (The initial board configuration begins -- Othello-like -- with each player having one chunk already on the board.  See the  &amp;quot;Starting Configuration&amp;quot; posting in the rules forum for details.) A player may play any number of stones from 0 (a pass) up to his/her allotted number.  A player may play any color of stone (even an opponent's color); multiple stones can be any color or color mix.&amp;#10;&amp;#10;In the two player game, in order to offset the first player advantage, the PIE rule applies:  After Player 1 plays his/her very first stone, Player 2 then decides whether to play a stone to the board or switch colors with Player 1.  (If &amp;quot;switch colors&amp;quot; is chosen, then the player who was formerly Player 1 is now Player 2, and immediately plays a stone as his/her turn #1 move.)&amp;#10;&amp;#10;Honors&amp;#10;&amp;#10;&amp;#10;     Wunchunk won 3rd place in the Best Combinatorial 2-Player Game Contest of 2019&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="1" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="66694" value="Craig Duncan" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="8.375" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.484123" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

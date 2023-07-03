@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="9898">
+         <thumbnail>https://cf.geekdo-images.com/cs9jBbyhV6qGPK6LPfWv3A__thumb/img/2TmDkbsz9r7WgwFHcrfqxkhHzYg=/fit-in/200x150/filters:strip_icc()/pic41196.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cs9jBbyhV6qGPK6LPfWv3A__original/img/oNerjlaWkpJ6HX-PcFnAJWDTWo8=/0x0/filters:format(jpeg)/pic41196.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tic Tac Toe Times 10" />
+			
+						                           
+						               													<description>The playing board consists of nine individual games of Tic Tac Toe which are played with small cards.  However, each of these nine games is in itself a square within one Master Game.  Thus, when a player wins an individual game, he or she will also be winning one of the large squares in the 10th or Master Game.&amp;#10;&amp;#10;&amp;#10;In Tic Tac Toe Times 10 each cell of the 3x3 grid of the master-game is broken into a 3x3 grid for a mini-game of Tic-Tac-Toe. You play each mini-game of  Tic-Tac-Toe normally to try and win that cell in the Master grid.&amp;#10;&amp;#10;There is a twist to normal Tic-Tac-Toe play however. The first player can place their piece in any of the 91 min-board squares on the board. After that each player must move to the mini-game which their opponent sends them.&amp;#10;&amp;#10;&amp;#10;    So if the first player plays in the top right square of one of the 9 mini-games, then the opponent must play their move in the minigame in the top right Master cell. Subsequent play follows the same rule. &amp;#10;&amp;#10;&amp;#10;&amp;#10;    There are two exceptions to this however for which you get an open turn and you may place your piece on any tile you like.&amp;#10;&amp;#10;&amp;#10;&amp;#10;        Your opponent sends you to a tile that has already been won (either by you or them).&amp;#10;        Your opponent sends you to a tile which is full, and hence a tie. &amp;#10;    &amp;#10;&amp;#10;&amp;#10;Winning Condition&amp;#10;&amp;#10;The first player to win 3 cells in a row in the Master game wins.&amp;#10;&amp;#10;Contents:&amp;#10;Playing board&amp;#10;39 small &amp;quot;X&amp;quot;&amp;#10;39 small &amp;quot;O&amp;quot;&amp;#10;9 large &amp;quot;X&amp;quot;&amp;#10;9 Large &amp;quot;O&amp;quot;&amp;#10;(Instructions printed in boxtop)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="1" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2021" value="Area-Impulse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4220" value="Category: n in a row" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="359" value="Selchow &amp; Righter" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="18" />
+			<average value="4.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.26231" />
+			<median value="0" />
+			<owned value="24" />
+			<trading value="2" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

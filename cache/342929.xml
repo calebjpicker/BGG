@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="342929">
+                                     				
+				<name type="primary" sortindex="1" value="Garner" />
+			
+						                           
+						               													<description>Garner is a combinatorial card game for two players where you seek to collect a majority of cards in a majority of suits. It is played with a deck of cards containing 5 suits of 15 numbers each.&amp;#10;&amp;#10;Setup:&amp;#10;Shuffle the deck and fan out 25 stacks of 3 cards each in a regular layout of 5 rows and 5 columns. All cards should be visible, and it should be clear which cards are on which layer of the layout. (The 25 top cards in the initial position are on the top layer, and underneath that there are two more layers of 25 cards each.)&amp;#10;&amp;#10;Definitions:&amp;#10;Every card belongs in a number group together with all and only those cards which are connected to it by a sequence of orthogonal steps between cards with equal numbers. The members of a group all lie on the same layer.&amp;#10;A suit group is defined the same way, except &amp;quot;number&amp;quot; is replaced with &amp;quot;suit&amp;quot;.&amp;#10;&amp;#10;Play:&amp;#10;On your turn, you first distribute a number group, then you collect a suit group.&amp;#10;&amp;#10;Distribute: Pick up a number group from the current top layer and distribute them anew on the layout. You may not place two of these cards in the same stack, and you may not place them underneath any cards. Other than that, you are free to choose any of the 25 sites in the layout. There is no limit on how many cards there can be at each site.&amp;#10;&amp;#10;Collect: Pick up any suit group from the current top layer and store those cards in a personal scoring pile on your side of the board.&amp;#10;&amp;#10;Ending the game:&amp;#10;When all cards are collected, the winner is the player whose scoring pile contains the majority of the cards in the majority of the suits.&amp;#10;&amp;#10;Slight variations: &amp;#10;&amp;#10;     Add the requirement that all cards (or at least one card) in the chosen number group are in a new position after distributing.&amp;#10;     When distributing, cards must be moved in a straight (diagonal or orthogonal) line.&amp;#10;&amp;#10;&amp;#10;Decks you can play Garner with:&amp;#10;Rage&amp;#10;Stick 'Em&amp;#10;5&amp;deg;Dimension Playing Card Game&amp;#10;Sluff Off!&amp;#10;Tricky Bid&amp;#10;David &amp;amp; Goliath&amp;#10;&amp;#10;Ways of playing with more traditional decks:&amp;#10;&amp;#10;(A) &amp;#10;&amp;#10;     9 cards in 3 suits from a standard French deck. &amp;#10;     Layout: 9 stacks of 3 cards each in a 3x3 grid.&amp;#10;&amp;#10;&amp;#10;(B) &amp;#10;&amp;#10;     12 cards in 3 suits from a standard French deck. &amp;#10;     Layout: 9 stacks of 4 cards each in a 3x3 grid. &amp;#10;     Extra rule: You may never have exactly 6 cards in a suit in your scoring pile. If collecting a suit group would bring the number of cards you have in that suit to 6, you must leave behind a card in the layout, even if it means collecting 0 cards.&amp;#10;&amp;#10;&amp;#10;(C) &amp;#10;&amp;#10;     13 cards in 3 suits and 9 cards in 1 suit from a standard French deck. &amp;#10;     Layout: 16 stacks of 3 cards each in a 4x4 grid. &amp;#10;     Extra rule: The suit with 9 cards is worth half a suit.&amp;#10;&amp;#10;&amp;#10;(D) &amp;#10;&amp;#10;     9 cards in 4 suits from a standard French deck and 9 cards in a suit form a different deck, like a German deck or Tarot deck. &amp;#10;     Layout: 15 stacks of 3 cards each in a 3x5 grid.&amp;#10;&amp;#10;&amp;#10;(E)&amp;#10;&amp;#10;     12 cards in 4 suits from a standard French deck and 12 cards in a suit form a different deck, like a German deck or Tarot deck.&amp;#10;     Layout: 20 stacks of 3 cards each in a 4x5 grid.&amp;#10;     Extra rule: You may never have exactly 6 cards in a suit in your scoring pile. If collecting a suit group would bring the number of cards you have in that suit to 6, you must leave behind a card in the layout, even if it means collecting 0 cards.&amp;#10;&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="133389" value="Michael Amundsen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

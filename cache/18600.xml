@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="18600">
+         <thumbnail>https://cf.geekdo-images.com/YO6roaobpdIAHGxK1taFGQ__thumb/img/9Oi7XRfVjVgFWCn2wXf_cJ6dO48=/fit-in/200x150/filters:strip_icc()/pic229972.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YO6roaobpdIAHGxK1taFGQ__original/img/Up4IRNMUKDc3iwXDNE8MNXrZogY=/0x0/filters:format(jpeg)/pic229972.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ball Park Baseball" />
+			
+						                           
+						               													<description>Ball Park Baseball was developed by Professor Charles Sidman from the University of Kansas in the early 1960s. Each team from 1894 up to the present (2006 season) is available and includes every pitcher with 29.3 IP or hitter/position player with a significant contribution to the team's performance.&amp;#10;&amp;#10;The game is played according to the rules of baseball. The action of the game is based upon random numbers between 1 and 50. Numbers 1 through 25 determine the strength of the batter; numbers 26 through 50 provide the capability of the pitcher. Batters have ratings for arm (catchers/outfielders), fielding (by position) and running (catchers have and additional rating for handling pitchers). Pitchers have ratings for fielding and holding runners on base.&amp;#10;&amp;#10;The game also has very detailed (and essential to game play) unique ball park charts (capturing the dimensions and effect of each field) for several historic baseball stadiums.&amp;#10;&amp;#10;Each card and ball park chart is based on actual statistic performances of the players.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1971" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5586" value="Sports: Baseball" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="60453" value="Prof. Charles Sidman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4228" value="Ball Park, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="40" />
+			<average value="7.625" />
+			<bayesaverage value="5.5291" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14155" bayesaverage="5.5291" />
+												</ranks>
+
+			<stddev value="2.45395" />
+			<median value="0" />
+			<owned value="48" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="7" />
+			<numcomments value="13" />
+			<numweights value="9" />
+			<averageweight value="3.2222" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

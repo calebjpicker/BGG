@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="322282">
+         <thumbnail>https://cf.geekdo-images.com/27aUh16Q5PuCvOKRwSaAgg__thumb/img/3RmGulCFeeMU71lvdHN3m7lMaeI=/fit-in/200x150/filters:strip_icc()/pic6636164.png</thumbnail>
+      <image>https://cf.geekdo-images.com/27aUh16Q5PuCvOKRwSaAgg__original/img/wNoI-1gtKsClH0bHzzTJU-n_A3o=/0x0/filters:format(png)/pic6636164.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Momiji" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Momidži" />
+			
+						               													<description>In Momiji, you attempt to fulfill objectives by collecting the most valuable autumn leaves from the Imperial Garden in ancient Japan.&amp;#10;&amp;#10;You start with a hand of six leaf cards and a series of three landscape powers that combine to form a unique panorama. (For the first game, landscapes are assigned, but they can be drafted in subsequent games.) Leaf cards come in 4-6 types depending on the number of players, with values of 0-3 in each type. Start with four random cards in the central playing area, sorted by type. Place 4-6 randomly chosen objective tokens in the center of play; sample objectives are collecting the most 0s, having the most cards of a specific type, or having the highest sum of visible cards at game's end.&amp;#10;&amp;#10;On your turn, choose one of these three options:&amp;#10;&amp;#10;&amp;#10;     Collect leaf cards: Take all the leaves of one type from the central display and add them to your hand; if you wish, pay one acorn token to reveal four new leaf cards prior to choosing a type.&amp;#10;     Play leaf cards: Place 1-2 leaf cards of the same type or two or more cards of different types in your player area. Each type is placed in its own pile, with 0 being the first card you can play of a type; each subsequent card must the same number or at most one larger. Once you play a 3 on a pile, cover that pile with a torii token as that pile is now closed for you. If you play different types, then after playing, each pair of adjacent topmost cards in your area; if both cards show an acorn on the adjacent corners, you take two acorn tokens from the reserve.&amp;#10;     Activate a objective token: Pay three acorn tokens to place an objective token in your player area. This activates the objective, and anyone might score for it at game's end.&amp;#10;&amp;#10;&amp;#10;Once during a turn, you can discard two cards from your hand for one acorn token or spend an acorn to use a landscape power or do both of these actions. You can use each landscape power at most once during a game.&amp;#10;&amp;#10;When the leaf card deck is empty or after 4-6 leaf piles are closed with a torii token, the game ends. For each pile of leaves, you score points equal to the value of the topmost card multiplied by the number of cards in the pile. Remaining acorn tokens are worth 1 point each. For each activated objective, you see who best meets the condition and therefore scores points; if the player holding the token scores, they receive 10 points, whereas anyone else who scores that objective receives 3 points. Each player scores in case of a tie. The player with the most victory points at the end of the game wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355645" value="Momiji: Falling Leaves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355646" value="Momiji: Metal Leaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355658" value="Momiji: Morning Dew" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="113380" value="Dario Massarenti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="103305" value="Francesco Testini" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="101154" value="Apolline Etienne" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49276" value="Deer Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16687" value="Japanime Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36803" value="Sylex" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="443" />
+			<average value="6.89836" />
+			<bayesaverage value="5.74308" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4773" bayesaverage="5.74308" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1772" bayesaverage="5.81427" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1348" bayesaverage="5.82706" />
+												</ranks>
+
+			<stddev value="1.30459" />
+			<median value="0" />
+			<owned value="1377" />
+			<trading value="23" />
+			<wanting value="30" />
+			<wishing value="284" />
+			<numcomments value="130" />
+			<numweights value="14" />
+			<averageweight value="1.9286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

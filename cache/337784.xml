@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="337784">
+         <thumbnail>https://cf.geekdo-images.com/ErXDZ-iLpbUioYsVtpRBDg__thumb/img/lSQqG8l7iLf-2ocWTnRAQSrC9_w=/fit-in/200x150/filters:strip_icc()/pic7490057.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ErXDZ-iLpbUioYsVtpRBDg__original/img/ni3o3FasNWuasLn0C0bwR7qPkks=/0x0/filters:format(png)/pic7490057.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Number Drop" />
+			
+						                           
+						               													<description>Number Drop is a Tetris-style roll-and-write game played with shapes and numbers.&amp;#10;&amp;#10;Players use 4 number dice and 1 shape die to determine the way they must fill in their grid, by creating the shape with the numbers. Players also have 5 block tiles they can use to block the other players' grid.&amp;#10;&amp;#10;In this game, you must drop shapes in the right places to create combinations of identical or consecutive numbers on your grid. You aim at being the most efficient and being able drop penalties onto your opponents !&amp;#10;As soon as a player reaches the Game Over line, the game ends and whoever has the most points is the winner.&amp;#10;&amp;#10;Will you reach the ultimate score of 100 ?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="1" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9700" value="Video Game Theme: Tetris" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78797" value="Florian Sirieix" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94040" value="Benoit Turpin" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43053" value="Débâcle Jeux" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="257" />
+			<average value="6.0007" />
+			<bayesaverage value="5.55773" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10505" bayesaverage="5.55773" />
+												</ranks>
+
+			<stddev value="1.33065" />
+			<median value="0" />
+			<owned value="61" />
+			<trading value="0" />
+			<wanting value="6" />
+			<wishing value="65" />
+			<numcomments value="48" />
+			<numweights value="3" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

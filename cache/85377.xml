@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="85377">
+         <thumbnail>https://cf.geekdo-images.com/9Xc6ubv3YuGBrxStCZtm7g__thumb/img/83XNHdSSTPZl0uA287DpjHxMSp0=/fit-in/200x150/filters:strip_icc()/pic908986.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9Xc6ubv3YuGBrxStCZtm7g__original/img/Jwe4UHPMsvDzdvKPoun_q7jMJ3o=/0x0/filters:format(jpeg)/pic908986.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tuo La Ji" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bashi Fen" />
+			    				
+				<name type="alternate" sortindex="1" value="Eighty Points" />
+			    				
+				<name type="alternate" sortindex="1" value="Tractor" />
+			    				
+				<name type="alternate" sortindex="1" value="八十分" />
+			    				
+				<name type="alternate" sortindex="1" value="拖拉机" />
+			
+						               													<description>This game is known in Chinese as tuo la ji (&amp;#230;&amp;#139;&amp;#150;&amp;#230;&amp;#139;&amp;#137;&amp;#230;&amp;#156;&amp;#186;) (meaning 'tractor') or bashi fen (&amp;#229;&amp;#133;&amp;#171;&amp;#229;&amp;#141;&amp;#129;&amp;#229;&amp;#136;&amp;#134;) (meaning '80 points'). It is an expanded version of sishi fen ('40 points') using two or more decks, and is related to zhao pengyou ('looking for friends'). All these games are collectively known as Sheng1 Ji2 (&amp;#229;&amp;#141;&amp;#135;&amp;#231;&amp;#186;&amp;#167;), which means &amp;quot;raise level&amp;quot; or &amp;quot;promote&amp;quot;. Tractor is widely popular in China, especially in Shanghai and south of the Yellow River where it has practically displaced the older single deck game.&amp;#10;&amp;#10;The scores of the teams are expressed as card ranks. At the start of the game, each partnership has the lowest possible score, which is two. By winning games, a partnership can increase its score to a higher rank: three, four, five and so on. Above ten come jack, queen, king and ace. The objective is to achieve a score higher than ace - the partnership that achieves this wins the game.&amp;#10;&amp;#10;In each hand, one team forms the declarers, sometimes known in Chinese as dang1 zhuang1 (&amp;#229;&amp;#189;&amp;#147;&amp;#229;&amp;#186;&amp;#132;), and the other team forms the opponents. In the first hand, either team can be the declarers, depending on who makes trumps. In subsequent hands, the team that won the previous hand is the declarers, and the other team is the opponents.&amp;#10;&amp;#10;One member of the declarers' team is the starter, who has the advantage of taking the last cards in the deal, discarding some cards, and leading the first trick. While the declarers try to increase their score, the opponents' objective is to take at least 80 card points, in which case they become the declarers for the next deal.&amp;#10;&amp;#10;Source: edited from Pagat, http://www.pagat.com/kt5/tractor.html&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="7.0375" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.44563" />
+			<median value="0" />
+			<owned value="13" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="12" />
+			<numweights value="4" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

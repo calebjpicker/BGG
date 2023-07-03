@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="324342">
+         <thumbnail>https://cf.geekdo-images.com/VerNkxmzupkzauR4fn-RlA__thumb/img/N8GKaDv8SHcIsxCr-ZPRGLszwes=/fit-in/200x150/filters:strip_icc()/pic7379981.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VerNkxmzupkzauR4fn-RlA__original/img/QcxVjRCNFdGCPIhnX0W8pI8171M=/0x0/filters:format(jpeg)/pic7379981.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Boogeyman: The Board Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Boogeyman" />
+			    				
+				<name type="alternate" sortindex="1" value="Boogeyman: Das Brettspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Boogeyman: El Juego de Mesa" />
+			
+						               													<description>In Boogeyman you will play intrepid kids struggling with the classic nightmare: The Boogeyman. Nobody knows who he is and what he wants, but he certainly loves children who, however, do not intend to become a part of his dinner. No one knows his real face, but it is said that he is scary beyond the wildest imagination and, as if that were not enough, the kids will have to try and escape from the clutches of Jennifer, a psychopathic babysitter.&amp;#10;What will happen? Will they be able to survive the long night? Will they manage not to get caught by the Babysitter and overcome their fears? Or will Boogeyman get the better of all of them?&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="7" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2885" value="Finale Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="375936" value="Boogeyman: The Mysterious Visitor" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="252212" value="Tales of Evil" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74896" value="Antonio Ferrara" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82117" value="Virginia Chiabotti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76495" value="Davide Corsi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110395" value="Fabio Rizzo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110396" value="Letizia Sacchi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110394" value="Sara Staffelli" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30663" value="Escape Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49336" value="CafeMoka Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8351" value="Gen-X Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34778" value="Last Level" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52861" value="Légion Distribution" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="126" />
+			<average value="6.39299" />
+			<bayesaverage value="5.53749" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12767" bayesaverage="5.53749" />
+												</ranks>
+
+			<stddev value="2.07855" />
+			<median value="0" />
+			<owned value="467" />
+			<trading value="6" />
+			<wanting value="11" />
+			<wishing value="93" />
+			<numcomments value="56" />
+			<numweights value="7" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

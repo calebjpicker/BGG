@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="263113">
+         <thumbnail>https://cf.geekdo-images.com/ATEEoDo_SUYYj2alRFvXYw__thumb/img/ruKysytmqsY70bCv3ueosR_aVNo=/fit-in/200x150/filters:strip_icc()/pic5317002.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ATEEoDo_SUYYj2alRFvXYw__original/img/RUpIsOxVRP25sSHbzT8b4jIRO-I=/0x0/filters:format(png)/pic5317002.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Peer Programming" />
+			
+						                           
+						               													<description>Two software developers on a single computer... If you want to be the first compiling and building your program, you will need big doses of caffeine, some undocumented shortcuts and maybe a few pokes. Obfuscate the code by hardcoding not-easy-to-remove constants and try to distract your peer with pizza... But, what if your program does not &amp;quot;exactly&amp;quot; fits the requirements? Well, let's see if we can sell this little bug as a brand new feature.&amp;#10;&amp;#10;Peer Programming is an anti-cooperative game of software development for two players. &amp;#10;The players take the role of software developers who want to write a pretty simple code which just prints a sequence of 6 characters on console. The source code is shared by both players but the requirements are different for each. The players take actions to modify the shared code towards meeting their requirements. The first player to make the shared code print the character sequence in his requirements wins the game.&amp;#10;&amp;#10;The shared code is built using a tile placement mechanic based on the logic of code statements such as FOR loops, IF and PRINT. A player can draw motivation cards each time the shared code gets closer to meet his requirements (in the &amp;quot;compile&amp;quot; phase). These cards give one-turn special powers breaking the risk of stalemate and adding a fun thematic variation (distracting your opponent with pizza, asking for help in Stack Overflow, obfuscating the code...).&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="0" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73593" value="Theme: Computer / Information Technology Industry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71023" value="Theme: Teaching Programming" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="112746" value="Carlos Garre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="112758" value="Javier G. Maroto" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="6.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.26917" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="10" />
+			<numcomments value="4" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

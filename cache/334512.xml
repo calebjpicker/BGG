@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="334512">
+         <thumbnail>https://cf.geekdo-images.com/IfB3is0Ug9RivQqFzAnl4A__thumb/img/-Rn3YcGOWwfiZ_wOw5ftB6VF0eI=/fit-in/200x150/filters:strip_icc()/pic6064093.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IfB3is0Ug9RivQqFzAnl4A__original/img/lTeXLk7Yll4fQ3IxqDb-GQXD2Zo=/0x0/filters:format(jpeg)/pic6064093.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="NetWords" />
+			
+						                           
+						               													<description>NetWords is a word game played using only paper and pencil. No maximum number of players is given.&amp;#10;&amp;#10;The game starts with an agreed-upon number of letters, each written in a circle, with the circles connected by lines. The players also agree on the number of letters that will end the game and the minimum word length.&amp;#10;&amp;#10;On a turn a player may add as many connections as they want between existing letters that aren't already connected, as long as none of the lines cross existing lines. Also, each connection must result in at least one new word, which the player claims (they may claim more than one). Words are spelled by following the connections - a connection can be traversed more than once, and each letter has an implicit connection to itself.&amp;#10;&amp;#10;After adding as many connections as desired a player ends a turn by adding a new letter with a single connection to an existing letter. This need not result in any new words.&amp;#10;&amp;#10;Claimed words score their length minus the minimum word length. However, there are some additional rules on claiming longer forms of earlier words and so forth, which affect the scoring.&amp;#10;&amp;#10;After the last letter has been added players may examine the network to find additional words to claim.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="0" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3995" value="Martin Gardner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="135353" value="Mamikon Mnatsakanian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="135354" value="Gwen Roberts" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3258" value="A. K. Peters, Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="752" value="GAMES Magazine" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

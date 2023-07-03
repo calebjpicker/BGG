@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="269618">
+         <thumbnail>https://cf.geekdo-images.com/ej_rwho-_uR_ONkuG26aFA__thumb/img/-AhnijSP2Umdu-LpzWVxfMrvH30=/fit-in/200x150/filters:strip_icc()/pic4546823.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ej_rwho-_uR_ONkuG26aFA__original/img/6fuMi3apX0dAzP03ffcg_-L-psc=/0x0/filters:format(jpeg)/pic4546823.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Crystallo" />
+			
+						                           
+						               													<description>Crystallo is a solo puzzle/abstract card game with a light fantasy theme. Explore the cavern lair of the wicked Black Dragon by placing cards, free six magical creatures by creating crystal sets, and, if you should succeed with that task, trap the dragon in his own cave. Collect treasure along the way, and you may emerge a wealthy champion!&amp;#10;&amp;#10;Crystallo is played with a deck of 54 illustrated cards and 18 gems, and runs about 20-30 minutes.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73590" value="Containers: Drawstring Bag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19564" value="Contests: Solitaire Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65208" value="Mechanism: Partially overlapping cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73392" value="Players: Solitaire Only Card Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="114814" value="Liberty Kifer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114814" value="Liberty Kifer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41229" value="Light Heart Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38131" value="Deep Water Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25554" value="Zafty Games (Zafty)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="748" />
+			<average value="6.9468" />
+			<bayesaverage value="5.88909" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3422" bayesaverage="5.88909" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="131" bayesaverage="6.344" />
+												</ranks>
+
+			<stddev value="1.45194" />
+			<median value="0" />
+			<owned value="2057" />
+			<trading value="69" />
+			<wanting value="36" />
+			<wishing value="420" />
+			<numcomments value="287" />
+			<numweights value="17" />
+			<averageweight value="1.7647" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

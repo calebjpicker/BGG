@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2392">
+         <thumbnail>https://cf.geekdo-images.com/im_XE341_hfKMchAeH6mtw__thumb/img/svbdyni5otrt0xyJbgsAsuBoEUM=/fit-in/200x150/filters:strip_icc()/pic1118956.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/im_XE341_hfKMchAeH6mtw__original/img/8DHauNAVePanWVWT0zIgSkcFrHw=/0x0/filters:format(jpeg)/pic1118956.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mastermind" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Brain Master" />
+			    				
+				<name type="alternate" sortindex="1" value="Code Secrète" />
+			    				
+				<name type="alternate" sortindex="1" value="Codice Enigma" />
+			    				
+				<name type="alternate" sortindex="1" value="Codice Segreto" />
+			    				
+				<name type="alternate" sortindex="1" value="Código Secreto" />
+			    				
+				<name type="alternate" sortindex="1" value="Cyber Mind" />
+			    				
+				<name type="alternate" sortindex="1" value="Epilogi" />
+			    				
+				<name type="alternate" sortindex="1" value="Färgkoden" />
+			    				
+				<name type="alternate" sortindex="1" value="Geheimcode" />
+			    				
+				<name type="alternate" sortindex="1" value="Geheime Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Magnetic Secret Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Master Logic" />
+			    				
+				<name type="alternate" sortindex="1" value="Master Mind" />
+			    				
+				<name type="alternate" sortindex="1" value="Master Mind Colours" />
+			    				
+				<name type="alternate" sortindex="1" value="Master Mind Superhirn" />
+			    				
+				<name type="alternate" sortindex="1" value="Masterman" />
+			    				
+				<name type="alternate" sortindex="1" value="Mesterlogika" />
+			    				
+				<name type="alternate" sortindex="1" value="Mister Ming" />
+			    				
+				<name type="alternate" sortindex="1" value="Mistrz Intelektu" />
+			    				
+				<name type="alternate" sortindex="1" value="Mistrz Logiki" />
+			    				
+				<name type="alternate" sortindex="1" value="New Original Master Mind" />
+			    				
+				<name type="alternate" sortindex="5" value="The Original Master Mind" />
+			    				
+				<name type="alternate" sortindex="1" value="Original Master Mind, Mistrz Intelektu" />
+			    				
+				<name type="alternate" sortindex="1" value="Picas y Fijas" />
+			    				
+				<name type="alternate" sortindex="1" value="Playmind" />
+			    				
+				<name type="alternate" sortindex="4" value="Le plus malin" />
+			    				
+				<name type="alternate" sortindex="1" value="Revansch" />
+			    				
+				<name type="alternate" sortindex="1" value="Revanssi" />
+			    				
+				<name type="alternate" sortindex="1" value="Secret Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Senha" />
+			    				
+				<name type="alternate" sortindex="1" value="Super Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Supercode" />
+			    				
+				<name type="alternate" sortindex="1" value="Superhirn" />
+			    				
+				<name type="alternate" sortindex="1" value="Superhirn Professional" />
+			    				
+				<name type="alternate" sortindex="1" value="Toque y Fama" />
+			    				
+				<name type="alternate" sortindex="1" value="猜數字" />
+			    				
+				<name type="alternate" sortindex="1" value="神機妙算" />
+			    				
+				<name type="alternate" sortindex="1" value="시크릿 코드" />
+			
+						               													<description>Guess the color of hidden pegs.  A deduction game where each player takes turn making a limited number of guesses, using logic to deduce what pegs the opponent has hidden.&amp;#10;&amp;#10;One player secretly puts four colored pegs in the spaces behind a screen at once end of the game board. The other player, the code breaker, makes a series of guesses. After each guess, the code maker uses smaller pegs to tell the code breaker if their guessed pegs are the right color and in the right place, are the right color but the wrong place, or are the wrong color entirely. The code breaker makes another guess in the next row, building upon information from previous guesses, trying to match the pegs the code maker hid at the beginning of the game.&amp;#10;&amp;#10;This is a two-player game with 4 holes. For other combinations, please see the Mastermind Family.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1971" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="72">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="64" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="70" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="61" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="46">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="9" />
+					<result value="8" numvotes="24" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="28">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="28" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3003" value="Induction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5597" value="Brands: Disney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="142" value="Game: Mastermind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="6906" value="Electronic Master Mind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3664" value="Grand Mastermind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="16802" value="Mastermind Challenge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13164" value="Mastermind for Kids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="21506" value="New Mastermind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="13609" value="Number Mastermind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="22989" value="Royale Mastermind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3874" value="Ultimate Mastermind" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1060" value="Mordecai Meirowitz" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5768" value="Brohm-Parker-Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="553" value="Cadaco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2074" value="Capiépa Éditeur: Jeux Éducatifs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5314" value="Cayro, the games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="654" value="CEFA (Celulosa Fabril S. A.)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="847" value="Chieftain Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1772" value="Clipper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2701" value="Croner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11320" value="Dilemma Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1299" value="Diset S. A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24954" value="Dourios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4089" value="Falomir Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11416" value="Games International BV" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7633" value="Globo Giocattoli" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17177" value="Henry Higgins Promotions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7112" value="Imaginarium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="233" value="Invicta Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8905" value="Joen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4134" value="Kenbrite" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9123" value="Krajowa Agencja Wydawnicza" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="292" value="Orda Industries Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2120" value="Oy Fenno-Alga Ab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="486" value="Paul Lamond Games Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2188" value="Pavilion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8989" value="Plasticart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11559" value="Poptoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25511" value="The Purple Cow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40375" value="Teknisk Forlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27830" value="Top-Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5047" value="Top-Toy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11978" value="Trixy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7652" value="VEB Plastspielwaren Berlin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1859" value="Vic-Toy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9301" value="Woodstock Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12091" value="シュウクリエィション (Shu Creation)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7268" />
+			<average value="5.62109" />
+			<bayesaverage value="5.55847" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10458" bayesaverage="5.55847" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1224" bayesaverage="5.4293" />
+												</ranks>
+
+			<stddev value="1.47418" />
+			<median value="0" />
+			<owned value="12620" />
+			<trading value="197" />
+			<wanting value="16" />
+			<wishing value="158" />
+			<numcomments value="1787" />
+			<numweights value="459" />
+			<averageweight value="1.7887" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

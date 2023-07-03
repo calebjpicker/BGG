@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="30367">
+         <thumbnail>https://cf.geekdo-images.com/k2dVQuYUQ1efVOWR0NAbpQ__thumb/img/uqrdpHcEXfxlUBEmbTfPX2_2ano=/fit-in/200x150/filters:strip_icc()/pic737942.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/k2dVQuYUQ1efVOWR0NAbpQ__original/img/SCwV_cG5SG8CJ4CGIY9VnxZQJkY=/0x0/filters:format(jpeg)/pic737942.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Perry Rhodan: The Cosmic League" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Perry Rhodan: Die Kosmische Hanse" />
+			    				
+				<name type="alternate" sortindex="1" value="Перри Родан. Космический торговец" />
+			
+						               													<description>This game is set in the Perry Rhodan universe, a hugely popular German space-opera book series published since 1961. The term &amp;quot;kosmisch&amp;quot; means &amp;quot;cosmic&amp;quot;; &amp;quot;Hanse&amp;quot; refers to the Hanseatic League, a Medieval trade network in Northern Europe. In the american translation of the book series the phrase &amp;quot;Die Kosmische Hanse&amp;quot; was translated as &amp;quot;The Cosmic House&amp;quot;.&amp;#10;&amp;#10;In this game the players take on the roles of traders who transport goods between planets. Occasionally one can carry also passengers, which bring additional profit. Players can invest in cargo space, transmitters, or faster drives to improve their spaceships.&amp;#10;&amp;#10;Heinrich Glumpler, the designer of the game, is a fan of Merchant of Venus, as you can see from this comment.&amp;#10;&amp;#10;The artwork is by Swen Papenbrock, one of the illustrators of the Perry Rhodan book series.&amp;#10;&amp;#10;This game is part of the Kosmos two-player series.&amp;#10;&amp;#10;&amp;#10; Game Summary&amp;#10;Place the 6 planet cards in a line. The goods cards are double-sided; randomize them, then place several on each planet grouped by type (but no more than 2/type/planet to start). Each has their own deck, shuffled; draw 5 card hand. The cards are mostly tech cards, which can give you ongoing power; or single-use cards (counter opponent's card by playing matching card yourself). Each player begins with one card in play. This card gives each player one container and one replenishment. One player decides whether to go first or choose on which planet both planets will start. The other player gets the other option.&amp;#10;&amp;#10;On one's turn a player may do these actions in any order:&amp;#10;- Flight&amp;#10;- Two Interventions (play cards that don't have the &amp;infin; on them)&amp;#10;- Take two Planetary Actions (load, unload, or buy an &amp;infin; card)&amp;#10;&amp;#10;When a player unloads, the delivered cards are flipped over; any resulting matches are removed from game, slowly reducing the available loads and potentially ending the game! You win by getting reaching a target 70 VP. If all goods are removed, then most VP wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="18">
+			
+		<results>		
+					<result level="346" value="No necessary in-game text" numvotes="0" />
+					<result level="347" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="348" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="349" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="350" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2957" value="Bias" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11497" value="Characters: Perry Rhodan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4256" value="Series: Literature (Kosmos)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78" value="Series: Two-player games (Kosmos)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291030" value="Perry Rhodan: The Cosmic League – Insert Here Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1575" value="Heinrich Glumpler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12833" value="Swen Papenbrock" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1667" />
+			<average value="6.73608" />
+			<bayesaverage value="6.07853" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2400" bayesaverage="6.07853" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1141" bayesaverage="6.18872" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="702" bayesaverage="6.19958" />
+												</ranks>
+
+			<stddev value="1.24959" />
+			<median value="0" />
+			<owned value="2580" />
+			<trading value="122" />
+			<wanting value="97" />
+			<wishing value="368" />
+			<numcomments value="670" />
+			<numweights value="128" />
+			<averageweight value="1.9609" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

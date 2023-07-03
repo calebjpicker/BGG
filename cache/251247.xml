@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="251247">
+         <thumbnail>https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__thumb/img/kMLIpeqA6UcUvQg2AdMwwQoEIfU=/fit-in/200x150/filters:strip_icc()/pic4336469.png</thumbnail>
+      <image>https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__original/img/rkHKwkUqpQC7PAGG7n2gbrcQiUY=/0x0/filters:format(png)/pic4336469.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Barrage" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Duzzasztómű" />
+			    				
+				<name type="alternate" sortindex="1" value="Wasserkraft" />
+			    				
+				<name type="alternate" sortindex="1" value="Гребля" />
+			    				
+				<name type="alternate" sortindex="1" value="Плотина" />
+			    				
+				<name type="alternate" sortindex="1" value="バラージ" />
+			    				
+				<name type="alternate" sortindex="1" value="强国争坝" />
+			    				
+				<name type="alternate" sortindex="1" value="버라지" />
+			
+						               													<description>In the dystopic 1930s, the industrial revolution pushed the exploitation of fossil-based resources to the limit, and now the only thing powerful enough to quench the thirst for power of the massive machines and of the unstoppable engineering progress is the unlimited hydroelectric energy provided by the rivers.&amp;#10;&amp;#10;Barrage is a resource management strategic game in which players compete to build their majestic dams, raise them to increase their storing capacity, and deliver all the potential power through pressure tunnels connected to the energy turbines of their powerhouses.&amp;#10;&amp;#10;Each player represents one of the four international companies who are gathering machinery, innovative patents and brilliant engineers to claim the best locations to collect and exploit the water of a contested Alpine region crossed by rivers.&amp;#10;&amp;#10;Barrage includes two innovative and challenging mechanisms. First, the players must carefully plan their actions and handle their machinery, since both their action tokens and resources are stored on a Construction Wheel and will only be available after a full turn of the wheel. The better you manage your wheel, the earlier your resources and actions come back to you.&amp;#10;&amp;#10;Second, the water flow on the rivers depicted on the board is a shared and contested resource. Players have to intercept and store as much of the water as they can, build dams (upstream dams are expensive but can block part of the water before it reaches the downstream dams), raise the dams to increase their capacity, and build long tunnels to channel the water to their powerhouses. Water is never consumed &amp;mdash; its flow is just used to produce energy &amp;mdash;, it is instead released back to the rivers, so you have to strategically place your dams to recover the water diverted by you and the other players.&amp;#10;&amp;#10;Over five rounds, the players must fulfill power requirements represented by a common competitive power track and meet specific requests of personal contracts. At the same time, by placing a limited number of engineers, they attempt to enhance their machinery to acquire new and more efficient construction actions and to build and activate special unique-effect buildings to forward their own developing strategy.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="409">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="140" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="191" />
+					<result value="Not Recommended" numvotes="90" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="154" />
+					<result value="Recommended" numvotes="166" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="244" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="114" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="57">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="16" />
+					<result value="14" numvotes="31" />
+					<result value="16" numvotes="6" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="25">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="23" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57497" value="Game: Barrage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75455" value="Theme: Art style – Art Deco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37870" value="Theme: Dieselpunk" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304453" value="Barrage: 5-Player Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346071" value="Barrage: Executive Officer Promo C" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363533" value="Barrage: Executive Officer Promo D" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318010" value="Barrage: Executive Officers Pack A" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304458" value="Barrage: Executive Officers Pack B" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287521" value="Barrage: Kickstarter Exclusive Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388973" value="Barrage: The Geological Factor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263711" value="Barrage: The Leeghwater Project" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="366469" value="Barrage: The Nile Affair Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332735" value="Barrage: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="386434" value="Barrage: 3D Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="374564" value="Barrage: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312897" value="Barrage: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349830" value="Barrage: GolonkoCrafts Water Droplets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326749" value="Barrage: Laserox Barrage Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313597" value="Barrage: Meeple Realty Wooden Wheels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="340076" value="Barrage: Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="359668" value="Barrage: Saim Lab Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382559" value="Barrage: Sloyca Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="350984" value="Barrage: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365828" value="Barrage: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="318011" value="Barrage: Wooden Machineries pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="108836" value="Tommaso Battista" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35418" value="Simone Luciani" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="112087" value="Mauro Alocci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="83351" value="Antonio De Luca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="87749" value="Roman Roland Kuteynikov" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39249" value="sternenschimmermeer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47883" value="WoodCat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="14975" />
+			<average value="8.18229" />
+			<bayesaverage value="7.8468" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="35" bayesaverage="7.8468" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="23" bayesaverage="7.91469" />
+												</ranks>
+
+			<stddev value="1.42927" />
+			<median value="0" />
+			<owned value="18643" />
+			<trading value="130" />
+			<wanting value="854" />
+			<wishing value="5934" />
+			<numcomments value="2241" />
+			<numweights value="861" />
+			<averageweight value="4.0952" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

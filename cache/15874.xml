@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="15874">
+         <thumbnail>https://cf.geekdo-images.com/KSOmVmVUZcCv0ThusH6f7Q__thumb/img/6DAWwlWBJh8vgKfFtZzEcU6rKDw=/fit-in/200x150/filters:strip_icc()/pic65815.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KSOmVmVUZcCv0ThusH6f7Q__original/img/UJg_xrGjp-3bSN3qvX3rDSD39uM=/0x0/filters:format(jpeg)/pic65815.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bushi Shogi" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bushishogi" />
+			
+						               													<description>Bushi Shogi is a Shogi variant played by two opponents on a field of two cells, with two pieces called Samurai. The pieces are cubes with kanji in red for 'samurai' and kanji in black for 'sword' on each face.&amp;#10;&amp;#10;The playing field starts empty. Each player receives one Samurai and, beginning with Black, drops them onto their respective cells in turn. Such placement must be so that the upward face of the cube does NOT present a 'sword' kanji toward the opponent.&amp;#10;&amp;#10;Movement consists of either rotating the cube one face clockwise, rolling it forward one face toward the opponent, rolling it    left one face or rolling it right one face.&amp;#10;&amp;#10;The upward face of each cube controls the play of the game. If an opponent cube presents an upward face which has a forward 'sword' and the upward face of the player's cube does NOT present a forward 'sword', the player must rotate only. If an opponent cube presents a 'sword' forward, and the player presents a 'sword' forward, the player must roll the cube directly away from the 'samurai' kanji on its upward face.&amp;#10;&amp;#10;The game is won by the player who is able to present an upward face with a forward 'sword' and a rearward 'samurai' when the opponent cube also presents a forward 'sword' with a rearward 'samurai'. The 'samurai' are considered to be facing each other with their 'swords' met.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="2" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11305" value="Traditional Games: Shogi" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4806" value="Georg Dunkel" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="6.3125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.82752" />
+			<median value="0" />
+			<owned value="20" />
+			<trading value="0" />
+			<wanting value="6" />
+			<wishing value="31" />
+			<numcomments value="11" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

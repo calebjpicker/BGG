@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="104340">
+         <thumbnail>https://cf.geekdo-images.com/eve0DhiD-Y7mHwarjamPwA__thumb/img/iB8HCYuRbwhcdnVPi8WVG-tWoHY=/fit-in/200x150/filters:strip_icc()/pic1109303.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/eve0DhiD-Y7mHwarjamPwA__original/img/_2khu6i-rPNHNp4ShbMbqxjV4Z0=/0x0/filters:format(jpeg)/pic1109303.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Meltdown 2020" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Triage" />
+			
+						               													<description>It's 2020, and a disaster has occurred, damaging nuclear reactors around the country. There's no time to lose; your help is required, and you must lead an evacuation operation to get your people to safety. Rescue them in time!&amp;#10;&amp;#10;The game board in Meltdown 2020 is composed of twelve tiles, each consisting of seven hexes. Seven nuclear reactors and two airfields are scattered amongst the landscape hexes that make up the remainder of the country. At the start of the game, your color-coded twenty people and three vehicles (car, bus, helicopter) are placed on their designated hexes. You need to get them to the airfields to save them, preferably before they absorb too much radiation. You can airlift a vehicle out of an airfield, too, to save the driver, but then you have fewer opportunities to save more people.&amp;#10;&amp;#10;Each turn proceeds as follows:&amp;#10;&amp;#10;&amp;#10;    Radiation outburst &amp;ndash; Roll the eight-sided die and place a radiation counter on the numbered reactor (or nowhere if an 8 is rolled).&amp;#10;    Move buses &amp;ndash; In player order, move a bus up to two spaces, with a maximum of four passengers at any one time. You can pick up and drop your color-coded passengers as you wish. Vehicles can't enter a reactor hex and can't end the turn in the same space as another player's vehicle (except the airfield, which holds any number of vehicles).&amp;#10;    Radiation outburst &amp;ndash; Same as above.&amp;#10;    Move cars &amp;ndash; Same movement rules, but cars can move up to three spaces while holding at most three passengers.&amp;#10;    Radiation reparation &amp;ndash; Roll the eight-sided die, then remove a radiation counter (if present) from the numbered reactor.&amp;#10;    Move helicopters &amp;ndash; Same movement rules, but helicopters can move up to four spaces while holding at most two passengers.&amp;#10;    Radiation sickness &amp;ndash; People next to a reactor absorb 1 Sievert radiation (1 Sv) for each counter on a reactor. People one space away absorb that many Sv minus one; people two spaces away absorb that many minus two; and so on. A person can absorb radiation from more than one reactor.&amp;#10;&amp;#10;&amp;#10;When a person's token absorbs 1 Sv, lay it on its side to show that it's ill; when it absorbs 2 Sv, lay it on its back (very ill); a person absorbing 3 Sv or more dies and is removed. Radiation sickness is cumulative. People stay in their positions even after being evacuated. Vehicle drivers die only if they absorb 3 Sv or more from a single reactor in a single turn.&amp;#10;&amp;#10;The start player position rotates each round. The game ends immediately when one reactor receives a fifth counter or a 16th counter is to be placed on the game board. The player who has rescued the most people wins. In case of a tie, the player with more healthy people wins, with subsequent ties being broken by the number of ill vs. very ill people.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="124" value="Corné van Moorsel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11478" value="Alvin Madden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41528" value="Ron van Dalen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="77" value="Cwali" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3491" value="SimplyFun" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="197" />
+			<average value="6.23325" />
+			<bayesaverage value="5.56841" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9700" bayesaverage="5.56841" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2102" bayesaverage="5.59702" />
+												</ranks>
+
+			<stddev value="1.51408" />
+			<median value="0" />
+			<owned value="274" />
+			<trading value="14" />
+			<wanting value="16" />
+			<wishing value="42" />
+			<numcomments value="64" />
+			<numweights value="17" />
+			<averageweight value="1.8235" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

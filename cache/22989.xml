@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22989">
+         <thumbnail>https://cf.geekdo-images.com/_2pknLMZW58d8_k5VXdnew__thumb/img/PhvUurpg0zahm3zxnTjdeW6bPLA=/fit-in/200x150/filters:strip_icc()/pic7198635.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_2pknLMZW58d8_k5VXdnew__original/img/RBnl83MMJk2UfPXa11_x9GH9NHc=/0x0/filters:format(jpeg)/pic7198635.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Royale Mastermind" />
+			
+						                           
+						               													<description>Royale Mastermind is a variant of Mastermind where two players solve 8 patterns, alternating between being the knower and the guesser.  Shapes and colors are guessed independently on each side of the board.  The total number of guesses each player requires to solve the color/shape pattern is tallied, the winner being the one to take the fewest guesses.  The patterns consist of three elements, each having one of five shapes and one of five colors.  A deck of 25 cards is used to establish the pattern, and after each card is used in a puzzle, it is not used again.  The corresponding shape/color is also covered on a grid in the center of the board so the players can use this information in future rounds.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1972" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="1" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="142" value="Game: Mastermind" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2392" value="Mastermind" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11172" value="Derrick Botterill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11171" value="Ronald Samson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="233" value="Invicta Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="5.87" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.74089" />
+			<median value="0" />
+			<owned value="37" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="5" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

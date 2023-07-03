@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8304">
+         <thumbnail>https://cf.geekdo-images.com/UvvNEJqcgl0MLF22tTvQrg__thumb/img/N4tUV9KX8-EmkywflzZGrqYCzmA=/fit-in/200x150/filters:strip_icc()/pic80667.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/UvvNEJqcgl0MLF22tTvQrg__original/img/vV8H69xxLNFwtses5-1T-CpwKjA=/0x0/filters:format(jpeg)/pic80667.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="So Long Sucker" />
+			
+						                           
+						               													<description>Hausner, M., Nash, J. F., Shapley, L. S. and Shubik, M., (1964), &amp;quot;'So Long Sucker,' A Four-Person Game&amp;quot;. In M. Shubik (ed.) Game Theory and Related Approaches to Social Behavior, John Wiley &amp;amp; Sons, Inc., New York.&amp;#10;&amp;#10;This game was devised in 1950 as a simple social game to model the behavior of people when forming coalitions.  To make progress in the game you must form a coalition with at least one other player, but to actually win requires betraying your coalition.  It is said that 'The four authors still occasionally talk to each other' and the initial tests of the game resulted in married couples going home from parties in separate cabs.&amp;#10;&amp;#10;The objective is to be the last player with a stockpile of chips.  (Each player starts with seven of a unique color.) Each play reduces your stockpile by one chip, and it is replenished through captures or gifts from other players. Players have some measure of control over who plays next, but captures either benefit another player or require that another player chooses to let you make a capture.&amp;#10;&amp;#10;Players may form any non-binding agreements provided that all discussion is done at the table.  Working together allows players to capture chips and force other players out of the game.  In the end, one player must betray their coalitions to win.&amp;#10;&amp;#10;The authors are also responsible for inventing the dollar auction and a great deal of economic theory.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1964" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="1" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2842" value="Mel Hausner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1630" value="John Nash" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2843" value="Lloyd S. Shapley" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1928" value="John Wiley &amp; Sons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="87" />
+			<average value="6.22483" />
+			<bayesaverage value="5.53266" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13546" bayesaverage="5.53266" />
+												</ranks>
+
+			<stddev value="1.75119" />
+			<median value="0" />
+			<owned value="67" />
+			<trading value="0" />
+			<wanting value="13" />
+			<wishing value="80" />
+			<numcomments value="48" />
+			<numweights value="6" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

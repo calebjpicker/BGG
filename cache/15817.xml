@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="15817">
+         <thumbnail>https://cf.geekdo-images.com/dU0cm4_NP8QiQqiXP9Jclw__thumb/img/fgRQKglhHBKsRP-nUi0EE-iuxvM=/fit-in/200x150/filters:strip_icc()/pic902372.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/dU0cm4_NP8QiQqiXP9Jclw__original/img/WxzkPQdX41PI-Lz-94wPL1ZrEQk=/0x0/filters:format(jpeg)/pic902372.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Manila" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Manilla" />
+			    				
+				<name type="alternate" sortindex="1" value="馬尼拉" />
+			    				
+				<name type="alternate" sortindex="1" value="마닐라" />
+			
+						               													<description>Barges, freight and profits are what it's all about in Manila, a speculative contest for 3-5 players. Goods shipments, intended for transport along sea routes, are in danger of gathering dust in the warehouses or being lost at sea in a storm. While the players speculate about success and failure, the ultimate fate of the ships will be determined by the dice.&amp;#10;&amp;#10;There are four shipments that need to get to Manila - jade, ginseng, silk and nutmeg. A round begins with an initial auction to become harbour master. If you win, you'll be allowed to buy a share of one of the shipments, choose which three shipments you'd like to take down river and how likely they are to make it to their destination in the harbour. If they make it to Manila, their share price will increase. The aim of the game is to bet on the outcome of these shipments, with dice ultimately determining their fate. How many of the three boats will make it and which ones? Would you like to provide insurance against possible failed ships or perhaps you think pirates will snatch a chance to take control? Manila is a fun family game that takes minutes to learn and brings the river boats of the Philippines to life!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="96">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="48" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="54" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="23">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="17" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="426" value="No necessary in-game text" numvotes="34" />
+					<result level="427" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="428" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="429" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="430" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2904" value="Loans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27528" value="Cities: Manila (Philippines)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11603" value="Country: Philippines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="57" value="Franz-Benno Delonge" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12587" value="Victor Boden" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="87" value="Zoch Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7496" value="Egmont Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5967" />
+			<average value="6.98456" />
+			<bayesaverage value="6.59306" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="988" bayesaverage="6.59306" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="257" bayesaverage="6.68416" />
+												</ranks>
+
+			<stddev value="1.2715" />
+			<median value="0" />
+			<owned value="6307" />
+			<trading value="120" />
+			<wanting value="345" />
+			<wishing value="1097" />
+			<numcomments value="1498" />
+			<numweights value="563" />
+			<averageweight value="2.032" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

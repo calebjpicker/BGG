@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="314279">
+                                     				
+				<name type="primary" sortindex="1" value="Malady" />
+			
+						                           
+						               													<description>Malady is an unconventional stacking/sowing game designed by Alek Erickson in May 2020. It is inspired by the games of Arrausi.&amp;#10;&amp;#10;Setup: Players play on a hexagonal board. Three colors are involved: White, Black, and Grey (neutral). Players Black and White own stacks with their own color on top. The field is initially filled with single checkers of all 3 colors. The third color may be neutral or owned by a third player. The checkers are tiled so that they are evenly spaced. This game may also be played on a square grid tiled with evenly spaced White and Black checkers.&amp;#10;&amp;#10;Players take turn distributing stacks: On your turn, you pick up one stack with your color on top, and immediately place a blockade (stone of your color) on that empty point. Then, distribute the stack. This means for each checker in the stack you are holding, move exactly that many points in a straight line in any direction and drop the bottom checker on that destination. Repeat this process as long as checkers remain in the stack. Note that &amp;quot;any direction&amp;quot; means any of the six hexagonal directions, or, on the square version, any of the eight orthodiagonal directions.&amp;#10;&amp;#10;The board gets increasingly restricted: Nobody can drop checkers on points occupied by blockades of either color. While distributing, you may jump over blockades of your color, but not the opponents.&amp;#10;&amp;#10;Game end: A player loses when they are unable to make a legal move.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="200" />
+						               				<minplaytime value="2" />
+						               				<maxplaytime value="200" />
+						               				<minage value="2" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="0" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2955" value="Mancala" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="101050" value="Alek Erickson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

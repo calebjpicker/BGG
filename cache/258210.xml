@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="258210">
+         <thumbnail>https://cf.geekdo-images.com/O03NSgVOl-FsbLiAg_GV1w__thumb/img/_Oz_KuJStdA9akO-zfZ1rlrdxr4=/fit-in/200x150/filters:strip_icc()/pic4306846.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/O03NSgVOl-FsbLiAg_GV1w__original/img/ZUTVxECQWoM6lGek5g6LTgj-ypE=/0x0/filters:format(jpeg)/pic4306846.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blitzkrieg!: World War Two in 20 Minutes" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Blitzkrieg!: La seconde guerre mondiale en 20 minutes" />
+			    				
+				<name type="alternate" sortindex="1" value="Blitzkrieg!: La Segunda Guerra Mundial en 20 Minutos" />
+			    				
+				<name type="alternate" sortindex="1" value="Guerra Lampo! Blitzkrieg!" />
+			    				
+				<name type="alternate" sortindex="1" value="Winziger Weltkrieg: Der Zweite Weltkrieg in 20 Minuten" />
+			    				
+				<name type="alternate" sortindex="1" value="闪电战" />
+			
+						               													<description>Recreate World War Two in 20 minutes! The perfect wargame for non-wargamers, Blitzkrieg! allows two players to battle across the War&amp;rsquo;s most iconic theatres, winning key campaigns and building military might.&amp;#10;&amp;#10;Players draw army tokens from a bag to determine their starting forces and to replenish their losses. Rather than &amp;lsquo;fighting&amp;rsquo; battles with dice or cards, players allocate their military resources to each theatre&amp;rsquo;s campaigns, winning victory points, further resources, special weapons, and strategic advantages as they play. Refight World War Two several times in one evening!&amp;#10;&amp;#10;Includes Solo mode by D&amp;aacute;vid Turczi.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;A new square box edition which includes the Nippon expansion was published in 2021. This is tracked in the database as a separate compilation item: Blitzkrieg!: World War Two in 20 Minutes.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="83">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="77" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="26">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="12" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="8" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2871" value="Kill Steal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2888" value="Tug of War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18581" value="Country: Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17056" value="Country: United Kingdom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77155" value="Series: 20 Minutes! (PSC Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369831" value="Blitzkrieg!: Decryption Promo Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291866" value="Blitzkrieg!: Nippon Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="341262" value="Blitzkrieg!: Alternate Art Bag for Axis Player" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="347521" value="Blitzkrieg!: World War Two in 20 Minutes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="238024" value="Guerra Lampo: WWII in 20 minuti" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7640" value="Paolo Mori" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60472" value="Alan D'Amico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7640" value="Paolo Mori" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="121729" value="Paul Sizer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29198" value="PSC Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7251" value="Giochix.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4848" />
+			<average value="7.62255" />
+			<bayesaverage value="7.00655" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="438" bayesaverage="7.00655" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="66" bayesaverage="7.31732" />
+												</ranks>
+
+			<stddev value="1.11229" />
+			<median value="0" />
+			<owned value="8030" />
+			<trading value="128" />
+			<wanting value="481" />
+			<wishing value="2660" />
+			<numcomments value="914" />
+			<numweights value="124" />
+			<averageweight value="1.9274" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

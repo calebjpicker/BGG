@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="258">
+         <thumbnail>https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__thumb/img/MjQ7iYoOXuU9AUrTojjYE8sdyTk=/fit-in/200x150/filters:strip_icc()/pic2405641.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZBQHRlhd32wt4F_zgeic6w__original/img/6-0pkob0RUXgRyxGPJ2ZKyYObxw=/0x0/filters:format(jpeg)/pic2405641.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fluxx" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="פלאקס" />
+			    				
+				<name type="alternate" sortindex="1" value="フラックス" />
+			    				
+				<name type="alternate" sortindex="1" value="フラックス v5.0" />
+			    				
+				<name type="alternate" sortindex="1" value="浮言浪語" />
+			
+						               													<description>Fluxx is a card game in which the cards themselves determine the current rules of the game. By playing cards, you change numerous aspects of the game: how to draw cards, how to play cards, and even how to win.&amp;#10;&amp;#10;At the start of the game, each player holds three cards and on a turn a player draws one card, then plays one card. By playing cards, you can put new rules into play that change numerous aspects of the game: how many cards to draw or play, how many cards you can hold in hand or keep on the table in front of you, and (most importantly) how to win the game. There are many editions, themed siblings, and promo cards available.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="121">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="87" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="54" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="51">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="9" />
+					<result value="8" numvotes="29" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="50">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="30" />
+					<result level="5" value="Unplayable in another language" numvotes="17" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8" value="Game: Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24158" value="Christian Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="27295" value="Fluxx Blanxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="177946" value="Fluxx Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="44489" value="Fluxx Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31321" value="Fluxx: 10th Anniversary Party Promos – Expansion Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="92206" value="Fluxx: BoardGameGeek Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255167" value="Fluxx: Creeper Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175928" value="Fluxx: International TableTop Day Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360230" value="Fluxx: More Actions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360229" value="Fluxx: More Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360231" value="Fluxx: More Surprises" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206371" value="Fluxx: Party Favors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350489" value="Fluxx: Sham-Bo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316617" value="Fluxx: Twist Gaming Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169840" value="Fruitcake Fun Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24159" value="Jewish Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377909" value="Solo Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186885" value="Stadt Land Spielt Limitierte Sonderdrucke 2015" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382541" value="Solo Fluxx Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="375295" value="Across America Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="178209" value="Adventure Time Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="244738" value="Anatomy Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="378278" value="Around the World Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="290025" value="Astronomy Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="178210" value="Batman Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="160814" value="Cartoon Network Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="220193" value="Chemistry Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="122159" value="Cthulhu Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="235365" value="Doctor Who Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="211996" value="Drinking Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="255013" value="Fairy Tale Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="17816" value="Family Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="325409" value="Fantasy Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="183896" value="Firefly Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="314413" value="Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="350764" value="Fluxx Remixx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="280378" value="Fluxx: Rick and Morty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="140796" value="Fluxx: The Board Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="162378" value="Holiday Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="272542" value="Jumanji Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="35369" value="Martian Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="272541" value="Marvel Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="219430" value="Math Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="149130" value="Monster Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="36345" value="Monty Python Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="18333" value="Nature Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="356084" value="Olympus Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="117838" value="Oz Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="73538" value="Pirate Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="156108" value="Regular Show Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="302421" value="SpongeBob SquarePants Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="102104" value="Star Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="246531" value="Star Trek Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="268274" value="Star Trek: Deep Space Nine Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="246530" value="Star Trek: The Next Generation Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="318392" value="Star Trek: Voyager Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="8804" value="Stoner Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="328926" value="Tiny Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="334784" value="Wonderland Fluxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="29387" value="Zombie Fluxx" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="122" value="Andrew Looney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="164" value="Kristin Looney" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44171" value="Raúl Castellanos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="57163" value="Michael Hays" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35774" value="Naomi Kageyama" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="122" value="Andrew Looney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11846" value="Barbara Spelger" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="76" value="Looney Labs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12031" value="Black Monk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2775" value="Hexagonal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="98" value="Iron Crown Enterprises" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23628" value="Monkey Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2962" value="PS-Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="17415" />
+			<average value="5.67132" />
+			<bayesaverage value="5.56274" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10092" bayesaverage="5.56274" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="794" bayesaverage="5.34021" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2734" bayesaverage="5.49014" />
+												</ranks>
+
+			<stddev value="1.81165" />
+			<median value="0" />
+			<owned value="29797" />
+			<trading value="759" />
+			<wanting value="43" />
+			<wishing value="846" />
+			<numcomments value="4358" />
+			<numweights value="1091" />
+			<averageweight value="1.3886" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

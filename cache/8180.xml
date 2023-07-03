@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8180">
+         <thumbnail>https://cf.geekdo-images.com/wIqcZTfRWlakriaRPzEDUA__thumb/img/AajK2lrXKDKTEHnT_uGQipQ-Ebw=/fit-in/200x150/filters:strip_icc()/pic35362.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wIqcZTfRWlakriaRPzEDUA__original/img/Cf0J_P2aJgqj0ous4QzyKM6NRG8=/0x0/filters:format(jpeg)/pic35362.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Floriado" />
+			
+						                           
+						               													<description>40 cards of flowers (5 colors, 1-8 flowers on each card) are placed in a 5x8 grid. Both players collect flower cards with their pawn by moving across the grid following two rules: 1) pawns may never move backwards, but may turn 90 degrees before movement; 2) each collected card has to show fewer flowers than the last collected card of that color. Scoring rewards big collections of one color.&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     http://www.mastermoves.eu/ (turn-based)&amp;#10;     http://www.onlinebrettspiele.de/ (AI)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="4" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57936" value="Mechanism: Maxit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="124" value="Corné van Moorsel" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="77" value="Cwali" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="70" />
+			<average value="6.12" />
+			<bayesaverage value="5.52213" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15537" bayesaverage="5.52213" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="735" bayesaverage="5.61324" />
+												</ranks>
+
+			<stddev value="1.17335" />
+			<median value="0" />
+			<owned value="108" />
+			<trading value="4" />
+			<wanting value="15" />
+			<wishing value="33" />
+			<numcomments value="38" />
+			<numweights value="12" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

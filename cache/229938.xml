@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="229938">
+                                     				
+				<name type="primary" sortindex="1" value="Restauranteur" />
+			
+						                           
+						               													<description>A game for 2-4+ players with a restaurant building theme.&amp;#10;&amp;#10;An 8x8 grid represents a city.  There is a set of 64 counters to be placed on the spaces of the board representing 16 districts (of 6 different types) and 48 restaurants (6 each of 8 different types).  A space on the board may only ever contain 1 district or 1 restaurant.&amp;#10;&amp;#10;To start the 16 districts are distributed to the board such that each row gets 2 random districts randomly placed. All restaurant counters are in a pile called the build pile which is shuffled and placed face down next to the board.&amp;#10;&amp;#10;Each player gets a set of 20 tokens, 10 coins, 4 random restaurant counters and 4 cards from a common card deck. Cards are of three types: Number, Income and Improvement.&amp;#10;&amp;#10;Players take turns with each turn comprising has 6 phases:&amp;#10;&amp;#10;1.   Investment Phase&amp;#10;-    The active player receives 1 Coin. &amp;#10;-    If you have the most restaurants of a given type (for each type) get one extra coin.&amp;#10;&amp;#10;2.   Recruit Phase&amp;#10;-    The active player draws 1 card and puts it in his hand.&amp;#10;&amp;#10;3.   Build Phase&amp;#10;-    You may build one restaurant. This costs 10 coins and the restaurant must come from your restaurant pool. &amp;#10;-    When a restaurant is built, draw a replacement counter from the build pile. &amp;#10;-    Place the restaurant counter on an open space on the board with one of your tokens on top of it.  When building a restaurant, you must also discard a number card and the restaurant must be placed on a row or column matching that number. &amp;#10;-    You may not build a restaurant adjacent to another of the same type.&amp;#10;&amp;#10;4.   Improvement Phase&amp;#10;-    You may play one Improvement card. This costs 5 Coins. &amp;#10;-    Place improvements face up on the table in front of you. &amp;#10;-    You can have a maximum of 5 improvements.&amp;#10;&amp;#10;5.   Income Phase&amp;#10;-    You must either play an income card or initiate a random income sequence. &amp;#10;-    When playing a restaurant income card all restaurants of that type earn income. &amp;#10;They gain 1 coin for every adjacent (orthogonal or diagonal) district.  When playing a district income card all restaurants adjacent to that type of district earn 1 coin each. &amp;#10;All players earn income, not just the active player. &amp;#10;-   To initiate a random income sequence roll 2D8 to get a random space on the board. If that space is a restaurant, that restaurant earns income for each adjacent district. If that space is a district, each adjacent restaurant earns 1 coin. &amp;#10;-   If you have the only restaurants of a given type on the board they gain 1 star.  All restaurants start with a base rating of 1 star.  Certain Improvements and bonuses increase the number of stars. When a restaurant receives income multiply by its star rating to get the number of coins it earns.&amp;#10;&amp;#10;End Phase&amp;#10;Discard cards in your hand in excess of 4.&amp;#10;&amp;#10;The game ends immediately when one of the following happens: &amp;#10;-    Any player runs out of tokens to use.&amp;#10;-    All restaurants of a single type are built.&amp;#10;-    Players go through the deck twice. &amp;#10;The player with the most coins at the end of the game wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="810" value="Lloyd Krassner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="873" value="Warp Spawn Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

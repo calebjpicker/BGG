@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="378104">
+         <thumbnail>https://cf.geekdo-images.com/PU6wcvPNLdmJ0je_85CPAg__thumb/img/XUKLpHSbB3Flowx9DHTLGBYOqjg=/fit-in/200x150/filters:strip_icc()/pic7275179.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PU6wcvPNLdmJ0je_85CPAg__original/img/F6FsvV84M9CLWIzJ0nfRpAv0IHs=/0x0/filters:format(jpeg)/pic7275179.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fruity Fruit" />
+			
+						                           
+						               													<description>Released at the 2022 Fall Tokyo Game Market in Japan, Fruity Fruit is a trick-taking game that heavily incorporates tile placement mechanics and resource gathering.&amp;#10;&amp;#10;Fruity Fruit uniquely does not utilize a deck of cards for its trick play. Instead it uses tiles in 4 different suit colors (red, green, yellow, blue). In each suit color there are tiles valued 1 to 9 in sizes that vary by value. The breakdown of tile sizes are:&amp;#10;&amp;#10;&amp;#10;     All 1,2,3 value tiles are 4 squares in length&amp;#10;     All 4,5,6,7 value tiles are 3 squares in length&amp;#10;     All 8,9 value tiles are 2 squares in length&amp;#10;&amp;#10;&amp;#10;At the start of the game and in turn order, each player will draw a hand of 4 scoring cards from a deck of 9 and choose one to keep. When each player has a single scoring card, all unchosen cards are returned to the box unrevealed. Each player will then take a turn blindly drawing 3 tiles from the bag of 36. These tiles are kept secret and are placed behind their player blind. The drawing phase continues in this manner until the bag is empty. Each player is then given one basket tile, which has 4 empty spaces on it where acquired fruit tokens may be placed. On the table is a 10x10 game board with fruit, basket, and insect symbols printed on it.&amp;#10;&amp;#10;Tricks are played using the tiles each player has drawn. The game uses standard &amp;quot;must follow&amp;quot; trick-taking rules with the trump suit always being the red suit. To begin a trick, the lead player places one of their tiles onto the game board. In turn order, each other player must follow suit by playing a tile of the same color to the board. If a player can not follow suit they may place any color tile they would like. When placing a tile it must be orthogonally adjacent to a previously placed tile. Anytime a player covers a fruit symbol on the board, a token of that type is taken from the supply and placed in the middle of the table. If covering a basket or insect symbol a player receives immediately receives it. Once all players have placed a tile onto the board the trick's winner is determined:&amp;#10;&amp;#10;&amp;#10;     If a player's has no empty spaces on their basket tile(s), they are not eligible to win the trick.&amp;#10;     If any player couldn't play a tile to the board during the placement phase, they are not eligible to win the trick.&amp;#10;     The player who played the highest value of the lead color or the highest trump is the winner of the trick.&amp;#10;&amp;#10;&amp;#10;The trick's winner will take all fruit tokens placed in the middle of the table and place them into their basket(s). Any fruit that can't be placed in an empty basket space must be returned to the center of the table. The trick winner then leads the next trick. If any player isn't able to play a tile to the board due to unavailable space, that player is skipped and the game proceeds in turn order. It is possible for a trick to be comprised of a single tile.&amp;#10;&amp;#10;Play continues until either one player is out of tiles or no player is able to place any more tiles. When either happens players proceed to scoring. All players score points based on their score card drawn at the beginning of the game. For each insect token a player has in front of them, one of their highest valued fruit is discarded and will not be scored. The player with the highest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71212" value="Food &amp; Drink: Fruit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="101259" value="るりるり (Ruri Ruri)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="101259" value="るりるり (Ruri Ruri)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36566" value="るりるりゲームズ (ruri ruri games)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="3" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

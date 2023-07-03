@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="180205">
+         <thumbnail>https://cf.geekdo-images.com/ciXTuvppLlQnArLZPQu3Tw__thumb/img/FTAkR8wtMH99OicCa-kEX0ecYEM=/fit-in/200x150/filters:strip_icc()/pic5343240.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ciXTuvppLlQnArLZPQu3Tw__original/img/SpLa4t_4jyPeC0iJ25Zqse_WG84=/0x0/filters:format(jpeg)/pic5343240.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Trans-Siberian Railroad" />
+			
+						                           
+						               													<description>In the late 19th century, the Russian government commissioned a project to build a railroad that would connect Moscow in the west with Vladivostok in the east. You and your fellow players are buying shares of the railroads that will expand across Russia, attempting to enrich yourself along the way and not lose control of railroads to the Tsar!&amp;#10;&amp;#10;Trans-Siberian Railroad &amp;mdash; originally one of three titles in Winsome Games' 2015 Essen Set &amp;mdash; shares some similarities with older Winsome titles in which the rail network is already printed on the board and individual railroad companies purchase the links that are printed. Four companies (Red, Blue, Green, and Yellow) are active at the start of the game, with one share of each company auctioned to the players in that order to provide starting capital for those companies. The winner of each auction chooses an unoccupied link from Moscow to another city; each link has a value listed in it, and the railroad's initial income is set to this value.&amp;#10;&amp;#10;Once the game begins, on a turn you can:&amp;#10;&amp;#10;&amp;bull; Buy stock, specifically one share in one company or one share each in two different companies; the money paid is placed in the railroad's treasury, and when you buy two shares, you must pay an additional $4 to one of the two companies.&amp;#10;&amp;#10;&amp;bull; Build links, specifically one link, two links, or one external link (i.e. to a location on Russia's border) &amp;mdash; but only if the railroad is public (i.e., at least two shares have been purchased) and you hold at least as many shares in that railroad as each other player. (If a railroad has had only one share of stock purchased, it is private.) You can build direct links that extend that railroad's existing network or you can jump another railroad's links to extend the network in a more convoluted way. When you build two links, the second link must start from where the first link built that turn ended. The cost to build an internal link is $4, and if you jump another railroad's links, you must pay $2 to that railroad's treasury; the cost to build an external link is $8, plus $4 to each railroad per link you jumped.&amp;#10;&amp;#10;When you build a link, the value of that link &amp;mdash; 2-6 &amp;mdash; is added to that railroad's income. Each time a railroad's income marker lands on or passes over a black mark on the income track, that railroad's stock value is bumped up one level. Additionally, when you build two links or an external link, that railroad's stock value is bumped up one level.&amp;#10;&amp;#10;&amp;bull; Pass.&amp;#10;&amp;#10;When you buy two shares, build two links, build one external link, or pass, you move the timing token one space on the timing track. When this token reaches the end of the track, each railroad pays dividends to those who hold stock in it, with the railroad's income being divided by the number of shares owned, then rounded up. If Red has $11 income and you own two shares and another player owns one, then you receive $8 and the other player $4.&amp;#10;&amp;#10;After paying out dividends (and re-setting the timing token to 0), if any railroad has a stock value of at least $48, then the game enters phase 2, which starts with an auction for a share of the black and white railroads, with the winner of each auction claiming any one non-external link for that railroad that connects to another railroad's network.&amp;#10;&amp;#10;In phase 2, once you pay out dividends, you check to see whether any railroad's stock value is equal to or less than the nationalization value, which starts at $24 and which increases after each dividend payout in phase 1, each failure to auction a railroad's share at the start of either phase, and each dividend payout in phase 2 during which no railroads were nationalized. If a railroad's stock value is less than the nationalization value, that railroad is nationalized, with each owner of its stock getting one final dividend payment, after which all shares of that railroad are removed from the game. Once all nationalizations are complete, the nationalization value is increased three levels for each nationalization that took place.&amp;#10;&amp;#10;If at this point any railroad has a stock value of $75 or the dividend marker has reached the end of the track, the game ends; otherwise players continue playing. When the game ends, players sum the value of the stocks they hold in public railroads with any money they have on hand. The player with the most money wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="276" value="No necessary in-game text" numvotes="7" />
+					<result level="277" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="278" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="279" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="280" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68441" value="Region: Siberia (Russia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18979" value="Series: Cube Rails" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18796" value="Series: Winsome Essen Sets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78818" value="Series: Winsome Train Games (Rio Grande)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50619" value="Amabel Holland" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42166" value="Todd Sanders" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="65" value="Winsome Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="276" />
+			<average value="7.1851" />
+			<bayesaverage value="5.7159" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5163" bayesaverage="5.7159" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1798" bayesaverage="5.8002" />
+												</ranks>
+
+			<stddev value="1.27478" />
+			<median value="0" />
+			<owned value="809" />
+			<trading value="23" />
+			<wanting value="36" />
+			<wishing value="143" />
+			<numcomments value="95" />
+			<numweights value="11" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

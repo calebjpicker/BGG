@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="27480">
+         <thumbnail>https://cf.geekdo-images.com/lQlYFecNpmgXrj9cp9fiZA__thumb/img/YKv1md3DxwGW5xc0KLk0jTZkcSU=/fit-in/200x150/filters:strip_icc()/pic178190.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lQlYFecNpmgXrj9cp9fiZA__original/img/jezvLcyGGIFMSn3LwcQi0LBJDok=/0x0/filters:format(jpeg)/pic178190.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Command Decision: Test of Battle" />
+			
+						                           
+						               													<description>Battalion level rules for using WWII miniatures where each stand of miniatures represents a platoon and each turn represents 30 minutes of time.  &amp;#10;Major differences from earlier editions (accoding to Introduction):&amp;#10;--Turn = 30 mins (before, 15 mins).&amp;#10;--Spotting is now deterministic.&amp;#10;--Most models are always on the table. Some are 'phantom' models (dummies).&amp;#10;--Exception: one or two 'command reserve' stands can be added during play.&amp;#10;--Movement is now sequential, not simultaneous.&amp;#10;--Stands are eliminated with one hit (before, 2-4 hits were required).&amp;#10;--HE fires always suppress.&amp;#10;&amp;#10;TO&amp;amp;Es and Data charts for 4 nations (US,UK,Germany and Russia) included.&amp;#10;12 historical scenarios and a random campaign scenario generator (named 'Test of Battle'). Also, Random Event cards are added.&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;    Command Decision: Test of Battle &amp;#226;&amp;#128;&amp;#147; Benghazi Handicap&amp;#10;    Command Decision: Test of Battle &amp;#226;&amp;#128;&amp;#147; Stars and Stripes Forever&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71616" value="Series: Command Decision, Test of Battle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="301235" value="Barbarossa: Kicking in the Door... – Germany Invades the Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304867" value="Blitzkrieg Legions: Dark Beginnings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304779" value="Command Decision: Test of Battle – Armies of October: Armies &amp; Weapons 1973 Arab-Israeli War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30692" value="Command Decision: Test of Battle – Benghazi Handicap" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304787" value="Command Decision: Test of Battle – Birth of the Blitzkrieg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304869" value="Command Decision: Test of Battle – Blitzkrieg Legions: Fall of the West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304860" value="Command Decision: Test of Battle – Crisis in the Ardennes: The Battle of the Bulge 1944" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304866" value="Command Decision: Test of Battle – From Normandy to Lorraine: The American Drive to the Rhine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304780" value="Command Decision: Test of Battle – Honour of the Regiment: The British and Commonwealth Armies in the West in World War II, 1939-1945" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304870" value="Command Decision: Test of Battle – In the Clutches of Eagles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304767" value="Command Decision: Test of Battle – Operation Market Garden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304872" value="Command Decision: Test of Battle – Red Steel: Soviet Armored and Mobile Forces in World War II 1939-1945" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="60753" value="Command Decision: Test of Battle – Red Tide" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304760" value="Command Decision: Test of Battle – Road to Tokyo: October 1942 - July 1945" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="33824" value="Command Decision: Test of Battle – Stars and Stripes Forever" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304773" value="Command Decision: Test of Battle – The Death of Glory: France 1914" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304782" value="Command Decision: Test of Battle – The Return: Leyte October 1944" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304873" value="Command Decision: Test of Battle – When Olympus Trembled: Operations Marita, Merkur &amp; Herkules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304765" value="Great War East 1914: A Scenario Book For Command Decision – Test of Battle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="301237" value="Grey Steel, Red Storm: Regimental Wargaming Scenarios in the Soviet Union 1941-1943" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339236" value="Kharkov, May 1942: The Last Disaster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348153" value="VYSHiBALY: Ramstein AFB" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="6699" value="Command Decision III" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="335" value="Frank Chadwick" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3550" value="Glenn E. Kidd" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6427" value="Test of Battle Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="44" />
+			<average value="8.12841" />
+			<bayesaverage value="5.54233" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12095" bayesaverage="5.54233" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1947" bayesaverage="5.82723" />
+												</ranks>
+
+			<stddev value="1.36304" />
+			<median value="0" />
+			<owned value="88" />
+			<trading value="2" />
+			<wanting value="4" />
+			<wishing value="18" />
+			<numcomments value="24" />
+			<numweights value="14" />
+			<averageweight value="3.0714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

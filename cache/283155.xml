@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="283155">
+         <thumbnail>https://cf.geekdo-images.com/t8bTlZmxz6PiskMSjcBHcw__thumb/img/TByBGUDO_jNVxDaOviRWOFtu9fk=/fit-in/200x150/filters:strip_icc()/pic4815033.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/t8bTlZmxz6PiskMSjcBHcw__original/img/fDRiccme7OA8fWdl8FVCokv5eko=/0x0/filters:format(jpeg)/pic4815033.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Calico" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Calico Ο Σπιτόγατος" />
+			    				
+				<name type="alternate" sortindex="1" value="Calico: Foltok, cicák, takarók" />
+			    				
+				<name type="alternate" sortindex="1" value="Pelíšek" />
+			    				
+				<name type="alternate" sortindex="1" value="Каліко" />
+			    				
+				<name type="alternate" sortindex="1" value="Котики" />
+			    				
+				<name type="alternate" sortindex="1" value="キャリコ" />
+			    				
+				<name type="alternate" sortindex="1" value="猫与花毯" />
+			    				
+				<name type="alternate" sortindex="1" value="캘리코" />
+			
+						               													<description>Calico is a puzzly tile-laying game of quilts and cats.&amp;#10;&amp;#10;In Calico, players compete to sew the coziest quilt as they collect and place patches of different colors and patterns. Each quilt has a particular pattern that must be followed, and players are also trying to create color and pattern combinations that are not only aesthetically pleasing, but also able to attract the cuddliest cats!&amp;#10;&amp;#10;Turns are simple. Select a single patch tile from your hand and sew it into your quilt, then draw another patch into your hand from the three available. If you are able to create a color group, you may sew a button onto your quilt. If you are able to create a pattern combination that is attractive to any of the cats, it will come over and curl up on your quilt! At the end of the game, you score points for buttons, cats, and how well you were able to complete your unique quilt pattern.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="262">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="99" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="149" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="68" />
+					<result value="Recommended" numvotes="115" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="113" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="91" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="56">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="18" />
+					<result value="10" numvotes="25" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="22">
+			
+		<results>		
+					<result level="336" value="No necessary in-game text" numvotes="22" />
+					<result level="337" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="338" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="339" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="340" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7334" value="Animals: Cats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57182" value="Theme: Sewing / Knitting / Cloth-Making" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368113" value="Calico:  Opposites Attract Tantrum House Promo Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293834" value="Calico: Kickstarter Promo Cats" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348481" value="Calico: Eurohell Design Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372682" value="Calico: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="337692" value="Calico: reDrewno Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="117880" value="Kevin Russ" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42733" value="Flatout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47848" value="Asmodee China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50609" value="Cryptic Cardboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44898" value="Little Rocket Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15706" />
+			<average value="7.58081" />
+			<bayesaverage value="7.30232" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="205" bayesaverage="7.30232" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="9" bayesaverage="7.35377" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="35" bayesaverage="7.35927" />
+												</ranks>
+
+			<stddev value="1.21826" />
+			<median value="0" />
+			<owned value="27760" />
+			<trading value="238" />
+			<wanting value="425" />
+			<wishing value="4797" />
+			<numcomments value="2420" />
+			<numweights value="429" />
+			<averageweight value="2.1818" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

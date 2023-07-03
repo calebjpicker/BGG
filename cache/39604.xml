@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="39604">
+                                     				
+				<name type="primary" sortindex="1" value="Mwambulula" />
+			
+						                           
+						               													<description>A mancala game. From http://mancala.wikia.com/wiki/Mwambulula:&amp;#10;&amp;#10;&amp;quot;Mwambulula of the Bemba near Kasama in northern Zambia. The game was first described in Europe in 1956 by J. H. Chaplin in the British journal Man.&amp;#10;&amp;#10;The boards are most commonly dug into the ground, the predominantly sandy soil making the excavation of holes quite easy. However, wooden boards are also carved.&amp;#10;&amp;#10;Rules:&amp;#10;&amp;#10;A board is used that consists of four rows, each one with eight holes. A player controls the two rows that are closer to him.&amp;#10;&amp;#10;At the start the holes in the outer rows contain two seeds, whereas the inner holes are empty. Each player also has 16 seeds in reserve.&amp;#10;&amp;#10;On his turn a player distributes the contents of one of his holes that contains at least two seeds anti-clockwise one by one into the following holes of his side.&amp;#10;&amp;#10;If the last seed is dropped into a non-empty hole, its contents (including the last seed) are picked up and then distributed in another lap, unless a capture is conducted.&amp;#10;&amp;#10;If the last seed falls into an occupied hole in the inner row and the enemy hole directly opposite is also occupied, the contents of both holes in the opponent's opposite file are captured. These enemy seeds are re-entered in a new lap, the sowing beginning at the hole from which the capture was initiated.&amp;#10;&amp;#10;A turn ends when the last seed is placed into an empty hole.&amp;#10;&amp;#10;Once in a game a player may distribute his reserve by placing in each of his holes one seed. Then, in the same turn, he continues by making an ordinary move as described.&amp;#10;&amp;#10;The game ends when a player cannot move.&amp;#10;&amp;#10;The player who could move last wins the game.&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="2" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2955" value="Mancala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9" value="Traditional Games: Mancala" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

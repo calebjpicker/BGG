@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="270971">
+         <thumbnail>https://cf.geekdo-images.com/WMo5maeCJg0ow-KMyMw7Rg__thumb/img/Prjny2hfmFhRa81eaP3Mnu9k83k=/fit-in/200x150/filters:strip_icc()/pic4547154.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WMo5maeCJg0ow-KMyMw7Rg__original/img/8_ATGCcWlAPp72H6XpGfrBWXGEI=/0x0/filters:format(jpeg)/pic4547154.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Era: Medieval Age" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ERA: Das Mittelalter" />
+			    				
+				<name type="alternate" sortindex="1" value="Era: Edad Media" />
+			    				
+				<name type="alternate" sortindex="1" value="Era: Idade Medieval" />
+			    				
+				<name type="alternate" sortindex="1" value="Era: Il Medioevo" />
+			    				
+				<name type="alternate" sortindex="1" value="ERA: L&#039;âge médiéval" />
+			    				
+				<name type="alternate" sortindex="1" value="Era: Средневековье" />
+			    				
+				<name type="alternate" sortindex="1" value="ERA：剣と信仰の時代" />
+			
+						               													<description>Era: Medieval Age serves as the spiritual successor to Roll Through The Ages. While Roll Through The Ages was a pioneer for roll-and-write-style games, Era is a pioneer for roll-and-build!&amp;#10;&amp;#10;In Era, your dice represent different classes of medieval society as players attempt to build the most prosperous city. The &amp;quot;build&amp;quot; comes into play as players actually build their cities on their boards. You will use beautifully modeled three-dimensional components such as walls, keeps, farms, and other structures. By the end of the game, each player will have a unique city of their very own!&amp;#10;&amp;#10;Era: Medieval Age is made even more challenging as players interact with each other in ways such as extortion, scorched earth, and, of course, disease! Hey, this is the Medieval Age, right? Speaking of which, Era serves as the first of a new series of standalone roll-and-build games from Matt Leacock and eggertspiele!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="53">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23986" value="Series: Roll Through the Ages (Matt Leacock)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68322" value="Theme: City" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282887" value="Era: Medieval Age – Collector Set 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="326549" value="Era: Medieval Age – Collector Set 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="326551" value="Era: Medieval Age – Collector Set 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353224" value="Era: Medieval Age – Collector Set 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353223" value="Era: Medieval Age – Collector Set 5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="299712" value="Era: Medieval Age – Rivers &amp; Roads Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291627" value="Era: Medieval Age – Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="37380" value="Roll Through the Ages: The Bronze Age" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="378" value="Matt Leacock" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3580" />
+			<average value="7.21934" />
+			<bayesaverage value="6.58199" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1011" bayesaverage="6.58199" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="583" bayesaverage="6.69151" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="236" bayesaverage="6.71754" />
+												</ranks>
+
+			<stddev value="1.28109" />
+			<median value="0" />
+			<owned value="5985" />
+			<trading value="131" />
+			<wanting value="290" />
+			<wishing value="1618" />
+			<numcomments value="614" />
+			<numweights value="85" />
+			<averageweight value="2.2824" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

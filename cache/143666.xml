@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="143666">
+         <thumbnail>https://cf.geekdo-images.com/_5kFuJcJ59Q8lfnRq5bW0w__thumb/img/KUeur2KLNaaTjf41QXpu6iLl3_0=/fit-in/200x150/filters:strip_icc()/pic1690668.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_5kFuJcJ59Q8lfnRq5bW0w__original/img/Gp8rsd3QJP7bUvVE8WeEn5leMOM=/0x0/filters:format(jpeg)/pic1690668.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Majority" />
+			
+						                           
+						               													<description>Welcome to the dark assembly of the pandemonium! The player is in charge of the political party of the assembly of the pandemonium that try to bribe and assassinate each other. However, the purpose of the game isn't to rule, it's be able to manipulate politics to the best of your ability.&amp;#10;&amp;#10;In a 4 player game, players form 2 teams.  The players in the same team sit opposite each other.&amp;#10;&amp;#10;There are 3 phases to each round:&amp;#10;Deal each player 6 cards each at the beginning of a round.&amp;#10;1. Drafting phase&amp;#10; - Everyone drafts 1 card, places it to the side face down, then passes the rest of their hand to the player on their left, continue until you have 6 cards placed face down.  Pick up those cards, those cards now form your hand.&amp;#10;(When playing with 4 players, after the Drafting phase, the players in the same team pass each other 1 card.&amp;#10;2. Play phase&amp;#10;- Everyone selects a card from their hand, and places it face down.  Simultaneously reveal the card chosen.  &amp;#10;If there is a 0, 2, 3, or 7 card revealed the following occurs (starting with the lowest number):&amp;#10;0 Bribe = take a card of the same colour&amp;#10;2 Assassinate = cards that are not the same colour are discarded&amp;#10;3 Spy = On the next turn, the player on your right must show you the card they will play&amp;#10;7 Betray = Take the point card from the player on the right&amp;#10;&amp;#10;Everyone plays a card 5 times, and the 6th card is not played.&amp;#10;&amp;#10;3. Scoring phase&amp;#10;Add up all the cards that you've won of the same colour.  The player with the most points of a particular colour scores 2 points, and the 2nd player scores (the total points of the player with the most points divided by 5.  e.g. player A scored 16 points from red, player B scored 11 points from red, player C scored 2 points from red.  Player A gets a total of 2 points, player B gets 16/5= 3 points.&amp;#10;&amp;#10;Start a new round again by dealing out 4 cards to each player.  Once the cards run out the game is over.  The team which has the most points is the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="1" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="165492" value="The Majority: Complete Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35037" value="Muneyuki Yokouchi (横内宗幸)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39488" value="AKAIIE (朱家)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11552" value="Ayatsurare Ningyoukan" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="30" />
+			<average value="6.26667" />
+			<bayesaverage value="5.51225" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17739" bayesaverage="5.51225" />
+												</ranks>
+
+			<stddev value="1.38884" />
+			<median value="0" />
+			<owned value="53" />
+			<trading value="2" />
+			<wanting value="4" />
+			<wishing value="8" />
+			<numcomments value="10" />
+			<numweights value="4" />
+			<averageweight value="2.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

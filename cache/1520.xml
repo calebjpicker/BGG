@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1520">
+         <thumbnail>https://cf.geekdo-images.com/zw21urrOCnM4L7Ab671Ruw__thumb/img/_Ed2OsATwpXDpRkWWXjpVfy10eU=/fit-in/200x150/filters:strip_icc()/pic470648.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zw21urrOCnM4L7Ab671Ruw__original/img/Rx8Mz_7vlHfLO2iqOUhg_dgyEJc=/0x0/filters:format(jpeg)/pic470648.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Monad" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Die 1. Million" />
+			
+						               													<description>The object of the game is to collect round cards known as &amp;quot;Monads,&amp;quot; which look like yin-yang symbols. The players do this by Trading, Buying, and Leaping with other cards.&amp;#10;&amp;#10;Monad / Die 1. Million uses a deck of cards with six colors (Red, Orange, Yellow, Green, Blue, and Purple). Half of these are called &amp;quot;Warm&amp;quot; colors (Red, Orange, and Yellow), and the others are &amp;quot;Cool&amp;quot; colors (Green, Blue, and Purple). The majority of cards has one symbol on them (known as &amp;quot;Commons&amp;quot;), but there is one card of each color with 2-5 colors on them (known as &amp;quot;Bis,&amp;quot; &amp;quot;Tris,&amp;quot; &amp;quot;Quads,&amp;quot; and &amp;quot;Quints&amp;quot;). At the start of the game, each player is assigned one of the six colors as their &amp;quot;identity&amp;quot; and is dealt six Commons and one &amp;quot;Bonus&amp;quot; card (which shows three pairs of colors). The Bis, Tris, Quads, and Quints are placed face up in separate piles in the center of the table.&amp;#10;&amp;#10;On their turn, a player attempts to get higher numbered cards into their hand. The easiest way is by &amp;quot;Trading.&amp;quot; To trade, a player turns in a pair of cards with the same number of symbols but of opposite colors (one warm and one cool) and takes the top card from the stack with the next highest number of symbols. When they turn in two Quints, they gain a Monad. If the two cards turned in match one of the pairs on their bonus card, they may also draw the top card from each of the lower stacks. They may also use cards of the same color as their Identity as wild cards, which are treated as having any number of symbols.&amp;#10;&amp;#10;The player can turn in more than two cards and &amp;quot;Leap&amp;quot; to a higher stack. This allows them to select a card with a higher number of symbols. Finally, they can &amp;quot;Buy&amp;quot; a card. Buying cards uses the numbers located on each card. The player turns in a number of cards which total greater than the number on the card they are after. Monads can be purchased for 80 points.&amp;#10;&amp;#10;A player can also draw the top card from the deck but doing so prevents them from taking any other action that turn.&amp;#10;&amp;#10;The first player to accumulate a given number of Monads (which varies depending on the number of players in the game) is the winner.&amp;#10;&amp;#10;Belongs to the 3M Gamette Series&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1969" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61" value="Series: 3M Gamettes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19679" value="Series: Sid Sackson Signature" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4" value="Sid Sackson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="92" value="3M" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="597" value="Eagle-Gryphon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="62" value="Hexagames (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="450" value="Salagames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="456" />
+			<average value="6.22074" />
+			<bayesaverage value="5.62776" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6960" bayesaverage="5.62776" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="350" bayesaverage="5.87147" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2108" bayesaverage="5.66647" />
+												</ranks>
+
+			<stddev value="1.57795" />
+			<median value="0" />
+			<owned value="1329" />
+			<trading value="80" />
+			<wanting value="31" />
+			<wishing value="83" />
+			<numcomments value="221" />
+			<numweights value="35" />
+			<averageweight value="2.0286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

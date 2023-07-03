@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="342931">
+                                     				
+				<name type="primary" sortindex="1" value="Noose" />
+			
+						                           
+						               													<description>Noose is played on a hexhex board with stones of two colors, one color belonging to each player. The winner of the game is the player to first make a loop consisting entirely of stones of their color.&amp;#10;&amp;#10;Rules:&amp;#10;On your turn, you must either (i) place a stone of your color on an empty hex, or (ii) flip an eligible arc of enemy stones. You may not do both.&amp;#10;&amp;#10;Definitions:&amp;#10;To flip an enemy stone is to replace it with a stone of your own, from your (preferably endless) supply.&amp;#10;&amp;#10;An arc is a possibly bent line of stones with no acute angles and no turns going in opposite directions (no S-like swingyness). (Se below for a more precise definition of an arc.)&amp;#10;&amp;#10;You are said to flank an arc of enemy pieces if two of your pieces  are the endpoints of an arc otherwise completely made up of said enemy pieces.&amp;#10;&amp;#10;You may flip an arc of enemy pieces if you are the only one flanking it.&amp;#10;&amp;#10;A loop is a group of stones causing one or more cells not contained in that group to be severed from the edges of the board in this sense: There is no chain of adjacent cells going from any of those severed cells to any edge cell that does not contain at least one stone from the loop group. (It's a curve of stones biting itself in the ass, around at least one enemy stone or at least one empty cell.)&amp;#10;&amp;#10;More precise definition of an arc:&amp;#10;A chain of adjacent pieces make up an arc if it is possible to order them from first to last in a sequence where a walk from the first to the last member of the chain, visiting all members in order, will (i) at no point require a turn of more than 60 degrees, and (ii) either require no clockwise turns or no counter-clockwise turns.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="133389" value="Michael Amundsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="101050" value="Alek Erickson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

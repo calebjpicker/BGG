@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1465">
+         <thumbnail>https://cf.geekdo-images.com/ygVQlepjPxyg7IizSCM_Tw__thumb/img/1qmNhxNzPDSu_Am2rmIobVe9J1M=/fit-in/200x150/filters:strip_icc()/pic5948.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ygVQlepjPxyg7IizSCM_Tw__original/img/r4yWLAxR7Fj3Rnkry3lzSSObufQ=/0x0/filters:format(jpeg)/pic5948.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wizard" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Čarodej" />
+			    				
+				<name type="alternate" sortindex="1" value="Fantasy Wizard" />
+			    				
+				<name type="alternate" sortindex="1" value="Wizard Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Wizard Jubiläumsedition" />
+			    				
+				<name type="alternate" sortindex="1" value="Wizard: gra przepowiedni" />
+			    				
+				<name type="alternate" sortindex="1" value="Wizard: Μαγικοί Αριθμοί" />
+			    				
+				<name type="alternate" sortindex="1" value="Μαγικοί Αριθμοί" />
+			    				
+				<name type="alternate" sortindex="1" value="Магове" />
+			    				
+				<name type="alternate" sortindex="1" value="ウィザード" />
+			    				
+				<name type="alternate" sortindex="1" value="巫師" />
+			    				
+				<name type="alternate" sortindex="1" value="巫師牌" />
+			    				
+				<name type="alternate" sortindex="1" value="神机妙算" />
+			    				
+				<name type="alternate" sortindex="1" value="위자드" />
+			
+						               													<description>The trick-taking game Wizard uses a sixty-card deck that consists of the traditional 52-card deck (1-13 in four suits) along with four Wizards (high) and four Jesters (low).&amp;#10;&amp;#10;Players compete over multiple rounds based on the number of players, and whoever ends with the highest score wins. In each round, players are dealt a hand of cards &amp;mdash; one card in the first round, two cards in the second, three in the third, etc. &amp;mdash; then trump is determined by flipping the top card of the undealt deck; if a suit is revealed, that suit is trump, while if the card turned up is a Jester, it is turned down and there is no trump for that round. If the card turned up is a Wizard, the dealer chooses one of the 4 suits as the trump suit. The dealer cannot choose &amp;quot;no trump&amp;quot;. On the last round of each game all cards are dealt out so there is no trump. Players then state how many tricks they expect to win in the round.&amp;#10;&amp;#10;The playing and winning of the tricks uses mostly standard trick-taking rules. If a player leads a suited card, then all other players must follow suit, if possible. If a player leads a Jester, then the second player determines the suit led. If a player leads a Wizard, then those who follow can play whatever they want. However, in all cases a player may always play a Wizard or Jester, even if they hold cards in the suit led.&amp;#10;&amp;#10;After each player has played a card, determine the winner of the trick as follows: If one or more Wizards were played, the player of the first Wizard wins the trick, collects the cards, and leads to the next trick. If not, whoever played the highest trump wins the trick. If not, whoever played the highest card of the suit led wins the trick. If all players played Jesters, whoever played the first Jester wins.&amp;#10;&amp;#10;After all tricks have been played, players tally their score for the round. If a player matched their bid, winning exactly as many tricks as stated at the start of the round, they score 20 points, plus 10 points for each trick taken. If a player missed their bid, they lose 10 points for each trick that they were off, whether they took more or fewer than predicted.&amp;#10;&amp;#10;A common variant in Wizard is to not allow the total number of tricks bid in a round to match the round number, thereby forcing (at least) one player to be off each round.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1984" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="154">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="109" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="105" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="71" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="100" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="83" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="86" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="38">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="32">
+			
+		<results>		
+					<result level="911" value="No necessary in-game text" numvotes="31" />
+					<result level="912" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="913" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="914" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="915" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73583" value="Creatures: Dwarves &amp; Gnomes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19299" value="Creatures: Fairies / Elves / Pixies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14370" value="Series: Wizard (Amigo)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178656" value="Brettspiel Adventskalender 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189897" value="Wizard: The Christmas Wizards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329120" value="Wizard: Bidding Wheels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="159061" value="Wizard: Coins" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="329131" value="HeartSwitch Wizard Combo Pack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="25866" value="Wizard Junior" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="373250" value="Wizard Promospel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="286547" value="Wizard Würfelspiel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="388340" value="Wizard: Camelot Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="191475" value="Wizard: Jubiläumsedition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="618" value="Ken Fisher" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26059" value="K. Fisher Enterprises Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21" value="Canada Games Company Lmt." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2378" value="Copag Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1765" value="Dino Toys s. r. o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39558" value="Gametrade Distribuzione" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5597" value="Laser plus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5936" value="Modiano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5787" value="Morapiaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55" value="U.S. Games Systems, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="468" value="The United States Playing Card Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38709" value="VR Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10634" />
+			<average value="6.95096" />
+			<bayesaverage value="6.68674" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="835" bayesaverage="6.68674" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="229" bayesaverage="6.73161" />
+												</ranks>
+
+			<stddev value="1.40769" />
+			<median value="0" />
+			<owned value="18408" />
+			<trading value="339" />
+			<wanting value="48" />
+			<wishing value="491" />
+			<numcomments value="2183" />
+			<numweights value="565" />
+			<averageweight value="1.7221" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

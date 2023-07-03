@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="371237">
+         <thumbnail>https://cf.geekdo-images.com/bRKfaTKM_VqjgSjWVp3EjA__thumb/img/nCb3OrwnL42YJ1-VaBBNQ5AG9tY=/fit-in/200x150/filters:strip_icc()/pic7093481.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bRKfaTKM_VqjgSjWVp3EjA__original/img/siHYZy6UhHkbF_X-5Gq_RC_-wdc=/0x0/filters:format(jpeg)/pic7093481.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Milliarium" />
+			
+						                           
+						               													<description>milliarium is an abstract-strategy board game for 2 players, competing to be the first to build a stack of 4 blocks of their color.&amp;#10;&amp;#10;Contents&amp;#10;24 pieces, 1 board game, 1 Rule book.&amp;#10;&amp;#10;Setup&amp;#10;Each player receive 12 components of the same color. Place the board in the center of the table.&amp;#10;&amp;#10;Players turn&amp;#10;At every turn you can do one of the following steps:&amp;#10;&amp;#10;     Place one component on the board.&amp;#10;     Move your component/stack that contains only your components, that already on the board,  1 tile in any direction in a straight line or diagonally.&amp;#10;     Step-up on 1  level on any component on the board.&amp;#10;     Step-down 1 level.&amp;#10;     Move your component on another component at the same level.&amp;#10;&amp;#10;&amp;#10;Wining  conditions&amp;#10;To be the first to build a stack of 4 blocks of your color, or when one of the players don't have any moves to do.&amp;#10;&amp;#10;Notes&amp;#10;&amp;#10;     You can't move from one border to another.&amp;#10;     You can only move one level up or down. Example: component in level 2, can step-up to level 3 but not to level 4.&amp;#10;     If you need, It is allowed to stack more than 4 level.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="1" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2944" value="Three Dimensional Movement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="148248" value="Yosef Barzilay" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

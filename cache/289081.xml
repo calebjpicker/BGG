@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="289081">
+         <thumbnail>https://cf.geekdo-images.com/szzbOmYQR9tCZtZKzbzRRw__thumb/img/WRX6Aa5gqHzfZNrNck08LgXfJls=/fit-in/200x150/filters:strip_icc()/pic4950808.png</thumbnail>
+      <image>https://cf.geekdo-images.com/szzbOmYQR9tCZtZKzbzRRw__original/img/1qE5NW9Dbat-aIiziqPF9MM6vpE=/0x0/filters:format(png)/pic4950808.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Grand Carnival" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="La Gran Feria" />
+			    				
+				<name type="alternate" sortindex="5" value="Der große Jahrmarkt" />
+			
+						               													<description>Ladies and gentlemen, step right up &amp;mdash; the carnival is coming to town! In The Grand Carnival, players compete to create the most impressive carnival this town has ever seen. You'll need to carefully plan your carnival's layout, build attractions, hire staff, and manage the crowds, all while learning a few tricks of the trade.&amp;#10;&amp;#10;Each turn, players cover a number on their player board, then select an action. The covered number determines the effectiveness of their action &amp;mdash; and won't become available again until the next round &amp;mdash; so players need to think carefully about which number to use. Possible actions include:&amp;#10;&amp;#10;&amp;bull; Place a Foundation Tile: Select a foundation tile to place on your fairground. The higher the number you cover, the more tile options you have. Each tile is a 2x2 grid and is made up of construction sites and walkways. Attractions can be placed only on construction sites, whereas guests can move only on walkways, so place your tiles carefully.&amp;#10;&amp;#10;&amp;bull; Build an Attraction: Select a polyomino attraction and place it on the construction sites on your fairground. The size of the attraction you can select depends on the number you cover. Larger attractions can collect more tickets (and can be worth more points), but can be difficult for guests to move around.&amp;#10;&amp;#10;&amp;bull; Move a Guest: Select a guest token and move it along the walkways on your fairground. The distance a guest can move depends on the number you cover. If a guest moves next to an attraction, place a ticket token on that attraction. If you move enough guests, you can hire a carnival barker; barkers help guests move quickly through your carnival, but take up precious space in your fairground.&amp;#10;&amp;#10;After taking your action, see whether you qualify for any of the three &amp;quot;Tricks of the Trade&amp;quot; cards. Each trick has a requirement that must be met before you unlock its unique ability. Once a player unlocks a trick, each of their opponents has one turn to meet the same requirement or lose access to that trick for the rest of the game.&amp;#10;&amp;#10;After seven rounds, the game ends. Players earn points from sets of the same size attractions, sets of each size of attraction, carnival barkers, guests that move all the way through your park, and their tickets. The player with the most points wins!&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64968" value="Theme: Amusement Parks / Theme Parks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71573" value="Theme: Retro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="361381" value="The Grand Carnival: On the Road" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91795" value="Rob Cramer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74981" value="Ryan Goldsberry" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33589" value="Uproarious Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40058" value="Skellig Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="766" />
+			<average value="7.55985" />
+			<bayesaverage value="6.0842" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2375" bayesaverage="6.0842" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="626" bayesaverage="6.25922" />
+												</ranks>
+
+			<stddev value="1.14415" />
+			<median value="0" />
+			<owned value="1377" />
+			<trading value="26" />
+			<wanting value="166" />
+			<wishing value="917" />
+			<numcomments value="225" />
+			<numweights value="23" />
+			<averageweight value="2.2174" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

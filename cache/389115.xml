@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="389115">
+                                     				
+				<name type="primary" sortindex="1" value="Sundraval" />
+			
+						                           
+						               													<description>Sundraval (from Proto-Germanic: Sundrawald, meaning &amp;quot;separate territory&amp;quot;) is a territorial unification game for two players who play on an initially empty hexagonal board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective is to build the group of stones with the most separate territories.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A hexagonal board with 9 intersections (points) per side, but can be played on smaller boards for shorter games.&amp;#10;&amp;ndash; A set of black stones and a set of white stones.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A group is a set of one or more connected stones of the same color. A group is alive if it has territories or an unbroken path of empty points to a friendly group with territories, otherwise it is dead and is removed from the board at the end of the game.&amp;#10;&amp;ndash; A territory is a set of one or more connected empty spots surrounded by stones of one color (with or without border), regardless of whether there are dead enemy stones inside. You own a territory if all the stones that surround it are your color.&amp;#10;&amp;ndash; The size of a territory is the number of empty points it contains.&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternate. On your turn, do one of the following actions:&amp;#10;&amp;#10;&amp;ndash; Place a stone of your color on an empty point that has an unbroken path to a enemy stone through empty points.&amp;#10;&amp;ndash; Pass your turn.&amp;#10;&amp;#10;End of the game:&amp;#10;If a player cannot place stones on the board, their turn passes. If both players cannot do so, the game ends. In this case, the player with the group of stones that has the largest number of separate territories wins. For the tiebreaker, the following groups are compared under the same previous conditions. In case they tie again, the player with the largest territory starting from the group with the most separated territories wins.&amp;#10;&amp;#10;To make the game fair, before the game begins, the first player sets two starting stones, one black and one white, on any empty spot on the board, and the second player chooses the sides. This balancing method is called the two-stone pie rule.&amp;#10;&amp;#10;Note: Thanks to Drew Edwards for his contribution to a better, more flexible stone placement rule, which has been implemented.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

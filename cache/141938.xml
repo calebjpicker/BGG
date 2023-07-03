@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="141938">
+         <thumbnail>https://cf.geekdo-images.com/VfmNLM8EXTE_ElssLH9Ckw__thumb/img/Cfl2Onx1LYbREod4IjCVCilGDyk=/fit-in/200x150/filters:strip_icc()/pic1669954.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VfmNLM8EXTE_ElssLH9Ckw__original/img/ZSGNAM8cpMGcub8rLtib5_WBNmw=/0x0/filters:format(jpeg)/pic1669954.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Isle of Domination" />
+			
+						                           
+						               													<description>Isle of Domination is a turn-based strategy-economy Print &amp;amp; Play board Eurogame.&amp;#10;&amp;#10;Players can build cities, armies on game map. Gameplay goes around resources. There are two types of resources: Countable resources like food, wood, stone, ore, test-tube and gold. Special resources like horse, iron, fish, wheat, marble, diamond and mana are used to develop (science) or build (building) something. There is no storage for resources, a player needs to have access (by having a city near the resource) to certain number and type of resources to build something. Food is the most important resource, each city, extra population and army eats one food. You need food-surplus to build a city/army/extra population, but no problem if your food production goes under your food production (no starving to death).&amp;#10;&amp;#10;Each player has an economical page (like character page in RPGs), that shows the state of his empire. Players use small  markers (for example: coins) for recording various things.&amp;#10;&amp;#10;Player's turn have 4 phases:&amp;#10;&amp;#10;     random event phase: A random event happens, that has effect to all players, usually a positive thing to each player.&amp;#10;     money phase: Player adds the number of his/her gold production to treasury. (Gold is the only resource in Isle of Domination, that is storaged.)&amp;#10;     army moving phase: Players can move their armies by grid lines of hexes. Combat system is very simple: if attacker's army is stronger than defender army, defender army has to be withdrawn. No dice rolling this time. Army power is based on sciences, and have modifiers by terrain, city or buildings.&amp;#10;     building phase: Player can build a city (on a hex edge occupied by an army), increase population, build an army, develop a science and/or build a building in this phase.&amp;#10;&amp;#10;&amp;#10;The goal of this game is to reach one of the six Victory Conditions. It is possible that all other Players have stronger economies, stronger armies and bigger empires, but still you win because you reach one of the Victory Conditions.&amp;#10;There are 6 different types of Victory:&amp;#10;&amp;#10;     Territory Victory: You dominate by having a large number of cities.&amp;#10;     Military Victory: You dominate by having a very strong and large army.&amp;#10;     Population Victory: You dominate by outnumbering others in population.&amp;#10;     Science Victory: You dominate by knowledge. (You develop Future Science 2.)&amp;#10;     Cultural Victory: You dominate by your people's cultural influence. (You build Cathedral.)&amp;#10;     Magical Victory: You dominate by magical superiority. (You have a city near every Mana resource.)&amp;#10;&amp;#10;&amp;#10;Informational page contains exact numbers regarding the conditions above.&amp;#10;&amp;#10;Game map has a random factor - dice-rolls determine one extra resource for each hex. This way, certain resources may have shortage or abundance, so diferent strategies can succeed in each game.&amp;#10;Randomized map preparation may make some of the Victory types easier than others. But when several players pursuit the same victory, it will be much more difficult to achieve it.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="0" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="223671" value="Isle of Domination: Tabletop Version" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68168" value="David Zydd" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

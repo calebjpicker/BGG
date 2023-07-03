@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="120210">
+         <thumbnail>https://cf.geekdo-images.com/o7UHoLDZp2CW29AJvl0wWQ__thumb/img/XplFz6mhlXZbzN37XkAr-kGaW9g=/fit-in/200x150/filters:strip_icc()/pic5153856.gif</thumbnail>
+      <image>https://cf.geekdo-images.com/o7UHoLDZp2CW29AJvl0wWQ__original/img/WRRSJdmHtc2gwgQ_w_LcLYBuCco=/0x0/filters:format(gif)/pic5153856.gif</image>
+                                     				
+				<name type="primary" sortindex="1" value="Anzio: Operation Shingle" />
+			
+						                           
+						               													<description>Anzio: Operation Shingle covers the initial Allied landings on the 22nd January to the failure of the second German offensive, Operation Seitensprung, to eliminate the beachhead on the 1st March.  The whole campaign can be replayed as well as several scenarios covering key parts of the battle. The game also allows alternative plans to be explored such as the original plan for the US 504th parachute regiment to be airdropped just outside Carroceto on the Via Anziate.&amp;#10;&amp;#10;Extract from draft design notes...&amp;#10;&amp;#10;&amp;hellip;In order to calculate the hex grid needed I looked into the area required to deploy regimental sized units. German, American and British regimental units varied in size and composition, and by 1944 most units were suffering some level of depletion of manpower. Couple this with documented doctrinal frontages rarely being achieved on the ground and the calculation of accurate frontages becomes very problematic. A German infantry division in 1944 had three infantry regiments as well as an assortment of artillery, support and HQ companies and battalions. Each German infantry regiment consisted of two battalions. Bull (2005) states a German battalion in an attack frontage would occupy 400-1000m, and Rottman (2004) has their defensive frontage as 800-2000m. Disregarding any particular formations if these two battalions were placed in line the regiment would need:&amp;#10;&amp;#10;German Regimental Frontages &amp;#10;Attack 800-2000m &amp;frac12; mile to 1&amp;frac14; miles &amp;#10;Defense 1600-4000m 1 mile to 2&amp;frac12; miles&amp;#10;&amp;#10;British brigades (equivalent to regiments) and US regiments were somewhat larger than their German counterparts, having an additional infantry battalion. Doctrine would seldom recommend placing all of a regiments units in line, with some elements held back in reserve, so using with the above German calculation offers a useful yardstick.&amp;#10;&amp;#10;The next design problem then emerged, how to simulate the different frontages of units and the particular advantages and disadvantages of each? Units in a defensive frontage should be able to defend a longer front and have some defensive advantage. Units in an attack frontage should be able to concentrate their strength and have the advantage of easier movement. The game simulates different frontages by allowing units to be within a single hex (attack frontage) or two hexes (defensive frontage) - additional aspects of the differing frontages are discussed later.&amp;#10;&amp;#10;So using the German regimental frontage above I calculated that a single hex needed to be able to contain a regiment in an attack frontage of &amp;frac12; to 1&amp;frac14; miles. Taking into account that the allied formations were a little larger a scale of 1&amp;frac12; miles across each hex seems suitable. A regiment in a defensive frontage would cover around 3 miles. Each hex contains around 3&amp;frac12; square miles.&amp;#10;&amp;#10;This hex grid was then placed over a map of the campaign area and adjustments made in order for the grid to fit&amp;hellip;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="0" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67550" value="Cities: Anzio (Italy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60951" value="Magazine: Paper Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10125" value="David Murray (II)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="945" value="Brien J. Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="10125" value="David Murray (II)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3929" value="Compass Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="24" />
+			<average value="6.65833" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.26059" />
+			<median value="0" />
+			<owned value="136" />
+			<trading value="8" />
+			<wanting value="4" />
+			<wishing value="19" />
+			<numcomments value="13" />
+			<numweights value="5" />
+			<averageweight value="2.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="25669">
+         <thumbnail>https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__thumb/img/APPui4zwBuwAIHXSTW6UxYcY6Ow=/fit-in/200x150/filters:strip_icc()/pic309353.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__original/img/FNi6yap-UmVKX8X6rj0A_YW2q8Y=/0x0/filters:format(jpeg)/pic309353.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Qwirkle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Qwirkle Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwirkle édition voyage" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwirkle Travel" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwirkle: Collector&#039;s Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwirkle: Limited Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwirkle: Mickey Mouse &amp; Friends" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwirkle: The Simpsons" />
+			    				
+				<name type="alternate" sortindex="1" value="Star Wars Qwirkle" />
+			    				
+				<name type="alternate" sortindex="1" value="原木形色棋" />
+			    				
+				<name type="alternate" sortindex="1" value="原木形色棋：旅行版" />
+			    				
+				<name type="alternate" sortindex="1" value="쿼클" />
+			    				
+				<name type="alternate" sortindex="1" value="쿼클 트래블" />
+			    				
+				<name type="alternate" sortindex="1" value="큐위클" />
+			
+						               													<description>The abstract game of Qwirkle consists of 108 wooden blocks with six different shapes in six different colors. There is no board, players simply use an available flat surface.&amp;#10;&amp;#10;Players begin the game with six blocks. The start player places blocks of a single matching attribute (color or shape but not both) on the table. Thereafter, a player adds blocks adjacent to at least one previously played block. The blocks must all be played in a line and match, without duplicates, either the color or shape of the previous block.&amp;#10;&amp;#10;Players score one point for each block played plus all blocks adjacent. It is possible for a block to score in more than one direction. If a player completes a line containing all six shapes or colors, an additional six points are scored. The player then refills his hand to six blocks.&amp;#10;&amp;#10;The game ends when the draw bag is depleted and one player plays all of his remaining blocks, earning a six point bonus. The player with the high score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="193">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="112" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="56" />
+					<result value="Recommended" numvotes="107" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="67" />
+					<result value="Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="99" />
+					<result value="Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="81" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="99">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="9" />
+					<result value="5" numvotes="19" />
+					<result value="6" numvotes="39" />
+					<result value="8" numvotes="25" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="62">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="62" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21436" value="Game: Qwirkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222381" value="Qwirkle: Connect" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="191075" value="Qwirkle: Erweiterung 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147561" value="Qwirkle: Expansion Boards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367486" value="Qwirkle: Pack Bonus" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="197614" value="Qwirkle Mega Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="134824" value="Qwirkle Trio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="171489" value="Qwirkle Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="39813" value="Qwirkle Cubes" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7708" value="Susan McKinley Ross" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2883" value="MindWare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27221" value="Coiledspring Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6818" value="Corfix" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24631" value="cutia.ro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21438" value="Éveil &amp; Jeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="900" value="Green Board Game Co." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38674" value="Inter Hobby Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32140" value="Lúdilo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37959" value="MS Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1902" value="Outset Media" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14368" value="Productief BV" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19108" />
+			<average value="6.77722" />
+			<bayesaverage value="6.62593" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="949" bayesaverage="6.62593" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="77" bayesaverage="6.60409" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="283" bayesaverage="6.64807" />
+												</ranks>
+
+			<stddev value="1.24286" />
+			<median value="0" />
+			<owned value="35684" />
+			<trading value="647" />
+			<wanting value="156" />
+			<wishing value="1588" />
+			<numcomments value="3865" />
+			<numweights value="810" />
+			<averageweight value="1.6037" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

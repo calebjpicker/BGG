@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="337246">
+         <thumbnail>https://cf.geekdo-images.com/MDU9a-NVk7uueC3nFDQVmQ__thumb/img/f6EvkaNOw5TMgOr2lEOcjMc4fr0=/fit-in/200x150/filters:strip_icc()/pic6147437.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/MDU9a-NVk7uueC3nFDQVmQ__original/img/ukSuW4aRLRegq_EsHPu95ni7LN8=/0x0/filters:format(jpeg)/pic6147437.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fair Isle 40" />
+			
+						                           
+						               													<description>A knitting card game for 1-2 players in which players compete to knit the best FAIR ISLE PATTERN. Players earn points by completing rows, matching motifs and unlocking bonuses.&amp;#10;&amp;#10;The Fair Isle deck is made of cards that display simple two-colour knitting motifs (diamonds, crosses, etc).  Players build hands of motif cards which are then played in rows to create a knitting pattern. Each row is just 3 cards long, and a completed Fair Isle pattern is just 4 rows high (12 cards in tital).&amp;#10;&amp;#10;There are also 8 pattern bonus cards (yellow) that provide certain conditions to score bonuses on that row (for instance, knitting a &amp;lsquo;green row&amp;rsquo; at the right time can earn you an extra 20 points).&amp;#10;&amp;#10;Players score points for :&amp;#10;&amp;#10;     knitting a complete row&amp;#10;     repeating patterns in a row&amp;#10;     finishing 4 rows first&amp;#10;     alternating stripes of colour&amp;#10;     unlocking row Pattern Bonuses&amp;#10;&amp;#10;&amp;#10;SETUP&amp;#10;&amp;#10;Each player is dealt 3 cards. The remaining deck forms a Draw Pile between the players, with the top two cards placed face up by the draw pile.&amp;#10;&amp;#10;4 Pattern Bonus cards are also chosen and placed face up, one above the other, in a column between the players. The bottom card is &amp;lsquo;row 1&amp;rsquo; - the top card is &amp;lsquo;row 4&amp;rsquo;.&amp;#10;&amp;#10;PLAY&amp;#10;&amp;#10;On their turn, a player can take ONE of the following FOUR actions:&amp;#10;&amp;#10;&amp;#10;     PICK UP  -   either:  1 x face up Fair Isle card  or:  2 x face down cards (Draw Pile)&amp;#10;     KNIT  - Place ANY NUMBER of cards from your hand into your pattern.&amp;#10;     UNRAVEL - Take any number of &amp;lsquo;knitted&amp;rsquo; cards back to your hand.&amp;#10;     DISCARD - Discard your entire hand.&amp;#10;&amp;#10;&amp;#10;END OF TURN&amp;#10;&amp;#10;At the end of their turn, a player will either DRAW BACK UP to 3 (if less than 3 cards are in their hand) or DISCARD DOWN to 5 (if they have more than 5 cards left in hand:)&amp;#10;&amp;#10;GAME END&amp;#10;&amp;#10;The game ends when one player completes their Fair Isle pattern first, receiving a bonus 40 points. The other player can take one more turn before the final scores are then tallied up.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="146" value="No necessary in-game text" numvotes="0" />
+					<result level="147" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="148" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="149" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="150" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3004" value="Deck Construction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="136395" value="Sam Meech" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.408248" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

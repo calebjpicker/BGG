@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="187680">
+         <thumbnail>https://cf.geekdo-images.com/QKFF9xXd5146qKbtoeZMPw__thumb/img/FLD5ikcN_6nnQUioQil1BUP824o=/fit-in/200x150/filters:strip_icc()/pic3402652.png</thumbnail>
+      <image>https://cf.geekdo-images.com/QKFF9xXd5146qKbtoeZMPw__original/img/2M6eOcgMcadmWTgh3j0Wvri5q1g=/0x0/filters:format(png)/pic3402652.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Quests of Valeria" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Valeria: Wyprawy" />
+			
+						               													<description>In Quests of Valeria you play the role of a Guild Master, recruiting and dispatching Citizens to complete quests posted in a tavern in the Capital City of Valeria to earn Victory Points. The player with the most Victory Points at the end of the game wins.&amp;#10;&amp;#10;Quests of Valeria is a unique set collection game where players gather Citizens to fill requirements on a Quest. Hire Citizens from the line in the Tavern that provide you with additional actions to build combo's of free actions!&amp;#10;&amp;#10;Players take turns taking 2 actions from the following: Drawing cards, Hiring Citizens, Reserving a Quest, or Completing a Quest. When Hiring a Citizen, players pay the cost by discarding cards in their hand and taking the Citizen from the Tavern to their Guild (tableau). Some Citizens have bonus actions and they trigger as soon as they enter a player's Guild. When Completing a Quest, players must send Citizens from their Guild that match the requirements on the Quest to the discard pile. When a player completes 5 Quests, the game ends and player's reveal their Guild Master and count up Victory Points.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="721" value="No necessary in-game text" numvotes="4" />
+					<result level="722" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="723" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="724" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="725" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41251" value="Setting: Valeria" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="239156" value="Quests of Valeria: Kickstarter Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="228666" value="Quests of Valeria: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="48263" value="Isaias Vallejo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70533" value="Mihajlo Dimitrievski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28790" value="Daily Magic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35960" value="Games Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1856" />
+			<average value="6.9169" />
+			<bayesaverage value="6.18096" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1996" bayesaverage="6.18096" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1016" bayesaverage="6.2881" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="577" bayesaverage="6.30047" />
+												</ranks>
+
+			<stddev value="1.15688" />
+			<median value="0" />
+			<owned value="4218" />
+			<trading value="165" />
+			<wanting value="47" />
+			<wishing value="320" />
+			<numcomments value="500" />
+			<numweights value="58" />
+			<averageweight value="2.1897" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

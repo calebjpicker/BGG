@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="337765">
+         <thumbnail>https://cf.geekdo-images.com/S-Ro5X2B6x2V6bana2f0fA__thumb/img/vMUxc-cwNH-PMKaDgWx0HAjJFDQ=/fit-in/200x150/filters:strip_icc()/pic6149105.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/S-Ro5X2B6x2V6bana2f0fA__original/img/m09hR2xEAKWjfYuJge5vWOnqJCA=/0x0/filters:format(jpeg)/pic6149105.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Brian Boru: High King of Ireland" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Brian Boru: Haut Roi d&#039;Irlande" />
+			    				
+				<name type="alternate" sortindex="1" value="Brian Boru: Hochkönig von Irland" />
+			    				
+				<name type="alternate" sortindex="1" value="Brian Boru: Le Grand Roi d&#039;Irlande" />
+			    				
+				<name type="alternate" sortindex="1" value="Brian Boru: Velkokrál Irska" />
+			    				
+				<name type="alternate" sortindex="1" value="Brian Boru: Wielki Król Irlandii" />
+			    				
+				<name type="alternate" sortindex="1" value="브리안 보루: 아일랜드 통일 전쟁" />
+			
+						               													<description>In Brian Boru: High King of Ireland, you strive to unite Ireland under your domain, securing control through might, cunning, and matrimony. Join forces to fend off Viking invaders, build monasteries to extend your influence, and gather support in towns and villages throughout the land. To become High King of all Ireland, you need to navigate a web of shifting alliances, outmaneuver your enemies, and grab history by the reins.&amp;#10;&amp;#10;The success of the historical Brian Boru rested on three pillars: his victories against the Vikings, the favor he managed to garner with the Church, and the alliances he forged through political marriages. This became the foundation of the game, with each pillar becoming a suit in the trick-taking that forms the core of the mechanisms. Win a trick and you gain influence in a town, which, in turn, gains you majorities in the regions; if you lose the trick, however (deliberately or otherwise), you instead take an action corresponding to the suit of the card.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="74">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="47" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="9" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="181" value="No necessary in-game text" numvotes="7" />
+					<result level="182" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="183" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="184" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="185" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11546" value="Country: Ireland" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5554" value="Peer Sylvester" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="136706" value="Deirdre de Barra" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29313" value="Osprey Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48941" value="Boardgame Mall" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33710" value="Fox in the Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22651" value="Origames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2775" />
+			<average value="7.55678" />
+			<bayesaverage value="6.70343" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="811" bayesaverage="6.70343" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="435" bayesaverage="6.86766" />
+												</ranks>
+
+			<stddev value="1.16317" />
+			<median value="0" />
+			<owned value="3979" />
+			<trading value="72" />
+			<wanting value="366" />
+			<wishing value="1554" />
+			<numcomments value="492" />
+			<numweights value="83" />
+			<averageweight value="2.4578" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

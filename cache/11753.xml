@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11753">
+         <thumbnail>https://cf.geekdo-images.com/1rFeL61UYoRztO5_Didabw__thumb/img/Ijsnk1NzdLisz-vGBIi1JQOWw_4=/fit-in/200x150/filters:strip_icc()/pic7160676.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1rFeL61UYoRztO5_Didabw__original/img/llao9yUqGIY7xhE8Th5Ra3VsGj0=/0x0/filters:format(jpeg)/pic7160676.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nim" />
+			
+						                           
+						               													<description>Generally, the game of Nim is a two-player game of perfect information in which there are some number of rows or &amp;quot;heaps&amp;quot; of objects, and a legal move consists of removing any number of objects from a single heap. (For a non-trivial game, we should start with at least three heaps.) In &amp;quot;standard play&amp;quot;, the player who cannot make a move on his turn (because no objects remain) is the loser. A very general and far-reaching theory of such games is developed in Berlekamp, Conway, and Guy's Winning Ways for Your Mathematical Plays.&amp;#10;&amp;#10;In the commercial version pictured, the players take turns removing 1, 2, 3, or 4 pegs together in a row. It would appear from the picture that &amp;quot;rows&amp;quot; can run in any direction, which means that the &amp;quot;heaps&amp;quot; intersect. This is not what most people know as Nim. Also, according to the original description, in this version the loser is the player who has to remove the last peg. This is so-called &amp;quot;misere play&amp;quot;, rather than the standard winning condition. Many combinatorial games allow mis&amp;egrave;re play as a variation.&amp;#10;&amp;#10;Nim is solved, which means that from any initial configuration, one can readily determine whether the next player or the previous player has a winning strategy, and identify a good next move in the former case. For Nim, this can be determined surprisingly readily no matter the size of the heaps, but you're not going to get the secret from me.&amp;#10;&amp;#10;As most who would be interested in Nim know the solution, there isn't much of a game here. But Nim plays a central role in the theory of combinatorial games, as any two-player finite impartial game is in some sense Nim in disguise: any position in such a game corresponds to a unique Nim-heap, and one can play the disguised game perfectly by making the moves that correspond to winning moves in Nim. Sprouts is one example. This however does not mean that Sprouts itself is solved, as the &amp;quot;disguise&amp;quot; is only partially revealed.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="2" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="18096" value="Winning Ways for Your Mathematical Plays" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="351039" value="I Cavalieri della Tavola Rotonda" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2594" value="Bartl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49447" value="Carstens-Holzspielzeug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23226" value="XVIe" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="78" />
+			<average value="4.08167" />
+			<bayesaverage value="5.44145" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24052" bayesaverage="5.44145" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1340" bayesaverage="5.17049" />
+												</ranks>
+
+			<stddev value="1.73299" />
+			<median value="0" />
+			<owned value="43" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="7" />
+			<numcomments value="30" />
+			<numweights value="8" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

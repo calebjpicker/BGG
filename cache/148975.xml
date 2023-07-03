@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="148975">
+         <thumbnail>https://cf.geekdo-images.com/P5FVILdFfyMSDMzuXhIGtg__thumb/img/5Kt5DXEWqWn8uEaX1-oVrijapgc=/fit-in/200x150/filters:strip_icc()/pic1797323.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/P5FVILdFfyMSDMzuXhIGtg__original/img/XEcKPKw3W5rQAJiS5jQ_jznxFic=/0x0/filters:format(jpeg)/pic1797323.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon Guilds" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ダンジョンギルド" />
+			    				
+				<name type="alternate" sortindex="1" value="地城聯盟" />
+			
+						               													<description>Game description from the publisher:&amp;#10;&amp;#10;In this realm, adventurers join different guilds by profession and go on quests for fame and fortune &amp;mdash; but the most luxurious treasures are hidden deep down in perilous dungeons that must be raided by multiple guilds together... Will you cooperate and split the money with others, or will you try to seize a room full of loot by yourselves? Use your skill to become the greatest and richest guild leader!&amp;#10;&amp;#10;Each round in Dungeon Guilds, a new dungeon is created with face-down room cards equal to the number of players. The rooms are initially sorted by the threat level of the room, with Lv 1 rooms on top and Lv 3 on the bottom. Players take turns placing their adventurers in any dungeon room with a free space, by paying a fee, they can steal a space from other players. They keep placing until everyone has placed two adventurers, and each room has exactly two adventurers placed on it.&amp;#10;&amp;#10;Players then reveal the rooms starting from the top of the dungeon and check whether the players can defeat the monsters in that room. If they succeed, then the owners of those adventurers split the money in that room evenly; if not, then excursions to the current room and all rooms below it are consider failed, and players must pay a healing cost for all adventurers.&amp;#10;&amp;#10;Dungeon Guilds lasts for a fixed amount of dungeons, and the player with the most money at the end of the game wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="281" value="No necessary in-game text" numvotes="5" />
+					<result level="282" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="283" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="284" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="285" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="180785" value="Mighty Monsters" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="71053" value="Desnet Amane" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23245" value="Moaideas Game Design" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="192" />
+			<average value="6.52148" />
+			<bayesaverage value="5.5924" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8325" bayesaverage="5.5924" />
+												</ranks>
+
+			<stddev value="1.14364" />
+			<median value="0" />
+			<owned value="242" />
+			<trading value="17" />
+			<wanting value="16" />
+			<wishing value="79" />
+			<numcomments value="63" />
+			<numweights value="19" />
+			<averageweight value="1.4737" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

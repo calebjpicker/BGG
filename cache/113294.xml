@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="113294">
+         <thumbnail>https://cf.geekdo-images.com/m6269wyfWVa7gZp3oXKx6A__thumb/img/WPqYsCIpVURoB_rdqRLgZptWNV8=/fit-in/200x150/filters:strip_icc()/pic3328521.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/m6269wyfWVa7gZp3oXKx6A__original/img/ZSDgydHuIZpyrZaVL1F7Lepi3h0=/0x0/filters:format(jpeg)/pic3328521.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Escape: The Curse of the Temple" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Escape: A Templom átka" />
+			    				
+				<name type="alternate" sortindex="1" value="Escape: Chrámová Kletba" />
+			    				
+				<name type="alternate" sortindex="1" value="Escape: Chrámová Kliatba" />
+			    				
+				<name type="alternate" sortindex="1" value="Escape: Der Fluch des Tempels" />
+			    				
+				<name type="alternate" sortindex="1" value="Escape: La Malediction du Temple" />
+			    				
+				<name type="alternate" sortindex="1" value="Ucieczka: Świątynia zagłady" />
+			
+						               													<description>Escape: The Curse of the Temple is a cooperative game in which players must escape (yes...) from a temple (yes...) which is cursed (yes...) before the temple collapses and kills one or more explorers, thereby causing everyone to lose.&amp;#10;&amp;#10;The initial game board consists of a row of three square tiles, each showing a combination of two symbols, say, two green adventurers or one green adventurer and one blue key in one corner of the tile. All of the explorers start in the center tile &amp;ndash; the safe room &amp;ndash; and each player starts with a hand of five dice. Each die has five symbols:&amp;#10;&amp;#10;&amp;#10;    A cursed mask &amp;ndash; this die is set aside when rolled.&amp;#10;    A golden mask &amp;ndash; each such symbol counteracts two cursed masks, either your own or those of another explorer in the same room.&amp;#10;    A red torch or blue key &amp;ndash; these are used to enter rooms, access treasure, or activate gems.&amp;#10;    A green adventurer, which appears twice on the die &amp;ndash; you need these to move from room to room, and to activate some gems.&amp;#10;&amp;#10;&amp;#10;Escape is played in real-time, with all players rolling dice and taking actions simultaneously. You must roll the right symbols to enter a room, and if you're at an open doorway, you can roll to reveal the next tile in the stack and add it to that doorway. Some rooms contain combinations of red and blue symbols, and if you (possibly working with other players in the same room) roll enough red or blue symbols, you &amp;quot;discover&amp;quot; magic gems, moving them from a separate gem depot onto that tile.&amp;#10;&amp;#10;The real-time aspect is enforced by a soundtrack to be played during the game. At certain points, a countdown starts, and if players aren't back in the safe room when time is up, they lose one of their dice.&amp;#10;&amp;#10;Once the exit tile is revealed, players can attempt to escape the temple by moving to that tile, then rolling a number of blue dice equal to the magic gems that haven't been removed from the gem depot. Thus, the more gems you find, the easier it is to escape the temple. When a player escapes, he gives one die to a player of his choice. If all players escape before the third countdown, everyone wins; if not, everyone loses, no matter how many players did escape.&amp;#10;&amp;#10;Escape: The Curse of the Temple includes two expansion modules that can be used individually or together. With the &amp;quot;Treasures&amp;quot; module, some rooms contain treasure, and when you reveal such a room, you place a face-down treasure chest on the tile. Roll the symbols on that chest tile, and you claim the treasure for use later: a key lets you teleport anywhere, a path lets you connect two rooms that otherwise have no door between them, and a medic kit heals all players instantly (putting black dice back into play). With the &amp;quot;Curses&amp;quot; module, some tiles &amp;quot;curse&amp;quot; players by forcing them to place one hand on their head, keep mute during play, or otherwise do what you wouldn't want to do while escaping a temple!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="194">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="61" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="119" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="107" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="110" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="57" />
+					<result value="Recommended" numvotes="88" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="64" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="59">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="10" />
+					<result value="8" numvotes="38" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="56">
+			
+		<results>		
+					<result level="211" value="No necessary in-game text" numvotes="56" />
+					<result level="212" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="213" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="214" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="215" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2882" value="Elapsed Real Time Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2989" value="Physical Removal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7475" value="Components: Compact Discs (CDs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62884" value="Components: Official Music Soundtrack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28897" value="Game: Escape (Queen Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24255" value="Series: Yellow Wave Box (Queen)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69032" value="Theme: Temple" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310234" value="Escape: Queenie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310200" value="Escape: The Curse of the Temple – Exclusive Queenie 2020: Dice Shrine Chambers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="128236" value="Escape: The Curse of the Temple – Expansion 1: Illusions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137405" value="Escape: The Curse of the Temple – Expansion 2: Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158616" value="Escape: The Curse of the Temple – Expansion 3: Traps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186466" value="Escape: The Curse of the Temple – Queenie 10: Totem Chamber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188155" value="Escape: The Curse of the Temple – Queenie 11: The Cursed Gems" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="229079" value="Escape: The Curse of the Temple – Queenie 12: Slide" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256413" value="Escape: The Curse of the Temple – Queenie 13: Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233279" value="Escape: The Curse of the Temple – Queenie 14: Wishing Well" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282778" value="Escape: The Curse of the Temple – Queenie 15: New Quest Chambers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282779" value="Escape: The Curse of the Temple – Queenie 16: New Traps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="122115" value="Escape: The Curse of the Temple – Queenie 1: The Pit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132128" value="Escape: The Curse of the Temple – Queenie 2: Doomed" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149503" value="Escape: The Curse of the Temple – Queenie 4: The Fountain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167909" value="Escape: The Curse of the Temple – Queenie 5: Quest Chambers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167911" value="Escape: The Curse of the Temple – Queenie 6: The Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167910" value="Escape: The Curse of the Temple – Queenie 7: New Characters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158932" value="Escape: The Curse of the Temple – Queenie 8: The Maya Calendar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186481" value="Escape: The Curse of the Temple – Queenie 9: Exchange Chamber and Teleporter Chamber" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272810" value="Escape: The Curse of the Temple – Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138571" value="Escape: The Curse of the Temple – Queenie 3: Adventurer Stickers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="389337" value="Escape: Family Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="157820" value="Escape: The Curse of the Temple – Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="232894" value="Escape: The Curse of the Temple – Big Box Second Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="310198" value="Escape: Roll &amp; Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="149809" value="Escape: Zombie City" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4063" value="Kristian Amundsen Østby" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34863" value="Oliver Schlemmer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16665" />
+			<average value="6.96581" />
+			<bayesaverage value="6.78816" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="675" bayesaverage="6.78816" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="187" bayesaverage="6.81925" />
+												</ranks>
+
+			<stddev value="1.40887" />
+			<median value="0" />
+			<owned value="20859" />
+			<trading value="646" />
+			<wanting value="476" />
+			<wishing value="3815" />
+			<numcomments value="3572" />
+			<numweights value="688" />
+			<averageweight value="1.4782" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

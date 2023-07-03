@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="41890">
+         <thumbnail>https://cf.geekdo-images.com/8ielS6vrQQpr56WUhqxbGw__thumb/img/bmYiNx0-Rb8dsoyiVuEqL0z3X2k=/fit-in/200x150/filters:strip_icc()/pic1424177.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8ielS6vrQQpr56WUhqxbGw__original/img/dbVopV3pPy-NI2Ee-jYaw6F4AxQ=/0x0/filters:format(jpeg)/pic1424177.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Food Chain" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hарчовий Lанцюг" />
+			    				
+				<name type="alternate" sortindex="1" value="Kes keda sööb?" />
+			    				
+				<name type="alternate" sortindex="1" value="Kto kogo? czyli łańcuch pokarmowy" />
+			    				
+				<name type="alternate" sortindex="1" value="Predátor" />
+			    				
+				<name type="alternate" sortindex="1" value="Who eats Whom: The Cardgame" />
+			    				
+				<name type="alternate" sortindex="1" value="Кто кого ест?" />
+			
+						               													<description>By playing cards in Food Chain, players create natural food chains, hunting and eating in the forest and competing against one another for the best dishes.&amp;#10;&amp;#10;In game terms, each player holds four cards in hand, and four cards are placed in the middle of the table, which represents the forest. The card deck has twelve different types of animals/objects, in addition to special cards like the hunter, who can hunt any other card, and angry bees, which scare cards out of the forest. Players take turns in clockwise order and can choose one of five actions each turn:&amp;#10;&amp;#10;&amp;#10;    Hunt the food to create natural food chains&amp;#10;    Eat the food&amp;#10;    Leave the food &amp;#10;    Swap one card in hand for one in the forest&amp;#10;    Pass by discarding a card and drawing a new one&amp;#10;&amp;#10;&amp;#10;The game ends when the deck runs out, and passing is the only option available to all players; alternatively, the game ends when one player has lost all of his tokens to opponents. All players then add up their points from the top-left corner of each card, and also each token scores one point. The player with the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="4" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12362" value="Meelis Looveer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29552" value="Raimo Koppel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="63729" value="Gints Rudzītis" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1765" value="Dino Toys s. r. o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9419" value="Goldmerk" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="159" />
+			<average value="5.44843" />
+			<bayesaverage value="5.4904" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21817" bayesaverage="5.4904" />
+												</ranks>
+
+			<stddev value="1.68138" />
+			<median value="0" />
+			<owned value="262" />
+			<trading value="26" />
+			<wanting value="5" />
+			<wishing value="35" />
+			<numcomments value="49" />
+			<numweights value="13" />
+			<averageweight value="1.2308" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

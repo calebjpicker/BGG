@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="37387">
+         <thumbnail>https://cf.geekdo-images.com/mnrXg58DUqEi7E1mqx1ujg__thumb/img/F8lFxkacNIDfJQznwYeFgo8ScZE=/fit-in/200x150/filters:strip_icc()/pic644894.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mnrXg58DUqEi7E1mqx1ujg__original/img/diI03iYvS_Y8Xudm7cYb1ITsbpE=/0x0/filters:format(jpeg)/pic644894.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Steel Driver" />
+			
+						                           
+						               													<description>An extra Treefrog game for Essen 2008.&amp;#10;&amp;#10;A relatively simple train game set in North America and involving shares and building railway lines with a few twists thrown in.&amp;#10;&amp;#10;Each player uses their investment cubes to bid for control of companies, (six in all). When you take control of a company you receive one share, which means that only one share per turn can be purchased. The cubes you bid with go into the company and allow it to build track. Each location has a value which determines how much profit you receive for connecting it. After companies have built as much track as they can players are paid the profit that each company they control has made this turn. Profit levels are reset for the following turn. Players get another set of cubes to bid with and then bid again for control of companies.&amp;#10;&amp;#10;Cash earned from shares is really victory points, it cannot be used to bid on future shares. As each player receives the same number of investment cubes each turn there is no positive feedback for owning the best shares.&amp;#10;&amp;#10;The game lasts five turns. At the end of the game each company will pay out an additional amount of profit to each share held. This level is determined by how many different regions a company is connected to, (it's a little more involved than that, and coloured cubes are moved around!).&amp;#10;&amp;#10;About Steel Driver, Martin Wallace states in the rulebook:  &amp;quot;I&amp;rsquo;ve had it in mind to develop and update the system used in Prairie Railroads to fix some of the rougher elements.&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="47">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="556" value="No necessary in-game text" numvotes="13" />
+					<result level="557" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="558" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="559" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="560" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99" value="Series: Treefrog Line (Warfrog)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6" value="Martin Wallace" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11802" value="Peter Dennis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11997" value="Paul Niemeyer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12275" value="Treefrog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7" value="Warfrog Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1944" />
+			<average value="6.9742" />
+			<bayesaverage value="6.24133" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1803" bayesaverage="6.24133" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="908" bayesaverage="6.38056" />
+												</ranks>
+
+			<stddev value="1.19806" />
+			<median value="0" />
+			<owned value="2245" />
+			<trading value="141" />
+			<wanting value="87" />
+			<wishing value="277" />
+			<numcomments value="665" />
+			<numweights value="218" />
+			<averageweight value="2.7982" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

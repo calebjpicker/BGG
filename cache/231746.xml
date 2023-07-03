@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="231746">
+                                     				
+				<name type="primary" sortindex="1" value="Racing to the North Pole" />
+			
+						                           
+						               													<description>A dice and board game for 2-4+ players themed on the race to the North Pole undertaken by various explorers in the early 1900s. Players move their pawn from the start space to the North Pole and back again.&amp;#10;&amp;#10;Players choose from one of 6 pre-defined expeditions or use a random method to generate their own expedition.  Each expedition has 9 stats: Men, Dogs, Food, Gear, Skill, Will, Ship, Time, and Hoax. These stats represent the composition, skills, supplies, start point, start time and legitimacy of the expedition &amp;ndash; these may change during the course of the game.&amp;#10;&amp;#10;The board is a track 30 spaces long including a start space at one end and the North Pole space at the other end. Players share a 50-card common travel deck which influences how far an expedition will move during a particular turn.&amp;#10;&amp;#10;Players take turns with each turn has 3 Phases:&amp;#10;&amp;#10;1.  Event Phase&amp;#10;-   Roll once on the event table. Except for the blizzard result, all other results will require the player to make a test against either Gear, Will, or Skill. A test is resolved by rolling 1D10. If the number rolled is equal to or less than the value of the stat, you pass the test. If it is less, you fail the test which will usually result in a permanent loss of a stat or a penalty to your move total in the travel phase.&amp;#10;&amp;#10;2.  Travel Phase&amp;#10;-   Draw 5 travel cards. You may discard up to 2 cards and draw replacements. &amp;#10;Add up the move values of all 5 cards.  This is your move total - move that many spaces forward. You must stop upon reaching the North Pole. &amp;#10;-   If you land on an opponent&amp;rsquo;s pawn that is not on its starting space, move it back 1 space. &amp;#10;-   If you have 2 or more dog cards move an extra +1. &amp;#10;-   If you have 4 or more trek cards move an extra +1.&amp;#10;&amp;#10;3.  End Phase&amp;#10;-   Consume 1 food point. &amp;#10;-   If there is no food left then -1 dog. &amp;#10;-   If there is no food or dogs roll on the casualty table and resolve.  This will result in the loss of men, will or skill.&amp;#10;&amp;#10;Play continues until all expeditions return to their start point, or fail in the process.  Victory points (VP) are awarded as follows:&amp;#10;-   1 VP for reaching the North Pole. &amp;#10;-   An extra 2 VP for being first to reach the North Pole. &amp;#10;-   1 VP for getting back (Surviving). &amp;#10;-   1 VP for being the first to get back. &amp;#10;-   1 VP for never failing a morale check. &amp;#10;The player with most VP wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="810" value="Lloyd Krassner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="873" value="Warp Spawn Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

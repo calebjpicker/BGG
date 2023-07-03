@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168547">
+         <thumbnail>https://cf.geekdo-images.com/ULZPk1Xwo8ai2n0Z1lIoxw__thumb/img/vwuh1gBIoP0Ng1P-v_MdP6pz_U8=/fit-in/200x150/filters:strip_icc()/pic2317020.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ULZPk1Xwo8ai2n0Z1lIoxw__original/img/85t6KRVyy8Cqa7JjS3nL4fOpqRQ=/0x0/filters:format(jpeg)/pic2317020.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Themel" />
+			
+						                           
+						               													<description>Characteristics&amp;#10;With this game I tried to go a step further from what I tried to do when I created Dition, based on the same design philosophy. My intention here was to make a more consistent game, regarding to the formulation of its rules. I wanted the game to have two basic, simple rules. I was concerned about keeping the concept of simultaneity of actions at all times. Some features of GO, such as &amp;quot;once a piece is placed, it can not move,&amp;quot; are not really consistent at all times in the unfolding of the game, regarding the concept with which they were raised. I tried to get rid of all philosophical inconsistency at the time of defining the rules of this game.&amp;#10;&amp;#10;Equipment&amp;#10;&amp;#10;Pieces&amp;#10;The pieces are circular. These pieces are characterized in that each has a range (a circular area whose diameter is three times the diameter of the piece). Each piece has one side painted white and the other black (like in Othello), and each player may chose one side (color) to play (then, the color of a piece is defined only when that piece is placed on the board, and keeps that color has long has its still on the board). Both sides have in the center a gray circle (its just decorative), whose diameter is equal to a quarter of the pieces' diameter. &amp;#10;To tell if a piece is within the range of another, just take a piece and place it over the two pieces. If the piece used to measure is supported by the two pieces, one can ensure that a piece is within the range of the other (and vice versa).&amp;#10;A total of 152 pieces are needed.&amp;#10;&amp;#10;Board&amp;#10;The board has two concentric squares: the peripheral (whose side is equal to 19x the diameter of the pieces) and the central (whose side is equal to 17x the diameter of the pieces). The peripheral defines the playing area, and acts has a neutral piece (&amp;quot;gray piece&amp;quot;). In this sense, the central delimits its range.&amp;#10;&amp;#10;Rules&amp;#10;&amp;#10;    At the start of the game the board is empty. Black plays first. Then both players play alternately. In his turn, a player can do one or two &amp;quot;relocation&amp;quot; moves. If he cant, the game ends, and that player loses.&amp;#10;&amp;#10;&amp;#10;Notes about the terms used:&amp;#10;&amp;quot;Belt&amp;quot;: a group of pieces conforms a &amp;quot;belt&amp;quot; if every piece of the group is within the range of at least two of the other pieces of the group.&amp;#10;&amp;quot;Conditioned&amp;quot;: a piece is not &amp;quot;conditioned&amp;quot; to a player when it is over the board, with his color facing the board, and since the group of pieces that are within its range (regardless of color) do not conform a belt. &amp;#10;&amp;quot;Relocate&amp;quot;: a player makes a &amp;quot;relocation&amp;quot; move when he takes a &amp;quot;conditioned&amp;quot; piece from the board or from the outside of the board, and then places it on an empty place over the board or at the outside of the board.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="50" />
+						               				<maxplaytime value="50" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="0" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="76806" value="Lisandro Iaffar" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76806" value="Lisandro Iaffar" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="772" value="(Looking for a publisher)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

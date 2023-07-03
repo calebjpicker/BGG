@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="276039">
+         <thumbnail>https://cf.geekdo-images.com/QTHrhqosykwBG1gAHCs71Q__thumb/img/bm8CLejawwbVok2hgBxa_TOgpZQ=/fit-in/200x150/filters:strip_icc()/pic4645006.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QTHrhqosykwBG1gAHCs71Q__original/img/EujK8J2PqorM_5sBW9801fN9h-I=/0x0/filters:format(jpeg)/pic4645006.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Anacund" />
+			
+						                           
+						               													<description>The game board in Anacund is composed of 17 wooden slats; fifteen of these slats have an ideogram at either end, with these ideograms representing the numbers 1-6. Shuffle these slats, then place them in a row, then place the remaining two slats (each with three ideograms) on either end to create a single path of 36 spaces. One of these spaces is colored red and dubbed the &amp;quot;bonus square&amp;quot;. Each player takes 18 of the double-sided tokens, then places them in three groups of six, with their color face up.&amp;#10;&amp;#10;On a turn, you must place three of your tokens on the game board. The space that you place a token on must equal the number of tokens in the group before you placed that token. Thus, at the start of the game, you take a token from a group of six tokens, then place that token on a 6 space. Your next token must be placed on a 5 (if taken from the same group) or a 6 (if taken from one of your remaining two groups).&amp;#10;&amp;#10;If after placing a token, you have sandwiched one or more of the opponent's tokens, those opposing tokens are flipped over and placed next to the spaces they once occupied. These spaces cannot be played in again. If you would create a sandwich with yourself in the middle, then your own pieces are captured &amp;mdash; unless you have simultaneously sandwiched the opponent at the same time, in which case you capture them instead.&amp;#10;&amp;#10;Once all the pieces have been placed, players tally their scores. Each piece showing your color, whether on the board or next to it, is worth 1 point; whoever has a piece on or next to the bonus space scores 5 points. Whoever has the higher score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="0" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3187" value="Claude Leroy" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41887" value="Cosmoludo" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="8.03333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.857645" />
+			<median value="0" />
+			<owned value="10" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="8" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="106421">
+         <thumbnail>https://cf.geekdo-images.com/gFmVWXBRig7YU-dtogh0xw__thumb/img/ZI_WIXZMSYnFQNpRM9t74ua06iQ=/fit-in/200x150/filters:strip_icc()/pic1077712.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gFmVWXBRig7YU-dtogh0xw__original/img/TJh7GY5Ad1wlb9S5_CiVcJACIP0=/0x0/filters:format(jpeg)/pic1077712.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sam" />
+			
+						                           
+						               													<description>Card game with 48 cards in four suits of 12. Cards are played with the aim to acheive a total divisible by 4.&amp;#10;The suits are;&amp;#10;S = Subtraction&amp;#10;A = Addition&amp;#10;M = Multiplication&amp;#10;SAM = any of the above&amp;#10;The last card played is all that affects the current card being played. For example; The first card played (which cannot score points) is a 3. The next player could play an A5 (A for Addition) he adds 5 to 3 to make 8. This is two 'Fours' made, score two points. The next player could play S4. 4 from 8 = 4, so one 'Four' created, scores 1 point. Next player plays a SAM 8. He scores 3 points for Additions (8 + 4 = 12, so 3 Fours made) but as it is a Sam card he can also score for Multiplication (4 x 8 = 32, so 8 points scored). In this example, Subtraction would score nothing. You can see that SAM cards are very valuable.&amp;#10;The first player to score 100 points, wins.&amp;#10;The rules refer to the cards as 'Blocks' and the intention was to make a more substantial version with the cards being replaced as tiles (called Blocks) but this never happened, possibly because The Great War started and materials were limited because of the war effort in industry.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1910" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5722" value="John Jaques of London" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.77951" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

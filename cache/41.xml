@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="41">
+         <thumbnail>https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__thumb/img/mLHWOFfdxrWljImkFZ2ulIhHt7A=/fit-in/200x150/filters:strip_icc()/pic6875169.png</thumbnail>
+      <image>https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__original/img/A_bSjGJJXDFfSocVclabxi8ArY8=/0x0/filters:format(png)/pic6875169.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Can&#039;t Stop" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="BASTA" />
+			    				
+				<name type="alternate" sortindex="1" value="Can&#039;t Stop!" />
+			    				
+				<name type="alternate" sortindex="1" value="Sans Arrêt" />
+			    				
+				<name type="alternate" sortindex="1" value="Todo o Nada" />
+			    				
+				<name type="alternate" sortindex="1" value="キャント・ストップ" />
+			    				
+				<name type="alternate" sortindex="1" value="欲罷不能" />
+			    				
+				<name type="alternate" sortindex="1" value="캔트 스탑" />
+			
+						               													<description>In this Sid Sackson classic, players must press their luck with dice and choose combinations tactically to close out three columns. The board has one column for each possible total of two six-sided dice, but the number of spaces in each column varies: the more probable a total, the more spaces in that column and the more rolls it takes to complete. On their turn, a player rolls four dice and arranges them in duos: 1 4 5 6 can become 1+4 and 5+6 for 5 &amp;amp; 11, 1+5 and 4+6 for 6 &amp;amp; 10, or 1+6 and 4+5 for 7 &amp;amp; 9. The player places or advances progress markers in the open column(s) associated with their chosen totals, then chooses whether to roll again or end their turn and replace the progress markers with markers of their color. A player can only advance three different columns in a turn and cannot advance a column which any player has closed out by reaching the end space; if a roll doesn&amp;rsquo;t result in any legal plays, the turn ends with that turn&amp;rsquo;s progress lost.&amp;#10;&amp;#10;A predecessor from 1974, The Great Races, exists as a paper-and-pencil game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1980" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="269">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="178" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="166" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="175" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="64" />
+					<result value="Recommended" numvotes="135" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="158" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="77">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="33" />
+					<result value="8" numvotes="37" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="55">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="55" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76458" value="Digital Implementations: BrettspielWelt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164592" value="Can't Stop: Rollin' Down the Highway" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="143351" value="Can't Stop: Cones" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="217547" value="Can't Stop Express" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4082" value="Can't Stop the Turtles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="344268" value="The Mother Road: Route 66" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="43144" value="The Great Races" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4" value="Sid Sackson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50716" value="Heiko Günther" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="57603" value="Gabriel Laulunen (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127351" value="Ronan Le Maître" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2946" value="Walter Pepperle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103901" value="Arnold Reisse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12895" value="Klaus Wilinski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12567" value="Atelier Wilinski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4680" value="Borras Plana S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1772" value="Clipper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="597" value="Eagle-Gryphon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1060" value="Ediciones de Mente" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="253" value="Editrice Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1705" value="Face2Face Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17447" value="förlAgo AB" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="151" value="franjos Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46565" value="Gonggan27" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="920" value="Miro Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37303" value="OPEN'N PLAY" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6011" value="Oya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="417" value="Palitoy Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50209" value="Playte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16915" />
+			<average value="6.88682" />
+			<bayesaverage value="6.7274" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="775" bayesaverage="6.7274" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="216" bayesaverage="6.76881" />
+												</ranks>
+
+			<stddev value="1.31674" />
+			<median value="0" />
+			<owned value="15681" />
+			<trading value="234" />
+			<wanting value="450" />
+			<wishing value="2224" />
+			<numcomments value="4213" />
+			<numweights value="992" />
+			<averageweight value="1.1512" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

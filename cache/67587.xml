@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="67587">
+                                     				
+				<name type="primary" sortindex="1" value="Progressive Mancala" />
+			
+						                           
+						               													<description>Progressive Mancala was invented by Ralf Gering on September 3, 2004, in Bad Breisig, Germany. The game uses a rule which reminds of Progressive Chess.&amp;#10;&amp;#10;The game was implemented for online play at games.wtanaka.com on January 28, 2010.&amp;#10;&amp;#10;Rules&amp;#10;&amp;#10;Progressive Mancala is played on a one-rank mancala board which numbers eleven holes. Initially there are five stones in each hole. There is also a common goal which is adjacent to the central hole of the board. Both players sit on the same side of the board in front of it. One player is called West, the other East.&amp;#10;&amp;#10;East starts to the game and plays from right to left. West sows from left to right.&amp;#10;&amp;#10;On each turn a player empties a hole and then distributes its contents into the following holes, one by one, in his direction. If he reaches the end of the board, he continues to distribute the stones by first dropping a stone into the Goal, then into the holes starting from the opposite end of the board. That is, he circles around the board.&amp;#10;&amp;#10;If the last stone is dropped into a non-empty hole, its contents (including the last distributed stone) are picked up and then distributed as usual in multi-lap games.&amp;#10;&amp;#10;The move ends if the last stone is dropped into an empty hole or the goal.&amp;#10;&amp;#10;For each move that a player has terminated in an empty hole, his enemy must make a bonus move (bonus moves are compulsory).&amp;#10;&amp;#10;If the last stone is dropped into the goal, the player captures its contents including the last distributed stone. The captured stones are stored. Dropping the last stone into the goal never results in a bonus move for the opponent.&amp;#10;&amp;#10;The player who captured most stones is declared the winner. Draws are impossible because the sum of all stones is odd.&amp;#10;&amp;#10;Expert Variant&amp;#10;&amp;#10;Good players may take a board which has 17 holes. Again, there are five stones in each hole at the start of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="0" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2955" value="Mancala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9" value="Traditional Games: Mancala" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6874" value="Ralf Gering" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

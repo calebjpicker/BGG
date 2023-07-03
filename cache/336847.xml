@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="336847">
+         <thumbnail>https://cf.geekdo-images.com/xXgBciDhd-cS6XavV3YJzA__thumb/img/E1EaU1aO_yIiYUMolw7d96nJM-k=/fit-in/200x150/filters:strip_icc()/pic6480015.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xXgBciDhd-cS6XavV3YJzA__original/img/jeEGEC74-wDO1khAKKaU8H6BlMY=/0x0/filters:format(jpeg)/pic6480015.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tyrants of the Underdark: Board Game" />
+			
+						                               				
+				<name type="alternate" sortindex="3" value="I Tiranni dell&#039; Underdark: Il Gioco da Tavolo" />
+			    				
+				<name type="alternate" sortindex="1" value="Tiranos da Umbreterna: Board Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Tiranos del Underdark: Juego de Mesa" />
+			    				
+				<name type="alternate" sortindex="1" value="Tyrannen des Unterreichs: Brettspiel" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Tyrans de l&#039;Ombreterre: Jeu de Plateau" />
+			    				
+				<name type="alternate" sortindex="1" value="Tyrants of the Underdark: Edycja Polska" />
+			    				
+				<name type="alternate" sortindex="1" value="Тираны подземья: Настольная игра" />
+			    				
+				<name type="alternate" sortindex="1" value="언더다크의 폭군들" />
+			
+						               													<description>Tyrants of the Underdark is a territory control game with a deck-building element.&amp;#10;&amp;#10;Each player leads a house of Drow in a section of the Underdark below the Sword Coast. The Drow house is represented by a deck of cards, with each card being a minion in that player's deck. Each minion belongs to one of five aspects of Drow society, and those aspects correspond to different strategies in the game, e.g., malice minions excel at assassinating opponents' troops, while ambition minions are best at recruiting additional minions and promoting minions to your &amp;quot;inner circle&amp;quot;, which is a special zone that increases their value at the end of the game.&amp;#10;&amp;#10;When you set up the game, you create an 80-card deck by shuffling two 40-card half-decks together, with the half-decks being Drow, Dragons, Demons, and Elementals.&amp;#10;&amp;#10;A central marketplace has new minions that can be recruited through influence, one of two resources in the game; purchased cards are placed in your discard pile, then shuffled together with other cards in your deck when needed. The other resource is power, which allows you to place troops on the game board, expand your forces across the map of the Underdark, manipulate happenings in the city, and assassinate enemy troops.&amp;#10;&amp;#10;Players gain points by controlling sites, recruiting valuable minions, promoting minions to your inner circle, and assassinating troops, and whoever ends the game with the most points wins.&amp;#10;&amp;#10;NOTE: This 2021 printing includes the Aberrations &amp;amp; Undead expansion.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="43">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76520" value="Game: Tyrants of the Underdark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7307" value="Setting: Dungeons &amp; Dragons" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="389592" value="Tyrants of the Underdark: Board Game – Drow Banners and Spy upgrade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="351319" value="Tyrants of the Underdark: reDrewno Insert" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="189932" value="Tyrants of the Underdark" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="213437" value="Tyrants of the Underdark: Expansion Decks – Aberrations &amp; Undead" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="189932" value="Tyrants of the Underdark" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="15913" value="Peter Lee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13261" value="Rodney Thompson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="27343" value="Andrew Veen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14753" value="Rob Alexander" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="30957" value="Alex Aparin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13948" value="Daren Bader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="78057" value="John-Paul Balmet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19626" value="Eric Belisle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43072" value="Sam Burley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32997" value="Milivoj Ceran" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41339" value="Conceptopolis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14839" value="Julie Dillon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76835" value="Olga Drebas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9234" value="Steve Ellis (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14937" value="Wayne England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14611" value="Jason Engle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14938" value="Emily Fiegenschuh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14947" value="Lars Grant-West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14939" value="Brian Hagan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18780" value="Todd Harris" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36622" value="Ilich Henriquez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14055" value="Rick Hershey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14202" value="Ralph Horsley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28288" value="Tyler Jacobson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14590" value="Jason Juta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18117" value="McLean Kendree" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17763" value="Vance Kovacs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43387" value="Guido Kuip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15368" value="Howard Lyon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38179" value="Damien Mammoliti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17057" value="Sławomir Maniak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14275" value="Jacob Masbruch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72736" value="Marcel Mercado" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14316" value="Marco Nelor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="47312" value="Jim Nelson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13976" value="William O'Connor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19628" value="Héctor Ortiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14317" value="Ryan Pancoast" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24268" value="Adam Paquette" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68691" value="Klaus Pillon (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15291" value="Claudio Pozas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64504" value="Aaron J. Riley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14890" value="Marc Sasso" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25105" value="Craig J. Spearing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18258" value="Raymond Swanland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14679" value="Arnie Swekel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68884" value="Bryan Syme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29693" value="Matias Tapia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15011" value="Stephen Tappin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17027" value="Carlos Nunez de Castro Torres" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15018" value="Francis Tsai" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11990" value="Tyler Walpole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24739" value="Richard Whitters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15022" value="Eva Widermann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="16453" value="Ben Wootten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13243" value="Kieran Yanner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14955" value="James Zhang" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11420" value="Gale Force Nine, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49208" value="Asmodee Korea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="13" value="Wizards of the Coast" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1518" />
+			<average value="8.2241" />
+			<bayesaverage value="6.66047" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="6.66047" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="6.87503" />
+												</ranks>
+
+			<stddev value="0.986984" />
+			<median value="0" />
+			<owned value="3574" />
+			<trading value="27" />
+			<wanting value="77" />
+			<wishing value="483" />
+			<numcomments value="206" />
+			<numweights value="47" />
+			<averageweight value="2.4681" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

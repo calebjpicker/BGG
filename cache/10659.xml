@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="10659">
+         <thumbnail>https://cf.geekdo-images.com/htibdX4BUeQxMhIx_Z3zoA__thumb/img/4q81p56vZUSdjI4shikqjmKHuig=/fit-in/200x150/filters:strip_icc()/pic463733.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/htibdX4BUeQxMhIx_Z3zoA__original/img/TbUG3Z7Vfyk_hFonDECetbPMYp0=/0x0/filters:format(jpeg)/pic463733.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hex Hex" />
+			
+						                           
+						               													<description>This is a card game that forces a Hex token around the table between players. In this respect, it's sort of a game of Hot Potato. Whoever can't get rid of the Hex token by using his cards &amp;quot;blows up,&amp;quot; thus losing points. Naturally, there are nuances to this. There are 17 different cards in the deck, some which merely pass the Hex token left, right, and across, while others split the token in two, or increase it's damage. One dismisses it entirely. One blows it up while in another player's possession. One forces the token to pass in only one direction, some cause extra effects if the token DOES blow up on you. A round ends when there are no more Hex tokens available, and there are as many rounds as there are players, plus one.&amp;#10;&amp;#10;There are some interesting strategies that are not immediately apparent, but which become obvious after the first couple of rounds. Controlling when the last token blows up is very important since you lose and gain points based on this, so learning to play the cards to force the location of the tokens when they blow up is of paramount importance. Sending them to a player who has no cards to play works very well for this.&amp;#10;&amp;#10;Scores are kept with individual cards monitoring &amp;quot;Voice&amp;quot;, which is just points. How many you have at the end of the x+1 rounds determines who the winner is.&amp;#10;&amp;#10;One last amusing thing about the game is a bit of chaos tossed in; a Hex Hex card; when it's played, all players have to drop their card hands and put their hands in the air. The slowpoke loses points. Not exactly strategy, but still entertaining.&amp;#10;&amp;#10;Integrates with:&amp;#10;&amp;#10;    Hex Hex Next&amp;#10;&amp;#10;&amp;#10;Reimplemented by:&amp;#10;&amp;#10;    Hex Hex XL&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="0" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="355632" value="Behext" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="79067" value="Hex Hex XL" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3462" value="Curt Covert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3462" value="Curt Covert" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2354" value="Smirk &amp; Dagger Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5526" value="Mad Man's Magic" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="841" />
+			<average value="5.82168" />
+			<bayesaverage value="5.57611" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9219" bayesaverage="5.57611" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="607" bayesaverage="5.58381" />
+												</ranks>
+
+			<stddev value="1.77311" />
+			<median value="0" />
+			<owned value="1203" />
+			<trading value="82" />
+			<wanting value="17" />
+			<wishing value="92" />
+			<numcomments value="318" />
+			<numweights value="83" />
+			<averageweight value="1.2892" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="209778">
+         <thumbnail>https://cf.geekdo-images.com/wJfDIveg2zpTGn8E1WzEpA__thumb/img/Un57jB38oeBZ0WFdd7rXSOEP-1k=/fit-in/200x150/filters:strip_icc()/pic3268473.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wJfDIveg2zpTGn8E1WzEpA__original/img/hlp96WuBfwiCijcfPddNmfgTq6E=/0x0/filters:format(jpeg)/pic3268473.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Magic Maze" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hrdinové bez záruky" />
+			    				
+				<name type="alternate" sortindex="1" value="Magic Maze" />
+			    				
+				<name type="alternate" sortindex="1" value="Magic Maze: Weź i czmychaj" />
+			    				
+				<name type="alternate" sortindex="1" value="МагоМаркет" />
+			    				
+				<name type="alternate" sortindex="1" value="Мол Магика" />
+			    				
+				<name type="alternate" sortindex="1" value="עולם הקסם" />
+			    				
+				<name type="alternate" sortindex="1" value="飛躍魔盜團" />
+			    				
+				<name type="alternate" sortindex="1" value="飞跃魔盗团" />
+			    				
+				<name type="alternate" sortindex="1" value="매직 메이즈" />
+			
+						               													<description>Description from the publisher:&amp;#10;&amp;#10;After being stripped of all their possessions, a mage, a warrior, an elf, and a dwarf are forced to go rob the local Magic Maze shopping mall for all the equipment necessary for their next adventure. They agree to map out the labyrinth in its entirety first, then find each individual&amp;rsquo;s favorite store, and then locate the exit. In order to evade the surveillance of the guards who eyed their arrival suspiciously, all four will pull off their heists simultaneously, then dash to the exit. That's the plan anyway&amp;hellip;but can they pull it off?&amp;#10;&amp;#10;Magic Maze is a real-time, cooperative game. Each player can control any hero in order to make that hero perform a very specific action, to which the other players do not have access: Move north, explore a new area, ride an escalator&amp;hellip; All this requires rigorous cooperation between the players in order to succeed at moving the heroes prudently. However, you are allowed to communicate only for short periods during the game; the rest of the time, you must play without giving any visual or audio cues to each other. If all of the heroes succeed in leaving the shopping mall in the limited time allotted for the game, each having stolen a very specific item, then everyone wins together.&amp;#10;&amp;#10;At the start of the game, you have only three minutes in which to take actions. Hourglass spaces you encounter along the way give you more time. If the sand timer ever completely runs out, all players lose the game: Your loitering has aroused suspicion, and the mall security guards nab you!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="319">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="162" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="122" />
+					<result value="Not Recommended" numvotes="82" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="169" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="235" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="127" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="98" />
+					<result value="Not Recommended" numvotes="64" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="65" />
+					<result value="Not Recommended" numvotes="114" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="53" />
+					<result value="Not Recommended" numvotes="127" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="146" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="77">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="12" />
+					<result value="8" numvotes="38" />
+					<result value="10" numvotes="16" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="33">
+			
+		<results>		
+					<result level="886" value="No necessary in-game text" numvotes="33" />
+					<result level="887" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="888" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="889" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="890" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2882" value="Elapsed Real Time Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63869" value="Contests: Fastaval Design Competition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45979" value="Game: Magic Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14661" value="Theme: Mystery / Crime" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231506" value="Brettspiel Adventskalender 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238664" value="Magic Maze: 9 new tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260658" value="Magic Maze: Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230359" value="Magic Maze: Maximum Security" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234154" value="Magic Maze: Roundabout Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308036" value="Magic Maze: Technische Anlagen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340747" value="Magic Maze: Tile C" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348675" value="Magic Maze: Zwischengeschosse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329848" value="Magic Maze: GameGuard Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="344793" value="Magic Maze: New Wooden Pawns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="240120" value="Magic Maze: Twinples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="302628" value="Magic Maze: ”Do Something” T-shirt" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="242740" value="Magic Maze Kids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="283135" value="Magic Maze on Mars" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="95143" value="Kasper Lapp" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="84214" value="Gyom" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16837" value="Sit Down!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30571" value="2Tomatoes Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37230" value="Dude Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38709" value="VR Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47883" value="WoodCat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28402" value="פרש משחקים: Game Knight" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20111" />
+			<average value="6.97328" />
+			<bayesaverage value="6.81525" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="649" bayesaverage="6.81525" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="178" bayesaverage="6.83988" />
+												</ranks>
+
+			<stddev value="1.33819" />
+			<median value="0" />
+			<owned value="31113" />
+			<trading value="602" />
+			<wanting value="385" />
+			<wishing value="4226" />
+			<numcomments value="2884" />
+			<numweights value="335" />
+			<averageweight value="1.7731" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

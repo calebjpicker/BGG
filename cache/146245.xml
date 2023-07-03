@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="146245">
+         <thumbnail>https://cf.geekdo-images.com/jN3wjz1YyrG_E3edPEoslg__thumb/img/n92xVd-xuppPW6zc_KfQwRVm5-s=/fit-in/200x150/filters:strip_icc()/pic1743752.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jN3wjz1YyrG_E3edPEoslg__original/img/_AchsPUFoxNmykbxSlwLr_Imeq8=/0x0/filters:format(jpeg)/pic1743752.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kings of Artifice" />
+			
+						                           
+						               													<description>Kings of Artifice is a strategy board game for 2 to 4 players. The game is played in a series of building rounds, followed by one final crowning round. Victory Points (VP) are awarded for building structures during the game as well as at the end. In each game, two special scoring cards are drawn from a deck that allow players to gain bonus points by meeting certain conditions.&amp;#10;&amp;#10;In the building rounds, the players summon their specialized characters onto the game board and employ them (using Action Points) to construct valuable structures such as Walls, Houses, Battlements, Towers, Palaces, Fountains, and Pastures. These are built from their supplies of colored building blocks. In addition to expanding their own kingdoms, the players can use their forces to hinder the progress of their rivals.&amp;#10;&amp;#10;In the crowning round, the players display their completed kingdoms and flaunt their power over the realm. The player with the most Victory Points at the end of the game is the winner!&amp;#10;&amp;#10;Character Classes:&amp;#10;&amp;#10;Kings summon the other characters to the board from the supply.&amp;#10;Villagers are needed to build Houses (which can be converted into Towers and Palaces).&amp;#10;Artisans are necessary to complete the building of advanced structures.&amp;#10;Horses assist the other characters in their movements on the board.&amp;#10;Thieves can climb on Walls, and can steal Action Points from their rivals.&amp;#10;Knights can attack opponents' characters. &amp;#10;Warlocks can use their Mana to cast spells (which are different in each game).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="0" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69814" value="Redd Cohen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69816" value="David Hanold" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69851" value="Jonny Pac" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69814" value="Redd Cohen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12016" value="Miguel Coimbra" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10053" value="Wyrd Miniatures" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="79" />
+			<average value="6.24152" />
+			<bayesaverage value="5.51802" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16444" bayesaverage="5.51802" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2615" bayesaverage="5.52164" />
+												</ranks>
+
+			<stddev value="1.91209" />
+			<median value="0" />
+			<owned value="325" />
+			<trading value="23" />
+			<wanting value="8" />
+			<wishing value="33" />
+			<numcomments value="37" />
+			<numweights value="5" />
+			<averageweight value="2.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

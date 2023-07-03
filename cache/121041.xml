@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="121041">
+         <thumbnail>https://cf.geekdo-images.com/DVdB_n1B1VvZmqQk4WcQ_g__thumb/img/jgHYRMmUVnl5Zby57JKyN3zZPcU=/fit-in/200x150/filters:strip_icc()/pic1245374.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DVdB_n1B1VvZmqQk4WcQ_g__original/img/RW-NjiFMeU0e8C4TNTiKXDUnjiM=/0x0/filters:format(jpeg)/pic1245374.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pluckin&#039; Pairs" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kdo páruje vyhrává" />
+			    				
+				<name type="alternate" sortindex="1" value="Nie do pary" />
+			    				
+				<name type="alternate" sortindex="1" value="Qui Paire Gagne" />
+			    				
+				<name type="alternate" sortindex="1" value="Twins" />
+			    				
+				<name type="alternate" sortindex="1" value="Пара Кур" />
+			
+						               													<description>Pluckin' Pairs embodies the same spirit as the classic party game Compatibility in that you want to match images with other players in order to score points, but the game play is more free form with everyone competing individually instead of in teams.&amp;#10;&amp;#10;At the start of a round, eleven images are laid out on the table. All players secretly pair off images &amp;ndash; say, coins and a manhole cover because they're both round, or a mirror and a building because they both reflect light &amp;ndash; and write these pairs on their player sheet. One image will be leftover as the outcast.&amp;#10;&amp;#10;After everyone has finished, you compare your pairs with those of other players. If no one &amp;ndash; or conversely if everyone &amp;ndash; created the same pair as you, you score no points for that pair. If only some of the players created that pair, each of those players scores as many points as the number of players who record the pair. (You can optionally compare outcast images as well, scoring points based on who had the same outcast as you.) The player with the most points after a certain number of rounds wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="50" />
+						               				<maxplaytime value="50" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1016" value="No necessary in-game text" numvotes="6" />
+					<result level="1017" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="1018" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="1019" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="1020" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="311286" value="Qui Paire Gagne: Carte Plato" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2118" value="Stephen Glenn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76585" value="Jessica Lindsay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="96030" value="Matt Roussel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1765" value="Dino Toys s. r. o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="105" value="R&amp;R Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6352" value="Le Scorpion Masqué" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="712" />
+			<average value="6.76093" />
+			<bayesaverage value="5.83945" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3793" bayesaverage="5.83945" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="199" bayesaverage="6.19374" />
+												</ranks>
+
+			<stddev value="1.41037" />
+			<median value="0" />
+			<owned value="1208" />
+			<trading value="38" />
+			<wanting value="25" />
+			<wishing value="162" />
+			<numcomments value="161" />
+			<numweights value="25" />
+			<averageweight value="1.08" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="300531">
+         <thumbnail>https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__thumb/img/K1IMVdd39Or51HpLAfiXz3JNUvI=/fit-in/200x150/filters:strip_icc()/pic6039256.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/85t1wkwgvh3d2mmjsRcDrw__original/img/ejYTb1MVpf9optjLWlwbYua0TMk=/0x0/filters:format(jpeg)/pic6039256.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Paleo" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Палео" />
+			    				
+				<name type="alternate" sortindex="1" value="Палео" />
+			    				
+				<name type="alternate" sortindex="1" value="パレオ ～人類の黎明～" />
+			    				
+				<name type="alternate" sortindex="1" value="石器時代2.0史前部落" />
+			    				
+				<name type="alternate" sortindex="1" value="팔레오" />
+			
+						               													<description>Paleo is a co-operative adventure game set in the stone age, a game in which players try to keep the human beings in their care alive while completing missions. Sometimes you need a fur, sometimes a tent, but these are all minor quests compared to your long-term goal: Painting a woolly mammoth on the wall so that humans thousands of years later will know that you once existed. (Okay, you just think the mammoth painting looks cool. Preserving a record of your past existence is gravy.)&amp;#10;&amp;#10;What might keep you from painting that mammoth? Death, in all its many forms.&amp;#10;&amp;#10;Each player starts the game with a couple of humans, who each have a skill and a number of life points. On a turn, each player chooses to go to one location &amp;mdash; possibly of the same type as other players, although not the same location &amp;mdash; and while you have some idea of what you might find there, you won't know for sure until you arrive, at which point you might acquire food or resources, or find what you need to craft a useful object, or discover that you can help someone else in their project, or suffer a snakebite that brings you close to death. Life is full of both wonders and terrors...&amp;#10;&amp;#10;At the day's end, you need food for all the people in your party as well as various crafts or skills that allow you to complete quests. Failure to do so adds another skull on the tote board, and once you collect enough of those, you decide that living is for fools and give up the ghost, declaring that future humans can just admire someone else, for all you care.&amp;#10;&amp;#10;Paleo includes multiple modules that allow for a variety of people, locations, quests, and much more during your time in 10,000 BCE.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="262">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="144" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="110" />
+					<result value="Recommended" numvotes="80" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="89" />
+					<result value="Not Recommended" numvotes="53" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="112" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="63">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="22" />
+					<result value="10" numvotes="19" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="26">
+			
+		<results>		
+					<result level="301" value="No necessary in-game text" numvotes="0" />
+					<result level="302" value="Some necessary text - easily memorized or small crib sheet" numvotes="16" />
+					<result level="303" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="10" />
+					<result level="304" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="305" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1036" value="Prehistoric" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2840" value="Action/Event" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19068" value="Animals: Mammoths" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7381" value="Animals: Wolves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65494" value="Theme: Survival" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="342501" value="Paleo: A New Beginning" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="334338" value="Paleo: Der Initiationsritus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360831" value="Paleo: The Flash Of Wit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372024" value="Paleo: The Hornets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="323392" value="Paleo: The Terror Birds" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="341413" value="Paleo: BGExpansions Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="375803" value="Paleo: Eurohell Design 3D Skulls &amp; Hearts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368404" value="Paleo: Feldherr Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367224" value="Paleo: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368407" value="Paleo: LevityGames Meeple Sticker Upgrade Kit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="92425" value="Peter Rustemeyer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103476" value="Dominik Mayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="142361" value="Ingram Schell" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="694" value="Oxygame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44204" value="Spilbræt.dk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9718" />
+			<average value="7.73771" />
+			<bayesaverage value="7.30442" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="201" bayesaverage="7.30442" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="52" bayesaverage="7.38575" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="147" bayesaverage="7.35034" />
+												</ranks>
+
+			<stddev value="1.26733" />
+			<median value="0" />
+			<owned value="18143" />
+			<trading value="148" />
+			<wanting value="595" />
+			<wishing value="5392" />
+			<numcomments value="1260" />
+			<numweights value="305" />
+			<averageweight value="2.6197" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="210113">
+         <thumbnail>https://cf.geekdo-images.com/ed6ya3esjUpZMDPkASmo4A__thumb/img/AlOdkYNV9kwCNd8anNboAmcLDQU=/fit-in/200x150/filters:strip_icc()/pic6955127.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ed6ya3esjUpZMDPkASmo4A__original/img/L7WHd736CZPNQlz9lfvvLxzLtxQ=/0x0/filters:format(jpeg)/pic6955127.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tank Chess" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tank Chess: Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Tank Chess: Light edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Tank Chess: Pocket" />
+			    				
+				<name type="alternate" sortindex="1" value="Tank Chess: Rollup" />
+			    				
+				<name type="alternate" sortindex="1" value="Tank Sakk" />
+			    				
+				<name type="alternate" sortindex="1" value="Tenkovski Šah" />
+			    				
+				<name type="alternate" sortindex="1" value="Танковые Шахматы" />
+			    				
+				<name type="alternate" sortindex="1" value="坦克大作战" />
+			
+						               													<description>Description from the publisher:&amp;#10;&amp;#10;Each player has figures: light, medium, heavy and command tank. Like a chess game, a die is not used. Basic board is on the back of the box, and other smaller is on the internal cardboard.&amp;#10;&amp;#10;In each turn player moves one figurine. Figurines move from field to field. The fastest are light tanks and the slowest are heavy tanks.&amp;#10;&amp;#10;The goal of the game is to destroy enemy command tank or to escape with own command tank.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="50" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="2" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78566" value="Components: 16 x 16 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78575" value="Components: 20 x 20 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389302" value="Tank Chess: Airborne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286351" value="Tank Chess: Central Square" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266841" value="Tank Chess: Fun Set expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389296" value="Tank Chess: Fun Set Plus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368013" value="Tank Chess: Monster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368012" value="Tank Chess: UT &amp; AO" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368011" value="Tank Chess: Turn Counter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="389295" value="Tank Chess: Extended" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="389294" value="Tank Chess: Portable" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="266843" value="Mortar Hunt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="210007" value="Panzer Strike: France 1940" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80480" value="Dragan Lazovic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80163" value="Predrag Lazovic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80480" value="Dragan Lazovic" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37947" value="Forsage Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44140" value="Editions Philibert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29102" value="Graphic Studio Forsage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44250" value="uchibacoya" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="162" />
+			<average value="7.52117" />
+			<bayesaverage value="5.6202" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7200" bayesaverage="5.6202" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="382" bayesaverage="5.83298" />
+												</ranks>
+
+			<stddev value="1.88505" />
+			<median value="0" />
+			<owned value="490" />
+			<trading value="14" />
+			<wanting value="21" />
+			<wishing value="112" />
+			<numcomments value="70" />
+			<numweights value="7" />
+			<averageweight value="2.7143" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

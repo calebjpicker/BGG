@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="246617">
+                                     				
+				<name type="primary" sortindex="1" value="Tensor Chess" />
+			
+						                           
+						               													<description>As in classical chess, the object of Tensor Chess is to checkmate the opponent's king.&amp;#10;&amp;#10;The game is played on an 8X10 board with a new piece added to the array; the Tensor Beast.&amp;#10;&amp;#10;The Beast Manuevers dependent on interacting with the new piece.  The beast can move one square in any direction like the king.&amp;#10;&amp;#10;The beast can also leap forward or backward over its own or opposing pieces and land on the next square if that square is unoccupied. It can leap diagonally, or leap horizontally along a row (rank) and vertically along a column (file). The beast can hop both vertically and horizontally on the same turn, but horizontal and vertical leaping cannot be combined with diagonal leaping.&amp;#10;&amp;#10;The beast cannot move one square and then begin leaping. Nor can it leap and simply return to its starting square as this would be skipping a turn. It can, however, return to its starting square on the same turn if it captures an opposing beast by its final leap.&amp;#10;&amp;#10;The beast can only capture an opposing beast and can only be captured by an opposing beast. A beast captures an enemy beast by hopping over it rather than landing on the same square.&amp;#10;&amp;#10;For example, a beast may hop over an enemy beast, not capture it, and proceed to hop over and capture another beast.&amp;#10;&amp;#10;Or a beast may hop over an opposing beast, and not capture it on that first hop, but then hop back over the opposing beast (moving in the other direction) and capture it on that hop, all on the same turn.&amp;#10;&amp;#10;In addition A bishop, rook or queen can pass through a beast of its own color, but not through an enemy beast.&amp;#10;&amp;#10;A beast acts as a shield for its own pieces and blocks opposing pieces.&amp;#10;&amp;#10;A pass through may involve more than one beast.&amp;#10;&amp;#10;A king may pass through only when castling.&amp;#10;&amp;#10;Similarly there are unique ricocheting and propelling moves associated with the Beast.&amp;#10;&amp;#10;A beast may pass through another beast when propelled.&amp;#10;&amp;#10;A pawn may pass through only on its first move and only when moving forward to an unoccupied square.  Pawns cannot pass though and capture.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="107227" value="Richard Spurgeon" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

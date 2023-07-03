@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="156786">
+         <thumbnail>https://cf.geekdo-images.com/_KxfjNPFxTLOuhX_DtvQYQ__thumb/img/UsVM_u3kdIqluhOeoBwWEY0OR5I=/fit-in/200x150/filters:strip_icc()/pic1963959.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_KxfjNPFxTLOuhX_DtvQYQ__original/img/szo9xXTJmz2fCXDyFDKAjs2U_xU=/0x0/filters:format(jpeg)/pic1963959.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Munchkin Panic" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Манчкин в осаде" />
+			
+						               													<description>Munchkin Panic is a semi-cooperative board game that blends the all-for-one gameplay of Castle Panic and the all-for-me gameplay of Munchkin.&amp;#10;&amp;#10;In this hybrid game, the Munchkin monsters have found the Castle Panic towers and are on the rampage! Players need to combine cards to hit and slay the monsters before they destroy the castle. The card combos available in Munchkin Panic are created from a unique mixing of the decks of the two source games. Each defeated monster becomes a trophy and gives up its treasure to the victor. If players work together to defeat the monsters, the player with the highest point count becomes Master Munchkin &amp;mdash; but players must balance their self-interest with the cooperation necessary to survive. If players get too greedy, the monsters will stomp the castle flat while the players are too busy fighting amongst themselves!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="576" value="No necessary in-game text" numvotes="0" />
+					<result level="577" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="578" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="579" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="580" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39912" value="Category: Tower Defense" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24821" value="Game: Castle Panic (Fireside Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24" value="Game: Munchkin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="220920" value="Munchkin Panic: Instant Gratification Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="240207" value="Munchkin Panic: Potion of Mwahahaha! Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24733" value="Munchkin Promotional Bookmarks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389462" value="Munchkin Witches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389463" value="Munchkin Witches: Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336822" value="Munchkin: Level Counter Bookmark" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="43443" value="Castle Panic" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1927" value="Munchkin" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="43440" value="Anne-Marie De Witt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6815" value="John Kovalic" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9624" value="Fireside Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12031" value="Black Monk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="817" />
+			<average value="6.04769" />
+			<bayesaverage value="5.63004" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6896" bayesaverage="5.63004" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1816" bayesaverage="5.66042" />
+												</ranks>
+
+			<stddev value="1.57221" />
+			<median value="0" />
+			<owned value="2687" />
+			<trading value="87" />
+			<wanting value="13" />
+			<wishing value="156" />
+			<numcomments value="186" />
+			<numweights value="21" />
+			<averageweight value="2.0476" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

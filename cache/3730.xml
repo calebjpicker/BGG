@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3730">
+         <thumbnail>https://cf.geekdo-images.com/o1_KO1HUywuDXb3Ac1_G1g__thumb/img/_dREP8cyfnPZns3tgLpdfCwW2Po=/fit-in/200x150/filters:strip_icc()/pic15630.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/o1_KO1HUywuDXb3Ac1_G1g__original/img/fe5_Q1tA6khjKwL3RLWD0WoDsxo=/0x0/filters:format(jpeg)/pic15630.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Statis Pro Baseball" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Major League Baseball Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Statis Pro Major League: Game of Professional Baseball" />
+			
+						               													<description>The Statis Pro baseball game includes individual pitcher and batter cards for an entire baseball season. A full 9-inning game generally takes 30 minutes or less to complete.&amp;#10;&amp;#10;Begin by choosing teams, pitchers, and line-ups. In order to simulate a real season, each player card indicates which positions a player is allowed to play, and for how many games that player played at each position during a full season.&amp;#10;&amp;#10;Each at-bat is simulated the same way. First, a Fast Action Card (FAC) is drawn to determine a PB number which is then compared to the PB rating on the pitcher's card; this determines if the pitcher&amp;rsquo;s card or the batter&amp;rsquo;s card is &amp;quot;in control&amp;quot;. Then a new FAC is drawn to generate a random number to determine the result from the player's card who was &amp;quot;in control&amp;quot;. Each of the 98 FAC has four results&amp;mdash;two per side, one right-side up, one upside-down and also features special PB results to simulate clutch batting, clutch fielding, unusual plays (e.g. dropped third strike, ejections, etc.), and injuries.&amp;#10;&amp;#10;If an out is made, an out chart appropriate to the runner situation (e.g. Bases Empty, Runner on Second, etc.) is consulted to determine the outcome by drawing an additional FAC (or two, if the out result has a chance of error to be checked).&amp;#10;&amp;#10;Charts on the playing board support managerial choices such as sacrifice bunts, hit and runs, stolen base attempts, etc. For these, no PB number is determined; simply consult the FAC&amp;rsquo;s random number and follow the chart&amp;rsquo;s instructions which usually involves consulting players ratings appropriately (e.g. base runner&amp;rsquo;s stolen base rating, catcher&amp;rsquo;s throwing ability, etc.).&amp;#10;&amp;#10;Production of the game was halted after the 1992 baseball season on account of a royalties dispute between Avalon Hill and MLB. While the Avalon Hill Statis Pro Baseball game is no longer in production, it is possible to make your own player cards using the Statis Pro Baseball card formulas provided with the game. Moreover, PDFs of fan-made seasons and teams can be found online either free or for purchase.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1971" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76380" value="Series: Sports Illustrated Games (Avalon Hill)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66149" value="Sports Teams: Major League Baseball (MLB)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5586" value="Sports: Baseball" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="216347" value="Statis Pro Baseball Advanced" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2137" value="Jim Barnes" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4108" value="Midwest Research" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="515" />
+			<average value="7.19717" />
+			<bayesaverage value="5.80214" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4138" bayesaverage="5.80214" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="799" bayesaverage="5.89444" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1782" bayesaverage="5.8045" />
+												</ranks>
+
+			<stddev value="1.69927" />
+			<median value="0" />
+			<owned value="905" />
+			<trading value="49" />
+			<wanting value="24" />
+			<wishing value="41" />
+			<numcomments value="254" />
+			<numweights value="52" />
+			<averageweight value="2.1731" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

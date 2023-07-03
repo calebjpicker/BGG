@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5670">
+         <thumbnail>https://cf.geekdo-images.com/l6zBUUmrMlNOa3PuifFa8w__thumb/img/6g3jlFeCApHQUPe0VoGEzuYVv0k=/fit-in/200x150/filters:strip_icc()/pic249185.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/l6zBUUmrMlNOa3PuifFa8w__original/img/EJD3o4gIjCnGqmNjknpOqnHRoJM=/0x0/filters:format(jpeg)/pic249185.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lost Heir" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Game of Lost Heir" />
+			    				
+				<name type="alternate" sortindex="1" value="Game of the Lost Heir" />
+			    				
+				<name type="alternate" sortindex="3" value="L Héritier perdu" />
+			    				
+				<name type="alternate" sortindex="5" value="The Lost Heir" />
+			    				
+				<name type="alternate" sortindex="5" value="The Lost Heir Card Game" />
+			
+						               													<description>A trick taking card game where players bid to find the Lost Heir.&amp;#10;&amp;#10;There are 32 cards, divided into four city suits of seven cards, plus one Lost Heir card, a Wrong Boy card, and two additional city cards to even out the deck for two or four players. For flavor, each suit represents a different city, and each card is named (Mayor, Chief, Commissioner, Detective, etc.).&amp;#10;&amp;#10;Players bid for the right to make trump (in game terms... choice of Police).  The dealer may take the bid, or refuse.  If the bid is taken, the first card lead becomes trump for the round.  The game continues until all tricks are played. Players score one point per trick taken, plus an additional five points if they recovered the 'Lost Heir'.  A player loses three points if they recover the 'Wrong Boy'. The player who won the bid for the round gets no points if he did not match his bid.&amp;#10;&amp;#10;The game is played over a number of rounds... the first player to 40 points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1875" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21" value="Canada Games Company Lmt." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="586" value="Copp Clark Publishing Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2551" value="McLoughlin Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7245" value="Noyes &amp; Snow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17821" value="Papa's Toy Company Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6492" value="Somerville Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.31301" />
+			<median value="0" />
+			<owned value="74" />
+			<trading value="4" />
+			<wanting value="2" />
+			<wishing value="6" />
+			<numcomments value="14" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

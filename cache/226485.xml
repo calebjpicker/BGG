@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="226485">
+         <thumbnail>https://cf.geekdo-images.com/XzH9q_LJgfNUAuHP0SS2WQ__thumb/img/VDHas_P7mXFNben494r2PKZ97uI=/fit-in/200x150/filters:strip_icc()/pic3539939.png</thumbnail>
+      <image>https://cf.geekdo-images.com/XzH9q_LJgfNUAuHP0SS2WQ__original/img/PhFPcIblK8GUO6nCoM8lCe7DwXU=/0x0/filters:format(png)/pic3539939.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Zuirius" />
+			
+						                           
+						               													<description>Zuirius is a strategic board game played on an endless triangular grid. It is possible to play on any flat surface, without the special board. The goal of the game is to block all tetrahedrons of your rival.&amp;#10;&amp;#10;In this game there is no captures or direct confrontation of pieces. During the game the number of pieces is not changed, all tetrahedrons are interconnected and constantly depend on each other. The compact starting position of pieces passes through various irreversible metamorphoses and, having exhausted all its &amp;quot;energy&amp;quot;, freezes as a result. You can play with 18, 24, 30, 36 or 42 pieces. The more pieces, the harder the game will be.&amp;#10;&amp;#10;Rules:&amp;#10;&amp;#10;Each player has an allocated color. Players alternate turns. All tetrahedrons must be connected in a single group. You cannot pick up a piece to move if doing so disconnects the remaining pieces, even if they would be reconnected after putting the piece into its new location. Each tetrahedron always has neighbors. Their number can be from 1 to 12. Tetrahedrons are considered to be neighbors if they stand on the nearby triangles. Neighbors are divided into two types - orthogonal and diagonal. The piece can be moved to any empty triangle, where the number of neighbors are less than it is now. Their color does not matter. The piece can also be moved to any empty triangle, where the number of neighbors does not change, but orthogonal ones among them become less. The game ends when one of the players has no legal moves on his turn. In this case, the winner does as many moves as he can and earns one point for each move. When both players lose moves consecutively it's a draw.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="0" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="224802" value="Krona" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="100016" value="Roman Prostomolotov" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

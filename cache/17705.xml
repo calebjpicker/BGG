@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="17705">
+         <thumbnail>https://cf.geekdo-images.com/4_GZcL1tU74st5hv5G-GOA__thumb/img/bnNk1Kwuj-vhXuzRXI-bbYCsdHI=/fit-in/200x150/filters:strip_icc()/pic222530.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4_GZcL1tU74st5hv5G-GOA__original/img/fmEXkSM3TSHp_81Clc-pr6a8G6k=/0x0/filters:format(jpeg)/pic222530.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Faces" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Arcok" />
+			
+						               													<description>Description stolen from an excellent review by Blott&amp;#10;&amp;#10;Each player gets a pawn and places it on the start space of the score-track, and takes their set of number cards. The game is divided up into 2 separate rounds.&amp;#10;&amp;#10;In the first round, each player takes turns being the judge. The faces-line-up board is filled with 6 male faces. Then the judge reads an impressions card aloud. It will say something like &amp;quot;The Republican&amp;quot; or &amp;quot;The one who just ate something sour.&amp;quot; Then the judge chooses which numbered face best fits the description and places that numbered card facedown on the table, and all the other players try to match the judge's number. Players that matched the judge move one space, and the judge moves one space for each player that matched. Then the selected face is replaced, and the judgeship passes to the next player. Once everyone has been the judge twice for Male faces, you do the same for Female faces, and then for Animal faces. The first round ends when everyone has been the judge 6 times (2 for each type of face.)&amp;#10;&amp;#10;In the second round, the number cards are put aside and players are dealt a hand made up of 2 Male, 2 Female, and 2 Animal faces. Players again take turns being the judge, and the judge again reads an Impressions card. Then the judge looks away and the other players put out a face from their hand that they think best matches the description. Once all the choices are out, the judge selects the best one. The player who played that face moves 3 spaces.&amp;#10;&amp;#10;The game ends as soon as someone makes it to the finish space. That player is the winner&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2865" value="Player Judge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6385" value="A. B. J. Lawson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="33452" value="Arthur Wagner" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="601" value="Buffalo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="964" value="Tactic" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="294" />
+			<average value="6.01993" />
+			<bayesaverage value="5.56523" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9918" bayesaverage="5.56523" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="517" bayesaverage="5.66549" />
+												</ranks>
+
+			<stddev value="1.46157" />
+			<median value="0" />
+			<owned value="485" />
+			<trading value="39" />
+			<wanting value="38" />
+			<wishing value="177" />
+			<numcomments value="144" />
+			<numweights value="18" />
+			<averageweight value="1.1111" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

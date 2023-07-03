@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="162905">
+         <thumbnail>https://cf.geekdo-images.com/cMcWWaF-Cyzma34BcndAmw__thumb/img/mLKTJZntkRNCLtbxTX39G_eTgVg=/fit-in/200x150/filters:strip_icc()/pic1256950.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cMcWWaF-Cyzma34BcndAmw__original/img/6CqnEXd7YEsoal-uradubegJ2MU=/0x0/filters:format(jpeg)/pic1256950.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="Die Wilden Kerle: Tor" />
+			
+						                           
+						               													<description>Die Wilden Kerle: Tor is a light soccer-themed card-game with a Die Wilden Kerlte theme.&amp;#10;&amp;#10;Each player has their own draw deck consisting of 15 cards: two sets of cards valued 2-7, one &amp;quot;Tor&amp;quot; card, and one &amp;quot;0&amp;quot; card. Each turn, players simultaneously select one card from their hand of seven cards. The player with the winning card advances the soccer ball on the play field, with the ball moving back and forth until one player scores. After a duel, each player draws back up to seven cards.&amp;#10;&amp;#10;This game is a reimplementation of Reiner Knizia's other soccer-themed card-game, Tor, with many important differences:&amp;#10;&amp;#10;&amp;#10;     Instead of 13 cards (values 1-13), both players have 15 cards (with numerous differences from the original game). These include one &amp;quot;Tor&amp;quot; (goalkeeper) card that blocks movement of the ball, one &amp;quot;0&amp;quot; card that beats a &amp;quot;7&amp;quot;, and 12 cards with the values 2-7 (two of each). The &amp;quot;5&amp;quot; card has a special power: when they are played, the lower card wins.&amp;#10;     In the original, players had all their cards in hand. In this version they only have 7 cards in-hand and refill their hand back to 7 once their turn is over.&amp;#10;     If two equal cards are played, the ball is not moved, but the given duel is not resolved yet. Both players choose another card until one player wins and then the ball moves in the winning direction as many fields as the number of cards played by the player.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="3" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5563" value="Series: Die wilden Fussballkerle (Kosmos)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5551" value="Sports: Football / Soccer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1977" value="Tor" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12104" value="Jan Birck" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="6.56" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.50102" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="1" />
+			<wanting value="3" />
+			<wishing value="6" />
+			<numcomments value="8" />
+			<numweights value="5" />
+			<averageweight value="1.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

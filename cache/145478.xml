@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="145478">
+         <thumbnail>https://cf.geekdo-images.com/NYnS3rXAAtDOfsIUEM6pzg__thumb/img/wdKRIIu43zwZHo0XCoEk_-a4UvU=/fit-in/200x150/filters:strip_icc()/pic1723518.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/NYnS3rXAAtDOfsIUEM6pzg__original/img/C-U-ebxX9aW2PZc6fmZfxF9Fd8s=/0x0/filters:format(jpeg)/pic1723518.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="HeartSwitch" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Witches" />
+			
+						               													<description>The object of HeartSwitch &amp;ndash; a card game inspired by Hearts &amp;ndash; is to have the lowest score at the end of the game. The sixty-card deck consists of the standard 52-card deck, plus four Magicians and four Witches, two good and two bad, with Witches ranking between Jacks and Tens.&amp;#10;&amp;#10;As in Hearts, HeartSwitch is a trick-taking game with fairly standard rules. The lead player plays a single card, then each other player must follow suit, if possible &amp;ndash; except that a player can always choose to play a Magician. A Magician is a null card that can never win a trick (unless a trick consists only of Magicians). Whoever plays the highest card in the suit led collects the cards, then leads to the next trick.&amp;#10;&amp;#10;After everyone's hand is empty, players score points for the cards they've collected. As in Hearts, each heart collected is one point, while the Queen of Spades is 13 points. What's new in &amp;quot;HeartSwitch&amp;quot; is that the Witch of Spades is worth 5 points, while the Witch of Clubs cancels points earned for either of the Spades cards. The Witch of Hearts doubles points earned from hearts up to a maximum of 15 points, while the Witch of Diamonds knocks up to 5 points off your score. If a player &amp;quot;shoots the moon&amp;quot; by collecting all the hearts and either the Witch or Queen of Spades (or both), that player scores no points while everyone else scores 20, 25 or 30 points.&amp;#10;&amp;#10;Players continue playing rounds until one player reaches 70 points, at which time the player with the lowest score wins. Alternatively, players can agree to play a set number of rounds, with the lowest-scoring player winning the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="2" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14370" value="Series: Wizard (Amigo)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28880" value="Theme: Witches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46062" value="Traditional Card Games: Hearts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="329131" value="HeartSwitch Wizard Combo Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69502" value="Joe Andrews" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="618" value="Ken Fisher" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9638" value="Jody Boginski-Barbessi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39558" value="Gametrade Distribuzione" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55" value="U.S. Games Systems, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="246" />
+			<average value="6.46874" />
+			<bayesaverage value="5.6016" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7896" bayesaverage="5.6016" />
+												</ranks>
+
+			<stddev value="1.3336" />
+			<median value="0" />
+			<owned value="759" />
+			<trading value="22" />
+			<wanting value="3" />
+			<wishing value="28" />
+			<numcomments value="78" />
+			<numweights value="9" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

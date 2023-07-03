@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="19969">
+         <thumbnail>https://cf.geekdo-images.com/5CfX-LNxfVNo9aLRb7AU5A__thumb/img/2HGMycG_iefB84LicgnessJn21k=/fit-in/200x150/filters:strip_icc()/pic6827000.png</thumbnail>
+      <image>https://cf.geekdo-images.com/5CfX-LNxfVNo9aLRb7AU5A__original/img/0oV-Fo6tAjB4vtjyJ0JDa8fOGQY=/0x0/filters:format(png)/pic6827000.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Truco" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Truc" />
+			
+						               													<description>Truco is widely played in South America. It is derived from the simpler game Truc, which is played in Valencia, Balearic Islands and parts of Italy. Each player is dealt three cards, which are played out in tricks, and points are also scored for holding combinations of cards in the same suit. It is the possible to bet extra points on who has the best combination or will win the tricks, and the bluffing, talking and joking that goes with this are an important part of the game. Truco is usually played by four players in partnerships, but it can also be played by two or six.&amp;#10;&amp;#10;(Taken from the website http://www.pagat.com/put/truc.html )&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10645" value="Country: Argentina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10644" value="Country: Brazil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10647" value="Country: Chile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10310" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26075" value="Country: Uruguay" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="177" />
+			<average value="7.25204" />
+			<bayesaverage value="5.62245" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7128" bayesaverage="5.62245" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="356" bayesaverage="5.86481" />
+												</ranks>
+
+			<stddev value="1.96472" />
+			<median value="0" />
+			<owned value="166" />
+			<trading value="2" />
+			<wanting value="4" />
+			<wishing value="19" />
+			<numcomments value="46" />
+			<numweights value="17" />
+			<averageweight value="1.8824" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

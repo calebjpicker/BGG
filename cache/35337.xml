@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="35337">
+         <thumbnail>https://cf.geekdo-images.com/vP9MwHypa5GPlC9kHRPejw__thumb/img/yhjYmaBXBNkO87EEbuPyMCGYbXM=/fit-in/200x150/filters:strip_icc()/pic698245.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/vP9MwHypa5GPlC9kHRPejw__original/img/68n0jqqqV52kkVnrwGusq2mPiI8=/0x0/filters:format(jpeg)/pic698245.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="1x1 Obelisk" />
+			
+						                           
+						               													<description>An educational game focussing on multiplication (up to 10 x 10).&amp;#10;&amp;#10;The game's main components are 30 &amp;quot;multiplication dice&amp;quot;- dice that have a multiplication problem printed on three sides, and the results on the opposite sides.&amp;#10;&amp;#10;The rules sheet suggests three different variants that can be played:&amp;#10;&amp;#10;1) &amp;quot;The stacking multiplication adventure&amp;quot;&amp;#10;The aim of this game variant is to build an obelisk as high as possible.&amp;#10;Players take turns throwing two randomly chosen dice. If one die shows a multiplication problem, the player has to solve it. If both dice show a multiplication problem, the player can choose which one to solve. If both dice show a number instead of a multiplication, the player repeats the throw. If the player correctly solves the problem (the other players can check on the opposite side of the die), he/she passes the die on to the next player, who uses it to start building an &amp;quot;obelisk&amp;quot; (by stacking one die onto the next). If the active player cannot solve the multiplication, he/she has to start building the obelisk. Then it is the next player's turn. Each turn, another die is added to the obelisk, either by the following player (if the active player correctly solves the problem), or by the active player (if their answer is incorrect). &amp;#10;The game ends when the obelisk collapses. The last player who managed to stack a die onto the obelisk without collapsing it wins the game. If the players manage to stack all dice before the obelisk collapses, they all win together.&amp;#10;&amp;#10;2) The multiplication pyramid&amp;#10;The aim of this variant is to be the first to complete a pyramid.&amp;#10;The dice are evenly distributed among all the players. Players take turns throwing two of their dice. If one die shows a multiplication problem, the player has to solve it. If both dice show a multiplication problem, the player can choose which one to solve. If both dice show a number instead of a multiplication or if the active player can't solve the multiplication, they lose their turn. If they correctly solve the problem, they use the die to start building a pyramid (by stacking dice). Then it is the next player's turn. &amp;#10;The first player to have used up all their dice in buidling their pyramid wins the game.&amp;#10;&amp;#10;3) Speed multiplication&amp;#10;The aim of the game is to find the fitting multiplication problem and grab the correct die.&amp;#10;The first player chooses four dice and puts them on the table with a multiplication problem facing up. He/she then has a look at the results (without the other players looking) and puts them back. They then say one of the results, and all the other players try to grab the die with the multiplication that fits this result. The player who grabs the correct die earns this die. Then the next player chooses four dice. &amp;#10;The game ends when all dice have been claimed. The player with the most dice wins the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12201" value="Series: 1x1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19480" value="Series: Spielend Neues Lernen (Ravensburger)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="256" value="Heinz Meister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12906" value="Chris Mitchell (I)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="4.28571" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.16058" />
+			<median value="0" />
+			<owned value="19" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="3" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

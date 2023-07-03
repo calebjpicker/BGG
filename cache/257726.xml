@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="257726">
+         <thumbnail>https://cf.geekdo-images.com/xFXXcX9mEW4FWzT31-C44A__thumb/img/y6eeVbUX0U0f-9rEqIBjG7o8C2g=/fit-in/200x150/filters:strip_icc()/pic4578122.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xFXXcX9mEW4FWzT31-C44A__original/img/4OUmscLcvww2EviuxADEf_IYPS4=/0x0/filters:format(jpeg)/pic4578122.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Brikks" />
+			
+						                           
+						               													<description>Brikks can be viewed as tabletop Tetris, with each player trying to place falling blocks into their grid to score the most points.&amp;#10;&amp;#10;To start the game, each player draws a different quadromino at the bottom of their individual game sheet. On a turn, the active player rolls two dice &amp;mdash; a colored d6 and a numbered d4 &amp;mdash; then optionally rolls both dice again. The two dice determine which specific quadromino &amp;mdash; that is, which colored shape and in which orientation &amp;mdash; all players must &amp;quot;drop&amp;quot; into their grid. To represent this, you draw an outline of the block at the bottom of your sheet as if you had dropped it in from the top, then X out the spaces covered by the quadromino.&amp;#10;&amp;#10;If you cover a circle on the grid that's the same color as the quadromino just placed there, you collect two energy points. By spending one energy point on a turn, you can possibly &amp;quot;rotate&amp;quot; the quadromino to be placed depending on what dice were rolled; by spending five energy points, you can place exactly the quadromino you want, ignoring the result of the dice. As you collect energy, you might cover an X on the energy chart; if you do, you track these Xs on a separate &amp;quot;extra point&amp;quot; bar, with the points escalating for each X you collect. If you complete 2-4 lines through the placement of a single quadromino, you collect an additional 1-4 Xs for this extra point bar.&amp;#10;&amp;#10;Each player has three bombs they can spend to blow up a block instead of placing it, but by doing so you give up endgame points.&amp;#10;&amp;#10;As soon as you can no longer place a quadromino in your grid, your game is over. Once everyone has filled their grid to the top, tally your points. In addition to the extra points bar and any bombs unused, you score 1-5 points for each horizontal line that contains 8-10 Xs, with these line points doubling, or even quadrupling, as you go higher in the grid. Whoever scores the most points wins!&amp;#10;&amp;#10;&amp;quot;Brikks&amp;quot; also contains rules for a duel mode and a solitaire mode.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="2" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50841" value="Series: Klein &amp; Fein (Schmidt Spiele)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80162" value="Wolfgang Warsch" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43873" value="Anne Pätzke" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1102" />
+			<average value="6.3207" />
+			<bayesaverage value="5.79409" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4232" bayesaverage="5.79409" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1248" bayesaverage="5.87128" />
+												</ranks>
+
+			<stddev value="1.27469" />
+			<median value="0" />
+			<owned value="2020" />
+			<trading value="89" />
+			<wanting value="23" />
+			<wishing value="187" />
+			<numcomments value="247" />
+			<numweights value="19" />
+			<averageweight value="1.6316" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

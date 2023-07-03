@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="120327">
+                                     				
+				<name type="primary" sortindex="1" value="New Men Checkers" />
+			
+						                           
+						               													<description>It is played on a 8x8 checkerboard. Every rank has 24 men, 20 ordinary and 4 with determined characteristics. The board is numbered from a1 to h8.&amp;#10;&amp;#10;The pieces are collocated on squares dark and clear.  Pieces on a1 and h1 (a8 and h8 for Black) are called asterisk, because are marked with a green asterisk. They move and capture diagonally and vertically (forwards and backwards) but capture diagonally forwards with a long jump like flying king.  When it reaches the last row and become king, this one moves diagonally, vertically and horizontally with a long jump, but captures diagonally and vertically.&amp;#10;&amp;#10;The pieces on d1 (e8 for Black) are marked with a blue exclamation point and are called expoint.  They move and capture diagonally and vertically (forward and backwards), but capture diagonally backwards with a long jump like flying king.  When it reached the last row and become king, it moves and captures diagonally vertically and horizontally.&amp;#10;&amp;#10;The pieces collocated on e1 (d8 for Black) are marked with a red across, and are called across. It move and capture diagonally and vertically (backwards and forwards), but capture horizontally with a long jump.  When they reach the last row and become king, this one moves and captures (diagonally, vertically and horizontally),and it can not captured by men.&amp;#10;&amp;#10;Simple men when it reach the last row after a capture and have still possibilities to catch, it go on to capture and not become King at the moment.Wins who blocks or captures all enemy pieces.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58699" value="Giuseppe Acciaro" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="4112">
+         <thumbnail>https://cf.geekdo-images.com/nwC2RDwKevolWdKUhainuA__thumb/img/Ls_OsmAzR4RGukPeBrgFm-QfzR4=/fit-in/200x150/filters:strip_icc()/pic167362.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/nwC2RDwKevolWdKUhainuA__original/img/1NbgZn9cUJaPLEPgs5cg8GGlc8M=/0x0/filters:format(jpeg)/pic167362.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hex" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Banochee" />
+			    				
+				<name type="alternate" sortindex="1" value="Con-tac-tix" />
+			    				
+				<name type="alternate" sortindex="1" value="Gioco dell &#039;Ex" />
+			    				
+				<name type="alternate" sortindex="1" value="Hexus" />
+			    				
+				<name type="alternate" sortindex="1" value="Jeu des polygones" />
+			    				
+				<name type="alternate" sortindex="1" value="Nash" />
+			    				
+				<name type="alternate" sortindex="1" value="Polygon" />
+			    				
+				<name type="alternate" sortindex="1" value="Polygonspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Polyspiel" />
+			
+						               													<description>Hex was invented by the Danish mathematician and poet Piet Hein, who introduced the game in 1942 at the Niels Bohr Institute. The same year Hex appeared in the Danish newspaper Politiken under the name Polygon. Hein introduced the game to the readers on December 26, 1942 and during the following four months gave them a problem each day to begin with - eventually two days a week, on Wednesdays and Saturdays. The solution would always appear in the following column. It was independently invented by mathematician John Nash in 1947 at Princeton University. In 1952, Parker Brothers marketed a version. They called their version Hex, and the name stuck. Hex has the simplest rules of almost any game: connect your color edges with a path of tokens of your color. There is also a &amp;quot;swap rule&amp;quot; (also known as a pie rule) which compensates for the inherent advantage of the first player.&amp;#10;&amp;#10;There are a number of resources for Hex on the internet, including several real-time servers. If you want to play face-to-face, used Hex sets are occasionally available, and you can also make your own set. A Battlemat with 1&amp;quot; hexes can be cut into a 15x15 rhombus grid. Standard Go stones also work well for this board.  It is also playable as a pencil-and-paper game, like the 3M Paper Game version.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1942" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="9" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78569" value="Components: 14 x 14 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6363" value="Containers: Tubes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79508" value="Digital Implementations: Little Golem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8067" value="Series: 3M Paper Games Series" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2883" value="The Book of Classic Board Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5242" value="The Game of Y" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1629" value="Piet Hein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1630" value="John Nash" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="10581" value="Rich Carlson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9659" value="Jonatan Rydh" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="92" value="3M" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1017" value="ABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35302" value="Brybelly" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21667" value="EfcéFac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4953" value="Four Generations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37698" value="Il Leccio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5353" value="Let's Play Games! LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24407" value="LuduScience" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23494" value="Oficina do Aprendiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12047" value="Oliphante" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5942" value="Piet Hein A/S" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9597" value="Skjøde Skjern" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="797" />
+			<average value="6.6992" />
+			<bayesaverage value="5.80305" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4131" bayesaverage="5.80305" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="163" bayesaverage="6.21734" />
+												</ranks>
+
+			<stddev value="1.8722" />
+			<median value="0" />
+			<owned value="634" />
+			<trading value="8" />
+			<wanting value="25" />
+			<wishing value="228" />
+			<numcomments value="327" />
+			<numweights value="92" />
+			<averageweight value="3.2065" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8232">
+         <thumbnail>https://cf.geekdo-images.com/Ogs9YS5kiUDhvdjzJ0JJQQ__thumb/img/e4L7SU4QG-rOgxAOzXq5Jckg1OQ=/fit-in/200x150/filters:strip_icc()/pic34353.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Ogs9YS5kiUDhvdjzJ0JJQQ__original/img/KZdZOaqzDxIV1mCgGrNZAXW6NpQ=/0x0/filters:format(jpeg)/pic34353.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Zauberschwert &amp; Drachenei" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Magic Sword &amp; Dragon Egg" />
+			
+						               													<description>You must defeat creatures to collect power stones and win the game. At your disposal you have Spells, Artifacts and Herbs to help you defeat the creatures.&amp;#10;&amp;#10;Each turn, each player receives two Magical Energy. Then, two Adventure cards are drawn. Each player sends his mage to one of these cards, or passes (which will give him an additional Energy).&amp;#10;&amp;#10;After all players have allocated their mages, the Adventure cards are resolved. There are four types of card:&amp;#10;&amp;#10;    Magic Spell: This spell is auctioned off between the mages who were sent to this card. It is paid for in Energy, and it can be used to get more energy or victory points.&amp;#10;    Orb: Each mage who was sent here gets a certain amount of Energy.&amp;#10;    Holy Site: Each mage who was sent here gets a certain amount of victory points and a random Artifact card.&amp;#10;    Monster: The monster card is auctioned off the mages who were sent to this card. The player that wins it, defeats the monster and gets an amount of Magical Energy and/or victory points. The players may also decide to skip the auction and cooperate to defeat the monster, which will yield less reward.&amp;#10;&amp;#10;&amp;#10;After the Adventures have been resolved, players may trade and play Artifacts (some Artifacts are only useful in pairs). Played Artifacts will give Magical Energy and/or victory points.&amp;#10;&amp;#10;The game continues until the deck of Adventure Cards is depleted; the player with the most victory points wins the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="20178" value="Zauberschwert &amp; Drachenei: Helden &amp; Zaubersprüche" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="60220" value="Zauberschwert &amp; Drachenei: Player Sheets &amp; 7th Player Material" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="15840" value="Zauberschwert &amp; Drachenei: Poison Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38791" value="Zauberschwert &amp; Drachenei: Wissen &amp; Artefakte" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2822" value="Jochen Schwinghammer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2822" value="Jochen Schwinghammer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46" value="Adlung-Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="432" />
+			<average value="6.07685" />
+			<bayesaverage value="5.60096" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7930" bayesaverage="5.60096" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2205" bayesaverage="5.63421" />
+												</ranks>
+
+			<stddev value="1.24359" />
+			<median value="0" />
+			<owned value="1167" />
+			<trading value="73" />
+			<wanting value="5" />
+			<wishing value="29" />
+			<numcomments value="149" />
+			<numweights value="55" />
+			<averageweight value="1.9273" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

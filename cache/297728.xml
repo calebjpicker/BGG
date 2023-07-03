@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="297728">
+         <thumbnail>https://cf.geekdo-images.com/XTFLGXeo1_2dww7rCiLCzA__thumb/img/RBTbaJam4Jn8cYIAaI5fXfXSGXI=/fit-in/200x150/filters:strip_icc()/pic5153249.gif</thumbnail>
+      <image>https://cf.geekdo-images.com/XTFLGXeo1_2dww7rCiLCzA__original/img/RM7fR-swZLJumzuyMDx10bp0AD8=/0x0/filters:format(gif)/pic5153249.gif</image>
+                                     				
+				<name type="primary" sortindex="1" value="Benediction" />
+			
+						                           
+						               													<description>Benediction is a combinatorial abstract strategy game for two players. The game is played on the points of a tri-gridded hexagonal board, with flippable checkers and stones. The objective of the game is to capture one enemy king, or bless one friendly king.&amp;#10;&amp;#10;Players begin with a king on their starting point in opposite corners of the hex grid. Players fill their zone, which includes all points adjacent to the starting point, with men. Men are defined as a checker or stack of checkers. By default, men start with a stack size of 1 checker. Men move in any direction in a straight line, distance up to size of the moving stack or sub-stack. Stacks jump occupied points, but may not move onto or jump over blocks. Captures happen by replacement (like in chess). Capturing does not depend on stack size (small stacks can capture large stacks, and vice versa). New men can be created by merging and splitting stacks (which are defined below). By default, men are limited to making stacks no higher than two checkers high. To create stacks taller than two checkers high, at least one of them must be blessed, by interacting with enemy walls.&amp;#10;&amp;#10;The main mechanisms of Benediction are blessings, curses and kings. Blessed men can merge once with any friendly man. Points on enemy walls, which have the power to bless men, are adjacent to the opposite end of the board via each line of the grid (like a portal). Movement across enemy walls results in teleportation of pieces across the board via forward and diagonal-forward movement. If a man moves past enemy walls, he is blessed. If you connect your wall to the enemy wall with a connected chain of friendly men, they all become blessed, except those that are cursed. Cursed men, which become cursed when stacks split apart, cannot be blessed and can only merge with blessed men. Finally, players have kings. Men that land on any starting point, or that merge with a king, automatically become kings. Because kings cannot merge with kings, and kings cannot get cursed, the number of kings can increase until a player is no longer able to defend them all.&amp;#10;&amp;#10;Players alternate turns of two actions per turn (12* protocol). The five possible actions include: Move, Drop, Block, Merge, Split. These actions are defined as follows: &amp;#10;&amp;#10;     Move = Move man to an empty point (or capture). He can't move again this turn, but he can merge or split. If he moves past enemy walls, bless him.&amp;#10;     Merge = Move man or sub-stack onto a reachable friendly man. If a man is moving through enemy walls in the process of merging, bless him. Before completing the merge, remove any blessings/curses on the pieces involved.&amp;#10;     Split = Move sub-stack to empty point (or capture). Curse both resulting stacks. If the sub-stack moves past enemy walls, bless that sub-stack instead.&amp;#10;     Drop = Drop a new man on an empty point in your zone. He can't move this turn, but he can merge.&amp;#10;     Block = Put black stone on an empty point. Blocks cannot be placed on adjacent points or on opposite ends of the same grid-lines. Men can&amp;rsquo;t jump / move onto blocks.&amp;#10;&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="120" />
+						               				<minage value="4" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="101050" value="Alek Erickson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="13" />
+			<average value="7.69231" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.43498" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="8" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

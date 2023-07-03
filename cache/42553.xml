@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="42553">
+                                     				
+				<name type="primary" sortindex="1" value="Trimok" />
+			
+						                           
+						               													<description>Trimok is a new board game for two, developed from the old Japanese game jan-ken-pon (scissors paper rock).&amp;#10;The idea of the game&amp;#10;&amp;#10;Two players (White and Black) play against each others and they try to capture all opponent's pieces with their own pieces. There are three kinds of pieces: scissors, paper and rock. The capture-rules for White are as follows: white scissors take black paper, white paper take black rock and white rock take black scissors. Correspondingly the capture-rules for Black: black scissors take white paper, black paper take white rock and black rock take white scissors.&amp;#10;&amp;#10;In the beginning of the game each player has four pieces of each kind, i.e. 12 pieces in all. The board is divided into 6 by 6 squares and the pieces are set according to figure 1. The game is over, when other player wins the game or the players agree on a draw. The player wins the game, when he/she captures the other player's last piece or when the other player cannot move any piece.&amp;#10;&amp;#10;The moves&amp;#10;Each player, in turns, moves one piece. The White player starts the game. Every piece can be moved in the same way: one square at a time in any direction on the board, i.e. forwards, backwards, to the sides and also diagonally forwards and backwards. If a piece does not capture another piece within a move, it can be moved only to an empty square.&amp;#10;&amp;#10;In the game is one special move, called return-move: When a piece has made it to the opponent's side to the last row, it can be moved back on some of the next turns, to its own side's first row, to the same column's or adjacent column's empty square. (There is at most three possible squares for a return-move.) When making a return-move, the piece can be exchanged for a piece that is not currently on the board. Making the return-move the piece can not capture other pieces. Examples of possible moves and return-moves are presented in figure 2.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1996" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62615" value="Components: 6 x 6 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28493" value="J. Ollikainen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28494" value="A. Ollikainen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28492" value="T. Saarinen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

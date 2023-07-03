@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="295486">
+         <thumbnail>https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__thumb/img/j66PBN_vi0zLs7c-zR-r2NkUT2g=/fit-in/200x150/filters:strip_icc()/pic7443423.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__original/img/TvWwknCLoPNxx3uIOhlCg-9F1mM=/0x0/filters:format(jpeg)/pic7443423.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="My City" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Moje Miasto" />
+			    				
+				<name type="alternate" sortindex="1" value="Мой город" />
+			    				
+				<name type="alternate" sortindex="1" value="マイシティ" />
+			    				
+				<name type="alternate" sortindex="1" value="마이 시티" />
+			
+						               													<description>My City is a competitive legacy game in which you develop a city on your own playing board through the ages.&amp;#10;&amp;#10;The game consists of 24 episodes, beginning with the development of a city in its early preindustrial stages and progressing through industrialization. During each game, players customize their experience by adding elements to their personal boards and adding cards to the game. Players' choices and action made during one session of gameplay carry over into the next session, creating a personalized gaming experience.&amp;#10;&amp;#10;For players who do not want to experience My City as a legacy game, a double-sided game board offers an alternate set-up for repeatable play (some elements from the legacy experience are needed for the repeatable play game, players can unlock these elements by playing through the first 4 episodes).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="149">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="80" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="60" />
+					<result value="Recommended" numvotes="73" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="71" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="33">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="15" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="2" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="7" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2887" value="Catch the Leader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2824" value="Legacy Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25404" value="Mechanism: Legacy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68322" value="Theme: City" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367087" value="KOSMOS Helper App" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="351476" value="My City: Roll &amp; Build" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="359394" value="My Island" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8793" />
+			<average value="7.69146" />
+			<bayesaverage value="7.27446" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="220" bayesaverage="7.27446" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="148" bayesaverage="7.34885" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="31" bayesaverage="7.38277" />
+												</ranks>
+
+			<stddev value="1.216" />
+			<median value="0" />
+			<owned value="17363" />
+			<trading value="166" />
+			<wanting value="397" />
+			<wishing value="4170" />
+			<numcomments value="1360" />
+			<numweights value="181" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

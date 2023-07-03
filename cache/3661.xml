@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3661">
+         <thumbnail>https://cf.geekdo-images.com/K_I5F4yX1q9NWr5ott15gA__thumb/img/Pyf7LqSDtykUt1T8S0t8tcclV4w=/fit-in/200x150/filters:strip_icc()/pic349893.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/K_I5F4yX1q9NWr5ott15gA__original/img/yQCnKBYsxluyw_jZMb13C52cTOo=/0x0/filters:format(jpeg)/pic349893.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Imperium: Empires in Conflict – Worlds in the Balance" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Empire" />
+			    				
+				<name type="alternate" sortindex="1" value="Imperium" />
+			    				
+				<name type="alternate" sortindex="1" value="Imperium: Imperi in Lotta Pianeti in Fiamme" />
+			    				
+				<name type="alternate" sortindex="1" value="Imperium: Kampf der Sternenreiche" />
+			    				
+				<name type="alternate" sortindex="1" value="インペリウム" />
+			    				
+				<name type="alternate" sortindex="1" value="绝对统御" />
+			
+						               													<description>&amp;quot;Imperium&amp;quot; is a 2-player wargame of space empire conflict set in 22nd Century AD, and shortly after release, retconned into the history of the &amp;quot;Traveller&amp;quot; role playing game. It simulates the clash between Earth (Terra) and an alien civilization, represented in the form of a widespread Empire (the Ziru Sirka). Both sides have a variety of star-ships and ground forces to choose from, and the game is notable for how the two sides are asymmetrical: their forces aren't identical and their economies work differently.&amp;#10;&amp;#10;Movement takes place via 'jumps' from one star to the next, and conflict is resolved at these 'points'. There are two types of star-ship weaponry, short-range beam factors, and chiefly long-range missile factors also used for planetary bombardment.&amp;#10;&amp;#10;Reimplemented as:&amp;#10;&amp;#10;     Imperium: 3rd Millennium&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="300" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="300" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="1" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64949" value="Components: Map (Interplanetary or Interstellar scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62415" value="Setting: Traveller Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7757" value="Versions &amp; Editions: Board Game Versions of Role-Playing Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="17728" value="Traveller: The Classic Games, Games 1-6+" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2106" value="Imperium: 3rd Millennium" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="335" value="Frank Chadwick" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="657" value="John Harshman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="754" value="Marc W. Miller" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23234" value="Alan M. Clark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13311" value="Stephen Fabian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38053" value="Naoyuki Kato" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20191" value="Radley Masinelli" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="519" value="Conflict Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="181" value="Game Designers' Workshop (GDW Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1397" value="Fanpro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10288" value="Fantasy Productions, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17294" value="Imperium Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3888" value="Stratelibri" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="112" value="Target Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25562" value="War Drum Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="567" />
+			<average value="6.88166" />
+			<bayesaverage value="5.78587" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4297" bayesaverage="5.78587" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="562" bayesaverage="6.42436" />
+												</ranks>
+
+			<stddev value="1.31557" />
+			<median value="0" />
+			<owned value="1449" />
+			<trading value="50" />
+			<wanting value="35" />
+			<wishing value="142" />
+			<numcomments value="276" />
+			<numweights value="73" />
+			<averageweight value="2.6438" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

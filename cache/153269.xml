@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="153269">
+                                     				
+				<name type="primary" sortindex="1" value="German Solo" />
+			
+						                           
+						               													<description>German Solo is a German 8-card plain-trick game for four individual players using a 32-card deck (7-A in each suit). It is essentially a simplification of Quadrille, itself a four-player adaptation of Ombre. As in Quadrille, players bid for the privilege of declaring trumps and deciding whether to play alone or with a partner.&amp;#10;&amp;#10;Each player receives 8 cards dealt in 3-2-3, with two dealt to the  blind (received by the winning bidder). Aces rank high and tens rank low. The queen of clubs or spadille is always the highest trump, and the queen of spades or baste is always the third highest trump. Both do not count as members of their natural suits. The trump seven or manille is elevated to the rank of second highest trump. Below that the cards rank normally, except for omitting the queen if it is black. Thus depending on whether the trump suit is black or red, it contains 10 or 9 cards. Black plain suits contain 7 cards, and red plain suits contain 8 cards.&amp;#10;&amp;#10;Bidding and scoring are complicated and not uniform. Bidding begins with the player to the left of the dealer. To bid, a player declares &amp;quot;I can play&amp;quot; (at least a 5 bid). The next bidder to bid either passes or declares &amp;quot;I can play too&amp;quot; (at least 5 clubs or 6). Once all but one player has passed, that player can declare a suit and call for an ace of another suit to be partner or decide to play &amp;quot;solo&amp;quot;.&amp;#10;&amp;#10;Scoring can be point based or played using dimes and nickels. The bidding and scoring hierarchy is as follows.&amp;#10;&amp;#10;5 hearts, diamonds, or spades - 5 cents&amp;#10;5 clubs (called &amp;quot;better&amp;quot; when bidding) - 10 cents&amp;#10;6-8 bids increase the bid by 5 cents per level&amp;#10;solo bids outrank regular bids andearn more money because everyone pays the bidder (in partner games, both the bidder and the partner get paid on winning or pay out on loosing).&amp;#10;&amp;#10;Trick-play is as in Whist. Player to the left of the dealer leads to the first trick. Players must follow suit if possible; if not they can play anything. Whoever played the highest trump, or the highest card of the suit led, wins the trick and leads to the next trick.&amp;#10;&amp;#10;Bidder's, i.e. declarer as a soloist or together with his or her partner, must win the number of tricks bid. If bidder's party wins all tricks to the number bid, they can stop the game and get a bonus for prime. If they continue playing at that point they cannot score prime, but may be able to score slam for winning all tricks (bonus 5 cents).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="8.7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.07703" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="73082">
+                                     				
+				<name type="primary" sortindex="1" value="Sector" />
+			
+						                           
+						               													<description>1) What is Sector?&amp;#10;Sector is a board game, for 2 to 4 players. The game is based on the strategic occupation of the game board. Taking turns, the participants role a normal cube die and place pieces on the board, according to preset rules. Some of the pieces, or some of the squares where the pieces can be placed, have specific properties that affect how that particular turn is played. Players who can't, in their turn, place the required pieces on the squares of the board are eliminated. The winner is the last surviving player.&amp;#10;&amp;#10;2) What do I need to play Sector?&amp;#10;(a) A game board (15x15 squares), with special squares marked;&amp;#10;(b) 225 normal pieces and 20 special pieces (per 2 players);&amp;#10;(c) Nontransparent bag(s) or box(es) for the pieces;&amp;#10;(d) One cube (1-6) die.&amp;#10;&amp;#10;3) Let's start the game. Who plays first?&amp;#10;Let the players throw the die and the person with the highest number goes first. After that, the turn proceeds clockwise.&amp;#10;&amp;#10;4) What does each turn consist of?&amp;#10;(a) Roll the die.&amp;#10;(b) Take the number of pieces corresponding to the value obtained in that particular throw from the nontransparent bag and place the pieces, in a straight line, on the board. If you happen to draw a special piece or the last piece happens to end in a special square, certain other rules apply.&amp;#10;&amp;#10;5) It's my first turn. I've rolled the die. Where should I begin?&amp;#10;In the first turn, all players start in any chosen square, on the edge of the board.&amp;#10;&amp;#10;6) How can I place my pieces?&amp;#10;The pieces, always corresponding to the number obtained with the throw of the die, must be placed in a straight line. You are not allowed to turn in a different direction nor are you allowed to place one piece over another. The line, except obviously in the first turn, must always start from a preexisting piece belonging to the current player.&amp;#10;&amp;#10;7) What are special squares?&amp;#10;Special squares are clearly marked squares on the board that have a unique propertie. When a line, in a turn, ends on a special square, the current player can place, if possible, an extra piece on any other free special square in the board. This only happens when the turn ends on a special square, not when it crosses a special square. The extra piece is only taken from the nontransparent bag when all other pieces are in place.&amp;#10;&amp;#10;8) And special pieces? What are they?&amp;#10;Special pieces are distinctly marked pieces that allow the player to convert, if possible, adjacent opponent pieces into his own. They are mixed up with the normal pieces in the nontransparent bag and are taken, eventually, by chance, when the player is taking the number of pieces obtained by the role of the die or taking a piece for a special square as described above. Special pieces can be used at any point of the line and in any direction as chosen by the current player. The drawing in the special piece shows the allowed positions from which the opponent&amp;acute;s piece(s) can be converted into a player&amp;acute;s piece. In the drawing, on the piece, a dark circle represents the player special piece and the light circles represent the the allowed conversion positions.&amp;#10;&amp;#10;Description from the author.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78570" value="Components: 15 x 15 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

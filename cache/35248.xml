@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="35248">
+         <thumbnail>https://cf.geekdo-images.com/Wa8PZcS4MCwxbBbPFM3Tyw__thumb/img/Z-wbp14uIAzatJIFs957lvxKO4c=/fit-in/200x150/filters:strip_icc()/pic714427.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Wa8PZcS4MCwxbBbPFM3Tyw__original/img/IwxhHo5RLwzCr4Z5cAsOvoQbGcM=/0x0/filters:format(jpeg)/pic714427.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Batavia" />
+			
+						                           
+						               													<description>Batavia takes the players into the golden age of the East India companies - England's, Holland's, Sweden's, France's, and Denmark's. &amp;#10;And Batavia - now known as Jakarta - wasn't just the main branch of the Dutch East India Company on Java, but the name of their flagship as well.&amp;#10;&amp;#10;The players, representing merchants, visit the trading posts of the five East India companies all over Asia.&amp;#10;Every company's station offers a different good, which will be made available to the merchant who visits the trading post.&amp;#10;&amp;#10;To get a passage there, you'll need the ship card of the corresponding company.&amp;#10;&amp;#10;Every turn, these cards will be auctioned off, according to a special method, where there are only winners: the highest bidder gets all the offered cards but divides the money he paid equally among the others.&amp;#10;&amp;#10;The one who is able to travel to the trading posts with the most lucrative goods will be able to procure the best wares for himself and get the most gold for them at game's end.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Moderne Zeiten&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="10" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19898" value="Cities: Jakarta (Indonesia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10615" value="Country: Indonesia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4106" value="Moderne Zeiten" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="183" value="Dan Glimne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="988" value="Grzegorz Rejchtman" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Bergsala Enigma (Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10946" value="M-Ágnes" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1190" />
+			<average value="6.3808" />
+			<bayesaverage value="5.8181" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3996" bayesaverage="5.8181" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1617" bayesaverage="5.89425" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1197" bayesaverage="5.90184" />
+												</ranks>
+
+			<stddev value="1.25268" />
+			<median value="0" />
+			<owned value="2120" />
+			<trading value="155" />
+			<wanting value="28" />
+			<wishing value="171" />
+			<numcomments value="394" />
+			<numweights value="104" />
+			<averageweight value="2.4135" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

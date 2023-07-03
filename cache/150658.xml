@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="150658">
+         <thumbnail>https://cf.geekdo-images.com/gCeKvj1ULixFOJ7uFawkcg__thumb/img/xD_r6E6ZwYKXH-rtVPhGZoVleC4=/fit-in/200x150/filters:strip_icc()/pic2225998.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gCeKvj1ULixFOJ7uFawkcg__original/img/XeJ_F2OgSwwvTdEMsUiCAaatMb8=/0x0/filters:format(jpeg)/pic2225998.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pandemic: The Cure" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pandemic: La Cura" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandemic: Lekarstwo" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandemie: Die Heilung" />
+			    				
+				<name type="alternate" sortindex="1" value="Pandémie: Le Remède" />
+			    				
+				<name type="alternate" sortindex="1" value="パンデミック：完全治療" />
+			
+						               													<description>Pandemic: The Cure, a dice-based version of the popular Pandemic board game, sets up in less than a minute and plays in 30 minutes. As in the board game, four diseases threaten the world and it's up to your team to save humanity. You and your team must keep the world's hotspots in check before they break out of control, while researching cures to the four plagues.&amp;#10;&amp;#10;Players roll dice each turn to determine the actions available to them. They can fly and sail between the six major population centers of the world, treat disease in their current region, collect samples for further study, and exchange knowledge to help them in their goal of discovering cures. Each player takes on a different role that has its own unique set of dice and abilities &amp;mdash; and players must take advantage of their specializations if they are to have any hope of winning the game. The Dispatcher, for example, can spend dice to fly others around the board, while the Medic is particularly adept at treating disease. Players can roll their dice as often as they like, but the more times they re-roll for the perfect turn, the more likely the next epidemic will occur.&amp;#10;&amp;#10;At the end of each turn, new &amp;quot;infection dice&amp;quot; are rolled to determine the type and location of newly infected populations. If any region on the board is infected with more than three dice of a given color, an outbreak occurs, spreading disease into an adjacent region. If too many outbreaks take place, too many people get infected, or the rate of infection gets too high, all the players lose. If, however, the players can discover the cures to the four diseases, they all win and humanity is saved!&amp;#10;&amp;#10;Part of the Pandemic series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="156">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="98" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="85" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="70" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="74" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="74" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="34">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="16" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="26">
+			
+		<results>		
+					<result level="481" value="No necessary in-game text" numvotes="0" />
+					<result level="482" value="Some necessary text - easily memorized or small crib sheet" numvotes="25" />
+					<result level="483" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="484" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="485" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2145" value="Medical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3430" value="Game: Pandemic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61854" value="Medical: Diseases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207017" value="Pandemic: The Cure – Experimental Meds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304868" value="Rapid Response System (fan expansion for Pandemic: The Cure)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="208126" value="Pandemic: The Cure – Character Meeples" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="30549" value="Pandemic" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="378" value="Matt Leacock" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2954" value="Bernard Bittler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74074" value="Philippe Guérin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10405" />
+			<average value="7.25595" />
+			<bayesaverage value="6.96473" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="469" bayesaverage="6.96473" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="332" bayesaverage="7.00311" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="103" bayesaverage="7.03542" />
+												</ranks>
+
+			<stddev value="1.23191" />
+			<median value="0" />
+			<owned value="16410" />
+			<trading value="356" />
+			<wanting value="374" />
+			<wishing value="2464" />
+			<numcomments value="1907" />
+			<numweights value="325" />
+			<averageweight value="2.0615" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="232918">
+         <thumbnail>https://cf.geekdo-images.com/9gjrMWDqLCBb-G0AYbKuSQ__thumb/img/Idbk30GnVx4RDeZrsUgTXe2RZHs=/fit-in/200x150/filters:strip_icc()/pic3728149.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9gjrMWDqLCBb-G0AYbKuSQ__original/img/t5RBBMPvLBa4_vEbK7ZrNbD8IdY=/0x0/filters:format(jpeg)/pic3728149.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fallout" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fallout: Desková hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout: El juego de tablero" />
+			    				
+				<name type="alternate" sortindex="1" value="フォールアウト ボードゲーム" />
+			
+						               													<description>Fallout is a post-nuclear adventure board game for one to four players. Based on the hit video game series by Bethesda Softworks, each Fallout scenario is inspired by a familiar story from the franchise. Survivors begin the game on the edge of an unexplored landscape, uncertain of what awaits them in this unfamiliar world. With just one objective to guide them from the very beginning, each player must explore the hidden map, fight ferocious enemies, and build the skills of their survivor as they attempt to complete challenging quests and balance feuding factions within the game.&amp;#10;&amp;#10;As they advance their survivors' stories, players come across new quests and individual targets, leading them to gain influence. Who comes out ahead depends on how keenly and aggressively each player ventures through the game; however, if a single faction is pushed to power too quickly, the wasteland will be taken for their own, and the survivors conquered along with it.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="209">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="104" />
+					<result value="Recommended" numvotes="59" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="87" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="97" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="112" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="180" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="34">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="14" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="5" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="20" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43107" value="Game: Fallout" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41799" value="Theme: Post-Apocalyptic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71573" value="Theme: Retro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302643" value="Fallout: Atomic Bonds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256481" value="Fallout: New California" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="338420" value="Fallout: Saim Lab Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309456" value="Fallout: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="266203" value="Fallout: Please Stand By gamemat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94053" value="Andrew Fischer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="76251" value="Nathan I. Hajek" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94053" value="Andrew Fischer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76251" value="Nathan I. Hajek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11989" value="Brian Schomburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59148" value="Evan Simonet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49280" value="Ben Zweifel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7228" />
+			<average value="6.9235" />
+			<bayesaverage value="6.49875" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1169" bayesaverage="6.49875" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="322" bayesaverage="6.5752" />
+												</ranks>
+
+			<stddev value="1.59975" />
+			<median value="0" />
+			<owned value="15988" />
+			<trading value="371" />
+			<wanting value="215" />
+			<wishing value="2321" />
+			<numcomments value="1453" />
+			<numweights value="243" />
+			<averageweight value="3.0165" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1958">
+         <thumbnail>https://cf.geekdo-images.com/peuUvyhPf8s0bw8YacF_qg__thumb/img/PSe29Ok9k4pctulc84HX4dwqucQ=/fit-in/200x150/filters:strip_icc()/pic50022.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/peuUvyhPf8s0bw8YacF_qg__original/img/8N6htNPjxiFZkatDoAAOdNxWJj4=/0x0/filters:format(jpeg)/pic50022.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Game of Nations" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Le Jeu des Nations" />
+			    				
+				<name type="alternate" sortindex="1" value="Jogo das Nações" />
+			    				
+				<name type="alternate" sortindex="5" value="Das Spiel der Nationen" />
+			    				
+				<name type="alternate" sortindex="1" value="Spiel der Nationen" />
+			
+						               													<description>This game is a geopolitical simulation of local influence in the Middle East on the flow of oil supplies to the rest of the world.&amp;#10;&amp;#10;The map shows 8 fictitious Middle Eastern oil producing countries, one of which controls the Canal that links both ocean sides. If your superpower is on one ocean and you try to obtain oil from a country bordering on the other ocean, the Canal becomes of vital strategic importance. The alternative is to connect that country to another on the &amp;quot;correct&amp;quot; side of the board (through the land-locked middle countries, which are also bigger producers) with a series of pipelines. To move oil you must, of course, have a friendly leader in place at the head of that country.&amp;#10;&amp;#10;You start with a leader of your color on the capital of a country and one tanker that can transport oil from that country's port to your country. To reflect a level of organisation, oil is worth more per shipping if a king or politician is in place than a dictator or guerrilla, whose job is more offensive. You spend money to move leader pieces about the board, with the managing pieces costing more than the offensive pieces. Secret agents also move each turn and are used to defend attacks by blocking the path of opposing leaders and for moving onto &amp;quot;?&amp;quot; spaces to take a gamble on an incident card. At face value, half the cards are favourable and half not, but all offer diplomatic opportunities for the country who is most stable.&amp;#10;&amp;#10;To survive players must continually manage risks while trying to maximize their oil revenue. Early bold attacks, even combined with the right incident card, are not recommended: a co-operative approach to the game maximises revenue to offset the many accidents which can happen in the game.&amp;#10;&amp;#10;From the Waddington ad for the game dated 1972:&amp;#10;&amp;#10;A political strategy game&amp;#10;&amp;quot;In the modern world of international diplomacy and intrigue, there are many stakes in this game of economic survival. That means energy and the key to energy is oil. In this game there is but one object - and that is to survive&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1973" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="33673" value="Petrodólar" />
+		
+									
+			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="276" />
+			<average value="5.23007" />
+			<bayesaverage value="5.45835" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="23758" bayesaverage="5.45835" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2745" bayesaverage="5.42958" />
+												</ranks>
+
+			<stddev value="1.71261" />
+			<median value="0" />
+			<owned value="743" />
+			<trading value="67" />
+			<wanting value="2" />
+			<wishing value="25" />
+			<numcomments value="153" />
+			<numweights value="32" />
+			<averageweight value="2.2188" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

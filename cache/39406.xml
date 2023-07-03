@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="39406">
+         <thumbnail>https://cf.geekdo-images.com/aRO6Jg95zTNHYbxz3Xh-6w__thumb/img/AqohQWI2z5vm0Kz3nrqhnvGH5Vk=/fit-in/200x150/filters:strip_icc()/pic1199087.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/aRO6Jg95zTNHYbxz3Xh-6w__original/img/_n-LDxtupv_P6MvXlwhVReiDYrs=/0x0/filters:format(jpeg)/pic1199087.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Talat" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="&quot;3&quot;" />
+			    				
+				<name type="alternate" sortindex="1" value="Drei" />
+			    				
+				<name type="alternate" sortindex="1" value="Three" />
+			
+						               													<description>Talat, originally published in an all-wood edition under the name Drei, is an abstract strategy game specifically designed for three players. Each pair of players shares a game board, forcing each player to pay attention to two different gaming scenarios at once. The goal is to capture the opponents' pieces and to move your own pieces to the opponents' starting rows.&amp;#10;&amp;#10;Players have nine towers in three heights and three shapes (squared, hexagonal and triangular prisms). To set up the game, players lay out the game boards, then take turns placing towers one by one on the starting edges of their game boards, five towers on one board and four on the other.&amp;#10;&amp;#10;On a turn, a player must move one tower one space forward, either straight or diagonally; the player can choose freely which tower to move on which game board, but moving on one board precludes movement on the other, so choose wisely! A tower can capture another tower by moving onto its space, but only in the right circumstances. If the two towers are the same height, the capturing tower must have more sides than the one being captured; if their heights differ, the capturing tower must be one level taller than the tower being captured. The exception is the smallest triangular tower, which can capture the opponent's tallest hexagonal tower. A tower can also move sideways when capturing, but not when merely moving on the game board; thus, even after a tower reaches the opponent's back row, it might still be at risk of capture (or possibly the one doing the capturing).&amp;#10;&amp;#10;If no captures are possible on a game board, that board is frozen and players can no longer move their pieces on it. As soon as two boards are frozen, the game ends. Players score five points for each tower they've captured and three points for each of their own towers that has reached an opponent's starting edge. The player with the highest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="33" />
+						               				<minplaytime value="33" />
+						               				<maxplaytime value="33" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="3" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2946" value="Pattern Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2861" value="Static Capture" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3614" value="Bruce Whitehill" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8944" value="Puzzlewood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7648" value="Amo Oy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="236" />
+			<average value="6.31939" />
+			<bayesaverage value="5.58573" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8659" bayesaverage="5.58573" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="395" bayesaverage="5.81254" />
+												</ranks>
+
+			<stddev value="1.36666" />
+			<median value="0" />
+			<owned value="585" />
+			<trading value="29" />
+			<wanting value="12" />
+			<wishing value="81" />
+			<numcomments value="77" />
+			<numweights value="16" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

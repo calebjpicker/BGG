@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="295889">
+         <thumbnail>https://cf.geekdo-images.com/z6wLMiCn3GHz_N1U73DAlA__thumb/img/NdLMcL9IB03o7-wa8q_vGkbPBWE=/fit-in/200x150/filters:strip_icc()/pic5105411.png</thumbnail>
+      <image>https://cf.geekdo-images.com/z6wLMiCn3GHz_N1U73DAlA__original/img/TU1BFSmi6ec8cevJUvybEwHmW3A=/0x0/filters:format(png)/pic5105411.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Keil" />
+			
+						                           
+						               													<description>&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Introduction&amp;#10;&amp;#10;Keil is a Go-like territory game for two players: Black and White. It is played on the intersections (points) of an initially empty hexagonal grid of triangles. Each player must have access to a sufficient number of stones of their own color.&amp;#10;&amp;#10;Apart from the board, Keil differs from Go in the idea of linking points, which preserves crosscuts and ko by reducing the natural connectivity of the triangular grid.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Definitions&amp;#10;&amp;#10;Two adjacent points, and any stones on them, are linked if there is another point adjacent to both that is the same type as at least one of them. Two points are the same type if they are either both empty or both occupied by stones of the same color.&amp;#10;&amp;#10;A group is a stone along with all other like-colored stones one could reach from it through a series of steps between linked stones of that color.&amp;#10;&amp;#10;A liberty of a group is an empty point linked to at least one stone in that group.&amp;#10;&amp;#10;Similarly, a territory is an empty point along with all other empty points one could reach from it through a series of steps between linked empty points. You own a territory if all stones linked to points in that territory are of your color.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Play&amp;#10;&amp;#10;Black plays first, then turns alternate. On your turn, you must pass or place a stone of your color on an empty point. After a placement, remove all enemy stones in groups without liberties. After all removals, the stone you placed must be part of a group with at least one liberty, and the current board position must be different from the board positions at the end of all your previous turns. Otherwise, your placement is illegal.&amp;#10;&amp;#10;The game ends when both players pass in succession. The player with the higher score in the final position wins. A player's score is the number of stones of their color on the board, plus the number of points in their territories, plus komi in the case of White. The button is used to avoid ties.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Komi and button&amp;#10;&amp;#10;Komi is the whole number of points which is added to White's score at the end of the game as compensation for going second. Before the game starts, the first player chooses the value of komi, and then the second player chooses sides. Alternatively, experienced players may agree on a standard value for all games.&amp;#10;&amp;#10;The button is a special token which is placed next to the board at the start of the game. On your turn, if neither player has taken the button yet, you may not pass, but you may take the button instead of making a board play. At the end of the game, a half point is added to the score of the player who has taken the button. When checking for repetitions, two identical board positions are still considered different if the button had already been taken in one of them but not in the other.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47001" value="Luis Bolaños Mures" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="4" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

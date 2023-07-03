@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="341546">
+         <thumbnail>https://cf.geekdo-images.com/KTaiG_W1kKyYN4f-coH-qw__thumb/img/EfkOuACFV-_sz2IertTbH0dCvDY=/fit-in/200x150/filters:strip_icc()/pic6328644.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KTaiG_W1kKyYN4f-coH-qw__original/img/YxvZWtAxRidra0uFR9IS1xVtQ-0=/0x0/filters:format(jpeg)/pic6328644.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Amelia&#039;s Secret" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Amelia&#039;s Secret: Flucht aus der Dunkelheit" />
+			    				
+				<name type="alternate" sortindex="4" value="El Secreto de Amelia" />
+			
+						               													<description>Amelia&amp;rsquo;s Secret is an Escape Game in augmented reality (AR) with a free companion App.&amp;#10;&amp;#10;First, players have to place all game cards (AR markers) in their indicated locations: on a table, a wall, a piece of furniture. Using their smartphone or tablet, players scan each AR markers to display the room&amp;rsquo;s 3D objects. For example: a magical mirror or a sink full of blood. This game needs a free iOS/Android application to be played. (It&amp;rsquo;s simply called Amelia&amp;rsquo;s Secret.) Once you have placed the cards, all the game will be on the app.&amp;#10;&amp;#10;It is an escape game, that means players must resolve enigmas, use the right object at the right time, in the minimum amount of time possible before the mansion closes forever!&amp;#10;&amp;#10;There are 3 different levels:&amp;#10;&amp;#10;The tutorial: it only uses the &amp;ldquo;tuto marker&amp;rdquo;. It introduces augmented reality, how to play the game and the way to resolve enigmas.&amp;#10;&amp;#10;Level 1: this is the short round, and it uses every markers. It lasts about 20 minutes. The most important here is the overall mechanics, there are less riddles than in level 2 and the story stays backward.&amp;#10;&amp;#10;Level 2: This is the full game. It lasts about 60 minutes. That is where you can understand Amelia&amp;rsquo;s Secret, if you overcome every riddles in time&amp;hellip;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder/Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="36900" value="Category: Escape Room Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41489" value="Components: Digital Hybrid – App/Website Required" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="138148" value="Boris Nicolas" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49308" value="XD Productions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8351" value="Gen-X Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50993" value="Hachette Board Games UK" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="105" />
+			<average value="5.83238" />
+			<bayesaverage value="5.51631" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16811" bayesaverage="5.51631" />
+												</ranks>
+
+			<stddev value="2.14452" />
+			<median value="0" />
+			<owned value="353" />
+			<trading value="10" />
+			<wanting value="7" />
+			<wishing value="124" />
+			<numcomments value="30" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

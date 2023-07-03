@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11733">
+         <thumbnail>https://cf.geekdo-images.com/EGJMBcAbJZ3L7tMc4G9x9Q__thumb/img/TV_ONvieqEJnyDF6zx36ffBV1I0=/fit-in/200x150/filters:strip_icc()/pic71809.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/EGJMBcAbJZ3L7tMc4G9x9Q__original/img/_4blcMIG_SynMX_zLi65qyM7Imc=/0x0/filters:format(jpeg)/pic71809.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Briscola" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Brisca" />
+			    				
+				<name type="alternate" sortindex="1" value="Briškula" />
+			
+						               													<description>Briscola is a traditional Mediterranean points-based trick taking game for 2 to 6 players. It uses a 40-card deck Ace through 2 minus the 8,9 and 10 with the Ace being the high and worth the most (11 points), followed by the 3 (10 points), King (4 points), Knight/Queen (3 points) and Infantry/Jack (2 points). All other cards do not score any points.&amp;#10;Each player is dealt 3 cards with one turned up as the trump suit. Play does not need to follow suit and the winner of each trick replenishes their hand first. The total points in each game are 120 and whoever has the higher scoring wins a manche of the game.&amp;#10;Play with 3-6 players just takes a few minor adjustments to the rules or cards and the versions for 4-6 are played with partnerships.&amp;#10;Usually this game allows speaking between teammates, but no gestures (or only over-table gestures).&amp;#10;Two interesting variants are:&amp;#10;- &amp;quot;Briscola scoperta&amp;quot; in which all the cards are face up and visible by all players.&amp;#10;- &amp;quot;chiamata&amp;quot;, played with 5 players (3 vs 2). It has an initial bet on the expected final scoring. Who bets the highest amount calls a card, whose owner becomes (secretly) his partner and play with the caller against the other 3 players. So the players (except the called one) do not know exactly who are the opponents and the partners.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1800" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="2" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="9587" value="Punto" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="537" />
+			<average value="6.37034" />
+			<bayesaverage value="5.66978" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5940" bayesaverage="5.66978" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1616" bayesaverage="5.71878" />
+												</ranks>
+
+			<stddev value="1.56457" />
+			<median value="0" />
+			<owned value="503" />
+			<trading value="2" />
+			<wanting value="2" />
+			<wishing value="31" />
+			<numcomments value="178" />
+			<numweights value="43" />
+			<averageweight value="1.4884" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

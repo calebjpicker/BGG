@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="70512">
+         <thumbnail>https://cf.geekdo-images.com/tMYWtENCa6qdHg3DLIDqcw__thumb/img/K5WlrHSW_e0JqRhu6Na_D-h5klU=/fit-in/200x150/filters:strip_icc()/pic2538939.png</thumbnail>
+      <image>https://cf.geekdo-images.com/tMYWtENCa6qdHg3DLIDqcw__original/img/36hPaylXSE-5S4oKm6TPb9ElU6A=/0x0/filters:format(png)/pic2538939.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Luna" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Luna: Im Tempel der Mondpriesterin" />
+			    				
+				<name type="alternate" sortindex="1" value="Luna: In the Domain of the Moon Priestess" />
+			    				
+				<name type="alternate" sortindex="1" value="Luna: Nel Tempio della Sacerdotessa" />
+			    				
+				<name type="alternate" sortindex="1" value="Luna: Nos Domínios da Sacerdotisa da Lua" />
+			
+						               													<description>&amp;quot;The end of her regency is nigh. It's time to clear the way for a new bearer of the burden. She will keep a wary eye on the novices representing their Orders and trying to win her favor. Eventually, she will have to come to a decision. Which Order will prove itself worthy to decide on her successor? There will be a new Moon Priestess and she will bear the title: LUNA.&amp;quot;&amp;#10;&amp;#10;&amp;quot;LUNA&amp;quot; is the title of the Moon Priestess, and before her very eyes, each of the up to four Orders competes for the right to decide on her successor. The players are the heads of the Orders who try to convince the Priestess of themselves. Over the course of six rounds, they need to collect as many influence points as possible by skillfully placing their novices to achieve that goal.&amp;#10;&amp;#10;The players move their novices over seven islands surrounding a temple island. The novices are placed according to the &amp;quot;worker movement&amp;quot; principle, i.e. they aren't placed at the beginning of a round, but instead start where they ended the round before. Thus, novice movement is an important part of a round: Only if you're in the right place at the right time, you'll gain the deciding influence points. You'll have to build new shrines, work at the temple, and participate in the Priestess' divine services. But don't forget to recruit additional novices or win the favor of the local Priests; these are vital means to prepare and combine the diverse actions.&amp;#10;&amp;#10;LUNA: In the Domain of the Moon Priestess is a challenging tactical game with strategic and interactive elements that takes about 20-25 minutes per player. The different placement of the islands and novices at the beginning of the game creates a different feeling each time you play and opens up new strategies.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="95">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+	</poll> 			               				<playingtime value="100" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="100" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="19" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69032" value="Theme: Temple" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265283" value="Luna: Metal Coins" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="277254" value="Luna: Metal Pieces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273351" value="Luna: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4958" value="Stefan Feld" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66132" value="Scott Hartman" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9139" value="Hall Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31071" value="Dexker Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37959" value="MS Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4963" />
+			<average value="7.2978" />
+			<bayesaverage value="6.78873" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="672" bayesaverage="6.78873" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="396" bayesaverage="6.9088" />
+												</ranks>
+
+			<stddev value="1.30776" />
+			<median value="0" />
+			<owned value="6605" />
+			<trading value="208" />
+			<wanting value="354" />
+			<wishing value="1376" />
+			<numcomments value="1236" />
+			<numweights value="312" />
+			<averageweight value="3.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="270350">
+         <thumbnail>https://cf.geekdo-images.com/AYnqzrXaJ8R5YsvNR5oSDw__thumb/img/dJxoQ0v0TZXg7lPHMl4XGZdhsZY=/fit-in/200x150/filters:strip_icc()/pic4567863.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AYnqzrXaJ8R5YsvNR5oSDw__original/img/b9bcy6S0GzVZgfdczRV1-N0FgSE=/0x0/filters:format(jpeg)/pic4567863.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fickle" />
+			
+						                           
+						               													<description>Your goal in Fickle, an inverse set collection card game, is to build the strongest fairy alliance over five rounds and win the Queen's crown. You do this by keeping fairies in your alliance that gain you favor points. Each card represents a single fairy from one of the five families. Each family has a unique power that enables you to improve your alliance and thwart opponents. Each round, you choose a single fairy, playing it into your alliance tableau, then resolve the family power. Easy, except that with all those powers, fairies don't seem to stay in one alliance for long. They tend to be...fickle.&amp;#10;&amp;#10;In more detail, to set up before the game, players decide which five fairy suits to use in the game from the 22 suits included in the box. In each round, you are dealt three cards; you look at them, decide on the order in which to stack them, then pass that stack to another player. You'll receive a stack in turn, which is in effect a &amp;quot;press your luck&amp;quot; deck created by an opponent. You look at the top card, then decide whether to keep it or discard it and draw the next card, which you can also discard in favor of the third card. Once the &amp;quot;press your luck&amp;quot; draw is complete, each player has one fairy card in hand, which they play into their alliance, then resolve in order starting with whoever played the card with the highest favor.&amp;#10;&amp;#10;After the fifth round, players score each fairy suit in their alliances, and because fairies want equal influence in an alliance, scores are based on an inverse scoring curve:&amp;#10;&amp;#10;&amp;#10;     1 card of a suit: Score its favor value.&amp;#10;     2 cards: Score 0 points.&amp;#10;     3-4 cards: Lose points equal to the card of this suit with the highest favor.&amp;#10;     5 or more cards of a suit: Score the summed value of all these cards.&amp;#10;&amp;#10;&amp;#10;The player with the highest favor score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="12" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19299" value="Creatures: Fairies / Elves / Pixies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355613" value="Fickle: Decree Rules Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="115396" value="Glenn Cotter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115816" value="Amy Brown" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41410" value="BARD Games LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="126" />
+			<average value="6.93913" />
+			<bayesaverage value="5.55692" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10590" bayesaverage="5.55692" />
+												</ranks>
+
+			<stddev value="1.97841" />
+			<median value="0" />
+			<owned value="243" />
+			<trading value="8" />
+			<wanting value="11" />
+			<wishing value="101" />
+			<numcomments value="49" />
+			<numweights value="5" />
+			<averageweight value="1.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22923">
+         <thumbnail>https://cf.geekdo-images.com/sOvEoVU99JGynLjcvC83yA__thumb/img/DSkFmZtuzAzJder3v315HYHM2I0=/fit-in/200x150/filters:strip_icc()/pic6474971.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/sOvEoVU99JGynLjcvC83yA__original/img/xFh9WMHKdiY07hwvfpfvlE3ZSrw=/0x0/filters:format(jpeg)/pic6474971.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dragon Stripes" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Die Augen der Kali" />
+			    				
+				<name type="alternate" sortindex="1" value="Drago Rosso" />
+			
+						               													<description>In Dragon Stripes, players test their luck as a knight approaching a dragon, with the knight trying to pick up as many gems as possible along the way. (In an earlier version of the game, Die Augen der Kali, players moved a figure toward the goddess Kali, collecting gems as they move.)&amp;#10;&amp;#10;Each player starts the game with 40 gems. Shuffle the deck of 51 cards: 38 footprint cards, 10 stop cards, and 3 danger cards.&amp;#10;&amp;#10;On a turn, the active player places the knight before the first stripe on the dragon's tail, then reveals the top card of the deck. If they reveal a footprint card, they advance the knight this many stripes toward the dragon's head, then place gems next to the knight equal to the number on the current stripe (which range from 1 to 17). The player then decides to either reveal another card or hold. In the latter situation, other players can offer to take over the current player's turn by paying them a bounty based on the number of gems currently next to the knight. If someone takes over the turn, they must reveal at least one card as the new active player; if no one does, the current active player collects all of the gems, then the next player takes their turn.&amp;#10;&amp;#10;If the active player reveals a stop card, they lose 1/4 of their gems (rounding down), then the knight retreats to the dragon's tail and the next player takes their turn.&amp;#10;&amp;#10;The first time the active player reveals a danger card, this is treated as a stop. The second danger card is also treated as a stop, but the penalty for being stopped now (and by future stop cards) is 1/2 of your gems. The reward, however, is that each time the knight moves forward, the number of gems placed next to it doubles.&amp;#10;&amp;#10;Dragon Stripes ends one of two ways: Either a player reveals the third danger card, which causes them to lose all of their gems, or a player moves the knight past the 17th stripe to the dragon's head, at which point they claim all gems that remain in the dragon's hoard. Either way, whoever has the most gems at this point wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1989" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="1" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="24" value="Alex Randolph" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="141500" value="Wanjin Gill" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="253" value="Editrice Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50209" value="Playte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="46" />
+			<average value="5.19348" />
+			<bayesaverage value="5.49017" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21846" bayesaverage="5.49017" />
+												</ranks>
+
+			<stddev value="1.79352" />
+			<median value="0" />
+			<owned value="138" />
+			<trading value="7" />
+			<wanting value="3" />
+			<wishing value="11" />
+			<numcomments value="20" />
+			<numweights value="5" />
+			<averageweight value="1.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

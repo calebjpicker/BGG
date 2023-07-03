@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="135381">
+         <thumbnail>https://cf.geekdo-images.com/4MYUv8sIq-3RzIMKVLYUzQ__thumb/img/8pdntdk7ohK85Lg1coFnk4mN6ng=/fit-in/200x150/filters:strip_icc()/pic1529261.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4MYUv8sIq-3RzIMKVLYUzQ__original/img/24jr5Vmyfi52Tfne5ONStwGYD7g=/0x0/filters:format(jpeg)/pic1529261.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="QuickDraft" />
+			
+						                           
+						               													<description>QuickDraft is a fast tactical card game about drafting the best cards for your hand, maximizing your Victory Points and disrupting your opponents plans.&amp;#10;&amp;#10;To reach this goal, the players have different card types at their disposal. &amp;#10;There are coloured cards with different victory point values and quantities and there are white cards offering a wide selection of effects - ranging from improving or copying another card to stealing cards from another player and bonus victory points if specific conditions are met.&amp;#10;&amp;#10;The game plays in three phases:&amp;#10;&amp;#10;During the Drafting Phase the players are selecting a total of nine cards for their hand using a drafting mechanic like in &amp;quot;7 Wonders&amp;quot; or in &amp;quot;Magic: the Gathering&amp;quot; sealed tournaments.&amp;#10;&amp;#10;During the Playing Phase the six of the nine cards collected during the first phase are played and the different card effects are resolved.&amp;#10;&amp;#10;During the Counting Phase each player determines how many victory points he has using all the cards he has in front of him (+ eventual bonuses from cards on his hand).&amp;#10;&amp;#10;The player with the most victory points wins the game.&amp;#10;&amp;#10;&amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;Though QuickDraw is a multiplayer game, there are rules for a solo game included where a single player trys to beat 10 levels of increasing difficulty.&amp;#10;&amp;#10;&amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;One deck of cards (60 playing cards) is enough to accomodate up to 5 players. If however, two decks of cards are combined, up to 10 players can play QuickDraw.&amp;#10;&amp;#10;&amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;In January 2013 the second edition of this game was published by the Gamecrafter. The game now features a new card type - black cards, new card effects on the white cards and offers several new strategies by strengthening the coloured cards.&amp;#10;This new version also includes a Hold'em variant - essentially offering two different games in one small package.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="65818" value="Michael Groll" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65818" value="Michael Groll" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1838" value="Gamecraft" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="7.125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.216506" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

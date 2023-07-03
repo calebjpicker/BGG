@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="491">
+         <thumbnail>https://cf.geekdo-images.com/AQiDnYHjzFh34SOPCNzrHg__thumb/img/-XcIT5SRD0sJpLwitIKbQfkzmz0=/fit-in/200x150/filters:strip_icc()/pic209855.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AQiDnYHjzFh34SOPCNzrHg__original/img/k7n0mXH7EpF3gAZA2q4PZS__UUQ=/0x0/filters:format(jpeg)/pic209855.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Web of Power" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kardinaal &amp; Koning" />
+			    				
+				<name type="alternate" sortindex="1" value="Kardinal &amp; König" />
+			    				
+				<name type="alternate" sortindex="1" value="王と枢機卿" />
+			
+						               													<description>Players struggle for influence over regions of Europe by placing two different type of control markers, Monasteries and Advisors. Monasteries are the basic placement, with the goal of securing a majority in a region or chain of monasteries or even decent points from second place. The placement of the Advisors is more restricted as the total number of Advisors in a region is limited by the majority player's number of monasteries. The game is played in two rounds and is very fast paced.&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     http://www.boardgames-online.net (turn-based)&amp;#10;&amp;#10;&amp;#10;Implemented bonus maps: China, Hellenia, Skandinavia, America, AD 850, Life on Mars, Big in Japan, Soviet Union&amp;#10;&amp;#10;&amp;#10;     http://www.onlinebrettspiele.de/kuk/default.asp?l=en (Against AI)&amp;#10;&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;&amp;#10;     China&amp;#10;     Iwari&amp;#10;&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;&amp;#10;    Web of Power: The Vatican&amp;#10;    Web of Power: The Duel&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="89">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="47" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="68" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="44" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="50" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="23">
+			
+		<results>		
+					<result level="2506" value="No necessary in-game text" numvotes="23" />
+					<result level="2507" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="2508" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="2509" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="2510" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16809" value="Series: Web of Power / China" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="109642" value="China: AD 850" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104642" value="China: Greece" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="111731" value="China: Mars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106253" value="China: North America" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="102212" value="China: Scandinavia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158539" value="Han: The Forbidden City" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="3282" value="Web of Power: The Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2670" value="Web of Power: The Vatican" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="18100" value="China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="153625" value="Han" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="270109" value="Iwari" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="86" value="Michael Schacht" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44" value="Goldsieber Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25637" value="GameField" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3492" />
+			<average value="7.2983" />
+			<bayesaverage value="6.62367" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="954" bayesaverage="6.62367" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="533" bayesaverage="6.76052" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="214" bayesaverage="6.77411" />
+												</ranks>
+
+			<stddev value="1.32818" />
+			<median value="0" />
+			<owned value="3407" />
+			<trading value="103" />
+			<wanting value="202" />
+			<wishing value="578" />
+			<numcomments value="1134" />
+			<numweights value="353" />
+			<averageweight value="2.4448" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

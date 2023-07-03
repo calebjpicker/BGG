@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="370879">
+         <thumbnail>https://cf.geekdo-images.com/Siqy9Kf8hwypo4PudKJsqg__thumb/img/0F_IQtxlGuK5mTx5JayGyvCgB-8=/fit-in/200x150/filters:strip_icc()/pic7078494.png</thumbnail>
+      <image>https://cf.geekdo-images.com/Siqy9Kf8hwypo4PudKJsqg__original/img/oDrKZRCRG5JcLDYslNvHrpsaikA=/0x0/filters:format(png)/pic7078494.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Portents" />
+			
+						                           
+						               													<description>You are the king&amp;rsquo;s last fortune-tellers, but after tonight he&amp;rsquo;s going to make another budget cut and heads will roll. The sacrifices are scattered on the altar and the king is demanding a reading.&amp;#10;&amp;#10;It&amp;rsquo;s time to make a future for yourself.&amp;#10;&amp;#10;OBJECT&amp;#10;Manipulate the Bird Sacrifice Tiles (referred to as &amp;ldquo;BS Tiles&amp;rdquo;) into lines of 3 with a shared attribute, called Portents, to collect Omen Tokens from the outside of the Altar. Use Portents to make sets of Omens with a common attribute called Fortunes. Create one Fortune of 4 Omens or two Fortunes of 3 Omens to win!&amp;#10;&amp;#10;TURN SEQUENCE&amp;#10;Each turn has two phases: Sleight of Hand and then Scrying.&amp;#10;&amp;#10;In the Sleight of Hand phase, the active player manipulates the arrangement and composition of the BS Tiles on the Altar.&amp;#10;&amp;#10;In the Scrying Phase the active player performs upkeep on the Altar and collects Omens for their Fortunes.&amp;#10;&amp;#10;SLEIGHT OF HAND&amp;#10;There are 3 steps in the Sleight of Hand Phase. It represents waving one&amp;rsquo;s hands over the altar with occult flair. Improvised incantations are encouraged.&amp;#10;&amp;#10;1. Push&amp;#10;The active player may push 1, 2, or 3 tiles off the Altar from a single side. These BS tiles may be pushed in any arrangement as long as they move in the same direction from the same side.&amp;#10;&amp;#10;2. Replace&amp;#10;After tiles are pushed off of the Altar, the active player fills the empty spaces on the Altar with new tiles from their hand. They may place their tiles freely in the empty spaces.&amp;#10;&amp;#10;3. Palm&amp;#10;All the tiles that the active player Pushed off of the Altar enter their hand for the next turn.&amp;#10;&amp;#10;SCRYING&amp;#10;This phase combines scoring and upkeep. There may be up to 4 steps depending on the game state. They are performed in the order below.&amp;#10;&amp;#10;1. Check for New Portents&amp;#10;The active player checks the Altar for any new Portents. If any are present on the Altar proceed to step 2. If not, skip to step 4.&amp;#10;&amp;#10;2. Collect Omens&amp;#10;If any of the new Portents on the Altar are in a line with an Omen Token, the player immediately collects the Omen(s).&amp;#10;&amp;#10;3. Ignite New Burnt Offerings&amp;#10;For each new Portent on the Altar, the player chooses a tile to turn into a Burnt Offering and flips it over to its lit side. Every new Portent requires a new Burnt Offering of its own.&amp;#10;&amp;#10;4. Snuff Old Burnt Offerings&amp;#10;If any Burnt Offerings were on the Altar during the Sleight of Hand phase, check if they are still a part of a Portent. If they are no longer a part of any Portent, flipping the Burnt Offering tile to its unlit side. If flipping a Burnt Offering over would create a new Portent, it stays lit.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3007" value="Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3005" value="Slide/Push" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="126025" value="Christopher Ryan Chan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="126025" value="Christopher Ryan Chan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46276" value="New Mill Industries" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="26" />
+			<average value="7.31538" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.833294" />
+			<median value="0" />
+			<owned value="115" />
+			<trading value="0" />
+			<wanting value="6" />
+			<wishing value="28" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

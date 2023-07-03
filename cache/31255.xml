@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="31255">
+         <thumbnail>https://cf.geekdo-images.com/LbDw4IuIrn-hjy6ArTEj7A__thumb/img/n0lXZqOCw5tSXLgJ9DLhnna_oaE=/fit-in/200x150/filters:strip_icc()/pic4891561.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LbDw4IuIrn-hjy6ArTEj7A__original/img/wxOu_K4cdqUSqDIqF9seMCBvAsQ=/0x0/filters:format(jpeg)/pic4891561.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Knaves" />
+			
+						                           
+						               													<description>Each player tries to win tricks without taking any jacks.&amp;#10;&amp;#10;This uses a standard deck of 52 cards.  In each suit, the cards rank: A (high), K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2.  The entire deck is dealt, except for the last card, which is revealed to determine the trump suit.&amp;#10;&amp;#10;The player on the dealer's left has the first lead.  Each player must then follow the suit of the led card if he can; if a player does not have a card of the suit led, he may play any card he wishes.  The trick is won by the highest trump card played, or by the highest card of the suit led if no trumps are present.  The winner of the trick leads the next trick.&amp;#10;&amp;#10;At the end of each hand, each player scores one point for each trick taken, minus points for jacks:&amp;#10;&amp;#10;hearts   = -1 point&amp;#10;   diamonds = -2 points&amp;#10;   spades   = -3 points&amp;#10;   clubs    = -4 point&amp;#10;&amp;#10;(Mnemonic: if you have to take a Jack, you would love to take the one which hurts the least.  Getting hit with a club hurts the most; getting hit with a spade hurts too, but not as much.)&amp;#10;&amp;#10;A player may have a negative score. The winner is the first player to reach 20 points.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="18272" value="Play Winning Card Games For Three" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="28" />
+			<average value="6.57679" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.2379" />
+			<median value="0" />
+			<owned value="23" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="21" />
+			<numweights value="4" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

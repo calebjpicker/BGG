@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="170430">
+         <thumbnail>https://cf.geekdo-images.com/zBFDI7xX11hwsvwGSt3b-g__thumb/img/i-iofG0ONMgWlkikLLLC8ze4aSk=/fit-in/200x150/filters:strip_icc()/pic2341647.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zBFDI7xX11hwsvwGSt3b-g__original/img/7P5IeJdLDzS4tM2491SadseQ4Ng=/0x0/filters:format(jpeg)/pic2341647.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="12 Days of Christmas" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Игра на Рождество" />
+			
+						               													<description>12 Days of Christmas is a card game designed by Dr. Gord Hamilton for 3-8 players.&amp;#10;&amp;#10;To play, deal out twelve cards to each player; the deck consists of 78 cards: one 1, two 2s, and so on up to twelve 12s. By following the lead established by the first player, each player attempts to give away all of her cards before the other players can. The first player can lead a single card, a set of at least two cards of the same value, or a straight of at least two cards. The next players either pass or play a similar combination of cards (although not necessarily the same number of cards) that includes at least one card that's as low or lower than the lead player's low card. Whoever has played the lowest card once everyone has passed becomes the new lead player.&amp;#10;&amp;#10;Whoever runs out of cards first claims one of the available gift cards; whoever has the most cards left in hand must give a gift card to this round's winner! Whoever has the most gifts when the gifts run out wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="266" value="No necessary in-game text" numvotes="0" />
+					<result level="267" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="268" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="269" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="270" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="131" value="Card Games: Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6364" value="Holidays: Christmas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4705" value="Organizations: The Game Artisans of Canada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26496" value="Series: The E•G•G" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3302" value="Gord!" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70571" value="Lina Cossette" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70568" value="David Forest" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="597" value="Eagle-Gryphon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="329" />
+			<average value="5.95777" />
+			<bayesaverage value="5.55668" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10610" bayesaverage="5.55668" />
+												</ranks>
+
+			<stddev value="1.4829" />
+			<median value="0" />
+			<owned value="910" />
+			<trading value="30" />
+			<wanting value="9" />
+			<wishing value="54" />
+			<numcomments value="120" />
+			<numweights value="17" />
+			<averageweight value="1.2353" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="208408">
+                                     				
+				<name type="primary" sortindex="1" value="DIY COMPUTER" />
+			
+						                           
+						               													<description>Overview&amp;#239;&amp;#188;&amp;#154;&amp;#10;This game is about assembling mainframe. There are 6 parts to assemble the mainframe. This is a game for 4 players.&amp;#10;&amp;#10;Game components:&amp;#10;12 red cards (computer cases)&amp;#10;72 blue cards (9 CPU, 9 motherboards, 9 memories, 18 GPU, 27 hard drives)&amp;#10;18 green cards (function cards)&amp;#10;Function cards&amp;#10;20 Change 1 component: update a hardware which has been installed.&amp;#10;18 Replace 2 component cards: discard 2 cards and draw 2 components cards.&amp;#10;6 Boom: Choose one player to uninstall 2 components on the deck expect computer case.&amp;#10;4 Robbery: Rob one player of one component card in hand.&amp;#10;1Rule book&amp;#10;&amp;#10;Rules:&amp;#10;1.Each player is allotted three computer case cards, and each player need to choose one from three cards.&amp;#10;2.Player need to collect all parts of mainframe(computer case, motherboard, CPU, memories, GPU, hard drives).&amp;#10;3.Different computer case need different numbers of GPU and hard drives.&amp;#10;4.Each player only can install two hardware in one turn.&amp;#10;5.Each player in each turn can make a choice, one choice is draw two blue cards and one green card, the other choice is draw one green cards and one blue card.&amp;#10;6.Every function card should be used in the next turn,and every player only can use two function cards in one turn.&amp;#10;7.On the desk, the green cards need to face up 7 cards, player can decide draw facing up card, or pile. If the facing up cards are drew, the facing up cards will be supplemented.&amp;#10;8. Every player can trade with other players.&amp;#10;9.Each player must face up the cards which they decide to install on the deck. If they do this action, they can&amp;rsquo;t change them unless using function cards.&amp;#10;10.If one player finishes all the parts, the game still need to finish next round.&amp;#10;Procedures:&amp;#10;1.Each player will get three computer case cards, and each player must choose one of three cards.&amp;#10;2.Players need to use Rock Paper Scissors to decide who is the first, then the game is on a clockwise.&amp;#10;3.Before players draw cards, they can use only one function card.&amp;#10;4.Each player in each turn can make a choice, one choice is draw two blue cards and one green card, the other choice is draw one green cards and one blue card.&amp;#10;5.If player want to install a part, he/she need to face up the card on the desk.&amp;#10;&amp;#10;Win state: &amp;#10;If only one player finishes installing mainframe in this round, he/she win.&amp;#10;If more than one players finishes installing mainframe in this round, they will compare who get higher points in the game. And the player who get higher points win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="15" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73593" value="Theme: Computer / Information Technology Industry" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94701" value="Zhongpeng Shao" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94701" value="Zhongpeng Shao" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

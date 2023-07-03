@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="388236">
+                                     				
+				<name type="primary" sortindex="1" value="Leblin" />
+			
+						                           
+						               													<description>Leblin (from German: Lebenslinie, meaning &amp;quot;lifeline&amp;quot;) is an abstract board game for two players who play on an initially empty hexagonal board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective of the game is to be the last to perform an action, this will be achieved by conquering as much territory as possible.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A hexagonal board with 11 intersections per side (but can be played on smaller boards for shorter games).&amp;#10;&amp;ndash; One set of black stones and one set of white stones.&amp;#10;&amp;ndash; A location is also placed off the board called a prison.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A vital line is a set of empty intersections located in a straight line between a stone and the edge of the board. When a stone is placed on the vital line of a stone of the same color, the length of his vital line is reduced to that stone.&amp;#10;&amp;ndash; A group is a set of connected stones of the same color. A single stone is considered a group. Also, a group is alive if at least one of its stones contains a vital line with no enemy stones, otherwise it's dead and is moved to the prison. The stones of a group share their vital lines with each other.&amp;#10;&amp;ndash; A territory is a set of one or more connected empty intersections. You own a territory if all the stones connected to it are your color.&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternates. On your turn, do exactly one of these actions:&amp;#10;&amp;#10;&amp;ndash; Place a stone of your color on an empty intersection, then move all dead enemy groups to the prison. At the end of your turn, there must be no dead friendly groups on the board.&amp;#10;&amp;ndash; Remove an enemy stone from the prison.&amp;#10;&amp;#10;Eternal life:&amp;#10;A group lives eternally if it has at least two vital lines that make an enemy stone unable to play into it without losing all of its vital lines.&amp;#10;&amp;#10;Infinite captures:&amp;#10;It's not allowed to make a capture at a intersection where the stone that made the capture will itself be captured and if doing so causes a series of infinite captures.&amp;#10;&amp;#10;End of the game:&amp;#10;&amp;ndash; The player who performed the last action wins the game, so passing the turn isn't allowed.&amp;#10;&amp;ndash; A player has the option to &amp;ldquo;propose end&amp;rdquo; of the game and the other player must accept it or not. In case of acceptance, the points will be counted by adding the friendly territory and the enemy prisoners, in addition to granting half an extra point to the player who made the last move.&amp;#10;&amp;#10;To make the game fair, before the game starts, the first player places a number of black stones in the prison, and then the second player chooses sides. This balancing method is called komi pie.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="180" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

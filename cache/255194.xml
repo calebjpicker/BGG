@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="255194">
+         <thumbnail>https://cf.geekdo-images.com/3K8jhMAhcXg3Jc-LsJxN0g__thumb/img/eAa_eYKB52DpYxxfFcpQyAecgmQ=/fit-in/200x150/filters:strip_icc()/pic4190965.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/3K8jhMAhcXg3Jc-LsJxN0g__original/img/IlCsDHXOGafhOqU-ym__-91C8bc=/0x0/filters:format(jpeg)/pic4190965.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Masada: Epic Last Stand in the Desert" />
+			
+						                           
+						               													<description>Masada: Epic Last Stand in the Desert is a simple solitaire simulation covering the historic siege of Masada by the Romans in 73 A.D. Its purpose is to show the dynamics and characteristics of the original siege, allowing one to see events unfold in a realistic manner, and thus, understand them better. The game system replicates the siege with the gamer watching events unfold toward resolution as the giant Roman ramp grows ever closer to the fortress plateau...and destiny.&amp;#10;&amp;#10;GAME PLAY&amp;#10;Masada is a game on the epic siege of Masada in 73 A.D.  You as the Roman are trying to win as timely as possible. The game system replays the siege. The sequence of play is simple as it has an events phase and an action phase. Both these phases involve rolling dice to see what the Roman accomplished or how game events up to that point impact the turns die rolls.&amp;#10;&amp;#10;In the Action Phase, the Roman is hoping that they get to place a ramp. Placing a ramp means the X Legion is getting closer to the plateau where they can assault the redoubt. What can also happen is the result ends up with you rolling on the Defenders Response Table. It's a series of simple calculations - add together the current Supply Index and the sum of 2 dice, comparing it to the current number of ramps placed. If the Defenders total is higher the result is simply no effect. HOWEVER if it is lower - urk...roll another die and compare that to the current Defender's morale Index to get your results.Upon conclusion of the action phase, you end that turn.&amp;#10;&amp;#10;It is interesting to note there is no turn limit in the game as historically the Romans were committed to destroying this last resistance.  Upon placing the 16th Ramp, the siege ramp is now completed and combat now happens.&amp;#10;&amp;#10;First though you roll to see if the defenders commit mass suicide (the historic result) or if there is a fight to the death. The combat phase can last up to 19 combat rounds. Each Roman roll of 6 eliminates a defender, and Romans roll first. There is no simultaneous combat where each side gets a chance to roll before results are implemented.&amp;#10;&amp;#10;The system neatly handles the increasing Roman legionnaire presence on the plateau as each turn the Roman combat value increases by one to a maximum of 19. This means the Roman would roll 19 combat rolls for the final combat round. The surviving defenders roll with each die roll of 6 moves the Combat rounds forward. Each 6 combat rounds the defenders survive results in the Roman Victory Points being lowered by 1.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="0" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1117" value="Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58534" value="History: Roman Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6221" value="Magazine: Panzerschreck (Minden Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69366" value="Theme: Siege" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="17621" value="Masada" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2831" value="Gary Graber" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1889" value="Minden Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="6.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.16619" />
+			<median value="0" />
+			<owned value="19" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="9" />
+			<numcomments value="1" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

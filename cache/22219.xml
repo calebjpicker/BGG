@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22219">
+         <thumbnail>https://cf.geekdo-images.com/rFUDKAdevtUqqEMboELiTA__thumb/img/508bZHACZrczwaWfgjSpvH-H_lE=/fit-in/200x150/filters:strip_icc()/pic115088.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rFUDKAdevtUqqEMboELiTA__original/img/N-kudXAwKOPTeAy2TWXk7DfnOfk=/0x0/filters:format(jpeg)/pic115088.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Turm &amp; Wächter" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tower &amp; Guard" />
+			    				
+				<name type="alternate" sortindex="1" value="Tower and Guard" />
+			
+						               													<description>Turm &amp;amp; W&amp;auml;chter (Tower &amp;amp; Guard) is a simple abstract 2-player game that is played on a 7x7 grid. Each player starts with 7 Tower-stones and 1 Guard-stone. The aim of the game is to use these stones to capture your opponent's all important Guard-stone, or to occupy the starting position of this stone with your own Guard.&amp;#10;&amp;#10;Each turn a player can move one stone, or one stack of stones. How far (forwards, backwards or sideways, but never diagonal) is determined by the height of the stack. It is possible to move only a part of a stack if you don't want to move the full possible distance, but it is not allowed to jump over any other stones in this path. A move can end on a friendly Tower-stone or -stack, but Guard-stones can never become part of a stack.&amp;#10;&amp;#10;It is possible to capture enemy stones by landing on them, under certain conditions. Guard-stones can always land on any enemy stone or stack and likewise, anything can land on the enemy Guard-stone. A tower-stone or stack can capture enemy stones or stacks only when it at least matches the height of the opposing stack. All Tower-stones that are captured are removed from play and as stated before, taking the enemy Guard-stone is one way of two ways to win the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1998" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="2" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="135" value="Magazine: Spielbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4812" value="Christoph Endres" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6705" value="Robert Wirth" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2407" value="Clemens Gerhards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5156" value="Spiel &amp; Autor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3001" value="W. Nostheide Verlag GmbH" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="6.20833" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.02993" />
+			<median value="0" />
+			<owned value="31" />
+			<trading value="1" />
+			<wanting value="1" />
+			<wishing value="6" />
+			<numcomments value="8" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

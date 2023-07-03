@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="31477">
+         <thumbnail>https://cf.geekdo-images.com/Z3w4ZXeLQWyBFjjBFO72pQ__thumb/img/GJn8pub6VGECl11U3yPGy1toQ24=/fit-in/200x150/filters:strip_icc()/pic4752286.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Z3w4ZXeLQWyBFjjBFO72pQ__original/img/A78VthCTB_AspjejgMuA5fxX3pQ=/0x0/filters:format(jpeg)/pic4752286.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Polarity" />
+			
+						                           
+						               													<description>An abstract game played on a chess board with a common set of stones and few special pieces.  The object is to get three or more stones in a row, using the combination of placing a stone (which can not be adjacent to any stone) and the using a power to push or pull stones -- either orthogonally or diagonally, or both -- but with the caveat that each power can only be used once until all powers have been used, then after an un-powered turn the powers are available again.&amp;#10;&amp;#10;Full rules at: http://www.luchacabra.com/?p=32&amp;#10;&amp;#10;The &amp;iexcl;Luchacabra! website is currently unavailable. Try looking for the rules at: http://web.archive.org/web/20080118033202/www.luchacabra.com/?p=32 instead.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="136" value="No necessary in-game text" numvotes="2" />
+					<result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="140" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5245" value="Daniel Solis" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5318" value="Luchacabra" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="52" />
+			<average value="5.65385" />
+			<bayesaverage value="5.50555" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19218" bayesaverage="5.50555" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1016" bayesaverage="5.52371" />
+												</ranks>
+
+			<stddev value="1.58884" />
+			<median value="0" />
+			<owned value="141" />
+			<trading value="3" />
+			<wanting value="2" />
+			<wishing value="13" />
+			<numcomments value="12" />
+			<numweights value="3" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="17680">
+         <thumbnail>https://cf.geekdo-images.com/2LEKI67GzpVCP7nulZiqnA__thumb/img/j2PzQqJRllcbzna_oSqF8SrjfPA=/fit-in/200x150/filters:strip_icc()/pic131514.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2LEKI67GzpVCP7nulZiqnA__original/img/25YTp4gNF47y8p5wlTnRVIcTAwU=/0x0/filters:format(jpeg)/pic131514.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nebula 19" />
+			
+						                           
+						               													<description>Nebula 19 is a combat-oriented space game which features a three-dimensional map and simultaneous movement and combat.&amp;#10;&amp;#10;The map has a square grid with numbers along the X and Y axes, and each star and nebula has a number (numbers in the case of nebulae) which gives its position on the Z axis. Many numbered counters are provided to place with ships to show their Z-axis positions.&amp;#10;&amp;#10;Two copies of the map are provided, allowing players in a two-player or team game to move their ship counters on the map simultaneously. After movement players compare their maps to determine which enemy ships are in range, and then write down firing and shield usage orders, which are again resolved simultaneously. Using weapons and shields costs energy, which must eventually be replenished at a home base or by borrowing from another ship.&amp;#10;&amp;#10;Several levels of play are provided. The basic game is as described. The standard game adds several features - tracking (ships are placed face-down on the map and only revealed when successfully probed), hyperspace movement (conducted off-map), carrier ships, etc. The advanced game adds a few more features, notably supply points, and more importantly allows players to create their own ship designs (ships in the advanced game have 21 different components, allowing for considerably customization).&amp;#10;&amp;#10;There are a few optional scenarios, including one which allows for up to four individual players (this requires either additional copies of the map, or some players to write down their moves). Four players can also play the standard and advanced game scenarios in teams, as the forces each contain two different groups of ships.&amp;#10;&amp;#10;The original version of the game was published in 1971. A second, presumably revised version was published in 1977.&amp;#10;&amp;#10;Nebula 19 was rated &amp;quot;Best SF Space Tactical Game&amp;quot; by The Space Gamer magazine's 1979 Game Survey.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1971" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2944" value="Three Dimensional Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2504" value="Harry M. Mishler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2717" value="Mike Gilbert (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119034" value="Dave Haugh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="932" value="Dana Lombardy" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1639" value="Mishler Company" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.16667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.57233" />
+			<median value="0" />
+			<owned value="18" />
+			<trading value="0" />
+			<wanting value="7" />
+			<wishing value="14" />
+			<numcomments value="7" />
+			<numweights value="3" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5463">
+         <thumbnail>https://cf.geekdo-images.com/s5797jBAyFZ2ebHxLJ73NQ__thumb/img/aIT8XToJUQ7zCgaLslGgCKtPhq4=/fit-in/200x150/filters:strip_icc()/pic19716.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/s5797jBAyFZ2ebHxLJ73NQ__original/img/AIeaKRlqHySLzaAGLhM3nbEotfA=/0x0/filters:format(jpeg)/pic19716.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mind Maze" />
+			
+						                           
+						               													<description>In Mind Maze, each player builds a maze for the other to navigate, sight unseen.  They then race each other.&amp;#10;&amp;#10;The board stands vertically between the players and serves as a screen.  On your half, you build a maze by placing a number of baffles between posts.  Handicapping can be achieved by reducing a player's number of baffles.  When the race starts, you use a magnetic controller to nudge your steel ball (on the opponent side) through the maze, toward the exit hole.  When you hit a baffle, your ball fails to follow the controller and drops to the bottom, where you must grab it anew.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1970" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="1" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5902" value="Components: Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="202937" value="Mein Friedberg Spiel" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3743" value="Marvin Glass" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="65" />
+			<average value="5.60154" />
+			<bayesaverage value="5.50345" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19659" bayesaverage="5.50345" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1068" bayesaverage="5.5066" />
+												</ranks>
+
+			<stddev value="1.2838" />
+			<median value="0" />
+			<owned value="220" />
+			<trading value="22" />
+			<wanting value="0" />
+			<wishing value="14" />
+			<numcomments value="40" />
+			<numweights value="6" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

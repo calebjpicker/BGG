@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="389596">
+                                     				
+				<name type="primary" sortindex="1" value="Crumo" />
+			
+						                           
+						               													<description>Crumo (from Proto-Germanic: Kr&amp;#197;&amp;#171;m&amp;ocirc;, meaning &amp;quot;fragment&amp;quot;) is an abstract board game for two players played on an initially empty square board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective is to occupy the most intersections (plots) with the tallest stacks.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A square board with 13 plots on each side, with marked and intercalated diagonal lines. It can be played on smaller boards for shorter games, with the board size always being an odd number.&amp;#10;&amp;ndash; A set of black pieces and a set of white pieces.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A stack is a set of pieces located orthogonally or diagonally on the same empty plot, one on top of another. A single piece is also a stack.&amp;#10;&amp;ndash; The height of a stack is the number of pieces it contains.&amp;#10;&amp;ndash; A controlled plot is a plot located at a distance equal to the height of a stack, and that stack is said to control it. Stacks also control the plots they occupy.&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then players take turns. On your turn, perform one of the following actions:&amp;#10;&amp;#10;&amp;ndash; Place a stack of height N on an empty plot that is N distance orthogonally or diagonally from an empty plot or friendly stack, unless it is also N from an enemy stack. At the end of your turn, the newly placed stack cannot become dead on the board.&amp;#10;&amp;ndash; Move an entire stack or a portion of it orthogonally or diagonally a distance equal to the number of pieces taken from that stack. You are not allowed to move an entire stack if your opponent also did so in an immediately previous turn, unless you are capturing (this rule prevents potential stalemates in the game). At the end of your turn, the stack just moved can't become dead.&amp;#10;&amp;ndash; Pass your turn.&amp;#10;&amp;#10;Attack and defense points:&amp;#10;&amp;ndash; A stack receives one attack point for each enemy stack that controls the plot it occupies, and one defense point for each enemy stack that it controls.&amp;#10;&amp;ndash; A stack is captured if the plot it occupies receives more attack points than defense points and is removed from the board.&amp;#10;&amp;#10;End of the game:&amp;#10;If a player cannot perform any action, he must pass his turn. If both players pass consecutively, the game ends and the points are counted by adding the value of the height of all friendly stacks and the number of captured enemy pieces, plus granting half an extra point to the player who made the last move.&amp;#10;&amp;#10;For the game to be fair, before it begins, the first player places an initial black stack, and the second player chooses the sides. This balancing method is called the pie rule.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="180" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2988" value="Stacking and Balancing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78564" value="Components: 13 x 13 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

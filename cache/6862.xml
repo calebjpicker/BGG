@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6862">
+         <thumbnail>https://cf.geekdo-images.com/_p0U1OKwFOcKGeusSBK4tg__thumb/img/hWwnl__g7VNj8Rgi7uepJ_cALX0=/fit-in/200x150/filters:strip_icc()/pic6955110.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_p0U1OKwFOcKGeusSBK4tg__original/img/zWcVG82RbCM02M8_9SmLR63g0sM=/0x0/filters:format(jpeg)/pic6955110.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Laska" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Lasca" />
+			    				
+				<name type="alternate" sortindex="1" value="Laskers" />
+			
+						               													<description>World Chess Champion Emanuel Lasker developed Laska (a.k.a. Lasca), a variant of the Checkers Family, in 1911. The game board and play resembles that of Checkers, but captured pieces remain on the board and can possibly be freed later in the game.&amp;#10;&amp;#10;Each player starts the game on the 7x7 board with eleven soldiers. On a turn, a player moves one soldier diagonally forward one space. If a capture is available, then the player must make that capture, trapping the captured piece underneath the capturing one; if the newly captured piece had previously had one or more pieces underneath it, then those pieces are now free to move in future turns. If a soldier reaches the opponent's back row, it's flipped and promoted to an officer, which can move diagonally in all directions. The game continues until either a player can't move or a player has no pieces remaining on the board. In both cases, this player loses the game.&amp;#10;&amp;#10;Laska was influenced by Bashni.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1911" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="4" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60437" value="Series: E-Serie (F.X.Schmid)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="357210" value="Lasca &amp; Caos" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2448" value="Emanuel Lasker" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24703" value="Block House Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9222" value="Hans Joseph GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50760" value="Wünnenberg Verlags-KG" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="93" />
+			<average value="6.53538" />
+			<bayesaverage value="5.53685" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12873" bayesaverage="5.53685" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="550" bayesaverage="5.7056" />
+												</ranks>
+
+			<stddev value="1.67307" />
+			<median value="0" />
+			<owned value="188" />
+			<trading value="6" />
+			<wanting value="7" />
+			<wishing value="41" />
+			<numcomments value="43" />
+			<numweights value="14" />
+			<averageweight value="2.5714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

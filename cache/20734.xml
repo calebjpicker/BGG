@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="20734">
+         <thumbnail>https://cf.geekdo-images.com/GFLjmE8t1BcYPn-31T5Dzw__thumb/img/br_fNylPPOjm92cIStFpn1NUtpA=/fit-in/200x150/filters:strip_icc()/pic6608761.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GFLjmE8t1BcYPn-31T5Dzw__original/img/2Aj3tK1SUMOOx5gQ9GrfC3GtR2g=/0x0/filters:format(jpeg)/pic6608761.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Corsair Leader" />
+			
+						                           
+						               													<description>Corsair Leader is based on the Hornet Leader II core game, but with some significant changes.  The game focuses on the Marine F4U Corsairs in the Pacific. The 2 campaigns cover the Solomon Islands campaign that lasted from late 1942 to early 1944.&amp;#10;&amp;#10;Also, the aircraft under your command center on the Corsair, but you also get to decide if you want to include Dauntlesses, B-25s, and B-17s as part of your group. Each aircraft has its own advantages and disadvantages. For example, the B-17s carry a lot of bombs and are hard to shoot down, but they are terrible versus naval targets and only moderately accurate against all but the largest of land targets.&amp;#10;&amp;#10;The game also goes more in-depth on the tactical options you have while over target. Each turn, each aircraft can become &amp;quot;Offensive&amp;quot; which gives it an attack bonus, but also makes it easier to be attacked when it gets shot at. Likewise, aircraft can be &amp;quot;Defensive&amp;quot; which penalizes their own attacks and makes them harder to hit. &amp;quot;Slow&amp;quot; pilots can &amp;quot;Rush&amp;quot; their attack at a penalty and attack during the Fast pilot step, and &amp;quot;Fast&amp;quot; pilots can Wait and get a bonus if they attack during the Slow pilot step.&amp;#10;&amp;#10;Like the other games in the &amp;quot;Leader&amp;quot; series, Corsair Leader is a solitaire game.&amp;#10;&amp;#10;The game is published in both PDF and Vassal versions.&amp;#10;&amp;#10;Other Leader series games by Dan Verssen&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="746" value="No necessary in-game text" numvotes="0" />
+					<result level="747" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="748" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="749" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="750" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3268" value="Series: Leader (DVG)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="244877" value="Corsair Leader: Aces Expansion Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308271" value="Corsair Leader: Errata Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285706" value="Corsair Leader: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285052" value="Corsair Leader: Neoprene Tactical Display" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="359442" value="Stuka Leader" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="312059" value="Zero Leader" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="428" value="Dan Verssen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3683" value="Dan Verssen Games (DVG)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="274" />
+			<average value="7.63613" />
+			<bayesaverage value="5.72905" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4980" bayesaverage="5.72905" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="498" bayesaverage="6.49469" />
+												</ranks>
+
+			<stddev value="1.55364" />
+			<median value="0" />
+			<owned value="952" />
+			<trading value="18" />
+			<wanting value="65" />
+			<wishing value="202" />
+			<numcomments value="152" />
+			<numweights value="24" />
+			<averageweight value="2.4167" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

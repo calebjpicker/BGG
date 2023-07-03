@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="126313">
+         <thumbnail>https://cf.geekdo-images.com/JXcpYJy6qzHmJMEBlFh1jQ__thumb/img/jUO-Fuky_yvkdDTXIuOvj9pi0Vg=/fit-in/200x150/filters:strip_icc()/pic4694486.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JXcpYJy6qzHmJMEBlFh1jQ__original/img/WguV4EPL64HciAq1UOyFLYfIbFY=/0x0/filters:format(jpeg)/pic4694486.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sovereign Chess" />
+			
+						                           
+						               													<description>The theme of Sovereign Chess is chess on a larger board (16x16) with multiple colors of neutral pieces around the edge of the board.&amp;#10;&amp;#10;Each player begins with a normal complement of chess pieces--one player is black, and the other is white. Moves follow that of traditional chess, with a few variations--most notably that pawns may move orthogonally (and capture diagonally) toward the center of the board.&amp;#10;&amp;#10;When a player's piece is on a colored square, she controls the pieces of that color. Players can control multiple colors at once, either with a number of their own pieces, or through a &amp;quot;chain&amp;quot; of pieces. For example, if the white player has her pawn on a red square, and then moves a red pawn to the blue square, then she controls both red and blue.&amp;#10;&amp;#10;The goal of the game is to checkmate the opposing king.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="2" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78566" value="Components: 16 x 16 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="59255" value="Mark Bates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59255" value="Mark Bates" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39499" value="Infinite Pi Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="69" />
+			<average value="8.67681" />
+			<bayesaverage value="5.55069" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11118" bayesaverage="5.55069" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="443" bayesaverage="5.76799" />
+												</ranks>
+
+			<stddev value="1.43599" />
+			<median value="0" />
+			<owned value="84" />
+			<trading value="1" />
+			<wanting value="19" />
+			<wishing value="72" />
+			<numcomments value="38" />
+			<numweights value="7" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="389196">
+                                     				
+				<name type="primary" sortindex="1" value="Gawi" />
+			
+						                           
+						               													<description>Gawi (from Gothic: Gawi, meaning &amp;quot;land, region&amp;quot;) is an abstract board game for two players who play on an initially empty hexagonal board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective of the game is to conquer as much territory as possible.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A hexagonal board with 11 intersections per side, but can be played on smaller boards for shorter games.&amp;#10;&amp;ndash; One set of black stones and one set of white stones.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A vital point is an empty intersection adjacent to stones of one color, if a vital point is also adjacent to stones of the other color, the vital point is removed.&amp;#10;&amp;ndash; A group is a set of connected stones of the same color. A single stone is also a group. Also, a group is alive if at least one of its stones has a vital point, otherwise it is dead and is removed from the board.&amp;#10;&amp;ndash; A territory is a set of one or more empty intersections connected and surrounded by stones of one color. You own a territory if all the stones connected to it are your color.&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternate. On your turn, do one of the following actions:&amp;#10;&amp;#10;&amp;ndash; Place a stone of your color on an empty intersection, then remove all dead enemy groups from the board. At the end of your turn, there must be no dead friendly groups on the board.&amp;#10;&amp;ndash; Pass your turn.&amp;#10;&amp;#10;Infinite captures:&amp;#10;Repeating positions on the board after a capture is prohibited, as doing so produces an infinite series of captures.&amp;#10;&amp;#10;Eternal life:&amp;#10;A group lives eternally if it has at least two vital points that make an enemy stone unable to play on them because it loses all its vital points.&amp;#10;&amp;#10;End of the game:&amp;#10;The game ends when neither player can place stones on the board or when both players pass their turns consecutively. At the end of the game, the points will be counted by adding the friendly territory and the captured enemy stones, in addition to granting half an extra point to the player who passes his turn first.&amp;#10;&amp;#10;To make the game fair, before the game starts, the first player chooses an integer as the komi value, and then the second player chooses the sides. This balancing method is called komi pie.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="10463">
+         <thumbnail>https://cf.geekdo-images.com/LppzT004kcW5FggkEKdswg__thumb/img/aR9ir-F1GWWUPb0UbayJNK7SCcs=/fit-in/200x150/filters:strip_icc()/pic2626179.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LppzT004kcW5FggkEKdswg__original/img/mUVP_YUb9HoRcs3MJpbjMMtoZZU=/0x0/filters:format(jpeg)/pic2626179.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Quick Chess" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Chess Speed Game" />
+			    				
+				<name type="alternate" sortindex="1" value="QuickChess" />
+			
+						               													<description>Quick Chess is a minichess variant played on a 6 x 5 board, with five pawns and one each of king, queen, bishop, knight, and rook.  The game is promoted as a learning tool for children and adults, as well as a chess variant. With fewer pieces and less area in which to play, games are generally finished more quickly.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1991" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="1" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78591" value="Components: 5 x 6 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78676" value="Joe Miccio" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2309" value="Amerigames International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3675" value="Center Parcs" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="32" />
+			<average value="6.29656" />
+			<bayesaverage value="5.51117" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17977" bayesaverage="5.51117" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="474" bayesaverage="5.54297" />
+											<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="931" bayesaverage="5.54992" />
+												</ranks>
+
+			<stddev value="1.65223" />
+			<median value="0" />
+			<owned value="103" />
+			<trading value="3" />
+			<wanting value="3" />
+			<wishing value="5" />
+			<numcomments value="26" />
+			<numweights value="5" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="137916">
+         <thumbnail>https://cf.geekdo-images.com/bTkGmmiNOe-TDMR7nXJlPw__thumb/img/QwdTp3FNv-PqOlONIDcd1mipVt0=/fit-in/200x150/filters:strip_icc()/pic1583402.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bTkGmmiNOe-TDMR7nXJlPw__original/img/16JADBhxBaiUtm_ICWZ66r9THlw=/0x0/filters:format(jpeg)/pic1583402.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Eximo" />
+			
+						                           
+						               													<description>Eximo is a member of the Checkers family designed on 1 February 2013.&amp;#10;  &amp;#10;The game has orthogonal and diagonal movement and capture. There are no kings, only men. Men can jump without capturing. When a man reaches the last row, it frees another man.&amp;#10;&amp;#10;Eximo is played on a 8x8 square grid. Each player starts with 16 pieces placed in predetermined locations on their side of the board (see image).&amp;#10;&amp;#10;OBJECT&amp;#10;Capture all your opponent's pieces by jumping over them, or stalemate the opponent so he has no moves.&amp;#10;&amp;#10;TURN&amp;#10;In each turn, a player can make one of the two actions: move or capture.&amp;#10;&amp;#10;MOVE&amp;#10;A checker can move in 3 directions: forward or diagonally forward (north, north-east or north-west).&amp;#10;&amp;#10;There are two types of moves: ordinary move and jumping move.&amp;#10;&amp;#10;- ORDINARY MOVE: a checker moves to a (forward or diagonally forward) adjacent and empty square.&amp;#10;- JUMPING MOVE: a checker jumps over a (forward or diagonally forward) adjacent friendly piece if the next square in the same direction is empty, placing the jumping checker on the next empty square. If the same player's checker can continue moving by jumping another friendly piece then it must do so. During the jumping move that checker cannot capture.&amp;#10;&amp;#10;When there is more than one way to jump, the player may choose which piece to jump with, and which jumping option or sequence of jumps to make. The jumping sequence chosen is not required to be the one which maximizes the number of jumps; however, a player must make all available jumps in the sequence chosen.&amp;#10;&amp;#10;CAPTURE&amp;#10;A checker can capture in 5 directions: forward, diagonally forward, right or left (north, north-east, north-west, east or west).&amp;#10;&amp;#10;- CAPTURE: a checker jumps over a (forward, diagonally forward, right or left) adjacent opponent's piece if the next square in the same direction is empty, placing the jumping checker on the next empty square. The opponent's piece is removed from the board immediately. If the same player's checker can continue capturing by jumping another opponent's piece then it must do so. Capturing is mandatory, and you must keep capturing as long as it is possible.&amp;#10;&amp;#10;As in the jumping move, the player chooses freely which jumping sequence to take.&amp;#10;&amp;#10;ON THE LAST ROW&amp;#10;When a checker reaches the other end of the board, it is removed from the board immediately and the player gets two extra-moves to make instantly: dropping two new checkers in any empty square in his own first two rows, except in the four squares on the sides.&amp;#10;(The drop zone for Black: b1, c1, d1, e1, f1, g1, b2, c2, d2, e2, f2, g2; for White: b8, c8, d8, e8, f8, g8, b7, c7, d7, e7, f7, g7).&amp;#10;&amp;#10;If a checker reaches the other end of the board and there isn't any empty square in the drop zone, the player loses that piece. If there is just one empty square in the drop zone, the player gets only one drop.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="1" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41103" value="Matteo Perlini" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14917" value="Il Fogliaccio degli Astratti" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="6.5625" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.25607" />
+			<median value="0" />
+			<owned value="11" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="4" />
+			<numcomments value="4" />
+			<numweights value="1" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

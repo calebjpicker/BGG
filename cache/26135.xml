@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="26135">
+         <thumbnail>https://cf.geekdo-images.com/wKOf7u7yfztH3wi2wPmTbg__thumb/img/qA8Ty9SSZ3kpP4wlywwRGzPN03I=/fit-in/200x150/filters:strip_icc()/pic286943.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wKOf7u7yfztH3wi2wPmTbg__original/img/s-9xWXQNwC10AbaJ0y2YgUQNdI8=/0x0/filters:format(jpeg)/pic286943.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Susan" />
+			
+						                           
+						               													<description>&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Rules&amp;#10;&amp;#10;An abstract game played on a hexagonal board of 61 spaces.&amp;#10;&amp;#10;&amp;#10;    9 . . . . .&amp;#10;   8 . . . . . .&amp;#10;  7 . . . . . . .&amp;#10; 6 . . . . . . . .&amp;#10;5 . . . . . . . . .&amp;#10; 4 . . . . . . . . i&amp;#10;  3 . . . . . . . h&amp;#10;   2 . . . . . . g&amp;#10;    1 . . . . . f&amp;#10;       a b c d e&amp;#10;&amp;#10;&amp;#10;Reminiscent of Go, but the rules are essentially:&amp;#10;&amp;#10;Gameplay alternates between the two players, who each have their own color. A player's turn consists of either&amp;#10;&amp;#10;&amp;#10;     placing an off-board stone of their color on an empty space on board, or&amp;#10;     sliding an on-board stone of their color onto an adjacent empty space.&amp;#10;&amp;#10;&amp;#10;You cannot pass. If each player performs three slides in a row (meaning six consecutive plies or game actions being slides in total) then the game ends immediately in a tie.&amp;#10;&amp;#10;You win as soon as any of the opponent's stones is surrounded on all liberties. Surrounding this stone is valid by any combination of own stones, opponent's stones, and even the board edges. But if your move causes one of your stones to be surrounded, you lose (even if you simultaneously surround an enemy stone!&amp;#10;&amp;#10;&amp;#10;    9 . . . . .&amp;#10;   8 . . . . . .&amp;#10;  7 . . . . . . .&amp;#10; 6 . . . . . . . .&amp;#10;5 . . . O O X . . .&amp;#10; 4 . . O . O X . . i&amp;#10;  3 . . . X X . . h&amp;#10;   2 . . . . . . g&amp;#10;    1 . . . . . f&amp;#10;       a b c d e&amp;#10;&amp;#10;&amp;#10;The diagram shows a situation where setting the next stone onto d4 would result in an immediate win of player X since stone on e4 would completely be surrounded. It does not matter if the surrounding stones are stones of player X or player O.&amp;#10;&amp;#10;Suppose it is player X's turn: In the diagram shown above setting stone X on d4 is a win for player X since stone O on e4 gets completely surrounded.&amp;#10;&amp;#10;Suppose it is player O's turn: In the diagram shown above setting stone O on d4 is a win for player X, too, since stone O on e4 gets completely surrounded.&amp;#10;&amp;#10;Suppose it is player O's turn: Setting a stone onto c3 will continue the game. Player X cannot win any longer by setting his stone onto d4 since then he would lose immediately since this newly set stone is completely surrounded then. He loses even if stone O on e4 gets surrounded simultaneously.&amp;#10;&amp;#10;&amp;#10;    9 . . . . .&amp;#10;   8 . . . . . .&amp;#10;  7 . . . . . . .&amp;#10; 6 . . . . . . . .&amp;#10;5 . . . O O X . . .&amp;#10; 4 . . O . O X . . i&amp;#10;  3 . . O X X . . h&amp;#10;   2 . . . . . . g&amp;#10;    1 . . . . . f&amp;#10;       a b c d e&amp;#10;&amp;#10;&amp;#10;Instead of placing a stone, you can instead slide one of your stones on your turn.&amp;#10;&amp;#10;&amp;#10;    9 . . . . .&amp;#10;   8 . . . . . .&amp;#10;  7 . . . . . . .&amp;#10; 6 . . . . . . . .&amp;#10;5 . . . . . . . . .&amp;#10; 4 . . . . . . . . i&amp;#10;  3 . X O . . . . h&amp;#10;   2 O X O . . . g&amp;#10;    1 . O . . . f&amp;#10;       a b c d e&amp;#10;&amp;#10;&amp;#10;Note that in the diagram above stone X on b2 is perfectly safe. Neither player can set onto a1 without losing the game, since the stone set onto a1 would be completely and directly surrounded. The result would be the active player's loss of the game.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;References&amp;#10;&amp;#10;&amp;#10;     Original rules text: http://www.stephen.com/sue/sue_man.txt&amp;#10;         Note that Stephen Linhart's page uses a different game notation&amp;#10;    &amp;#10;     About the game: http://www.stephen.com/sue/sueabout.html&amp;#10;     Java version of the game Susan: http://sourceforge.net/projects/susan/&amp;#10;         Note: the Lawa Susan does not seem to include the rule on draw situations on six consecutive set of stones&amp;#10;    &amp;#10;     Play by email server: http://gamerz.net/pbmserv/susan.html&amp;#10;     There is a computer version available for the Macintosh as well: http://www.stephen.com/sue/suemac.html&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1991" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="3" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7857" value="Stephen Linhart" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="22" />
+			<average value="6.98182" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.67132" />
+			<median value="0" />
+			<owned value="31" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="10" />
+			<numcomments value="14" />
+			<numweights value="2" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

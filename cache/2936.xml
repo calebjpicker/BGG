@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2936">
+         <thumbnail>https://cf.geekdo-images.com/WVkxUQdAJ3JAMIfkfg7AyQ__thumb/img/4yd5Vdv6plCl8-6jYMPxNZL9X6Q=/fit-in/200x150/filters:strip_icc()/pic2248206.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WVkxUQdAJ3JAMIfkfg7AyQ__original/img/7WtbXij1uIVTeVWRmKOR3FlR9-c=/0x0/filters:format(jpeg)/pic2248206.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dice Run" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="DiceRun" />
+			    				
+				<name type="alternate" sortindex="1" value="Rzutem do mety" />
+			
+						               													<description>Dice don't have legs, but in Dice Run they'll scamper as quickly as they can to get ahead of their fellow cubic cross-country runners. If you play your cards right, you'll be backing the winners and score thanks to their efforts.&amp;#10;&amp;#10;Dice Run includes thirty dice, with six dice in each of five different colors. To start the game, you roll these dice on the table to form the starting pack of runners. Each player has a hand of three movement cards and four secret target cards; these latter cards show a die with a particular number and color.&amp;#10;&amp;#10;On a turn, a player plays a movement card and carries out its effect. If he chooses a red movement card, for example, all of the red dice &amp;quot;break out&amp;quot; of the pack and move ahead to form the leading group of runners. If the next player plays a 5 movement card, she first moves ahead all of the 5s from the leading group &amp;ndash; thereby forming a new leading group &amp;ndash; then she moves all the 5s from the next group in line ahead one group. Movement cards also allow players to switch the position of two non-leading groups, to drop a die from the leading group to the back of the pack, to flip all the dice in a group that match a particular number, to have three dice break out from the leading group, and so on. Alternatively, a player can place a movement card face down on the table, then roll all the dice in a non-leading group; he can't take this option again until another player makes such a roll. After playing a card, he refills his hand to three movement cards.&amp;#10;&amp;#10;A player can also choose to use one of his secret target cards to move the dice, first moving all the dice of the matching number, then all dice of the matching color, or vice versa. This card remains on the table.&amp;#10;&amp;#10;At the start of the game, the movement deck is seeded with four stage cards valued 3-6. When a stage card is revealed, players each simultaneously reveal one of their secret target cards. (If a player used a target card for movement, he must choose this card.) For each die in the leading group that matches the color of this card, the player scores 1 point; he also scores 1 point for each matching number. If a die is identical to his target card, he scores 1 bonus point as well. Whoever has the highest score claims the stage card, which is worth 3-6 stage points. The players with the second- and third-highest scores receive 2 and 1 stage point.&amp;#10;&amp;#10;After four stages, the player with the most stage points wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2002" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="4" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2954" value="Relative Movement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="190" value="Spartaco Albertarelli" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35100" value="Chiara Vercesi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23975" value="KaleidosGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="650" value="Kidultgame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27316" value="Trefl Joker Line" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="413" />
+			<average value="5.89656" />
+			<bayesaverage value="5.56704" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9786" bayesaverage="5.56704" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2138" bayesaverage="5.58701" />
+												</ranks>
+
+			<stddev value="1.28203" />
+			<median value="0" />
+			<owned value="577" />
+			<trading value="23" />
+			<wanting value="6" />
+			<wishing value="33" />
+			<numcomments value="127" />
+			<numweights value="46" />
+			<averageweight value="1.413" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

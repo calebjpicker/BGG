@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="218421">
+         <thumbnail>https://cf.geekdo-images.com/ieUOjJ9WKW7G0-XUtrBBBA__thumb/img/uie9pFWxdRuCO1zmNaCIHPdXLes=/fit-in/200x150/filters:strip_icc()/pic4194059.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ieUOjJ9WKW7G0-XUtrBBBA__original/img/hicYEXqmD5H9JwQ6gLHTXx-bACQ=/0x0/filters:format(jpeg)/pic4194059.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Street Masters" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="街王" />
+			
+						               													<description>THE GAMEPLAY&amp;#10;&amp;#10;Street Masters is a 1-4 player cooperative miniatures board game inspired by classic fighting video games. Featuring over 65 highly detailed miniatures, unique decks for fighters &amp;amp; enemies, custom dice, and lightning-fast gameplay, Street Masters lets players match up powerful fighters against villainous organizations in a wide array of exciting scenarios. Designed by Adam Sadler and Brady Sadler, the game offers modular and elegant gameplay set in a unique and exciting world of brutal combat.&amp;#10;&amp;#10;THE STORY&amp;#10;&amp;#10;Warriors from around the world, known for their legendary fighting abilities and skills, receive mysterious invitations to participate in a martial arts tournament. During the tournament, the organization surrounding it reveals their true identity &amp;mdash; The Kingdom &amp;mdash; and their purpose to recruit fighters to join their militia or enslave those against them. While several of these warriors made it out in time, many were never heard from again.&amp;#10;&amp;#10;Five years later, a government project called &amp;quot;Street Masters&amp;quot; initiates in order to counter-act the war against The Kingdom, now having divided and seized control over the world by several of its factions. Those who join the Street Masters project must work together to take down each faction, crippling parts of The Kingdom before they're able to launch their end game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="70">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="0" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73724" value="Theme: Boss Battle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270015" value="Brook City: Keys to the Kingdom Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260461" value="Street Masters: Aftershock" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292776" value="Street Masters: Aftershock – Stretch Goals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310257" value="Street Masters: Chian and Dan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292773" value="Street Masters: Essence of Evil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233139" value="Street Masters: Legend of Oni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259083" value="Street Masters: Mr. Apple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321715" value="Street Masters: New Challengers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253383" value="Street Masters: Redemption" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292774" value="Street Masters: Redemption II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253384" value="Street Masters: Rise of the Kingdom – x BattleCON" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="322720" value="Street Masters: Rumble Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259085" value="Street Masters: Stretch Goals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233140" value="Street Masters: Twin Tiger" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306364" value="Street Masters: Base Ring Triple Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306002" value="Street Masters: Utility Pack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="321628" value="Street Masters: Tide of the Dragon" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50880" value="Adam Sadler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="36921" value="Brady Sadler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50670" value="Giorgio De Michele" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32658" value="Blacklist Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1314" />
+			<average value="8.00868" />
+			<bayesaverage value="6.45982" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1243" bayesaverage="6.45982" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="167" bayesaverage="6.90244" />
+												</ranks>
+
+			<stddev value="1.50591" />
+			<median value="0" />
+			<owned value="2359" />
+			<trading value="56" />
+			<wanting value="219" />
+			<wishing value="984" />
+			<numcomments value="341" />
+			<numweights value="48" />
+			<averageweight value="2.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

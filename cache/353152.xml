@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="353152">
+         <thumbnail>https://cf.geekdo-images.com/ZpCVs_p1wlbiSFOg1nNVoA__thumb/img/JXhS3iYjCXZGQMMfXy_gylbPRCU=/fit-in/200x150/filters:strip_icc()/pic6573332.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZpCVs_p1wlbiSFOg1nNVoA__original/img/DWBfCFZIP4TiC0Ae3txC1ADeDOs=/0x0/filters:format(jpeg)/pic6573332.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Framework" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Framework: Egy keret a világ!" />
+			    				
+				<name type="alternate" sortindex="1" value="フレームワーク" />
+			
+						               													<description>Framework consists of 120 tiles, with each player starting with 22 tokens. On a turn, the lead player draws and reveals one more tile than the number of players. Each player in turn selects a tile, with the lead player being forced to take the final tile.&amp;#10;&amp;#10;When you take a tile, place it adjacent to at least one other tile in your display, then see whether you complete any tasks on your tiles; each time you do, cover that task with a token. Tiles contain 0-3 frames and 0-3 tasks, with each of these coming in four colors. A task might be, for example, a green 3, and to complete the task, the tile bearing this task must be part of a set of three tiles that have green frames, whether directly or via an orthogonal chain of connection with tiles that have green frames.&amp;#10; Tasks might be two colors, e.g., red and brown, which means that both frame colors can be used to satisfy the task. Alternatively, a task might be 4 yellow or 4 brown. Also, conditional tasks exist in which you must first complete one task before you can complete the second one.&amp;#10;&amp;#10;Whoever first places all of their tokens wins. Framework also includes a solo game in which you attempt to place all of your tokens in an area of tiles that is as close to a 5x5 grid as possible.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="241" value="No necessary in-game text" numvotes="0" />
+					<result level="242" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="243" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="244" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="245" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="200853" value="Habitats" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="284435" value="Nova Luna" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105660" value="Lukas Siegmon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33419" value="Edition Spielwiese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="561" />
+			<average value="7.29836" />
+			<bayesaverage value="5.88919" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3415" bayesaverage="5.88919" />
+												</ranks>
+
+			<stddev value="1.22421" />
+			<median value="0" />
+			<owned value="966" />
+			<trading value="7" />
+			<wanting value="98" />
+			<wishing value="439" />
+			<numcomments value="108" />
+			<numweights value="18" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="181960">
+         <thumbnail>https://cf.geekdo-images.com/MlNlAilS9tXzdeqjBXA4Vw__thumb/img/MPXfvG8n8mEOiWNx-_Ey0jgaGTU=/fit-in/200x150/filters:strip_icc()/pic3989524.png</thumbnail>
+      <image>https://cf.geekdo-images.com/MlNlAilS9tXzdeqjBXA4Vw__original/img/s20ucUov69q80ESwdytMXFyT66k=/0x0/filters:format(png)/pic3989524.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Portal of Heroes" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Chasseurs de Légendes" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Portail des Héros" />
+			    				
+				<name type="alternate" sortindex="4" value="El Portal de Molthar" />
+			    				
+				<name type="alternate" sortindex="4" value="Il Portale di Molthar" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Portale von Molthar" />
+			    				
+				<name type="alternate" sortindex="1" value="奇幻之門" />
+			    				
+				<name type="alternate" sortindex="1" value="奇幻之門" />
+			    				
+				<name type="alternate" sortindex="1" value="몰타의 관문" />
+			
+						               													<description>The portals of Molthar have opened! The players travel through the portal into a world of a type that you know only through folklore and fairy tales. By collecting magic pearls and trading them in a timely fashion for fantastic and powerful character cards, you draw ever closer to victory &amp;mdash; but only the one who first manages to gather twelve insignias of power will save Molthar and win the game.&amp;#10;&amp;#10;At the start of Portal of Heroes, four pearl cards and two character cards lie face up in the middle of the table. The rest of the character and pearl cards are set nearby in separate decks. Each player receives their own player portal and places it face up in front of them.&amp;#10;&amp;#10;Each turn, you can take three actions from a menu of four options: Take a pearl card into your hand, replace all of the pearl cards in the display, place a character card on your portal, or activate a character. You can perform any of the four possible actions multiple times, and in any order. To activate a character, you must play a specific combination of pearl cards from your hand onto the character card. Activated characters grant you power points, diamonds, or special abilities. Once you have activated characters this way with twelve or more power points then that round becomes the penultimate one. Whoever has the most power points at the end of the game wins with diamonds acting as a tie breaker.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="43">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="9" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204573" value="Brettspiel Adventskalender 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213291" value="Portal of Heroes: Diamonds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186140" value="Die Portale von Molthar: Sonderkarten" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="63207" value="Johannes Schmidauer-König" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12484" value="Dennis Lohausen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39558" value="Gametrade Distribuzione" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5640" value="Kikigagne?" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1628" />
+			<average value="6.77109" />
+			<bayesaverage value="6.05993" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2470" bayesaverage="6.05993" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="747" bayesaverage="6.1731" />
+												</ranks>
+
+			<stddev value="1.22229" />
+			<median value="0" />
+			<owned value="3385" />
+			<trading value="62" />
+			<wanting value="24" />
+			<wishing value="149" />
+			<numcomments value="310" />
+			<numweights value="62" />
+			<averageweight value="1.7903" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

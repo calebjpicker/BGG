@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="212445">
+         <thumbnail>https://cf.geekdo-images.com/1To3fG0-1ZpX1vfcHGHHYg__thumb/img/CmBNLOWNnA-qMjMUZ-39OsNpD9w=/fit-in/200x150/filters:strip_icc()/pic3254491.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1To3fG0-1ZpX1vfcHGHHYg__original/img/etLhChO09NvKGH9-c04Jw3Q92Xk=/0x0/filters:format(jpeg)/pic3254491.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blood Bowl (2016 Edition)" />
+			
+						                           
+						               													<description>Description from the publisher:&amp;#10;&amp;#10;Blood Bowl is a game of Fantasy Football. The basic game features a match between two teams drawn from a number of fantasy archetypes, playing a warped version of American Football.&amp;#10;&amp;#10;The Blood Bowl boxed game contains two teams: Humans, an all-round team who are flexible enough to adapt to any style of play, or Orcs, who make up in brute force what they lack in finesse. The teams are represented by coloured plastic miniatures, and push-fit assembly is required before use. The game is expandable, and additional rules and teams will be made available through expansion sets and supplements.&amp;#10;&amp;#10;Actions in the game are resolved through the use of dice. Regular six-sided dice are used to make tests in a number of cases, such as when a player attempts to pick up the ball, pass it, catch it or dodge past an enemy player. Custom dice are used when one player wishes to Block another, using graphics to represent each of the different (but all violent) potential outcomes.&amp;#10;&amp;#10;The rules in this edition of Blood Bowl are almost identical to those found in the Competition Rules Pack, which was the culmination of several years of development of the Blood Bowl Living Rulebook. This has resulted in an incredibly well-honed game which sees regular competition play around the world. In fact each team takes turns moving, blocking and advancing the football down the field. The game comes with plastic miniatures.&amp;#10;&amp;#10;This game is a part of the Blood Bowl Series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="180" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="251" value="No necessary in-game text" numvotes="0" />
+					<result level="252" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="253" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="254" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="255" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1044" value="Collectible Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2854" value="Critical Hits and Failures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49" value="Game: Blood Bowl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28419" value="Series: Specialist Games (Games Workshop)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4328" value="Setting: Warhammer Fantasy Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6925" value="Theme: Fantasy Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266341" value="Blood Bowl (2016 edition): 2018 Blood Bowl Almanac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293397" value="Blood Bowl (2016 Edition): 2019 Blood Bowl Almanac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372249" value="Blood Bowl (2016 Edition): Amazon Pitch – Double-sided Pitch and Dugouts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279984" value="Blood Bowl (2016 edition): Athelorn Avengers – Wood Elf Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="220128" value="Blood Bowl (2016 Edition): Blitzmania Special Play Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227356" value="Blood Bowl (2016 edition): Blood Bowl Goblins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216171" value="Blood Bowl (2016 Edition): Blood on the Snow Winter-Themed Pitch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263995" value="Blood Bowl (2016 edition): Champions of Death – Shambling Undead Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256910" value="Blood Bowl (2016 Edition): Chaos Chosen Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254841" value="Blood Bowl (2016 Edition): Chaos Chosen Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312385" value="Blood Bowl (2016 edition): Crud Creek Nosepickers – Snotlings Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257710" value="Blood Bowl (2016 edition): Dark Elf Assassins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256909" value="Blood Bowl (2016 edition): Dark Elf Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256767" value="Blood Bowl (2016 Edition): Dark Elf Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213298" value="Blood Bowl (2016 Edition): Death Zone – Season One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227336" value="Blood Bowl (2016 edition): Death Zone – Season Two" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279874" value="Blood Bowl (2016 edition): Deeproot Strongbranch – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224820" value="Blood Bowl (2016 Edition): Dwarf Deathroller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256766" value="Blood Bowl (2016 Edition): Dwarf Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257708" value="Blood Bowl (2016 edition): Eldril Sidewinder – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="242260" value="Blood Bowl (2016 edition): Elven Union Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="242257" value="Blood Bowl (2016 Edition): Elven Union Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282507" value="Blood Bowl (2016 Edition): Gassy Eruption Special Play Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230905" value="Blood Bowl (2016 Edition): Glart Smashrip – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312858" value="Blood Bowl (2016 edition): Gloriel Summerbloom – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224086" value="Blood Bowl (2016 Edition): Go Full Beard Special Play Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224254" value="Blood Bowl (2016 Edition): Goblin &amp; Halfling Referees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268931" value="Blood Bowl (2016 edition): Goblin Killer Kontraptions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="242259" value="Blood Bowl (2016 edition): Goblin Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228609" value="Blood Bowl (2016 Edition): Goblin Secret Weapons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293012" value="Blood Bowl (2016 Edition): Goblin Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219019" value="Blood Bowl (2016 Edition): Grak and Crumbleberry – Star Player Duo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275035" value="Blood Bowl (2016 edition): Greenfield Grasshuggers – Halfling Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332439" value="Blood Bowl (2016 edition): Gretchen Wächter – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222971" value="Blood Bowl (2016 Edition): Griff Oberwald – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226120" value="Blood Bowl (2016 Edition): Grim Ironjaw – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226209" value="Blood Bowl (2016 Edition): Grombrindal and the Black Gobbo – Star Player Duo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287726" value="Blood Bowl (2016 Edition): Gwaka'moli Crater Gators – Lizardmen Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227279" value="Blood Bowl (2016 Edition): Hakflem Skuttlespike – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279977" value="Blood Bowl (2016 edition): Halfling Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279980" value="Blood Bowl (2016 Edition): Halfling Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293013" value="Blood Bowl (2016 edition): Head Coach's Rules &amp; Accessories Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268927" value="Blood Bowl (2016 edition): Helmut Wulf – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257711" value="Blood Bowl (2016 edition): Human Team Booster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="242256" value="Blood Bowl (2016 Edition): Human Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256914" value="Blood Bowl (2016 edition): Josef Bugman – Coach &amp; Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268928" value="Blood Bowl (2016 edition): Karla von Kill – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291495" value="Blood Bowl (2016 edition): Lizardmen Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293011" value="Blood Bowl (2016 Edition): Lizardmen Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279875" value="Blood Bowl (2016 edition): Lord Borak the Despoiler – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279981" value="Blood Bowl (2016 Edition): Match Inducements Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253957" value="Blood Bowl (2016 Edition): Minotaur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222969" value="Blood Bowl (2016 Edition): Morg 'N' Thorg – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="241398" value="Blood Bowl (2016 Edition): Naughty or Nice Special Play Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258671" value="Blood Bowl (2016 edition): Nurgle Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268932" value="Blood Bowl (2016 edition): Nurgle Rotspawn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258670" value="Blood Bowl (2016 Edition): Nurgle Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258669" value="Blood Bowl (2016 edition): Nurgle's Rotters – Nurgle Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222966" value="Blood Bowl (2016 edition): Ogre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296451" value="Blood Bowl (2016 edition): Ogre Team Booster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296160" value="Blood Bowl (2016 Edition): Ogre Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296161" value="Blood Bowl (2016 edition): Ogre Team Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313898" value="Blood Bowl (2016 edition): Old World Alliance &amp; Underworld Denizens Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313896" value="Blood Bowl (2016 Edition): Old World Alliance Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266890" value="Blood Bowl (2016 Edition): Orc Team Booster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="242255" value="Blood Bowl (2016 Edition): Orc Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222970" value="Blood Bowl (2016 Edition): Rat Ogre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257709" value="Blood Bowl (2016 edition): Roxanna Darknail – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264487" value="Blood Bowl (2016 edition): Shambling Undead Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264485" value="Blood Bowl (2016 Edition): Shambling Undead Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219668" value="Blood Bowl (2016 Edition): Skaven and Dwarf Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="229096" value="Blood Bowl (2016 Edition): Skaven Team Booster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254840" value="Blood Bowl (2016 Edition): Skaven Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332437" value="Blood Bowl (2016 edition): Skrull Halfheight – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317903" value="Blood Bowl (2016 edition): Snotling Pitch and Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317904" value="Blood Bowl (2016 Edition): Snotling Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224255" value="Blood Bowl (2016 Edition): Special Ball Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219020" value="Blood Bowl (2016 Edition): Special Play Cards – Hall of Fame Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224089" value="Blood Bowl (2016 Edition): Special Play Cards – Team Titans Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260795" value="Blood Bowl (2016 Edition): Spike! Journal #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317902" value="Blood Bowl (2016 Edition): Spike! Journal #10" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260797" value="Blood Bowl (2016 Edition): Spike! Journal #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260798" value="Blood Bowl (2016 Edition): Spike! Journal #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="273939" value="Blood Bowl (2016 Edition): Spike! Journal #4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279979" value="Blood Bowl (2016 Edition): Spike! Journal #5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="284076" value="Blood Bowl (2016 edition): Spike! Journal #6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293010" value="Blood Bowl (2016 edition): Spike! Journal #7" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296162" value="Blood Bowl (2016 Edition): Spike! Journal #8" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313895" value="Blood Bowl (2016 Edition): Spike! Journal #9" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257223" value="Blood Bowl (2016 Edition): Star Players Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226388" value="Blood Bowl (2016 Edition): The Bright Crusaders – Human Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257715" value="Blood Bowl (2016 edition): The Damned Damsels – Chaos Cheerleading Squad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="252900" value="Blood Bowl (2016 edition): The Doom Lords – Chaos Chosen Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219016" value="Blood Bowl (2016 Edition): The Dwarf Giants – Dwarf Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224085" value="Blood Bowl (2016 Edition): The Early Bird Special Play Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="241383" value="Blood Bowl (2016 edition): The Elfheim Eagles – Elven Union Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263994" value="Blood Bowl (2016 edition): The Elfheim Eaglettes – Elf Cheerleading Squad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293396" value="Blood Bowl (2016 edition): The Fire Mountain Gut Busters – Ogre Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224887" value="Blood Bowl (2016 Edition): The Gouged Eye – Orc Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="241380" value="Blood Bowl (2016 Edition): The Inaugural Blood Bowl Almanac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313900" value="Blood Bowl (2016 edition): The Middenheim Maulers – Old World Alliance Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222967" value="Blood Bowl (2016 edition): The Mighty Zug – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296227" value="Blood Bowl (2016 Edition): The NAF Fun Police Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256912" value="Blood Bowl (2016 Edition): The Naggaroth Nightmares – Dark Elf Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257712" value="Blood Bowl (2016 edition): The Night Terrors – Dark Elf Cheerleading Squad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="229615" value="Blood Bowl (2016 Edition): The Orcland Raiders – Orc Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257714" value="Blood Bowl (2016 edition): The Reaverettes – Human Cheerleading Squad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="221806" value="Blood Bowl (2016 edition): The Reikland Reavers – Human Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227355" value="Blood Bowl (2016 Edition): The Scarcrag Snivellers – Goblin Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215008" value="Blood Bowl (2016 Edition): The Skavenblight Scramblers – Skaven Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263993" value="Blood Bowl (2016 edition): The Swift Twins – Star Players" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313901" value="Blood Bowl (2016 edition): The Underworld Creepers – Underworld Denizens Blood Bowl Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257713" value="Blood Bowl (2016 Edition): The Waaaghs! – Orc Cheerleading Squad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224709" value="Blood Bowl (2016 Edition): Troll" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="222968" value="Blood Bowl (2016 Edition): Varag Ghoul-Chewer – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="279982" value="Blood Bowl (2016 edition): Willow Rosebark – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224250" value="Blood Bowl (2016 Edition): Winter Bowl Inducement Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="284079" value="Blood Bowl (2016 edition): Wood Elf Pitch &amp; Dugout Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="284077" value="Blood Bowl (2016 Edition): Wood Elf Team Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="325504" value="Blood Bowl (Second Season Edition): Necromantic Horror Team Pitch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312725" value="Blood Bowl (Second Season Edition): Treeman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332443" value="Blood Bowl (Second Season Edition): Zolcath The Zoat – Star Player" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372252" value="Blood Bowl (Second Season): Spike! Journal #15" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="361796" value="Blood Bowl: Norse Team – Norsca Rampagers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372248" value="Blood Bowl: Second Season Edition – Amazon Team: Kara Temple Harpies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336062" value="Blood Bowl: Second Season Edition – Elf and Dwarf Biased Referees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351288" value="Blood Bowl: Second Season Edition – Khorne Pitch: Double-sided Pitch and Dugouts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318473" value="Blood Bowl: Second Season Edition – Wolfenburg Crypt-Stealers: Necromantic Horror Team" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="287729" value="Blood Bowl (2016 edition): Blood Bowl Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257268" value="Blood Bowl (2016 edition): Chaos Chosen Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257309" value="Blood Bowl (2016 edition): Chaos Renegades Coins &amp; Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257301" value="Blood Bowl (2016 edition): Chaos Renegades Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="256913" value="Blood Bowl (2016 edition): Dark Elf Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="220842" value="Blood Bowl (2016 edition): Dwarf Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="242342" value="Blood Bowl (2016 edition): Elven Union Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="231414" value="Blood Bowl (2016 edition): Goblin Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257311" value="Blood Bowl (2016 edition): Gouged Eye Doombowl Stadium Neoprene Pitch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="279983" value="Blood Bowl (2016 edition): Halfling Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="287727" value="Blood Bowl (2016 edition): Lizardmen Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="258646" value="Blood Bowl (2016 edition): Nurgle Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="296159" value="Blood Bowl (2016 edition): Ogre Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="231412" value="Blood Bowl (2016 edition): Reikland Reavers Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257310" value="Blood Bowl (2016 edition): Reikland Reavers Oldbowl Stadium Neoprene Pitch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="264490" value="Blood Bowl (2016 edition): Shambling Undead Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="214658" value="Blood Bowl (2016 edition): Skaven Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="243210" value="Blood Bowl (2016 edition): Skill Bands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="317905" value="Blood Bowl (2016 edition): Snotling Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="231413" value="Blood Bowl (2016 edition): The Gouged Eye Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257308" value="Blood Bowl (2016 edition): Underworld Denizens Coins &amp; Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257300" value="Blood Bowl (2016 edition): Underworld Denizens Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="284078" value="Blood Bowl (2016 edition): Wood Elf Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372253" value="Blood Bowl (Second Season Edition): Amazon Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336036" value="Blood Bowl (Second Season Edition): Black Orc Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336038" value="Blood Bowl (Second Season Edition): Imperial Nobility Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="351291" value="Blood Bowl (Second Season Edition): Khorne Team Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="325506" value="Blood Bowl (Second Season Edition): Necromantic Horror Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332428" value="Blood Bowl (Second Season Edition): Winter Dugouts Promo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="247104" value="Blitz Bowl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="359065" value="Blitz Bowl: Ultimate Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="318472" value="Blood Bowl: Second Season Edition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3071" value="Blood Bowl" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2288" value="Blood Bowl (Second Edition)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="712" value="Blood Bowl (Third Edition)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="15985" value="Blood Bowl: Living Rulebook" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="96901" value="James M. Hewitt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7355" value="Andy Hoare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="712" value="Jervis Johnson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14937" value="Wayne England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12370" value="David Gallagher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12429" value="Pete Knifton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2582" value="Richard Wright" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26" value="Games Workshop Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2638" />
+			<average value="7.98256" />
+			<bayesaverage value="6.84548" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="617" bayesaverage="6.84548" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="90" bayesaverage="7.18693" />
+												</ranks>
+
+			<stddev value="1.52556" />
+			<median value="0" />
+			<owned value="5227" />
+			<trading value="75" />
+			<wanting value="112" />
+			<wishing value="692" />
+			<numcomments value="460" />
+			<numweights value="52" />
+			<averageweight value="3.5385" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

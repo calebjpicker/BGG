@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="158600">
+         <thumbnail>https://cf.geekdo-images.com/uiVZ7QVfRFQx3EBG8eDU8w__thumb/img/SUy42NMiK5gx-kLqmV47drIxEU0=/fit-in/200x150/filters:strip_icc()/pic6339446.png</thumbnail>
+      <image>https://cf.geekdo-images.com/uiVZ7QVfRFQx3EBG8eDU8w__original/img/tLBrF40IDpARzoiUor4wwUvWXgY=/0x0/filters:format(png)/pic6339446.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hanamikoji" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="21 Flowers" />
+			    				
+				<name type="alternate" sortindex="1" value="Gejsze" />
+			    				
+				<name type="alternate" sortindex="6" value="花見小路 Hanamikoji" />
+			    				
+				<name type="alternate" sortindex="1" value="Jixia Academy" />
+			    				
+				<name type="alternate" sortindex="1" value="Путь лепестка" />
+			    				
+				<name type="alternate" sortindex="1" value="Ханамікоджі" />
+			    				
+				<name type="alternate" sortindex="1" value="花見小路" />
+			    				
+				<name type="alternate" sortindex="1" value="하나미코지" />
+			
+						               													<description>Welcome to the most famed Geisha street in the old capital, Hanamikoji. Geishas are elegant and graceful women who are skilled in art, music, dance, and a variety of performances and ceremonies. Greatly respected and adored, Geishas are masters of entertainment.&amp;#10;&amp;#10;In Hanamikoji, two players compete to earn the favor of seven illustrious Geishas by collecting each Geisha&amp;rsquo;s preferred performance item. With careful speculation and a few bold moves, can you outsmart your opponent to win the favor of the most Geishas?&amp;#10;&amp;#10;Jixia Academy features the same gameplay as Hanamikoji, but with different artwork.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="143">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="113" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="140" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="106" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="56">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="28" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="32">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="32" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2864" value="Force Commitment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2906" value="I Cut, You Choose" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64963" value="Cities: Kyoto (Japan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72359" value="Game: Hanamikoji" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28174" value="Series: Mini Games (IELLO)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335223" value="Hanamikoji: JP promotion card 2021" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350621" value="Hanamikoji: Kickstarter Goodies 2021" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="323921" value="Hanamikoji: Mini Expansion #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347151" value="Hanamikoji: Mini Expansion #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347152" value="Hanamikoji: Mini Expansion #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347153" value="Hanamikoji: Mini Expansion #4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347154" value="Hanamikoji: Mini Expansion #5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347155" value="Hanamikoji: Mini Expansion #6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347156" value="Hanamikoji: Mini Expansion #7" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270007" value="Hanamikoji: Chinese New Year Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270006" value="Hanamikoji: Christmas Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257977" value="Hanamikoji: Deep Water Games Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270008" value="Hanamikoji: Halloween Promo (value 2)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271983" value="Hanamikoji: Halloween Promo (value 3)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="383573" value="Hanamikoji: Kickstarter Goodies 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="321828" value="Hanamikoji: Metal Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="317794" value="Hanamikoji: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="322339" value="Hanamikoji: Geisha's Road" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74989" value="Kota Nakayama (中山 宏太)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92066" value="Maisherly" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127311" value="Mashiro Misaki" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29636" value="EmperorS4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10782" value="Takamagahara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30571" value="2Tomatoes Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29590" value="COLON ARC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38131" value="Deep Water Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47533" value="Diversion (دایورژن)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30399" value="Ludicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49061" value="Ludopolis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37959" value="MS Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34627" value="Nasza Księgarnia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38846" value="PopcornEdu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32523" value="Quick Simple Fun Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16378" />
+			<average value="7.50716" />
+			<bayesaverage value="7.2645" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="226" bayesaverage="7.2645" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="41" bayesaverage="7.31776" />
+												</ranks>
+
+			<stddev value="1.19654" />
+			<median value="0" />
+			<owned value="26893" />
+			<trading value="327" />
+			<wanting value="476" />
+			<wishing value="3813" />
+			<numcomments value="2793" />
+			<numweights value="409" />
+			<averageweight value="1.6944" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

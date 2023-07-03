@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="148319">
+         <thumbnail>https://cf.geekdo-images.com/fsUCwhRp_5knh6eY8EduTw__thumb/img/_mkrhR0iN7QX5e1LhsPtDbhXhMo=/fit-in/200x150/filters:strip_icc()/pic2046290.png</thumbnail>
+      <image>https://cf.geekdo-images.com/fsUCwhRp_5knh6eY8EduTw__original/img/FgUk3tNrF0_ryLIT3S0nnZUY8iE=/0x0/filters:format(png)/pic2046290.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tragedy Looper" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Olyckor och Omtag" />
+			    				
+				<name type="alternate" sortindex="1" value="Tragedy RoopeR" />
+			    				
+				<name type="alternate" sortindex="1" value="惨劇ルーパー" />
+			    				
+				<name type="alternate" sortindex="1" value="트레지디 루퍼" />
+			
+						               													<description>Tragedy Looper is a scenario-based deduction game for two to four players: one mastermind and one to three protagonists. The game consists of four location boards and a number of character cards. Each scenario features a number of characters, hidden roles for these characters (serial killer, conspiracy theorist, friend), and some pre-set tragedies (murder, suicide).&amp;#10;&amp;#10;Each &amp;quot;day&amp;quot; (turn), players and the mastermind play three face-down cards onto the characters, then reveal them to move the characters around or affect their paranoia or goodwill stats. At the end of each day (turn), if the scenario has a tragedy set for that day, it happens if the conditions are met, i.e., certain characters have certain stats or are in a certain location together (or not together) with others. As tragedies happen, players loop back in time, restarting the scenario from the beginning and trying to deduce who the culprit was and why the tragedy occurred.&amp;#10;&amp;#10;The players win if they manage to maintain status quo &amp;mdash; that is, if no tragedies occur to the key individuals &amp;mdash; for a set number of days, within a set number of loops. If not, the mastermind wins.&amp;#10;&amp;#10;Tragedy Looper was originally released in Japan as &amp;#230;&amp;#131;&amp;#168;&amp;#229;&amp;#138;&amp;#135;RoopeR in 2011; the first english version of the game was released in 2014.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="99">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="69" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="41" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="64" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="88" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="11" />
+					<result value="16" numvotes="5" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="23">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="13" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="9" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder/Mystery" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56426" value="Game: Tragedy Looper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72224" value="Misc: Limited Replayability" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Theme: Anime / Manga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6258" value="Theme: Time Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150610" value="Tragedy Looper Script Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150607" value="Tragedy Looper: Another Horizon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205324" value="Tragedy Looper: Cosmic Evil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="148321" value="Tragedy Looper: Haunted Stage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181173" value="Tragedy Looper: Midnight Circle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160796" value="Tragedy Looper: Midnight Zone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="148320" value="Tragedy Looper: Mystery Circle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207674" value="Tragedy Looper: Weird Mythology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="276596" value="Tragedy Looper: Young Girl" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291138" value="Tragedy Looper: Insert Here Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70710" value="BakaFire" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12176" value="Bascu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70711" value="Rei Konno" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25933" value="BakaFire Party" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51801" value="Studio Yax" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4454" />
+			<average value="7.18396" />
+			<bayesaverage value="6.64022" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="925" bayesaverage="6.64022" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="187" bayesaverage="6.83699" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="548" bayesaverage="6.73548" />
+												</ranks>
+
+			<stddev value="1.56942" />
+			<median value="0" />
+			<owned value="8816" />
+			<trading value="421" />
+			<wanting value="198" />
+			<wishing value="1500" />
+			<numcomments value="1077" />
+			<numweights value="201" />
+			<averageweight value="3.5522" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

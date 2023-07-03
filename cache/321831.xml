@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="321831">
+         <thumbnail>https://cf.geekdo-images.com/iBtHm9fyNQnz9FPb69Igfg__thumb/img/n-2EPDaAPQT93u3xAXsVV2VxoYY=/fit-in/200x150/filters:strip_icc()/pic5713996.png</thumbnail>
+      <image>https://cf.geekdo-images.com/iBtHm9fyNQnz9FPb69Igfg__original/img/5RghBITX5THVB0FZpd_N0Ju3Ym0=/0x0/filters:format(png)/pic5713996.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Permute" />
+			
+						                           
+						               													<description>Permute is an abstract strategy game inspired by the Rubik&amp;rsquo;s Cube.  In Permute, two players take it in turns to twist 2x2 sets of pieces on the board, attempting to 'solve' together connected groups of their pieces.  The player who builds the bigger solved group wins the game &amp;ndash; but at any time, the opponent can step in and twist your groups apart again!&amp;#10;&amp;#10;How to play:&amp;#10;&amp;#10;Permute is played on a square board filled with orange and yellow playing pieces in an alternating checkerboard pattern.  Orange always plays first.  Players take it in turns to select a 2x2 area of the board, called a &amp;lsquo;face&amp;rsquo;, and twist the pieces within that area 90 degrees clockwise or counterclockwise, as if rotating the face of a 2x2 Rubik&amp;rsquo;s Cube.  After twisting, the active player must flip over or &amp;lsquo;bandage&amp;rsquo; one of her pieces in that face; bandaged pieces may not be part of any more twisting moves for the remainder of the game.&amp;#10;&amp;#10;Over the course of the game, the accumulating bandaged pieces eventually make any further twists impossible; at that point, the game is over.  Players then count up their largest connected ('solved') group of pieces of their colour; pieces only count as connected when they are horizontally or vertically adjacent.  The player with the largest solved group of pieces wins the game.  If the players are tied for the largest group, then the second-largest groups of each player are compared to determine the winner; if those are also tied, then the third-largest groups are compared; and so on.&amp;#10;&amp;#10;Permute is a scalable game and can be played on any board size. &amp;#10; Playing on a 12x12 board is recommended for casual play, and a 16x16 board for deeper strategic contests.  A typical game on a 12x12 board will last 40-50 turns; a 16x16 game will last 70-80 turns.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="120" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="130931" value="Eric Silverman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

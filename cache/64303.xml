@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="64303">
+         <thumbnail>https://cf.geekdo-images.com/do4ixy786P_HBf8Pj7PoBA__thumb/img/d_yMZZuHtl_ighm20lK0UUKGzuk=/fit-in/200x150/filters:strip_icc()/pic635170.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/do4ixy786P_HBf8Pj7PoBA__original/img/OcqVJujUrMXbdzrt-gvleAB6Nmo=/0x0/filters:format(jpeg)/pic635170.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Growth Medium" />
+			
+						                           
+						               													<description>Objective&amp;#10;To grow your parasite to control the board through destroying the other parasites.&amp;#10;Contents&amp;#10;&amp;#10;     2 game boards (4 playable surfaces)&amp;#10;     2 colors of parasite chips (50 each color)&amp;#10;&amp;#10;&amp;#10;Setup&amp;#10;Each player chooses a color. Place one chip on any circle with a black circle in the middle, this is your initial infection. The player who was last sick goes first (their parasite is closer to the surface). Play will continue clockwise.&amp;#10;&amp;#10;Play&amp;#10;A turn consists of two phases:&amp;#10;1) Growth&amp;#10;Some circles have a set of numbers in them. The first number is the amount of parasite chips that grow every turn. If you have at least one chip in the circle, you will add this number of chips to the circle. If you do not have enough chips of your color, you may choose where to grow. The maximum number of chips a single player may have on the board is 50. The second number is the maximum amount of parasites this circle can support. If you begin the turn beneath the maximum, you may grow to the maximum number. If you begin the turn above the maximum, your parasites are strangled and you LOSE the amount of chips you would have gained (down to the maximum, but not below). &amp;#10;Examples:&amp;#10;&amp;#10;     Parasite Influidia has 3 chips on a circle with +3/15. This turn Influidia gains 3 chips to be at 6.&amp;#10;     Parasite Betonium has 16 chips on a circle with +2/10. This turn Betonium loses 2 chips to be at 14.&amp;#10;     Parasite Steve has 14 chips on a circle with +3/15. This turn Steve gains 1 chip up to the circle maximum of 15.&amp;#10;     Parasite Rogainium has 11 chips on a circle with +2/10. This turn Rogainium loses 1 chip down to the circle maximum of 10.&amp;#10;&amp;#10;&amp;#10;2) Movement&amp;#10;Once all your parasites have grown, you may move them. Parasites may move across one black line connecting two circles. Parasites may only move one circle per turn. All parasites must move in stacks of a maximum of 5. You may split your parasites into smaller stacks at any time. The unnumbered circles may only have one stack inside at a time (so a maximum of a 5). Any parasites inside of an  unnumbered circle MUST MOVE this turn or lose one chip. Any parasite moving into a circle occupied by another player begins combat. Combat When one player's parasites moves onto another player's  parasites, they fight. Each attacking parasite kills one defending parasite by sacrificing itself. If the attacking player has more parasites, the remainder now occupy the circle. If the defending player has more parasites, any that are left remain on the circle. If both players have the same number of parasites, all are destroyed and the circle is left empty.&amp;#10;&amp;#10;Elimination / Winning&amp;#10;If at any time a player has no more parasites on the board, they are eliminated. The game is over when one player controls all green-colored circles.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11317" value="Preaction's Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

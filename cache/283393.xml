@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="283393">
+         <thumbnail>https://cf.geekdo-images.com/_8WvjlAU1_Y0qhwTjXvbnA__thumb/img/8zjeyk9juPqsHIwuPt7wiZFia-M=/fit-in/200x150/filters:strip_icc()/pic5578646.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_8WvjlAU1_Y0qhwTjXvbnA__original/img/q01FWyijYaqvGhuwz-lkPBoxaRo=/0x0/filters:format(jpeg)/pic5578646.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Aquatica" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Atlantes" />
+			    				
+				<name type="alternate" sortindex="1" value="Акватика" />
+			    				
+				<name type="alternate" sortindex="1" value="アクアティカ" />
+			    				
+				<name type="alternate" sortindex="1" value="大洋之下" />
+			    				
+				<name type="alternate" sortindex="1" value="아쿠아티카" />
+			
+						               													<description>Aquatica  is a deep, but easy to learn family engine builder about underwater kingdoms.&amp;#10;&amp;#10;In the game you will become one of the mighty ocean kings, struggling to bring glory to his realm. To win the game, you need to capture and buy locations, recruit new characters, and complete goals; each of these actions gives you victory points at the end of the game. To do so, you need to play cards from your hand (each with a unique set of actions) and combine them. Don't think it's simple! With a good strategy during your turn, you can take up to ten actions in a row.&amp;#10;&amp;#10;You will encounter plenty of mysterious ocean creatures and take them to your hand. With their help you will explore the unknown locations and raise found resources from the ocean depths to your kingdom. Mechanically this is represented with the help of three-layered player board and the unique mechanism of card-rising.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="85">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="561" value="No necessary in-game text" numvotes="0" />
+					<result level="562" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="563" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="564" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="565" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3005" value="Slide/Push" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25706" value="Series: Dice Tower Essentials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66105" value="Theme: Under the Sea" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="300872" value="Aquatica: Cold Waters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327481" value="Aquatica: Raum the Cruel &amp; Nerine the Law Keeper Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376994" value="Aquatica: Sea Diva &amp; Shell-Armored Raiders Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334640" value="Aquatica: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="363814" value="Aquatica: e-Raptor Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="119161" value="Ivan Tuzovsky" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="90945" value="Irina Kuzmina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119162" value="Andrew Modestov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119164" value="Oleg Proshin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119163" value="Artur Varenyev" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119165" value="Marat Zakirov" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29930" value="Cosmodrome Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17812" value="Arcane Wonders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50638" value="DICE TOWER ESSENTIALS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25996" value="Jumping Turtle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29154" value="数寄ゲームズ (Suki Games)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5439" />
+			<average value="7.38603" />
+			<bayesaverage value="6.87841" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="579" bayesaverage="6.87841" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="350" bayesaverage="6.9799" />
+												</ranks>
+
+			<stddev value="1.1885" />
+			<median value="0" />
+			<owned value="8560" />
+			<trading value="133" />
+			<wanting value="391" />
+			<wishing value="2973" />
+			<numcomments value="942" />
+			<numweights value="123" />
+			<averageweight value="2.3008" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

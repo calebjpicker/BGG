@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="162107">
+         <thumbnail>https://cf.geekdo-images.com/BAduttsKwsxKrU3l04_SFA__thumb/img/K1N_ME-zA7nQD3WXUQvZVaXvYKw=/fit-in/200x150/filters:strip_icc()/pic2072378.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/BAduttsKwsxKrU3l04_SFA__original/img/q3WfHggh4RasEkbjYVVwvP_vR5o=/0x0/filters:format(jpeg)/pic2072378.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Doodle City" />
+			
+						                           
+						               													<description>Doodle City is a quick family game of city building. By drawing a network of roads on their play sheet, players are building a city and trying to score points for their hotels, shops and taxis &amp;mdash; all while avoiding pollution.&amp;#10;&amp;#10;Working out an ideal road network can be quite the puzzle, so before the game begins roads through parks are randomized, making sure that no two games will be alike. Each round, one white die per player, one additional white die, and a blue die are rolled onto the table. The blue die indicates which column the players must use, while each white die indicates a row. In turn each player picks a white die and draws in the given space. In most spaces you draw roads, but in parks you instead build houses. You can draw only once in each space, and if on your turn you cannot draw, you gain pollution.&amp;#10;&amp;#10;A building is scored the moment you draw in its space. For example, when you draw a road through a hotel space, you score points equal to the length of the road passing through that hotel. Shops score according to how many houses are currently connected to the shop. There are also bonuses awarded to the first player who connects a shop to a certain number of houses.&amp;#10;&amp;#10;The game ends when one player completes the highest possible hotel or shop score, or when a player loses his last tree due to pollution. Final scores are for connected taxis and for having least/most pollution.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="216" value="No necessary in-game text" numvotes="9" />
+					<result level="217" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="218" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="219" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="220" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="205790" value="Doodle China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="247643" value="Doodle Islands" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9637" value="Eilif Svensson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4063" value="Kristian Amundsen Østby" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76491" value="Gjermund Bohne" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27674" value="Aporta Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="890" />
+			<average value="6.29589" />
+			<bayesaverage value="5.74858" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4713" bayesaverage="5.74858" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1362" bayesaverage="5.82067" />
+												</ranks>
+
+			<stddev value="1.26617" />
+			<median value="0" />
+			<owned value="1227" />
+			<trading value="36" />
+			<wanting value="28" />
+			<wishing value="150" />
+			<numcomments value="203" />
+			<numweights value="35" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

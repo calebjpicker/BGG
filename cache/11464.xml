@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11464">
+         <thumbnail>https://cf.geekdo-images.com/TNu_3chWLyQkkrs8z0ATyg__thumb/img/GSNslIyG78JT7IEWVvC-LZGNBQ8=/fit-in/200x150/filters:strip_icc()/pic324517.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TNu_3chWLyQkkrs8z0ATyg__original/img/CpHNYc3Zz68NlsfX4ZrxGkEECM8=/0x0/filters:format(jpeg)/pic324517.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Alquerque" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Al-quirkat" />
+			    				
+				<name type="alternate" sortindex="1" value="Alquerc" />
+			    				
+				<name type="alternate" sortindex="3" value="L&#039;Alquerque" />
+			    				
+				<name type="alternate" sortindex="1" value="Alquerques" />
+			    				
+				<name type="alternate" sortindex="1" value="El-quirkat" />
+			    				
+				<name type="alternate" sortindex="1" value="Quadruple Alquerque" />
+			    				
+				<name type="alternate" sortindex="1" value="Quirkat" />
+			    				
+				<name type="alternate" sortindex="1" value="Τα εμπόδια" />
+			
+						               													<description>The game of Alquerque is played on a special board of 5 x 5 points with lines between them to indicate allowed moves.  To draw a board is easy.  First draw a 5 x 5 orthogonal grid.  The draw two diagonal lines - from each corner to the opposite corner.  Finally draw four diagonal lines in the form of a square that connects the midpoints of each side.&amp;#10;Alquerque is played with 12 black pieces and 12 white pieces in a similar way to Draughts (Checkers).  &amp;#10;The player playing black pieces places them on the 10 points of the nearest 2 rows plus the 2 rightmost points on the middle row as the player looks at it.  The other player sets the white pieces up in exactly the same way.  This leaves only the middle point without a piece upon it. The objective of the game is to take all of the opponent's pieces or to produce a position such that the opponent is unable to move.&amp;#10;&amp;#10;Play&amp;#10;Players take turns to move one of their pieces.  A piece may only move along the lines inscribed upon the board.  For each turn a piece makes either a capturing move or an ordinary move.&amp;#10;Whenever a piece has an opponent's piece adjacent to it and the point immediately beyond the opponent's piece is vacant, the opponent's piece can be captured.  A piece is taken by simply hopping over it into the vacant point beyond and removing it from the board.  Unlike an ordinary move, a capturing move can consist of several such hops - if a piece takes an opponent's piece and the new position allows it to take another piece, then it can do so straight away.  The move finishes when the position of the capturing piece no longer allows it to taken any more pieces or the player could make another capture but decides not to.&amp;#10;&amp;#10;An ordinary move is made by simply moving a piece along a line to an adjacent point.&amp;#10;Finishing&amp;#10;The game is won by the player who first manages to take all his opponent's pieces or by the player who has more pieces when it becomes apparent that no more pieces will be taken.   Alternatively, a player can win by rendering the other player unable to move. &amp;#10;A draw occurs by agreement at any point during the game.  If it becomes apparent that no more pieces will be taken and both players have the same number of pieces left, a draw is agreed.  Draws are very common.&amp;#10;&amp;#10;Arie van der Stoep's reconstruction:&amp;#10;&amp;#10;In his book Draughts in relation to chess and alquerque (2005) Arie van der Stoep contends that Alquerque de doze was in medieval times played by the following rules. Counters can move and capture, by the short leap, forwards and sideways. Capture is not compulsory. Counters are promoted to Sultans at the last rank. The Sultan (King) moves and captures in all directions. Counters are obliged to follow the pattern on the board. Goal is to capture all the opponent's counters.&amp;#10;&amp;#10;There existed two variants of Medieval Alquerque. In one version the Sultan can only move one square (short Sultan), and captures by the short leap. This was foremostly played in countries within the Roman sphere of influence. In the other variant the Sultan moves any number of squares, and captures like the King in international draughts, landing anywhere behind the captured piece. This was foremostly played in countries within the Arabic sphere of influence. In Sultan endgames, a majority of at least two Sultans is necessary for a win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="4" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11505" value="Promotional: Promo Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19524" value="Traditional Games: Alquerque" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26855" value="Traditional Games: Alquerque / Fanorona (Indian War Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="210064" value="5 Quadrat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="352837" value="AGON: 24 táblajáték a nagyvilágból" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="7159" value="The Boardgame Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="317608" value="Gamebook: An Interactive Book of Board Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="83298" value="Alfonso X de Castille" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109538" value="Jorge Yañez" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109537" value="Mariela Arratia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60765" value="Dieter Zander" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2407" value="Clemens Gerhards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51319" value="Cloud Home Craft" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17388" value="Creative Crafthouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27434" value="Cyningstan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3082" value="Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6091" value="Falke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38726" value="Guild Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22761" value="Historische Spiele Zander" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50685" value="HistoryGames.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39372" value="JACAMBLY GAMES" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39371" value="Krealudik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2547" value="Masters Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49182" value="New Venture Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3244" value="Nyt Nordisk Forlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23494" value="Oficina do Aprendiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24436" value="Regionalia Verlag GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25685" value="Taş Devrı Oyuncak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30072" value="ΕΠΑ (EPA)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="108" />
+			<average value="5.65005" />
+			<bayesaverage value="5.50676" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18967" bayesaverage="5.50676" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="985" bayesaverage="5.53332" />
+												</ranks>
+
+			<stddev value="1.41259" />
+			<median value="0" />
+			<owned value="202" />
+			<trading value="2" />
+			<wanting value="2" />
+			<wishing value="32" />
+			<numcomments value="63" />
+			<numweights value="12" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

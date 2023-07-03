@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6901">
+         <thumbnail>https://cf.geekdo-images.com/EEJ7x-282hjVd7jeAUKd3g__thumb/img/Uy1NuhMX6dfpDe0GBjTBA-vfL8E=/fit-in/200x150/filters:strip_icc()/pic2272415.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/EEJ7x-282hjVd7jeAUKd3g__original/img/mBrtmeRRQHLC-JJIUfxXlYU28ns=/0x0/filters:format(jpeg)/pic2272415.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Euchre" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agricola Euchre" />
+			    				
+				<name type="alternate" sortindex="1" value="Euchre for Dummies" />
+			    				
+				<name type="alternate" sortindex="1" value="Tudor Euchre &amp; Pinnochle" />
+			    				
+				<name type="alternate" sortindex="1" value="Юкер" />
+			
+						               													<description>Euchre is a trick taking card game. Although for two to seven players, Euchre is best with four playing as partners. This is a relatively simple bidding and trick-taking game, and one of the best non-threatening partnership games.&amp;#10;&amp;#10;Conventional Euchre uses a deck of 24 standard playing cards consisting of A, K, Q, J, 10, and 9 of each of the four suits. A standard deck  52-card deck can be used, omitting the cards from 2 to 8. Players are dealt a five-card hand and the object is to win three of the five tricks. A card is turned up to determine trump, which can be either accepted or refused by each player in turn. If refused, another bidding round takes place in which each player is given the privilege of naming trump. The player fixing trump has the option of playing alone or with their partner (playing alone increases the scores and penalties.)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1848" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="7" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="55">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9531" value="Series: Games for Dummies" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42597" value="Tina Spain McDuffie" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15310" value="Gale Force Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="468" value="The United States Playing Card Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="254" value="University Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2554" />
+			<average value="6.81914" />
+			<bayesaverage value="6.21639" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1875" bayesaverage="6.21639" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="557" bayesaverage="6.31909" />
+												</ranks>
+
+			<stddev value="1.70282" />
+			<median value="0" />
+			<owned value="1980" />
+			<trading value="14" />
+			<wanting value="5" />
+			<wishing value="70" />
+			<numcomments value="729" />
+			<numweights value="166" />
+			<averageweight value="1.6928" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

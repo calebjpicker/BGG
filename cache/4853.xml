@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="4853">
+         <thumbnail>https://cf.geekdo-images.com/qipeanA9JXFe9knykh-2xw__thumb/img/v4gK2qhFF_SXEcPFASUQkcdYVn4=/fit-in/200x150/filters:strip_icc()/pic3768985.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/qipeanA9JXFe9knykh-2xw__original/img/JFKqJ0VAsqbA7nqv7_t-eSU1XNo=/0x0/filters:format(jpeg)/pic3768985.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tripoley" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kitty" />
+			    				
+				<name type="alternate" sortindex="1" value="Púkk" />
+			    				
+				<name type="alternate" sortindex="1" value="Púkk jólaspilið" />
+			    				
+				<name type="alternate" sortindex="1" value="Rummy" />
+			    				
+				<name type="alternate" sortindex="1" value="Rummy Royal" />
+			
+						               													<description>A standard deck playing card game played with a special layout (or board) and poker chips.  It is a modern version of the game of Poch.  Each hand has three phases: &amp;quot;Hearts&amp;quot;, &amp;quot;Poker&amp;quot;, and &amp;quot;Michigan Rummy&amp;quot;.  All cards are dealt out, including one extra hand which remains unseen.  Players place chips in the spaces for the special combinations on the playing mat/board, the &amp;quot;Poker&amp;quot; pot, and the &amp;quot;Kitty&amp;quot;.  The first phase pays off for holding certain cards or combinations (that match the combinations on the playing layout/board).  The second phase is a hand of poker; each player selecting five cards from his hand to play.  A hand of Poker betting takes place, with bets added to the &amp;quot;Poker&amp;quot; pot, and the winner wins the &amp;quot;Poker&amp;quot; pot.  In the third phase, players play a slight variation of the game of Michigan (similar to Fan Tan), and the first to go out wins the chips in the &amp;quot;Kitty&amp;quot;.&amp;#10;&amp;#10;The book Games We Play pictures a version of Poch published in ~1830 in Nuremberg by Verlag Fr Scharrer.  From this illustration we can see the evolution of Pope Joan to Poch, which was further refined into the Tripoley we see today.&amp;#10;&amp;#10;This game is a Public Domain game known as Michigan Rummy.  This name comes from the third phase where the standard deck playing card game of Michigan (&amp;quot;Stops Family&amp;quot;) is played.  Michigan Rummy should not be confused with the game of 500 Rum and its variation called Michigan Rum from the Rummy Family.&amp;#10;&amp;#10;The spots on the board are 10-J-Q-K-A of Hearts (5 spots), 8-9-10 all one suit (one spot), Q-K of Hearts (one spot), and the Kitty.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Pochspiel&amp;#10;&amp;#10;&amp;#10;Also see:&amp;#10;&amp;#10;    Michigan Rummy&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1937" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="9" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="4" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24432" value="Card Games: Matching" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10121" value="Game: Tripoley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10132" value="Series: Senior (Cadaco)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9313" value="Traditional Card Games: Poker" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="186430" value="Five Famous Favorites" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28268" value="Stanley Hopkins" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="553" value="Cadaco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12554" value="Frímerkjamiðstöðin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12572" value="Gutenberg ehf." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="153" value="Ideal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16683" value="Rainbow Works" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1964" value="Stancraft Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2062" value="Watkins Strathmore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="329" value="Whitman" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="888" />
+			<average value="5.63184" />
+			<bayesaverage value="5.52947" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14080" bayesaverage="5.52947" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2552" bayesaverage="5.52052" />
+												</ranks>
+
+			<stddev value="1.693" />
+			<median value="0" />
+			<owned value="2302" />
+			<trading value="67" />
+			<wanting value="3" />
+			<wishing value="28" />
+			<numcomments value="366" />
+			<numweights value="61" />
+			<averageweight value="1.4918" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

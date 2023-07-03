@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="260168">
+         <thumbnail>https://cf.geekdo-images.com/FSRiTcMh5vSxeuNGXCPjfQ__thumb/img/mqrUMm2qkOCnQe3duRLGaX4nEmY=/fit-in/200x150/filters:strip_icc()/pic5203263.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FSRiTcMh5vSxeuNGXCPjfQ__original/img/HCMtzNQH_fWytxjE9Z4NVSahju8=/0x0/filters:format(jpeg)/pic5203263.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Volleyball High" />
+			
+						                           
+						               													<description>The spiritual successor to tennis game Sweet Spot, Volleyball High is the second entry in a trilogy of sports titles by Medieval Lords. The mechanisms and gameplay are completely different though. Heavily inspired by the Japanese anime Haikyu, one can expect unique school teams known for various specialties and powerful individuals with their own signature moves. The package is completed with each school having their own coach as well, who can execute abilities to assist their teams.&amp;#10;&amp;#10;Players choose to play as one of several school teams. Volleyball High is a game of spatial control and hand management. There are 5 types of cards - Set, Bump, Dig, Serve and Spike. Each type has a distance range as well as Hit value. Players will play these cards to pass the ball between their own members as well as smash it over the net to the opponent. When the ball crosses the net, a player must always first defend by discarding cards showing DEF value equal to or greater than the Hit value of the attack. Then he chooses which member to receive the ball, again discarding cards for every extra space that member has to move in order to reach the ball. If the chosen member is already at the spot the ball is going, there is no need to discard any cards for movement. Finally, he plays a card to hit the ball and flip that member over (this member is now exhausted and cannot hit the ball again) There is a benefit in passing the ball around before sending it back to the opponent though - each time a member of the team touches the ball, the team synergy meter goes up by one. It is this value that determines how much Energy the team gains, as well as how many cards to replenish from the deck when the ball is sent over. Players can discard 2 cards to flip back an exhausted member. Here is the interesting part - if all 6 of your members are exhausted at the same time, they automatically refresh together and flip back as a team for free! Also when you set up the ball by passing it from a front member to another front member, when that member hits it over the net it is considered a Heavy attack. Unlike the typical defense where the opponent simply chooses which cards to discard to match the Hit value, in a Heavy attack it is a blind defense. He decides how many cards to discard, after which you can then randomly draw from his hand without looking. In this manner it is a press-your-luck style where your opponent must decide how much to commit to defend this Heavy attack. Too many and he will waste cards unnecessarily, too little and he risks not having enough DEF to overcome the attack.&amp;#10;&amp;#10;The first team to score 2 points wins the game.&amp;#10;&amp;#10;In the 2v2 mode, it gets more intensive as each player controls 3 specific members of the same team and must coordinate between each other to take down their opponent. Even the slightest crack in teamwork will spell defeat!&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="25" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19284" value="Sports: Volleyball" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="77967" value="Dominic Michael Huang" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28143" value="Medieval Lords" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="102" />
+			<average value="7.08824" />
+			<bayesaverage value="5.57077" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9560" bayesaverage="5.57077" />
+												</ranks>
+
+			<stddev value="1.25887" />
+			<median value="0" />
+			<owned value="266" />
+			<trading value="19" />
+			<wanting value="10" />
+			<wishing value="55" />
+			<numcomments value="40" />
+			<numweights value="5" />
+			<averageweight value="2.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

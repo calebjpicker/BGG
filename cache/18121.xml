@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="18121">
+         <thumbnail>https://cf.geekdo-images.com/WtOhlphG1eiSJ7TX12hx8g__thumb/img/Jv9xIToBZLU1U7CHEauhrqsULSQ=/fit-in/200x150/filters:strip_icc()/pic90564.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WtOhlphG1eiSJ7TX12hx8g__original/img/nZtDhZ0pB8_BvcoSK87M_IIVcvc=/0x0/filters:format(jpeg)/pic90564.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Casino" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cassino" />
+			    				
+				<name type="alternate" sortindex="1" value="Kasino" />
+			    				
+				<name type="alternate" sortindex="1" value="Kaszinó" />
+			    				
+				<name type="alternate" sortindex="1" value="Quick Draw McGraw Kasino" />
+			
+						               													<description>Casino is a fishing standard deck playing card game based on the traditional Italian game Scopa.  It is one of the few card games played with all cards in a standard 52 card deck that can be dealt out evenly to 2, 3 or 4 players.&amp;#10;&amp;#10;Play starts with four cards to each player and four cards to the table.  Each numeral card is counted as its numerical value.  The aim is to capture cards laying on the table by playing a card from hand which matches in number a table card or the sum of several table cards (for example, a 2 and an 8 can be captured by a ten).  Cards can also be stacked, called a &amp;quot;build&amp;quot;, to be taken next turn only if you have that card in your hand to take it later, risking their capture by another opponent (for example, a 2 and an 8 can have a 10 stacked upon it, next turn you can take the pile with another 10 and so can an opponent, capturing four cards).  Face cards are captured by the same face card.&amp;#10;&amp;#10;Cards must be played onto the table, called &amp;quot;trailing&amp;quot;, if there is nothing to capture.  Picked up cards are accumulated in a pile to be counted at the end of the round.  Once all players four card hands are depleted four cards are again dealt to each player (only deal the table on the first hand of a deck).  This happens until the deck is spent.  Cards remaining on the table after the deck is spent are won by the last player to capture a card.   Scoring depends on the variant.&amp;#10;&amp;#10;Most commonly the points total 11.  Per the rules published at pagat.com the scoring is as follows.&amp;#10;&amp;#10;Most cards = 3 points&amp;#10;Most spades = 1 point&amp;#10;10 of Diamonds (&amp;quot;Big Casino&amp;quot;) = 2 points&amp;#10;Deuce of Spades (&amp;quot;Little Casino&amp;quot;) = 1 points (also counted as a spade in Most Spades count)&amp;#10;Each Ace = 1 point (4 points with the Ace of spades counting towards most spades).&amp;#10;&amp;#10;A total of 11 points per deck, shuffling the deck again and starting over playing to 21.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Anathema&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1800" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="4" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="1439" value="Card Games: Fishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28519" value="TV Shows: Hanna-Barbera" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="12541" value="Card Games Around the World" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2931" value="ED-U-Cards Mfg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30725" value="H-B Productions, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4977" value="Kirjalito" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="317" />
+			<average value="6.31963" />
+			<bayesaverage value="5.61315" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7436" bayesaverage="5.61315" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1837" bayesaverage="5.65598" />
+												</ranks>
+
+			<stddev value="1.56908" />
+			<median value="0" />
+			<owned value="212" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="17" />
+			<numcomments value="127" />
+			<numweights value="31" />
+			<averageweight value="1.3871" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

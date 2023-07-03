@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="12681">
+         <thumbnail>https://cf.geekdo-images.com/QgMrh4uKVO_f6VwYcDHCuQ__thumb/img/uNtBFW7e1HUNDOAnlPXcFz70H8g=/fit-in/200x150/filters:strip_icc()/pic299414.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QgMrh4uKVO_f6VwYcDHCuQ__original/img/wEb5mdb8pWkLYw81So7cTUspY9Q=/0x0/filters:format(jpeg)/pic299414.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Neuland" />
+			
+						                           
+						               													<description>Neuland is a game about logistics and planning.  In the beginning of the game, the land lies undeveloped, a series of blank hexes representing mountains, forests, and grasslands.  Players win by building and using prestige properties that allow them to place their family's coat-of-arms onto the board -- first to place all their coats of arms wins.&amp;#10;&amp;#10;To use these buildings, though, requires the player have the correct raw materials.  Swords and cloth, for example, or coins and paper.   Each one of these materials needs even more basic materials, such as iron ore, coal, and so on backward toward the most basic elements such as food, wood, and stone.&amp;#10;&amp;#10;To cull these materials from the land, one builds buildings -- a Stonecutter's Hut, Smelter, Coin Manufactury, and so on.  Once on the board, buildings can be used by any player, not just the one who built them.&amp;#10;&amp;#10;A player doesn't collect these resources for safekeeping as in The Settlers of Catan or Keythedral.  Instead, resources claimed via buildings must be used up either in the player's current turn or his next one.  If he doesn't, the resources spoil and are removed from the board.&amp;#10;&amp;#10;Essentially, the challenge of the game is one of planning logistical supply chains which will allow one to process these resources most efficiently to build the prestige properties the fastest.  Since it's a perfect information game, one can also see what one's opponents are scheming, and place workers to interrupt their supply chains, possibly causing their resources to spoil and making the player start from zero again.&amp;#10;&amp;#10;Neuland's most interesting innovation is perhaps its Time Track Mechanism, in which players who take less actions in a turn will have turns more frequently, and can forward-plan in order to take a long turn of nearly twenty actions instead of the ordinary maximum of ten.&amp;#10;&amp;#10;Neuland was originally published by eggertspiele in 2004, and republished by Z-man in 2006 with some significant rules changes.  A majority of BGG users seem to strongly prefer the original eggertspiele rules. Also heavily recommended is the rules re-write file available for download here on BGG, for the one that comes with the 2nd edition is nearly incomprehensible.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="40">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="12" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2663" value="Turn Order: Time Track" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1763" value="Peter Eggert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3989" value="Tobias Stapelfeldt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12675" value="Steffi Krage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11898" value="Andreas Resch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1015" value="eggertspiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1444" />
+			<average value="6.45735" />
+			<bayesaverage value="5.911" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3274" bayesaverage="5.911" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1429" bayesaverage="5.99891" />
+												</ranks>
+
+			<stddev value="1.53896" />
+			<median value="0" />
+			<owned value="2218" />
+			<trading value="250" />
+			<wanting value="65" />
+			<wishing value="310" />
+			<numcomments value="671" />
+			<numweights value="150" />
+			<averageweight value="3.7" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

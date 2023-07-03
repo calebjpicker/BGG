@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="222542">
+         <thumbnail>https://cf.geekdo-images.com/s6AjwCWQfx_QMwQu1GjDlA__thumb/img/2dVwTBzFjnD631EpFBx7D427HVU=/fit-in/200x150/filters:strip_icc()/pic3668630.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/s6AjwCWQfx_QMwQu1GjDlA__original/img/aCGyu5_4HT9QAfYUjfKg3F0lpWI=/0x0/filters:format(jpeg)/pic3668630.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Otys" />
+			
+						                           
+						               													<description>Mid-22nd century, after 300 years of unconsciousness, the water rising engulfs the last emerged lands. Fighting for their lives, the survivor&amp;rsquo;s settlements must remain above the sea level. You live in the Otys colony and you must retrieve the past civilizations debris in the depths to build the future of humanity.&amp;#10;&amp;#10;Your diver&amp;rsquo;s team is trained to bring up the most useful materials remaining in the depths. You need to use them wisely to fulfill the contracts offered by the Colony and thus obtain more notoriety than your contenders. Your divers lay at different depths; it is up to you to best match their special abilities with the bonuses offered by the Colony. But beware! Your diver&amp;rsquo;s oxygen is limited, and as soon as they have accomplished their mission, they must go up to the surface. Try to manage all the parameters of your team in a profitable way, so the Colony will reward you more than it will the others!&amp;#10;&amp;#10;Otys is an optimization and development game co-published by Pearl Games and Libellud. Optimize your game in order to match the depth of your divers, their special abilities and the Colony bonuses. That is how you will supply the best contracts and win.&amp;#10;&amp;#10;The future is built from the past...&amp;#10;&amp;#10;In Otys,  each player has a team of divers and must use them to take actions, retrieve items, and complete objectives. The divers are stacked in a column on the player's individual game board, and some of them are next to depth gauges that read 1-5.&amp;#10;&amp;#10;On a turn, a player chooses an available depth gauge on their individual board, then carries out the action at that same depth on the shared game board, then takes the action for their diver at that depth. Afterward that diver moves to the surface, pushing down all the other divers in the queue. That depth gauge is placed at the bottom of the player's board, and they return to the player's board to be chosen again only when that player's gauge meter is full. Initially a player must play all six of their gauges before getting any back, but they can improve their meter so that it takes fewer gauges to fill, thereby giving them more choices for their actions.&amp;#10;&amp;#10;As divers obtain items, those items are kept at the appropriate depth on a player's board, and when a player has the needed items together at the same depth, they can claim one of the shared objectives revealed on the table or one of their personal objectives (if they've taken any). Players are racing to score 18 points first in order to win the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="58">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41799" value="Theme: Post-Apocalyptic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75775" value="Theme: Treasure Diving" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66105" value="Theme: Under the Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="99329" value="Claude Lucchini" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38196" value="Paul Mafayon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9051" value="Libellud" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12884" value="Pearl Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2340" />
+			<average value="6.97385" />
+			<bayesaverage value="6.29047" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1644" bayesaverage="6.29047" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="863" bayesaverage="6.41058" />
+												</ranks>
+
+			<stddev value="1.22504" />
+			<median value="0" />
+			<owned value="4391" />
+			<trading value="194" />
+			<wanting value="76" />
+			<wishing value="672" />
+			<numcomments value="497" />
+			<numweights value="84" />
+			<averageweight value="2.8929" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

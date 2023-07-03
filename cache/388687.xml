@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="388687">
+                                     				
+				<name type="primary" sortindex="1" value="Nadraz" />
+			
+						                           
+						               													<description>Nadraz (from Proto-Germanic: Nadraz, meaning &amp;quot;snake&amp;quot;) is an abstract board game for two players who play on an initially empty hexagonal board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective of the game is to build the longest snake possible, that is, one that contains the largest number of stones.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A hexagonal board with 9 intersections per side.&amp;#10;&amp;ndash; One set of black stones and one set of white stones.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A snake is a non-forked chain of two or more stones connected to each other.&amp;#10;&amp;ndash; A head or tail is a stone adjacent to only one friendly stone and is located at the ends of a snake, it is not allowed to leave it adjacent to two friendly stones unless it is no longer located at the ends (in which case it would cease to be the head or the tail).&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternate. On your turn, do one of the following placements:&amp;#10;&amp;#10;&amp;ndash; Advance by placing any number of stones of your color on empty intersections located in a straight line, from the front of the head or tail of one of your snakes.&amp;#10;&amp;ndash; Turn by placing any number of stones of your color on empty intersections located in a straight line, from the side of the head or tail of one of your snakes.&amp;#10;&amp;ndash; Bend by placing any number of stones of your color on empty intersections located in a straight line, from the back of the head or tail of one of your snakes.&amp;#10;&amp;#10;Each stone you place must be adjacent to one or two friendly stones, one of those stones must be the head or tail of one of your snakes to make it grow. However, you can place a stone that touches any number of friendly stones only if one of them is the head or tail of another snake(s), in order to join them to form a larger one.&amp;#10;&amp;#10;Cutting snakes:&amp;#10;When we grow a snake, we can cut enemy snakes by passing through them. When cutting an enemy snake, we go to one of its stones in a straight line to replace it with one of our color, to do so there must be an empty intersection on the other side of the replaced stone in which we will place a stone to carry out the cut otherwise it cannot be done. Also, it is not allowed to cut off the head or tail of a snake.&amp;#10;&amp;#10;Isolated stones:&amp;#10;It's possible that after a player cuts through his opponent's snakes there are isolated stones left, i.e. no adjacent friendly stones. As an isolated stone isn't considered a snake, it's forbidden to join isolated stones, as they must remain isolated throughout the game.&amp;#10;&amp;#10;End of the game:&amp;#10;When a player cannot make placements, they must pass their turn. In case no one can do it, the game ends and the player with the snake that contains the most stones wins, in case of a tie the player with the next snake wins and so on.&amp;#10;&amp;#10;To make the game fair, before the game begins, the first player places two starting snakes of two stones, one black and one white, on empty intersections on the board and the second player chooses the sides. This balancing method is called the four-stone pie rule.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

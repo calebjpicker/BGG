@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3065">
+         <thumbnail>https://cf.geekdo-images.com/kkJrUPoayp_xE4DmEwxbiA__thumb/img/_8-EgkIH7JBE5gE6c0f8ASLS5FY=/fit-in/200x150/filters:strip_icc()/pic6433305.png</thumbnail>
+      <image>https://cf.geekdo-images.com/kkJrUPoayp_xE4DmEwxbiA__original/img/F9jZUy7d9rgBCgT_LoS7CXDc52g=/0x0/filters:format(png)/pic6433305.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Monopoly: Stock Exchange" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Monopoly Bursátil" />
+			    				
+				<name type="alternate" sortindex="1" value="Monopoly Trader" />
+			    				
+				<name type="alternate" sortindex="1" value="Monopoly: Beurs Editie" />
+			    				
+				<name type="alternate" sortindex="1" value="Monopoly: Bolsa" />
+			    				
+				<name type="alternate" sortindex="1" value="Monopoly: Die Börse" />
+			    				
+				<name type="alternate" sortindex="1" value="Monopoly: Mercado Bursátil" />
+			    				
+				<name type="alternate" sortindex="1" value="Μονόπολη: Χρηματιστήριο" />
+			
+						               													<description>Monopoly: Stock Exchange is a Monopoly variant that adds stock manipulation and trading to the mix.  Instead of only one player owning a company (property), now multiple players can own stock in it.  The president is the player with a simple majority of stock in the company.  Acquire the presidency in a block of companies and you've got yourself a monopoly.&amp;#10;&amp;#10;An electronic console keeps track of the proceedings.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2001" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62857" value="Game: Monopoly (Official)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="193" />
+			<average value="5.65802" />
+			<bayesaverage value="5.50693" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18926" bayesaverage="5.50693" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2655" bayesaverage="5.50509" />
+												</ranks>
+
+			<stddev value="1.92243" />
+			<median value="0" />
+			<owned value="424" />
+			<trading value="13" />
+			<wanting value="12" />
+			<wishing value="41" />
+			<numcomments value="57" />
+			<numweights value="18" />
+			<averageweight value="2.2778" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

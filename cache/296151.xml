@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="296151">
+         <thumbnail>https://cf.geekdo-images.com/kMgSC_kRlJWt3KLj5y0BxQ__thumb/img/2uNYQn2vHuNGrx5-dxc1h7Mh7Do=/fit-in/200x150/filters:strip_icc()/pic5230695.png</thumbnail>
+      <image>https://cf.geekdo-images.com/kMgSC_kRlJWt3KLj5y0BxQ__original/img/t9ccf6x3PQiL5Cqn4-mePKUNC-E=/0x0/filters:format(png)/pic5230695.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Viscounts of the West Kingdom" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Burggrafen des Westfrankenreichs" />
+			    				
+				<name type="alternate" sortindex="1" value="Burggraven van het Westelijk Koninkrijk" />
+			    				
+				<name type="alternate" sortindex="3" value="A nyugati királyság várgrófjai" />
+			    				
+				<name type="alternate" sortindex="1" value="Vicomtes du Royaume de l&#039;Ouest" />
+			    				
+				<name type="alternate" sortindex="1" value="Vikomti Západního království" />
+			    				
+				<name type="alternate" sortindex="1" value="Viscondes do Reino Ocidental" />
+			    				
+				<name type="alternate" sortindex="1" value="Visconti del Regno Occidentale" />
+			    				
+				<name type="alternate" sortindex="1" value="Vizcondes del Reino del Oeste" />
+			    				
+				<name type="alternate" sortindex="1" value="Wicehrabiowie Zachodniego Królestwa" />
+			    				
+				<name type="alternate" sortindex="1" value="Віконти Західного Королівства" />
+			    				
+				<name type="alternate" sortindex="1" value="Виконты Западного Королевства" />
+			    				
+				<name type="alternate" sortindex="1" value="西フランク王国の子爵" />
+			    				
+				<name type="alternate" sortindex="1" value="西國子爵" />
+			
+						               													<description>Viscounts of the West Kingdom is set at a time when the King&amp;rsquo;s reign began to decline, circa 980 AD. Choosing peace over prosperity, our once strong King began offering our enemies gold and land to lay down their axes. But peace is a tenuous affair. As poverty spread, many people lost faith in his ability to lead and sought independence from the crown. Since finding favour in his courts, our future has also become uncertain. As viscounts, we must be wise and decisive. Loyalty is to be upheld, but gaining favour among the people must be our priority, should there be a sudden shift in power.&amp;#10;&amp;#10;The aim of Viscounts of the West Kingdom is to be the player with the most victory points (VP) at game's end. Points are gained by constructing buildings, writing manuscripts, working in the castle and acquiring deeds for new land. Players begin with a handful of townsfolk, but should quickly seek out more suitable talents to advance their endeavours. Each turn they will be travelling around the kingdom, looking to increase their influence among the various areas of society. The game ends once the Kingdom reaches poverty or prosperity - or potentially both!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="190">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="90" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="105" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="102" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="79" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="27">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="9" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="181" value="No necessary in-game text" numvotes="10" />
+					<result level="182" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="183" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="184" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="185" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2886" value="King of the Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58598" value="History: Francia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79098" value="Series: Medieval Trilogies (Garphill Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="53400" value="Series: The West Kingdom Trilogy (Garphill Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="322276" value="Viscounts of the West Kingdom: Courier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354693" value="Viscounts of the West Kingdom: Crossover Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372386" value="Viscounts of the West Kingdom: Dice Tower 2022 Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="343468" value="Viscounts of the West Kingdom: Gates of Gold" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="343470" value="Viscounts of the West Kingdom: Keeper of Keys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304627" value="Viscounts of the West Kingdom: King Dan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="330373" value="Viscounts of the West Kingdom: Suzerain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="296152" value="The West Kingdom Tomesaga" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="381082" value="Viscounts of the West Kingdom Collector's Box: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="325277" value="Viscounts of the West Kingdom: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="376751" value="Viscounts of the West Kingdom: GolonkoCrafts Inkwells" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334818" value="Viscounts of the West Kingdom: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348548" value="Viscounts of the West Kingdom: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365810" value="Viscounts of the West Kingdom: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="264865" value="West Kingdom: Metal Coins" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="103821" value="S J Macdonald" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12547" value="Shem Phillips" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70533" value="Mihajlo Dimitrievski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9459" value="Garphill Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27480" value="Fever Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49615" value="MEEPLE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Primigenio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42760" value="Yayoi The Dreamer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37975" value="株式会社ケンビル (KenBill)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8499" />
+			<average value="7.87827" />
+			<bayesaverage value="7.39883" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="153" bayesaverage="7.39883" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="106" bayesaverage="7.49843" />
+												</ranks>
+
+			<stddev value="1.20804" />
+			<median value="0" />
+			<owned value="17015" />
+			<trading value="120" />
+			<wanting value="417" />
+			<wishing value="3068" />
+			<numcomments value="1271" />
+			<numweights value="368" />
+			<averageweight value="3.4592" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

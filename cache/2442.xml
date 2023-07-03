@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2442">
+         <thumbnail>https://cf.geekdo-images.com/41_u_nYKHmZfWZX3A224Rw__thumb/img/guH2r0wO9nTXXttVKQ-nzFn6zm8=/fit-in/200x150/filters:strip_icc()/pic1262342.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/41_u_nYKHmZfWZX3A224Rw__original/img/d-FqgVK-Y4dYrFp9kk6ifG2tUtE=/0x0/filters:format(jpeg)/pic1262342.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tiles" />
+			
+						                           
+						               													<description>BoneGames (http://www.bonegames.com) produces a number of do-it-yourself free games.  You download a PDF containing rules and components, and print out what is required for play.&amp;#10;&amp;#10;Tiles is an abstract card game for two or three players.  Players play tiles to try to close areas of their colour to score points.  The larger the closed area, the more points scored.  The player with the most points at the end of the game wins.&amp;#10;&amp;#10;There are 45 square tiles, each subdivided into four triangular areas which are either white, black or gray.  Each player is assigned a colour.  Tiles must be played so the edge colours match already-played tiles; if one cannot play any tile, one must discard instead.  You can score only on your own turn.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="2" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="995" value="Bruce Biskup" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="994" value="Joshua Howard" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="529" value="BoneGames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="32" />
+			<average value="5.82188" />
+			<bayesaverage value="5.50548" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19234" bayesaverage="5.50548" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1026" bayesaverage="5.52141" />
+												</ranks>
+
+			<stddev value="1.29222" />
+			<median value="0" />
+			<owned value="74" />
+			<trading value="2" />
+			<wanting value="1" />
+			<wishing value="9" />
+			<numcomments value="24" />
+			<numweights value="6" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

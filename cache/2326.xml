@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2326">
+         <thumbnail>https://cf.geekdo-images.com/lkVMh58EPvcQWa7J-fsMnQ__thumb/img/GFr39S0LiVZz93uB-Xm4FSbesZc=/fit-in/200x150/filters:strip_icc()/pic451305.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lkVMh58EPvcQWa7J-fsMnQ__original/img/nbXtDJqnu_8qCbeTpwyEGNN0TKY=/0x0/filters:format(jpeg)/pic451305.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pirate and Traveler" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pirate and Traveller" />
+			    				
+				<name type="alternate" sortindex="1" value="Turistas y Piratas" />
+			
+						               													<description>From the 1936 Edition Rules:&amp;#10;&amp;#10;&amp;quot;This is a Game of Travel, concluding with a Pirate fight.  It comprises a Game-Board, Travel-Cards, Four Travelers, and Spinner.  The Game-Board is a Map of the World.  The Travel-Cards indicate journeys to be made by the Travelers, and the distance to be traveled in each move is determined by spinning.  As the routes of travel are well-known railroad and steamship lines, the players acquire a knowledge of these, also the chief cities and ports and their principal articles of commerce...&amp;quot;&amp;#10;&amp;#10;The game was first published by Milton Bradley in 1911.  Other known dates of publication include 1936, 1953, 1956, 1960 and (finally?) 1970.  The game was also published in Great Britain by Chad Valley in the 1960's.  Details of the world map, travel cards, etc. vary between editions.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1908" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64952" value="Components: Map (Global Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58191" value="Elizabeth G. Sanderson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="662" value="Arrow Games Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="507" value="Chad Valley Co Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="661" value="John Sands Pty Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8245" value="Juegos Crone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11547" value="New Idea Game Co." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6492" value="Somerville Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="75" />
+			<average value="5.352" />
+			<bayesaverage value="5.48978" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21892" bayesaverage="5.48978" />
+												</ranks>
+
+			<stddev value="1.58437" />
+			<median value="0" />
+			<owned value="251" />
+			<trading value="14" />
+			<wanting value="8" />
+			<wishing value="23" />
+			<numcomments value="62" />
+			<numweights value="7" />
+			<averageweight value="1.2857" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

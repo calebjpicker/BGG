@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="155426">
+         <thumbnail>https://cf.geekdo-images.com/jVAMlNeDMVZakxJPy-lDrQ__thumb/img/PfOJx2RMkYg-Uk7mWBMF0HvTxqo=/fit-in/200x150/filters:strip_icc()/pic7229993.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jVAMlNeDMVZakxJPy-lDrQ__original/img/J4J6wVMItmWj4Yxt8JmuO1g76PE=/0x0/filters:format(jpeg)/pic7229993.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Castles of Mad King Ludwig" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Castillos del Rey loco Ludwig" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Schlösser des König Ludwig" />
+			    				
+				<name type="alternate" sortindex="1" value="Zamki szalonego króla Ludwika" />
+			    				
+				<name type="alternate" sortindex="1" value="Zámky šíleného krále Ludvíka" />
+			    				
+				<name type="alternate" sortindex="1" value="Замки безумного короля Людвига" />
+			    				
+				<name type="alternate" sortindex="1" value="ノイシュヴァンシュタイン城" />
+			    				
+				<name type="alternate" sortindex="1" value="瘋王城堡" />
+			    				
+				<name type="alternate" sortindex="1" value="루트비히의 성" />
+			
+						               													<description>In the tile-laying game Castles of Mad King Ludwig, players are tasked with building an amazing, extravagant castle for King Ludwig II of Bavaria...one room at a time. You see, the King loves castles, having built Neuschwanstein (the castle that inspired the Disney theme park castles) and others, but now he's commissioned you to build the biggest, best castle ever &amp;mdash; subject, of course, to his ever-changing whims. Each player acts as a building contractor who is adding rooms to the castle he's building while also selling his services to other players.&amp;#10;&amp;#10;In the game, each player starts with a simple foyer. One player takes on the role of the Master Builder, and that player sets prices for a set of rooms that can be purchased by the other players, with him getting to pick from the leftovers after the other players have paid him for their rooms. When a room is added to a castle, the player who built it gains castle points based on the size and type of room constructed, as well as bonus points based on the location of the room. When a room is completed, with all entranceways leading to other rooms in the castle, the player receives one of seven special rewards.&amp;#10;&amp;#10;After each purchasing round, a new player becomes the Master Builder who sets prices for a new set of rooms. After several rounds, the game ends, then additional points are awarded for achieving bonus goals, having the most popular rooms, and being the most responsive to the King's demands, which change each game. Whoever ends up with the most castle points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="339">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="154" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="45" />
+					<result value="Recommended" numvotes="156" />
+					<result value="Not Recommended" numvotes="76" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="128" />
+					<result value="Recommended" numvotes="152" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="198" />
+					<result value="Recommended" numvotes="89" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="139" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="63">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="28" />
+					<result value="12" numvotes="17" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="56">
+			
+		<results>		
+					<result level="196" value="No necessary in-game text" numvotes="14" />
+					<result level="197" value="Some necessary text - easily memorized or small crib sheet" numvotes="38" />
+					<result level="198" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="199" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="200" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2710" value="Post-Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2924" value="Auction: Dutch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2906" value="I Cut, You Choose" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50253" value="Game: Castles of Mad King Ludwig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66113" value="Theme: Construction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369657" value="Castles of Mad King Ludwig: Expansions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369683" value="Castles of Mad King Ludwig: Renovations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174296" value="Castles of Mad King Ludwig: Secrets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186549" value="Zamki szalonego króla Ludwika: Polskie zamki" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271424" value="Castles of Mad King Ludwig: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271628" value="Castles of Mad King Ludwig: Mad King Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272014" value="Castles of Mad King Ludwig: Meeple Realty Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="258036" value="Between Two Castles of Mad King Ludwig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="326945" value="Castles of Mad King Ludwig: Collector's Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="223278" value="The Palace of Mad King Ludwig" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6046" value="Ted Alspach" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17929" value="Keith Curtis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42856" value="Agnieszka Dabrowiecka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="62217" value="Ollin Timm" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5774" value="Bézier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24867" value="Gemenot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23756" value="MYBG Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25406" value="Planszoweczka.pl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30113" value="Viravi Edicions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="24753" />
+			<average value="7.52164" />
+			<bayesaverage value="7.3453" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="179" bayesaverage="7.3453" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="142" bayesaverage="7.3628" />
+												</ranks>
+
+			<stddev value="1.24242" />
+			<median value="0" />
+			<owned value="31165" />
+			<trading value="635" />
+			<wanting value="921" />
+			<wishing value="6254" />
+			<numcomments value="4218" />
+			<numweights value="852" />
+			<averageweight value="2.6538" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

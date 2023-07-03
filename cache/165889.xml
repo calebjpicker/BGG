@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165889">
+         <thumbnail>https://cf.geekdo-images.com/xExPkk7kNrKcAZp6BJc5Ng__thumb/img/7Qyid9CDkioErDJuhZ8HdcUJvc4=/fit-in/200x150/filters:strip_icc()/pic4741255.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xExPkk7kNrKcAZp6BJc5Ng__original/img/BA6q3Dodg3R6FB_8mkoWvUw7yxQ=/0x0/filters:format(jpeg)/pic4741255.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Safe Breaker" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Merkurya" />
+			    				
+				<name type="alternate" sortindex="1" value="SafeBreaker" />
+			
+						               													<description>Safe Breaker (a.k.a. Merkurya) is a simple-to-learn game of memory and deduction! The game consists of 12 objects: six showing colors and six showing numbers. (In the original version of the game, these objects were cards; in newer versions, they're castle towers that stick together magnetically.)&amp;#10;&amp;#10;Each player receives one color and one number, keeping these values secret since they form that player's combination. Play starts with one player asking the player to the left if they have a certain color and number. If they have either of those values, they say &amp;quot;yes&amp;quot; and they become the next player; otherwise they say &amp;quot;no&amp;quot; and the question passes to the next player to the left to answer.&amp;#10;&amp;#10;When a player thinks they know an opponent's combination, on their turn they can name that player's color and number. If the guess is correct, that opponent is out of the game and the player gets another turn &amp;mdash; but if they're wrong, they are out of the game instead and the wrongly accused opponent now has the next turn.&amp;#10;&amp;#10;As far as the rules go, that's it! How much do you talk to your opponents? Do you keep quiet or suggest questions for them to ask? Do you remind them who answered what, and if you do, did you remember correctly?! Are you spinning disinformation?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="210971" value="Merkurya: Promo Essen" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68065" value="Dave Cousins" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77930" value="Matt Maddock" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18021" value="HCM Kinzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24980" value="North and South Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6350" value="Smart Zone Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="97" />
+			<average value="5.92577" />
+			<bayesaverage value="5.51868" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16284" bayesaverage="5.51868" />
+												</ranks>
+
+			<stddev value="1.52944" />
+			<median value="0" />
+			<owned value="191" />
+			<trading value="9" />
+			<wanting value="3" />
+			<wishing value="19" />
+			<numcomments value="42" />
+			<numweights value="7" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

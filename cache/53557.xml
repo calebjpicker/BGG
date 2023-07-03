@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="53557">
+         <thumbnail>https://cf.geekdo-images.com/g_Un35p8dPhOkhc75i0-4A__thumb/img/RynKcMCeKxXpFJsmDn92_p7VNIw=/fit-in/200x150/filters:strip_icc()/pic1210186.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/g_Un35p8dPhOkhc75i0-4A__original/img/x07Lh3PqmqyukSMWyiF_VEu76NU=/0x0/filters:format(jpeg)/pic1210186.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Colorio" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Колорио" />
+			
+						               													<description>Colorio starts with players using plastic tokens to cover the colored spaces on the 5x5 game board. On each turn, a player must remove three tokens from the board, then either remove all of them from play or place one or two of them back on the game board in spaces different from where they came. (Thus, at least one token is removed from the board each turn.) A player cannot remove the final token handled by the previous player.&amp;#10;&amp;#10;If a player reveals the fifth space of a color, that player is eliminated from the game. In a two-player game, the remaining player wins. In a game with more players, the game continues with that color (and that player) being out of play; when the fifth space of another color is revealed, that player is also out of the game. Plays continues until one player remains in the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="3" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2299" value="Jacky Bonnet" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11489" value="Abadis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="66" value="Abalone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7496" value="Egmont Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4561" value="Mindtwister AB" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9348" value="Mindtwister USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17814" value="Peliko/Martinex Oy" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="80" />
+			<average value="4.76875" />
+			<bayesaverage value="5.47326" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="23244" bayesaverage="5.47326" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1282" bayesaverage="5.37097" />
+												</ranks>
+
+			<stddev value="1.25644" />
+			<median value="0" />
+			<owned value="143" />
+			<trading value="8" />
+			<wanting value="0" />
+			<wishing value="12" />
+			<numcomments value="20" />
+			<numweights value="6" />
+			<averageweight value="1.1667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

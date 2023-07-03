@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="199561">
+         <thumbnail>https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__thumb/img/1m4aryOW1MOpq-8jGkF6gDTJmCY=/fit-in/200x150/filters:strip_icc()/pic3525224.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__original/img/5ug9EeKlH_ucJEUXaFpTZbBJ1GY=/0x0/filters:format(jpeg)/pic3525224.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sagrada" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Саграда" />
+			    				
+				<name type="alternate" sortindex="1" value="Саґрада" />
+			    				
+				<name type="alternate" sortindex="1" value="ซากราดา" />
+			    				
+				<name type="alternate" sortindex="1" value="サグラダ" />
+			    				
+				<name type="alternate" sortindex="1" value="聖家族大教堂 SAGRADA" />
+			    				
+				<name type="alternate" sortindex="1" value="사그라다" />
+			
+						               													<description>Draft dice and use the tools-of-the-trade in Sagrada to carefully construct your stained glass window masterpiece.&amp;#10;&amp;#10;In more detail, each player builds a stained glass window by building up a grid of dice on their player board. Each board has some restrictions on which color or shade (value) of die can be placed there. Dice of the same shade or color may never be placed next to each other. Dice are drafted in player order, with the start player rotating each round, snaking back around after the last player drafts two dice. Scoring is variable per game based on achieving various patterns and varieties of placement...as well as bonus points for dark shades of a particular hidden goal color.&amp;#10;&amp;#10;Special tools can be used to help you break the rules by spending skill tokens; once a tool is used, it then requires more skill tokens for the other players to use them.&amp;#10;&amp;#10;The highest scoring window artisan wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="458">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="149" />
+					<result value="Not Recommended" numvotes="127" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="214" />
+					<result value="Recommended" numvotes="170" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="142" />
+					<result value="Recommended" numvotes="222" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="118" />
+					<result value="Recommended" numvotes="221" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="180" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="137">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="15" />
+					<result value="8" numvotes="56" />
+					<result value="10" numvotes="51" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="39">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="3" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="34" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50196" value="Game: Sagrada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75454" value="Theme: Art style – Art Nouveau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18639" value="Cities: Barcelona (Spain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4705" value="Organizations: The Game Artisans of Canada" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253493" value="RiaCon Window Pattern Card (fan expansion for Sagrada)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309707" value="Sagrada: 2020 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367792" value="Sagrada: 2022 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="244262" value="Sagrada: 5-6 Player Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286275" value="Sagrada: Horizontal Symmetry promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225269" value="Sagrada: Promo 1 – Vitraux/Balboa Bay Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309221" value="Sagrada: Promo 10 – Dice Tower 2020 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="329601" value="Sagrada: Promo 11 – Game Store 2020 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310565" value="Sagrada: Promo 12 – Tantrum House 2020 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367789" value="Sagrada: Promo 13 – Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="348593" value="Sagrada: Promo 14 – Game Boy Geek 2021 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="367790" value="Sagrada: Promo 15 – Geekach Games Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351368" value="Sagrada: Promo 16 – CuseCon 2021 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346200" value="Sagrada: Promo 17 – Gathering of Friends 2021 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372408" value="Sagrada: Promo 19 – Tantrum House 2022 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233638" value="Sagrada: Promo 2 – Alpenglow/Komorebi Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368441" value="Sagrada: Promo 20 – Sagrada x Fog of Love Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376642" value="Sagrada: Promo 21 – Game Boy Geek 2022 Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="252099" value="Sagrada: Promo 3 – International Tabletop Day Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="236940" value="Sagrada: Promo 4 – BoardGameGeek Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270329" value="Sagrada: Promo 5 – Watch It Played Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250293" value="Sagrada: Promo 6 – Man Vs Meeple Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250292" value="Sagrada: Promo 7 – Game Boy Geek Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347022" value="Sagrada: Promo 8 – Apollo/Godfather Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="329515" value="Sagrada: Promo 9 – Man Vs Meeple Window Pattern Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359142" value="Sagrada: The Great Facades – Glory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="301561" value="Sagrada: The Great Facades – Life" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368442" value="Sagrada: The Great Facades – Mini-Tournament Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263695" value="Sagrada: The Great Facades – Passion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369044" value="Sagrada: &quot;Floodgate&quot; Player Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369121" value="Sagrada: &quot;Kickstarter&quot; Player Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="287107" value="Sagrada: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="358028" value="Sagrada: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271965" value="Sagrada: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="344568" value="Sagrada: Laserox Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="324239" value="Sagrada: Replacement Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365836" value="Sagrada: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="360063" value="Sagrahtzee" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="88370" value="Adrian Adamescu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="67502" value="Daryl Andrews" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39902" value="Peter Wocken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21756" value="Floodgate Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39390" value="Engames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="FoxGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36210" value="Lanlalen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38392" value="MEBO Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="37347" />
+			<average value="7.48544" />
+			<bayesaverage value="7.3423" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="180" bayesaverage="7.3423" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="10" bayesaverage="7.30326" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="34" bayesaverage="7.36427" />
+												</ranks>
+
+			<stddev value="1.15773" />
+			<median value="0" />
+			<owned value="60126" />
+			<trading value="527" />
+			<wanting value="840" />
+			<wishing value="7639" />
+			<numcomments value="5150" />
+			<numweights value="777" />
+			<averageweight value="1.9228" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

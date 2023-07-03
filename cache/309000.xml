@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="309000">
+         <thumbnail>https://cf.geekdo-images.com/g4QTlC70w1JYnSyfpEgQHg__thumb/img/B0DASGHAxDGZIj2zdvV1YMvGrZw=/fit-in/200x150/filters:strip_icc()/pic5394322.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/g4QTlC70w1JYnSyfpEgQHg__original/img/fn0GOBMKj_UYDIDjSke40J-clK8=/0x0/filters:format(jpeg)/pic5394322.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blue Skies" />
+			
+						                           
+						               													<description>The year is 1979, and the U.S. government has just deregulated the airline industry, opening it to competition in terms of fares, routes, and the airline companies themselves. You represent a new airline that's trying to set up business in the U.S., but you have an entire country open to you, so where will you set up shop and how can you profit more than the other newcomers to ensure that you survive?&amp;#10;&amp;#10;In Blue Skies, the game board presents players with thirty airports in thirty cities. Each airport has four gates, with you using 2-4 gates depending on the number of players. To set up, draw airport demand cards from the deck to seed airports with passengers. Whenever you place passengers on the board, draw from a bag that initially contains 100 red cubes and 25 green cubes; for each airport, continue drawing until you draw a red cube, then redistribute passengers at the open gates of that airport as evenly as possible.&amp;#10;&amp;#10;(Note that at most the first five airports drawn will have an open gate, and even those will start with only one open gate run by a local airline. All of the other passengers are just bunched up at the gate waiting for you to serve them!)&amp;#10;&amp;#10;Each player starts with three demand cards in hand, and they take turns choosing two gates with a purchase price of at most 6. Players adjust their income from 0, with their income being set to equal the number of passengers now waiting at their gates, then the game begins.&amp;#10;&amp;#10;On a turn, each player in turn buys new gates at airports of their choice, spending at most 6 points and adding any unspent points to their score. You can buy out a local airline, set up gates in new cities, or purchase multiple gates in the same airport to try to dominate that area.&amp;#10;&amp;#10;Each player in turn then plays a demand card from their hand, drawing passengers form the bag to place one or more passengers at that location. Then demand cards equal to the number of players are drawn, and more passengers are ahead to those airports. The game board lists the number of cards for each airport, so you somewhat know the odds of where passengers might arrive.&amp;#10;&amp;#10;Players adjust their income to account for the opening of new gates, the redistribution of existing passengers, and the arrival of new passengers, then they add their income to their score. If a player now has at least 100 points or has placed their twentieth and final gate, the game ends immediately; otherwise, you add a local airline gate to each airport with passengers but no open gates, pass the first player marker, then start a new round.&amp;#10;&amp;#10;At game's end, score the seven regions of the United States based on the player's dominance of those regions. Each airport has a scoring value, e.g., ORD is worth 4, and each gate you have in Chicago is worth 4 for determining dominance in both the Midwest region and the Central region. (ORD is one of four airports in two regions, with the others being JFK, LAX, and DFW.) If you have the most dominance in the Central region, you score 13 points, whereas second place is worth only 6 points. Whoever has the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2910" value="Investment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18190" value="Decades: The 1970's" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71573" value="Theme: Retro" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2376" value="Joe Huber (I)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42166" value="Todd Sanders" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="370" />
+			<average value="6.21845" />
+			<bayesaverage value="5.61313" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7440" bayesaverage="5.61313" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2125" bayesaverage="5.66037" />
+												</ranks>
+
+			<stddev value="1.33926" />
+			<median value="0" />
+			<owned value="334" />
+			<trading value="27" />
+			<wanting value="21" />
+			<wishing value="128" />
+			<numcomments value="110" />
+			<numweights value="11" />
+			<averageweight value="2.0909" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

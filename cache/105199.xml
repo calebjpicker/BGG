@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="105199">
+         <thumbnail>https://cf.geekdo-images.com/aMJI5n68vcz2J0C8k-RUKg__thumb/img/HbbTfWVRr5tv7KI-IP3ucH2QKRY=/fit-in/200x150/filters:strip_icc()/pic1099053.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/aMJI5n68vcz2J0C8k-RUKg__original/img/L-_gsaezV69PWUBAMvPmz1JbtdQ=/0x0/filters:format(jpeg)/pic1099053.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Space Mission" />
+			
+						                           
+						               													<description>In Space Mission, players explore eight planets (randomly selected from twelve in the game) by flying from planet to neighboring planet or passing through a &amp;quot;jump gate&amp;quot; that allows them to travel anywhere. Each planet has a different combination of values for jumping to it, scanning it and landing on it.&amp;#10;&amp;#10;Each player has a hand of five cards, with each card having three color-coded values on it: blue for jumping, green for scanning, and orange for landing. On a turn, you take two actions from six possibilities, with the same action being possible:&amp;#10;&amp;#10;&amp;mdash;Top up: Discard any number of cards (including zero), then refill your hand to five cards.&amp;#10;&amp;#10;&amp;mdash;Jump: Move your spaceship from the jump gate (where players start the game) or a planet to any other planet by discarding a card that shows the landing value of the target planet. Place one of your tokens on the jump gate.&amp;#10;&amp;#10;&amp;mdash;Fly: Move your spaceship to either neighboring planet; this move is free.&amp;#10;&amp;#10;&amp;mdash;Scan: Discard a card with the scanning value of the planet where your spaceship is currently located; look through the face-down planet tiles, place one aside face-down with your marker on it, then return the tiles to that planet. This action is possible only on undeveloped planets.&amp;#10;&amp;#10;&amp;mdash;Develop: Develop the planet where your spaceship is located by discarding two cards that match the two landing values shown on that planet. Mark this planet with your space station token, hand out all scanned and claimed planet tiles to the appropriate players, claim one remaining planet tile for yourself, then place the remaining tiles face-down again. A planet can be developed only once.&amp;#10;&amp;#10;&amp;mdash;Discover: Take a planet tile of your choice from the developed planet where your spaceship is currently located.&amp;#10;&amp;#10;If at any point, all of the planet tiles on a planet show only empty space, the player holding the tiles lays them face-up next to that planet. When 6-12 space tiles have been revealed, an amount based on the number of players, the game ends and players tally their points.&amp;#10;&amp;#10;Each type of planet tile scores in a different way. With Minerals, for example, you multiply the number of mineral tiles you hold with the largest number of mineral tiles in a single color. Medals are worth three points each. A green-blue pair of Matter tiles is worth seven points, while a single Matter tile is worth only two. Each space station you've built is worth three points, and the players score 9, 6, 3 and 1 for having the most, secondmost, etc. tokens on the jump gate. The player with the most points wins.&amp;#10;&amp;#10;Reimplements:&amp;#10;&amp;#10;    Jump Gate&amp;#10;&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     Yucata (turn-based)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="5" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="62809" value="Jump Gate" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2477" value="Matt Worden" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43873" value="Anne Pätzke" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2400" value="Desyllas Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="474" />
+			<average value="5.94416" />
+			<bayesaverage value="5.58588" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8653" bayesaverage="5.58588" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1999" bayesaverage="5.61872" />
+												</ranks>
+
+			<stddev value="1.29772" />
+			<median value="0" />
+			<owned value="542" />
+			<trading value="39" />
+			<wanting value="8" />
+			<wishing value="59" />
+			<numcomments value="130" />
+			<numweights value="37" />
+			<averageweight value="1.8378" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="186404">
+         <thumbnail>https://cf.geekdo-images.com/61sio7fcUj_IORdfonDX4w__thumb/img/o2uNE_BmBnLY2hpqYVCkesDY5vE=/fit-in/200x150/filters:strip_icc()/pic3061445.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/61sio7fcUj_IORdfonDX4w__original/img/GFwGx6ybfiUPeaf7PQbBzz5HNWU=/0x0/filters:format(jpeg)/pic3061445.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Vault" />
+			
+						                           
+						               													<description>INTRODUCTION&amp;#10;&amp;#10;Vault is an abstract game in which each player tries to reach the opponent&amp;rsquo;s back rank. Vault is named after pole vaulting, which is a track and field event in which a person uses a long, flexible pole as an aid to jump over a bar. Vault is a derivative of Onager, by the same designer and uses a variation of its jumping mechanism (also present in Billabong, for example) that allows multiple directions to be used. It&amp;rsquo;s like vector movement but without acceleration. Unlike Onager, Vault only works well on a square grid, as jumping directions are difficult to visualize in a hexagonal grid.&amp;#10;&amp;#10;MATERIAL&amp;#10;&amp;#10;- A square grid with an even number of cells (recommended 10x10). Preferably checkered* for clarity, but this is not mandatory.&amp;#10;- As many white and black pawns as the number of cells per side.&amp;#10;&amp;#10;SETUP&amp;#10;&amp;#10;Each player has an allocated colour (Black or White). Fill your nearest row with pawns of your colour (one per cell).&amp;#10; HOW TO PLAY&amp;#10;&amp;#10;White starts. Players alternate turns during the game until the victory condition is reached. On your turn, either walk or jump with one of your pawns.&amp;#10;&amp;#10;Walk&amp;#10;&amp;#10;Move one of your pieces to an adjacent empty space as a King in Chess.&amp;#10;&amp;#10;Jump&amp;#10;&amp;#10;In order to jump, choose 2 friendly pieces. One of the pieces then jumps over the other piece in the direction defined by both pawns, landing on a space beyond that is at a distance equal to the distance between the two friendly pieces before the jump was made (like a mirror). Notice that jumping is not restricted to orthogonal or diagonal directions.&amp;#10;&amp;#10;The landing space must be either empty or occupied by an enemy piece, which is then captured and removed from the game. A piece cannot land on a friendly piece. Pieces cannot land outside the board.&amp;#10;&amp;#10;Notice that the spaces between the jumping pawn and the landing space don&amp;rsquo;t need to be empty. Also, captures can only be made by jumping.&amp;#10;&amp;#10;GAME END&amp;#10;&amp;#10;If at the start of your turn you have at least one piece on your opponent's back rank then you have won.&amp;#10;&amp;#10;If the above condition is not reached and you can&amp;rsquo;t make a legal movement at the start of your turn, you lose. This rarely happens. Players may agree on a draw at any moment during the game.&amp;#10;&amp;#10;NOTES FROM THE DESIGNER&amp;#10;&amp;#10;This is intended to be the simplest game that uses this jumping mechanism. I&amp;rsquo;ve decided not to use Onager&amp;rsquo;s stacking mechanism (in order to make is simpler for turn based online play and also playable with non-stacking pieces) or the multiple jump (as it would be almost impossible to think ahead).&amp;#10;&amp;#10;As a variant, you can use the stacking mechanism of Onager.&amp;#10;&amp;#10;(*) On a checkered board, the jumping piece always lands in a space of the same colour as the starting one.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="2" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78567" value="Components: 10 x 10 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="37" />
+			<average value="7.01351" />
+			<bayesaverage value="5.51996" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15987" bayesaverage="5.51996" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="701" bayesaverage="5.62701" />
+												</ranks>
+
+			<stddev value="1.53115" />
+			<median value="0" />
+			<owned value="46" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="10" />
+			<numcomments value="22" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

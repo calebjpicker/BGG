@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8328">
+         <thumbnail>https://cf.geekdo-images.com/owghFtZL2NVk0D7hE0K-LQ__thumb/img/hVdUEP2VypAfJg6KBV7OKGIjwk4=/fit-in/200x150/filters:strip_icc()/pic64873.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/owghFtZL2NVk0D7hE0K-LQ__original/img/zSWErqzAOAdAfVRQ4JK2k8uJA3A=/0x0/filters:format(jpeg)/pic64873.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Paratroop" />
+			
+						                           
+						               													<description>Three mini-games in one package - the Red Devils at Arnhem, the German assault on Eben Emael, and the German airborne invasion of Crete.&amp;#10;&amp;#10;Eben Emael: Lightning Strikes Belgium - May 1940, is a squad level simulation of the German airborne drop on the Belgian fortress, which paved the way for the German advance through Belgium. The Germans used glider troops and hollow charges to penetrate the steel turrets that dotted the top of the underground fort. The scale is 100 meters per hex and 12 minutes per turn on an 11&amp;quot;x17&amp;quot; map of the battlefield.&amp;#10;&amp;#10;Crete: The False Victory - May 1941, is a battalion level simulation of the battle between  the German airborne forces of General Kurt Student and the multinational Commonwealth forces defending the island. The scale is one mile per hex and one day per turn on an 11&amp;quot;x32&amp;quot; map of the northern coast of Crete.&amp;#10;&amp;#10;Red Devils: The Massacre of the Gallant - September 1944,  is a company level simulation of the battle between the British First Airborne Division and the German formations around the Dutch town of Arnhem. The Red Devils found themselves trapped 100 kilometers behind enemy lines fighting desperately to hold onto their objective, the bridge across the Neder Rijn(Lower Rhine). The game scale is 600 meters per hex and 12 hours per turn on an 11&amp;quot;x17&amp;quot; map.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1979" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2974" value="Zone of Control" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27462" value="Cities: Arnhem (The Netherlands)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12226" value="Country: Belgium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10309" value="Country: Netherlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27503" value="Islands: Crete (Greece)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58955" value="Region: Mediterranean Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="679" value="John H. Butterfield" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1081" value="Jim Dunnigan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69848" value="Joe Perez" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15973" value="Howard Chaykin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1030" value="Redmond A. Simonsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="216" />
+			<average value="6.18537" />
+			<bayesaverage value="5.55547" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10703" bayesaverage="5.55547" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2203" bayesaverage="5.78099" />
+												</ranks>
+
+			<stddev value="1.3633" />
+			<median value="0" />
+			<owned value="815" />
+			<trading value="29" />
+			<wanting value="4" />
+			<wishing value="29" />
+			<numcomments value="185" />
+			<numweights value="29" />
+			<averageweight value="2.2069" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="60316">
+         <thumbnail>https://cf.geekdo-images.com/YyPTQ5zPw3QjoL6oRvqwgw__thumb/img/wWu06_NQxzq6wBE3WSUWow8iWNA=/fit-in/200x150/filters:strip_icc()/pic7025946.png</thumbnail>
+      <image>https://cf.geekdo-images.com/YyPTQ5zPw3QjoL6oRvqwgw__original/img/83xSDXkdG76kdqhTwfXlH4_9-NY=/0x0/filters:format(png)/pic7025946.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Moon Leap" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fröscheln" />
+			    				
+				<name type="alternate" sortindex="1" value="Numeri" />
+			
+						               													<description>Each player receives five figures of the same color, numbered from 1 to 5. A player rolls the dice and then may move figures that correspond to the total of the dice, e.g. rolling a 5 allows a player to move the 5 piece, or the 2 and the 3. The pieces are always moved to the next free space that is available on the board.&amp;#10;If the player succeeds in making a chain of 3 or more pawns, he or she may roll the dice again.&amp;#10;The game is finished when the last three, specially-marked squares are occupied. Each player receives the number of points achieved by multiplying the number of the square by the number of the occupying pawn.&amp;#10;&amp;#10;Summary&amp;#10;&amp;#10;* roll d6; may move your matching-numbered token (* is wild but moves only one token)&amp;#10;    * move it to the next free space on the track&amp;#10;    * after any player's token has crossed a line (varies with number of players playing), rolls of 3 4 or 5 may be split between 2 of your tokens (3-&amp;gt;1-2, 4-&amp;gt;1-3, 5-&amp;gt;1-4 or 2-3), but only if you can move both the other tokens&amp;#10;    * if, with your move, you create 3 adjacent tokens of your color, go again (may do it repeatedly)&amp;#10;    * game ends when last 3 spaces of the track are occupied&amp;#10;    * final scores (for each token):&amp;#10;          o (token number) x (number on that token's space)&amp;#10;          o the multiplier for tokens never played to the board is -5&amp;#10;          o highest sum wins&amp;#10;&amp;#10;The original version of the game provided players with six tokens, and had different rules for gaining points from the board spaces.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1998" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="128" value="Series: Easy Play (Schmidt Spiele)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76796" value="Series: L.BOARD (Playte)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="218471" value="Easy Play XXL" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="11215" value="Numeri" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="154" value="Rudi Hoffmann" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="141500" value="Wanjin Gill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22516" value="Anke Pohl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22515" value="Thilo Rick" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="127" value="Klee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50209" value="Playte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="357" />
+			<average value="5.94424" />
+			<bayesaverage value="5.56725" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9777" bayesaverage="5.56725" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2101" bayesaverage="5.59702" />
+												</ranks>
+
+			<stddev value="1.62838" />
+			<median value="0" />
+			<owned value="388" />
+			<trading value="8" />
+			<wanting value="16" />
+			<wishing value="61" />
+			<numcomments value="106" />
+			<numweights value="26" />
+			<averageweight value="1.1154" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

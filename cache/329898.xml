@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="329898">
+         <thumbnail>https://cf.geekdo-images.com/Lsw0NVoorIj9ewFu4k18Hg__thumb/img/hXaOydnD8nakLeapSvWOQey69-U=/fit-in/200x150/filters:strip_icc()/pic5946819.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Lsw0NVoorIj9ewFu4k18Hg__original/img/ivZedPPDKgPdZ9dc1jspflKy02A=/0x0/filters:format(jpeg)/pic5946819.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="SOPWWID" />
+			
+						                           
+						               													<description>SOPWWID, a Solitaire One Page World War I Dogfight game has an extremely low footprint, minimal components, and simple rules.  The entire game fits on one piece of paper, front and back.  Also needed are 11 coins (1 penny, 5 dimes and 5 nickels or any other set of coins), and 1d10.  Alternately, you may print plane images (included) instead of using coins.&amp;#10;&amp;#10;The goal is to shoot down as many enemy planes with your Sopwith Camel before being shot down yourself.&amp;#10;&amp;#10;Each turn, you'll maneuver your Sopwith by selecting from 1 of 31 hex movement options.  Then the AI will maneuver each enemy plane (both Fokkers and Pfalzes) by a roll of a die.  Although random, the available movement options vary given the relative position of your Sopwith to the enemy.  As a result, the enemy AI is eerily accurate, meaning the enemy is quite effective at hunting you down.&amp;#10;&amp;#10;Then every plane shoots in a straight hex row if it has an enemy in its sites.  Your Sopwith has a range of 4 hexes, the Fokkers may shoot 3 hexes, and the Pfalzes shoot 2.&amp;#10;&amp;#10;Every plane is shot down on it's second hit.  Fokkers are worth 10 points, Pfalzes 5 points, and if your Sopwith is shot down, you are out.&amp;#10;&amp;#10;If you survive the first wave of 1 Fokker and 1 Pfalz, each successive wave adds 1 additional Fokker and 1 additional Pfalz.  [The designers record is 55 points!]&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2650" value="Aviation / Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1065" value="World War I" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2963" value="Movement Template" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61978" value="Players: Solitaire Only Wargames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="133590" value="Dan McGowan" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="12" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

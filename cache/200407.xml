@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="200407">
+         <thumbnail>https://cf.geekdo-images.com/A7wxclYFXMF7TEW-dvYADQ__thumb/img/-HVE8EoM6_kyKYZR0WayEuYxi9Q=/fit-in/200x150/filters:strip_icc()/pic3479311.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/A7wxclYFXMF7TEW-dvYADQ__original/img/QWNKjW_10geHV5z-9PKAgA3Gkvc=/0x0/filters:format(jpeg)/pic3479311.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rummy 17" />
+			
+						                           
+						               													<description>Rummy 17 is a somewhat standard rummy game in that players want to meld sets and runs &amp;mdash; and play cards on the sets and runs of others &amp;mdash; in order to rid themselves of cards. A round ends whenever one player discards their final card, then everyone else loses 1 or 2 points for each card still in hand.&amp;#10;&amp;#10;At the start of a round, five goal cards are chosen at random from the deck, and at the end of the round each player who has satisfied a goal card scores points for doing so. On a turn, a player draws the top card from either the deck or the discard pile; if they draw from the deck, then other players have the option of knocking to take the top card from the discard pile. A player must lay down a set or run of at least three cards before being able to play on opponents' sets and runs, and a player must discard one card at the end of their turn, including their final turn when they go out.&amp;#10;&amp;#10;After a predetermined number of rounds, whoever has the highest score wins.&amp;#10;&amp;#10;Rummy 17 includes one joker card in each of the five suits, with each suit being numbered 1-17. A player can use the joker when laying down a run as long as the run includes at least three numbered cards. This joker can be replaced with the actual number on a later turn as long as the player who does so immediately uses the joker in a new run.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="3" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2250" value="Traditional Card Games: Rummy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="48" />
+			<average value="6.01562" />
+			<bayesaverage value="5.51333" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17519" bayesaverage="5.51333" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2556" bayesaverage="5.51997" />
+												</ranks>
+
+			<stddev value="1.17731" />
+			<median value="0" />
+			<owned value="83" />
+			<trading value="1" />
+			<wanting value="5" />
+			<wishing value="15" />
+			<numcomments value="9" />
+			<numweights value="3" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

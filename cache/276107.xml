@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="276107">
+         <thumbnail>https://cf.geekdo-images.com/vtDK1rJBJxHDdnylE8NPDQ__thumb/img/43iCPNcfv8fTOYq-U1MHl7zfFdQ=/fit-in/200x150/filters:strip_icc()/pic5692511.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/vtDK1rJBJxHDdnylE8NPDQ__original/img/oa-_qHlhwvCTuhYM-7-byneA2ac=/0x0/filters:format(jpeg)/pic5692511.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Genesia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="제네시아" />
+			
+						               													<description>Genesia is a quick-playing game of placement and civilization that includes a card-drafting system and a lot of interaction between players.&amp;#10;&amp;#10;In more detail, the game is played over three ages, which roughly correspond to ancient times, medieval times, and the modern era. At the start of each age, players receive six cards from that age, then draft a hand of five cards for use in the current age. Each age has four phases &amp;mdash; growth, expansion, attack, end &amp;mdash; and the cards include icons that show when they can be played and when their powers take effect. You also receive 15 coins at the start of an age. Within each phase, players take all the actions they want in player order, eventually passing, and once all players have passed, the next phase begins. At any time during your turn, you can discard a card from your hand and take 4 coins from the reserve. The phases are:&amp;#10;&amp;#10;&amp;bull; Growth: Play cards that show this phase's icon (paying their cost, if required) and recruit as many clans as you wish, paying 2 coins for each and placing it in your homeland or (in later ages) in one of your cities. Each player has their own game board, with all player boards surrounding a shared &amp;quot;Genesia&amp;quot; board.&amp;#10;&amp;#10;&amp;bull; Expansion: As before, play cards with the proper icon, recruit clans for 2 coins each, or move your clans as much as you wish, paying 1 coin for each space than an individual clan moves (although in age III you can move a stack of clan tokens for 1 coin per space); when moving, you can pass through occupied regions, paying that player an additional toll of 1 coin, but you cannot stop on those regions, except for a player's homeland, which can house any number of clans from any number of players.&amp;#10;&amp;#10;&amp;bull; Attack: Simultaneously reveal your war/peace token with all other players. If everyone has chosen peace, this phase ends; otherwise, each player who has chosen war performs exactly one attack, choosing a region that contains your clans and an adjacent region controlled by an opponent that contains fewer clans. Choose a number from 1 up to the number of clans in your attacking region, then remove that many clans from each region. If the defending region has a city and no more clans, you can remove one of your clans to besiege the city and replace it with one of your own. If the opponent has now been removed from that region, you can move any number of clans from the attacking region to this space.&amp;#10;&amp;#10;Once each &amp;quot;war&amp;quot; player has attacked once, players once again simultaneously reveal their war/peace token, repeating the process above until all players reveal peace.&amp;#10;&amp;#10;&amp;bull; End: If you have at least two clans in a region without a city, you now place one of your cities in that region. Then you play any cards you wish with an &amp;quot;End of Age&amp;quot; icon, discarding all other cards for 4 coins each. Score progress points for this round's &amp;quot;End of Age&amp;quot; cards as well as all invention cards you've played to date.&amp;#10;&amp;#10;After three ages, you sum progress points, score 2 points for each region on a foreign continent you occupy, score points for every region you occupy (1-15, with the central Genesia regions being most valuable), and score points if you achieved your secret objective. Whoever scored the most total points wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="100" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="100" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116498" value="Eric Labouze" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="123690" value="Alexei Iakovlev" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72037" value="Fabrice Weiss" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66252" value="Alexey Yakovlev" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46012" value="Devil Dice Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42147" value="Giant Roc" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="117" />
+			<average value="6.41946" />
+			<bayesaverage value="5.53819" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12670" bayesaverage="5.53819" />
+												</ranks>
+
+			<stddev value="1.66662" />
+			<median value="0" />
+			<owned value="306" />
+			<trading value="7" />
+			<wanting value="9" />
+			<wishing value="83" />
+			<numcomments value="20" />
+			<numweights value="7" />
+			<averageweight value="2.1429" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

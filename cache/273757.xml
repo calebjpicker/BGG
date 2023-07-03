@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="273757">
+         <thumbnail>https://cf.geekdo-images.com/gbDC89OvsoEBu9PIUMWoKg__thumb/img/NkxD1UQ0q5RkyR_axzn7kx1VMCg=/fit-in/200x150/filters:strip_icc()/pic4676973.png</thumbnail>
+      <image>https://cf.geekdo-images.com/gbDC89OvsoEBu9PIUMWoKg__original/img/VskjhXNEZjWcfeWVP8jqnM-jVx4=/0x0/filters:format(png)/pic4676973.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Perpetual Anarchy" />
+			
+						                           
+						               													<description>Perpetual Anarchy is a game for the &amp;quot;2019 Two-Player PnP Design Contest&amp;quot;.&amp;#10;&amp;#10;&amp;#10;&amp;#10;OVERVIEW&amp;#10;Perpetual Anarchy is a strategic 2-player game using a standard 52-card deck. Players are states in a world of international anarchy, attempting to impose their supremacy on the other state. Choose the money allocation between immediate benefit with armaments and wealth and long-lasting benefit with military and civil technologies. Finally, establish the state policy: focus on producing, defensing or attacking.&amp;#10;&amp;#10;Perpetual Anarchy features bluff, push-your-luck and simultaneous action selection.&amp;#10;&amp;#10;GAME THEORY&amp;#10;Perpetual Anarchy was inspired by game theory researches, especially by the PhD student in political science Nathan Alexander Sears' article: Simulating War and Peace in IR Theory with a Classroom Game&amp;#10;&amp;#10;COMPONENTS&amp;#10;1 scoring board&amp;#10;1 technology board&amp;#10;28 cards (from an ordinary 52-card deck)&amp;#10;6 tokens&amp;#10;&amp;#10;SETUP&amp;#10;Each player has 3 personal tokens (one for the scoring board and two for the technology board) and 14 cards in hand:&amp;#10;&amp;#10;     11 numbered cards: two 0s (10s), two 1s, two 2s, two 3s, one 4s, one 5, one 6.&amp;#10;     3 action cards: attack (King), defense (Jack), production (Queen).&amp;#10;&amp;#10;&amp;#10;GAMEPLAY&amp;#10;The game is divided in multiple rounds. In each round, there are three phases. At the end of a round, players pick up all of their played cards back into their hands ready for immediate re-use.&amp;#10;&amp;#10;Phase 1: Card Playing&amp;#10;Players place 5 face-down card in a row on the table simultaneously. From left to right:&amp;#10;&amp;#10;1. the action card (attack, defense or production);&amp;#10;2. it is a numbered card representing wealth allocation;&amp;#10;3. it is a numbered card representing armament allocation;&amp;#10;4. it is a numbered card representing civil tech allocation;&amp;#10;5. it is a numbered card representing military tech allocation.&amp;#10;&amp;#10;There are some restrictions on playing numbered cards:&amp;#10;&amp;#10;     Each state has a budget of 7 billion per round, so they have to choose how to allocate it: the sum of number of the player&amp;rsquo;s cards has to be 7 or less. Unused budget is lost.&amp;#10;     The maximum military tech allocation is 2, so it is possible to play only 0, 1 or 2 for military tech&amp;#10;     The maximum civil tech allocation is 2, so it is possible to play only 0, 1 or 2 for civil tech&amp;#10;&amp;#10;&amp;#10;When both players have placed their cards, every card is turned face-up. If a player wrongly played cards exceeding the sum limit of 7, the opponent decides which card or cards to decrease in order to be within 7. If both players make a mistake in the same round, the round is considered null and void.&amp;#10;&amp;#10;Phase 2: Peace/War Scoring&amp;#10;If a state attacks the other one or both states attack, a war begins. Otherwise, states are at peace.&amp;#10;Based on the cards played and the tech levels, states score points as explained below.&amp;#10;&amp;#10;Phase 3: Tech Increasing&amp;#10;If a state didn&amp;rsquo;t lose the war in the round, it can increase its tech levels based on its tech allocations.&amp;#10;&amp;#10;PEACE&amp;#10;If a state at peace chooses the production action, he scores as many points as the value on its played wealth card + civil tech level.&amp;#10;&amp;#10;If a state at peace chooses the defense action, he scores as many points as the value on its played wealth card -1 (reputation cost).&amp;#10;&amp;#10;WAR&amp;#10;A state&amp;rsquo;s firepower is the sum of its armament allocation, military tech level and action bonus:&amp;#10;&amp;#10;     Production: +0 action bonus.&amp;#10;     Attack: +1 action bonus.&amp;#10;     Defense: +2 action bonus.&amp;#10;&amp;#10;&amp;#10;If states are at war, whoever has the higher firepower wins the war.&amp;#10;&amp;#10;If production or defense wins the war: it scores its own wealth allocation + the opponent&amp;rsquo;s one.&amp;#10;If attack wins the war: it scores its own wealth allocation + the opponent&amp;rsquo;s one - 1 (reputation cost).&amp;#10;&amp;#10;When production or defense lose the war, it scores nothing and it loses its tech allocations.&amp;#10;When attack loses the war, it scores -1 and it loses its tech allocations.&amp;#10;&amp;#10;ARMISTICE&amp;#10;In case of equal firepower, the war ends with an armistice: attack scores its own wealth allocation &amp;ndash; 1; production and defense score their own wealth allocation. Tech allocations are not lost.&amp;#10;&amp;#10;MILITARY TECH&amp;#10;A state can allocate part of its budget researching tech for military purposes. The number on the military tech card, namely the military tech allocation, determines how many steps a state can progress on the military tech board. The resolution of military tech cards occurs after the peace/war scoring.&amp;#10;&amp;#10;Initially, the military tech level is 0; then, every 4 steps, a state increases its military tech level by 1. The military tech level contributes to a state&amp;rsquo;s firepower.&amp;#10;&amp;#10;If a state is defeated, he loses its military tech allocation (but it doesn&amp;rsquo;t lose its military tech level).&amp;#10;&amp;#10;CIVIL TECH&amp;#10;A state can allocate part of its budget researching tech for civil purposes. The number on the civil tech card, namely the civil tech allocation, determines how many steps a state can progress on the civil tech board. The resolution of civil tech cards occurs after the peace/war scoring.&amp;#10;&amp;#10;Initially, the civil tech level is 0; then, every 3 steps, a state increases its civil tech level by 1. The civil tech level contribute to increase the efficiency in the production processes: the civil tech level contributes to the score of a production state at peace.&amp;#10;&amp;#10;If a state is defeated, he loses its civil tech allocation (but it doesn&amp;rsquo;t lose its civil tech level).&amp;#10;&amp;#10;END OF THE GAME AND SCORING&amp;#10;The game ends when the first player gets 50 or more. Before the beginning of the game, players may arrange to play for less or more points.&amp;#10;At the end of the game, the player who has more points wins.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41103" value="Matteo Perlini" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

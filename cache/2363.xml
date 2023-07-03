@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2363">
+         <thumbnail>https://cf.geekdo-images.com/jAXc4hBik5btcrIWiuFpug__thumb/img/qsEvf0HjlNgsyhY4ZT0S4zEQdoo=/fit-in/200x150/filters:strip_icc()/pic4342971.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jAXc4hBik5btcrIWiuFpug__original/img/RHdJCx2ug7qIoWWtbr5WhI7v6yk=/0x0/filters:format(jpeg)/pic4342971.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Orient Express" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Orientexpressen" />
+			    				
+				<name type="alternate" sortindex="1" value="Tatort: Nachtexpress" />
+			
+						               													<description>A murder mystery style game.  You must collect clues from different rooms, but you have only a limited time before the train reaches the station.  If you don't catch the culprit before then, the killer will escape.  It is unique in that the solution is NEVER 100% sure.  You must make some logical assumptions to get the killer.  The killer is different each time based on a number of prewritten murder cases (extras are sold separately).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1985" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1040" value="Murder/Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57160" value="Authors: Agatha Christie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28631" value="Books: Mystery Novels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18702" value="Cities: Istanbul (Turkey)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17520" value="Cities: Paris (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12981" value="Country: Austria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63062" value="Country: Bulgaria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10638" value="Country: Czech Republic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10636" value="Country: Hungary" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10637" value="Country: Romania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11570" value="Country: Turkey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75455" value="Theme: Art style – Art Deco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14661" value="Theme: Mystery / Crime" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144254" value="Orient Express Supplement #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144255" value="Orient Express Supplement #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144256" value="Orient Express Supplement #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="22410" value="Orient Express: 5 Nieuwe Mysteries" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3548" value="R. Wayne Schmittberger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3082" value="Jeff Smets" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35048" value="Junko Ito" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10440" value="Abeilles Editions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1299" value="Diset S. A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="515" value="Just Games (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5297" value="Oy Lollipop Ab" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="708" />
+			<average value="6.67146" />
+			<bayesaverage value="5.79047" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4264" bayesaverage="5.79047" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="767" bayesaverage="5.91301" />
+												</ranks>
+
+			<stddev value="1.49898" />
+			<median value="0" />
+			<owned value="1616" />
+			<trading value="69" />
+			<wanting value="54" />
+			<wishing value="217" />
+			<numcomments value="280" />
+			<numweights value="54" />
+			<averageweight value="2.2407" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="105">
+         <thumbnail>https://cf.geekdo-images.com/SsmaQGmmqdcBmyJDd041YQ__thumb/img/NePlv3cJ9YyIf24_6MYI_oAd3as=/fit-in/200x150/filters:strip_icc()/pic1680709.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/SsmaQGmmqdcBmyJDd041YQ__original/img/-qRLT0PI62LJweiUG_xzF8h3F_g=/0x0/filters:format(jpeg)/pic1680709.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Colossal Arena" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Areena: Titaanien taisto" />
+			    				
+				<name type="alternate" sortindex="1" value="Colossus Arena" />
+			    				
+				<name type="alternate" sortindex="1" value="Kolosszus Aréna" />
+			    				
+				<name type="alternate" sortindex="1" value="Titan: The Arena" />
+			    				
+				<name type="alternate" sortindex="1" value="コロッサル・アリーナ" />
+			    				
+				<name type="alternate" sortindex="1" value="巨獸競技場" />
+			    				
+				<name type="alternate" sortindex="1" value="콜로설 아레나" />
+			
+						               													<description>Colossal Arena/Titan:The Arena is a strategic card game for 2 to 5 players: you play, not as combatants, but as spectators, cheering and betting on the melee ongoing in a fantasy arena/colosseum in which fantasy creatures are pitted against each other in battle!&amp;#10;&amp;#10;Each round one of the creatures will die. To decide which unlucky soul will be the victim, players put numbered power cards in front of the creatures, with the lowest one going to the graveyard.  The jockeying for position and strategic diplomacy in playing the numbered power cards can be intense - but what makes this game even more interesting is that the players' place bets throughout the game which will sometimes allow them to use a creature's special power in battle!&amp;#10;&amp;#10;The winner at the end of the game is the bettor who's raked in the most winnings - just another day in the life of a fantasy monster gambler.&amp;#10;&amp;#10;Titan: The Arena is actually a reworking of a Reiner Knizia game called Grand National Derby, but The Avalon Hill Game Co's remake was quite significant from a gameplay standpoint.&amp;#10;&amp;#10;The Titan: The Arena printing is often confused with its namesake, Titan.  But other than the fact that they both use fantasy creatures as a general theme, there is very little that is similar between the two.&amp;#10;&amp;#10;Reimplemented by: Galaxy: The Dark Ages&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="192">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="111" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="68" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="118" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="63" />
+					<result value="Recommended" numvotes="99" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="81" />
+					<result value="Not Recommended" numvotes="47" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="87" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="32">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="14" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="0" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="23" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="10" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2910" value="Investment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8096" value="Series: Betting Trilogy (Reiner Knizia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3400" value="Series: Fantasy Flight Silver Line" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="329450" value="Equinox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="718" value="Galaxy: The Dark Ages" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1367" value="Grand National Derby" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12519" value="Cyrille Daujean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12033" value="Thierry Doizon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12034" value="Dan Harding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20625" value="Steve Holmes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32008" value="Jan Patrik Krásný" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20628" value="Tyson Milbert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="885" value="Keith Parkinson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1876" value="Altar Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3395" value="Midgaard Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="504" value="Nexus Editrice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3446" value="Ubik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7209" />
+			<average value="6.7681" />
+			<bayesaverage value="6.48525" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1193" bayesaverage="6.48525" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="725" bayesaverage="6.53879" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="351" bayesaverage="6.54506" />
+												</ranks>
+
+			<stddev value="1.23105" />
+			<median value="0" />
+			<owned value="8778" />
+			<trading value="461" />
+			<wanting value="153" />
+			<wishing value="654" />
+			<numcomments value="2409" />
+			<numweights value="739" />
+			<averageweight value="2.0203" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

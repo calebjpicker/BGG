@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="333775">
+         <thumbnail>https://cf.geekdo-images.com/pt3fdFECpkWwLr6QKsrZuQ__thumb/img/cqCTk_85HoB6sRitEEXTdgF7BII=/fit-in/200x150/filters:strip_icc()/pic6048928.png</thumbnail>
+      <image>https://cf.geekdo-images.com/pt3fdFECpkWwLr6QKsrZuQ__original/img/kVNUBPBip9riUa5837QLTqZBaDs=/0x0/filters:format(png)/pic6048928.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Meridians" />
+			
+						                           
+						               													<description>Meridians is an abstract strategy game for 2 players. It has a territorial nature, but the goal is to annihilate opponent's stones.&amp;#10;&amp;#10;&amp;quot;Meridians&amp;quot; is named after the meridians system. Meridians won BEST COMBINATORIAL 2-PLAYER GAME OF 2021 in BGG Abstract Games forum.&amp;#10;&amp;#10;COMPONENT&amp;#10;A centerless hexagonal board tessellated with triangles (any size. The regular size board has 6 points to 2 sides and 7 points to 4 sides)&amp;#10;Sufficient stones of 2 colors&amp;#10;&amp;#10;DEFINITIONS&amp;#10;Group: like-colored stones adjacent to each other. Singletons are considered groups of size 1.&amp;#10;Path: an empty point, or an uninterrupted straight line of empty points that have a pair of like-colored stones on both ends, which are not part of the same group. Such a pair is said to have a path.&amp;#10;Dead group: a group in which all stones belonging to it have no path. If any stone belonging to a group has a path, the group is said to have a path.&amp;#10;&amp;#10;GAME PLAY (Overview)&amp;#10;Decide which player plays as which color (Light or Dark) in any adequate way. &amp;#10;Light goes first, then alternate turns.&amp;#10;On each player's first turn, players place a stone of their own color on any empty point.&amp;#10;On each player's second turn, players place another stone of their color so that their own two stones have a path.&amp;#10;&amp;#10;Then players take actions below on each turn, in this order.&amp;#10;1. Remove all opponent&amp;rsquo;s dead groups.&amp;#10;2. Place a stone of their own color on an empty point that is on at least one same straight line with an existing friendly stone, and no opponent's stone in between. Passing is not allowed.&amp;#10;&amp;#10;After the second turn, the player with no stones of their color on the board at the beginning of their turn loses.&amp;#10;&amp;#10;Optionally, pie rules can be used to reduce the first player's advantage. The first player places one stone of each color and the second player decides which color to play. Play then continues as usual.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="1" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="130246" value="Kanare Kato" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50098" value="Kanare_Abstract" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="54" />
+			<average value="7.2337" />
+			<bayesaverage value="5.53238" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13570" bayesaverage="5.53238" />
+												</ranks>
+
+			<stddev value="2.04267" />
+			<median value="0" />
+			<owned value="18" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="36" />
+			<numcomments value="26" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

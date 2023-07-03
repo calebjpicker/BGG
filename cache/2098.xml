@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2098">
+         <thumbnail>https://cf.geekdo-images.com/ME44gjoWlcJD1XTWX8W4MQ__thumb/img/kxQJiCGQKDcvfLAgbZvGVyfxzrE=/fit-in/200x150/filters:strip_icc()/pic160263.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ME44gjoWlcJD1XTWX8W4MQ__original/img/QT19fV63WYhQTICDm_uYgBqew9Y=/0x0/filters:format(jpeg)/pic160263.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Heresy" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Heresy: Kingdom Come" />
+			
+						               													<description>If you know how to play Magic, you are half way there in this blatant Magic clone. What makes this game different is there are two areas to fight/control and the artwork on the cards.&amp;#10;&amp;#10;The story, Heaven has fallen and the Angels trapped on Earth are trying to use the Matrix (internet) to open a gateway into Heaven.&amp;#10;&amp;#10;There are six basic types of cards.&amp;#10;&amp;#10;Locations (lands) that open (tap) to provide aura (mana) or store tau (victory points.) There are 8 different convictions (colors) so from a starter it will still be near impossible to build a deck.&amp;#10;&amp;#10;Characters (creatures) represent the fallen hosts and heathen groups that can be called. These can battle in the Wilds (real world) or plug in and leave their body and fight in the Matrix. While there, if they die they're ripped back into their body.&amp;#10;&amp;#10;Alephs (artifacts) are powerful talismans that attach to characters or locations.&amp;#10;&amp;#10;Enhancements (enchantments) attach to other cards for positive or negative affects.&amp;#10;&amp;#10;Celestial Powers (sorceries) can be played on your turn only and are discarded immediately.&amp;#10;&amp;#10;Miracles (instants) are instant effects that can be played anytime.&amp;#10;&amp;#10;To win the game you need to play cards in the Matrix that can store tau and protect them. Each card can only hold so much, so you will need to call more then one. You will need to store enough tau (5 to 21 depending on the number of players and desired game length) to open a gateway into heaven.&amp;#10;&amp;#10;The game is a bit more complicated than Magic but with fewer cards available not as rich. There is also a social voting element similar to V:tES/Jyhad.  Special mention must be made of the cards. The cards are about an inch longer than most ccgs, with most of the extra room taken up by the stunning artwork. Kudos to Rick Berry, the graphic designer, for making one of the most striking looking games out there.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1044" value="Collectible Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6040" value="Collectible: Collectible Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="868" value="Christian Moore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="867" value="Owen Seyler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="866" value="Matthew Sturm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20960" value="Darrel Anderson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28026" value="Stephen Barnwell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15466" value="Rick Berry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13703" value="Tim Bradstreet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15492" value="Gerald Brom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15135" value="Brian Despain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18189" value="A. C. Farley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14861" value="Richard Kane Ferguson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13325" value="D. Alexander Gregory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36203" value="Craig Hamilton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14616" value="Michael Kaluta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="10122" value="Tom Kidd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13335" value="Darrell Midgette" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="868" value="Christian Moore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22857" value="James O'Barr" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13976" value="William O'Connor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24284" value="John W. Pierard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13326" value="Andrew Robinson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14076" value="David Robyn Seeley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="867" value="Owen Seyler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21795" value="Barclay Shaw" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17641" value="Cortney Skinner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18527" value="John K. Snyder, III" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="866" value="Matthew Sturm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15059" value="Karl Waller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66515" value="Dean Williams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66451" value="Bernie Wrightson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="453" value="Last Unicorn Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="110" />
+			<average value="5.81318" />
+			<bayesaverage value="5.51451" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17228" bayesaverage="5.51451" />
+																				<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="260" bayesaverage="5.51063" />
+												</ranks>
+
+			<stddev value="1.62906" />
+			<median value="0" />
+			<owned value="213" />
+			<trading value="24" />
+			<wanting value="15" />
+			<wishing value="23" />
+			<numcomments value="57" />
+			<numweights value="10" />
+			<averageweight value="3.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

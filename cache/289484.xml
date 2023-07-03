@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="289484">
+         <thumbnail>https://cf.geekdo-images.com/JaCVdrrhSOCudIwUODFk2w__thumb/img/svgAdoGnd9Tj5r-xcChZzsLmlIo=/fit-in/200x150/filters:strip_icc()/pic4960984.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JaCVdrrhSOCudIwUODFk2w__original/img/b0NPD9MrinkuQB_nZ2RCiCCYtpU=/0x0/filters:format(jpeg)/pic4960984.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Othellito" />
+			
+						                           
+						               													<description>Othellito strategy card game for two players played on a four by four (4x4) invisible and floating grid. There are eighteen identical cards called captains, which are light on one side and dark on the other.&amp;#10;&amp;#10;The players (starting with the black player) will take turns, placing cards of their assigned colour facing up, to the board. During a play, any cards of the opponent's colour that are in a straight line and bounded by the card just placed and another card of the current player's colour are turned over to the current player's colour.&amp;#10;&amp;#10;The object of the game is to have the majority of cards turned to display your colour when the last playable card is placed.&amp;#10;&amp;#10;Setup&amp;#10;Deal seven cards to each player. Decide which player will play black and which white. The remaining four cards are placed in a two by two square in the middle of the table in between the players. The cards should alter the white side and black side so that two black card sides and two white card sides are facing upwards. The cards are placed so that the dark is diagonal to the same kind and vice versa.&amp;#10;&amp;#10;The grid&amp;#10;The four by four (4x4) invisible and floating grid is formed by the cards placed and may shift during play. Players must place their card adjacent next to another card on the board. The card could both be placed side to side and corner to corner. As soon as there are four rows of four columns of cards the placement options are limited. You may never place a card so it forms a fifth row or column if you are not able to clear a row or column of cards from the board.&amp;#10;&amp;#10;Clear a column or row&amp;#10;If you place a card in a position so there forms either a fifth row or column, you must remove the opposite row or column. But you could only remove a row or column that consists of as many or fewer cards as you just flipped over. If the row or column on the opposite side is of more cards than you would manage to flip, it could not be removed, and you would not be allowed to place your card in this position. Cards removed from the board is returned to the players' hands. If you are not able to shift the grid, you must place your card within the current.&amp;#10;&amp;#10;Game endings&amp;#10;The game ends when a player cannot place a card so that cards on the table are flipped over OR when the grid is completed and the player can not add a new card. In the latter case, the player would need to be able to shift the grid and remove a column or a row.&amp;#10;&amp;#10;The player with most of its own colour facing up is the winner of the game. If there is a tie of colours facing up, the game ended in a tie.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="99769" value="Jonas Lidström Isegrim" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99769" value="Jonas Lidström Isegrim" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11" />
+			<average value="8.10909" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.14848" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="6" />
+			<numcomments value="5" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

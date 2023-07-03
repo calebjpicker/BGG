@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8124">
+         <thumbnail>https://cf.geekdo-images.com/K2deKJo1-S4tgJfYekIa5w__thumb/img/aqo8rpMnjFXeglTHvybQ6wZFJxM=/fit-in/200x150/filters:strip_icc()/pic90142.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/K2deKJo1-S4tgJfYekIa5w__original/img/dNBJiYTeM54FYDkj06VnUwNfh6o=/0x0/filters:format(jpeg)/pic90142.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Industria" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Industria: 600 Jahre Entwicklung" />
+			
+						               													<description>Description from designer Michael Schacht (swiped from the Terminal City Gamers site, who in turn got it from Erwin Broens):&amp;#10;&amp;#10;You play chronologically in 5 time periods with specific industries and technologies. It is a bidding game. The new bidding system is: You have an auctioneer. He sells several open cards. He decides the selling order (one by one). The others make clockwise just one bid or no bid. The auctioneer can accept the highest bid, take the money, and sell the next card, or the auctioneer can take the card by himself, but then he is no longer the auctioneer (next clockwise is). If no one bids on something, the auctioneer must take the card (that can be hard because money is really short) - so you have to be careful what you sell.&amp;#10;&amp;#10;The cards you're bidding on are production places, technologies, resources, and improvements (bonus). After the bidding phase you can build production places and improvements and develop technologies, then you immediately get victory points. For that you need money and resources (mainly from other production places).&amp;#10;&amp;#10;Problem: If you build late (next period started) you get less or nothing.&amp;#10;&amp;#10;At the end you get extra points for good improvement combinations and production places that work together.&amp;#10;&amp;#10;Reimplemented by: &amp;#10;&amp;#10;    Industry&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="30">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="9" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="66076" value="Industry" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="86" value="Michael Schacht" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22496" value="Hans-Jörg Brehm" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1802" />
+			<average value="6.42991" />
+			<bayesaverage value="5.93523" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3135" bayesaverage="5.93523" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1395" bayesaverage="6.01663" />
+												</ranks>
+
+			<stddev value="1.31003" />
+			<median value="0" />
+			<owned value="2374" />
+			<trading value="225" />
+			<wanting value="24" />
+			<wishing value="139" />
+			<numcomments value="739" />
+			<numweights value="210" />
+			<averageweight value="2.6762" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

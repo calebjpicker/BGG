@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="35677">
+         <thumbnail>https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__thumb/img/w1iHoYZCVTDZI6gsPuxOScA7FqU=/fit-in/200x150/filters:strip_icc()/pic6091101.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__original/img/tQFXv1w2R-J-1cjyaKG9LAS2UOs=/0x0/filters:format(jpeg)/pic6091101.jpg</image>
+                                     				
+				<name type="primary" sortindex="4" value="Le Havre" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Гавр" />
+			    				
+				<name type="alternate" sortindex="1" value="ル・アーブル" />
+			    				
+				<name type="alternate" sortindex="1" value="ル・アーブル　コンプリートパック" />
+			    				
+				<name type="alternate" sortindex="1" value="ル・アーブル＋ル・グランアモー" />
+			    				
+				<name type="alternate" sortindex="1" value="港都情濃" />
+			    				
+				<name type="alternate" sortindex="1" value="르 아브르" />
+			
+						               													<description>In Le Havre, a player's turn consists of two parts: First, distribute newly supplied goods onto the offer spaces; then take an action. As an action, players may choose either to take all goods of one type from an offer space or to use one of the available buildings. Building actions allow players to upgrade goods, sell them or use them to build their own buildings and ships. Buildings are both an investment opportunity and a revenue stream, as players must pay an entry fee to use buildings that they do not own. Ships, on the other hand, are primarily used to provide the food that is needed to feed the workers.&amp;#10;&amp;#10;After every seven turns, the round ends: players' cattle and grain may multiply through a Harvest, and players must feed their workers. After a fixed number of rounds, each player may carry out one final action, and then the game ends. Players add the value of their buildings and ships to their cash reserves. The player who has amassed the largest fortune is the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="821">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="277" />
+					<result value="Not Recommended" numvotes="167" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="231" />
+					<result value="Recommended" numvotes="399" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="521" />
+					<result value="Recommended" numvotes="172" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="114" />
+					<result value="Recommended" numvotes="322" />
+					<result value="Not Recommended" numvotes="171" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="112" />
+					<result value="Not Recommended" numvotes="413" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="322" />
+				</results>					
+	</poll> 			               				<playingtime value="150" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="150" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="128">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="65" />
+					<result value="14" numvotes="37" />
+					<result value="16" numvotes="7" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="119">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="34" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="70" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="13" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2904" value="Loans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64818" value="Cities: Le Havre (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10246" value="Game: Le Havre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57887" value="Region: Normandy (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3866" value="Series: Harvest (Uwe Rosenberg)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40387" value="Le Havre Expansion: Essen Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="65996" value="Le Havre: Le Grand Hameau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86455" value="Le Havre: Le Grand Hameau – Rattletrap car" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132772" value="Le Havre: Le Grand Hameau – Tablet with App" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="86456" value="Le Havre: Le Grand Hameau – Wholesale Bakery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="87641" value="Le Havre: Spielemesse Sonderkarte" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="284243" value="Le Havre: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="283520" value="Le Havre: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372344" value="Le Havre: Daedalus Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="350858" value="Le Havre: GeekUp Bag Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29242" value="Ludofy Creative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3888" value="Stratelibri" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="30334" />
+			<average value="7.85211" />
+			<bayesaverage value="7.68896" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="62" bayesaverage="7.68896" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="51" bayesaverage="7.71709" />
+												</ranks>
+
+			<stddev value="1.41497" />
+			<median value="0" />
+			<owned value="34776" />
+			<trading value="378" />
+			<wanting value="1754" />
+			<wishing value="9472" />
+			<numcomments value="5809" />
+			<numweights value="1990" />
+			<averageweight value="3.7296" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

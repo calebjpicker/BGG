@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8130">
+         <thumbnail>https://cf.geekdo-images.com/8VCXbYH_r0ZDZweezYTk3g__thumb/img/9v8_-7ENe3nceHuHu9qD1i-RUIw=/fit-in/200x150/filters:strip_icc()/pic33644.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8VCXbYH_r0ZDZweezYTk3g__original/img/hgJwHdxM1Hg9epNz-s5vlTJWfhk=/0x0/filters:format(jpeg)/pic33644.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="Die Fugger" />
+			
+						                           
+						               													<description>Players play cards to collect trade goods and at the same time influence the price of these trade goods. The player who earns the most money becomes the trading partner of the rich merchant Jakob Fugger and wins the game.&amp;#10;&amp;#10;&amp;#10;Game Summary&amp;#10;Cards 1-9 are placed clockwise; these are the Market, and indicate the prices of 5 commodities. A marker (card) for each commodity is placed in the 5 position. The Jakob the Rich card is set close by. Players each get a hand of cards.&amp;#10;&amp;#10;Players rotate taking turns. On your turn, you draw a card if you have &amp;lt;4 cards. Then, play a card face up. The first 2 turns, you may play 1 card each round face down _in addition_ to the face up card. At the end of each round, draw a card from the draw deck and add to Jakob's area. Any time a commodity card is played face up (on your turn, or for Jakob), count all the cards of that type face up on the board. The turn ends if there are 5 of that type: score, and start again unless someone got to 100  points. If so, reveal and score all hidden commodities and score them (below). If starting the next round, first deal 2 more cards to everyone; players who played 1 merchant get 2 more cards (total 4); those who played 2 merchants get 3 more (total 7). Play continues with the player who would have played next.&amp;#10;&amp;#10;End of Turn Scoring: First, count how many cards there are for each of the 5 commodities. The top 3 will move clockwise in the Market, one step for each card played. If any commodity would move past 1, it stops at 1. All other commodities move counterclockwise (down) ONE space (but not past the '1' value). Each player adds up the value of the cards they've played. If any commodity has &amp;lt;3 total cards played, those commodities marked with a rose count as double value.&amp;#10;&amp;#10;End of Game Scoring: all hidden cards are revealed and score double their current Market value (ignore roses)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="6" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19307" value="Cities: Augsburg (Bavaria, Germany)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67862" value="Occupation: Merchant" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="398" value="Klaus-Jürgen Wrede" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12123" value="Alexander Jung" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46" value="Adlung-Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="687" />
+			<average value="6.42826" />
+			<bayesaverage value="5.74389" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4770" bayesaverage="5.74389" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1765" bayesaverage="5.81647" />
+												</ranks>
+
+			<stddev value="1.12378" />
+			<median value="0" />
+			<owned value="1027" />
+			<trading value="48" />
+			<wanting value="51" />
+			<wishing value="122" />
+			<numcomments value="301" />
+			<numweights value="90" />
+			<averageweight value="1.9556" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="13713">
+         <thumbnail>https://cf.geekdo-images.com/HWg0vMzEtFfYSAhjMQS-pw__thumb/img/IwmtVmYo0qpyueKd6FyWZwb9Id0=/fit-in/200x150/filters:strip_icc()/pic144785.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HWg0vMzEtFfYSAhjMQS-pw__original/img/RxgIzysvNJRaGXaILkMcJuTIHAY=/0x0/filters:format(jpeg)/pic144785.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Solitaire" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Brainvita" />
+			    				
+				<name type="alternate" sortindex="1" value="Challenge Yourself With Solitaire" />
+			    				
+				<name type="alternate" sortindex="5" value="The Combined Solitaire and Fox &amp; Geese" />
+			    				
+				<name type="alternate" sortindex="1" value="Complete Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Cow Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Double Dare Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Eamon Andrews Recommends Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Einsiedlerspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Empire Jump!" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game of Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Hi-Q" />
+			    				
+				<name type="alternate" sortindex="1" value="Hoppers Peg-Solitaire Jumping Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Hoppla Hopp" />
+			    				
+				<name type="alternate" sortindex="1" value="Jump For Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Jumper" />
+			    				
+				<name type="alternate" sortindex="1" value="Jumping" />
+			    				
+				<name type="alternate" sortindex="1" value="Magnetic Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Mental Blok" />
+			    				
+				<name type="alternate" sortindex="1" value="Midget &quot;Crystal Solitaire&quot;" />
+			    				
+				<name type="alternate" sortindex="1" value="Nonnenspiel" />
+			    				
+				<name type="alternate" sortindex="5" value="The Old English Game of Solitaire" />
+			    				
+				<name type="alternate" sortindex="5" value="The Old English Game Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Peg &#039;n Punch" />
+			    				
+				<name type="alternate" sortindex="1" value="Peg Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Peg Your IQ" />
+			    				
+				<name type="alternate" sortindex="1" value="Pocket Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Pomppis" />
+			    				
+				<name type="alternate" sortindex="1" value="Puzzle-Peg" />
+			    				
+				<name type="alternate" sortindex="1" value="Resta Um" />
+			    				
+				<name type="alternate" sortindex="1" value="Royal Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Samotnik" />
+			    				
+				<name type="alternate" sortindex="1" value="Schwedisches Steckhalma" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitaire 37" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitaire Luxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitaire No.44" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitaire plus Colourtaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitär" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitario" />
+			    				
+				<name type="alternate" sortindex="1" value="Solitario Cinese" />
+			    				
+				<name type="alternate" sortindex="1" value="Solo" />
+			    				
+				<name type="alternate" sortindex="1" value="Solo Noble" />
+			    				
+				<name type="alternate" sortindex="1" value="solo-halma" />
+			    				
+				<name type="alternate" sortindex="1" value="Solo-halma" />
+			    				
+				<name type="alternate" sortindex="1" value="Solohalma" />
+			    				
+				<name type="alternate" sortindex="1" value="Spring" />
+			    				
+				<name type="alternate" sortindex="1" value="Spring &quot;de luxe&quot;" />
+			    				
+				<name type="alternate" sortindex="1" value="Spring Royal" />
+			    				
+				<name type="alternate" sortindex="1" value="Springer" />
+			    				
+				<name type="alternate" sortindex="1" value="Steckhalma" />
+			    				
+				<name type="alternate" sortindex="1" value="Think &amp; Jump" />
+			    				
+				<name type="alternate" sortindex="1" value="Travel Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Uno Solo" />
+			    				
+				<name type="alternate" sortindex="1" value="Wer springt am besten?" />
+			    				
+				<name type="alternate" sortindex="1" value="Wer springt besser als Ich?" />
+			    				
+				<name type="alternate" sortindex="1" value="Yogo Puzzle" />
+			    				
+				<name type="alternate" sortindex="1" value="You Beat It" />
+			    				
+				<name type="alternate" sortindex="1" value="Yugo Pocket Solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Σόλιτερ" />
+			    				
+				<name type="alternate" sortindex="1" value="单身贵族棋" />
+			
+						               													<description>A family of games designed for a single player. These puzzle-games challenge the player to clear a grid of tokens or pegs. Typically all but one space on the board is filled. The game is played by jumping a peg over one other into an empty space. The peg jumped over is removed from the board. This continues until no more jumps can be made. The object is to leave only a single peg or token left on the board.&amp;#10;&amp;#10;The two most common boards are the 33-peg English cross and the 37-peg French octagon boards.&amp;#10;&amp;#10;Ostensibly, this is Outside the Scope of BGG, but is kept in the database by fiat due to history.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1687" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49282" value="Admin: Outside the Scope of BGG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5902" value="Components: Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10791" value="Series: Hi-Q" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="35863" value="The 15 Greatest Board Games in the World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="7159" value="The Boardgame Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2883" value="The Book of Classic Board Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="116929" value="Nob Yoshigahara" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39001" value="AB Sandbergs Sportspel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1017" value="ABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10124" value="De Agostini" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4074" value="Are-Jay Game Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2620" value="Bell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="690" value="Berwick's Toy Co. Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23482" value="Boy's Own Paper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2028" value="Built-Rite" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1935" value="Carlit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5314" value="Cayro, the games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="507" value="Chad Valley Co Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2401" value="CHH Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2407" value="Clemens Gerhards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31010" value="Co Ma" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6582" value="Codeg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="485" value="Dal Negro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11320" value="Dilemma Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24954" value="Dourios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3082" value="Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22511" value="Empire Plastics Corporation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20903" value="Escho" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1828" value="Falcon Games (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="354" value="Gabriel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35300" value="Gerla Plastik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1425" value="H. P. Gibson &amp; Sons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="384" value="HABA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3392" value="Hausser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32648" value="Hawkin's Bazaar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1195" value="House of Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18784" value="Ilex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8402" value="Inovac Rima SA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5722" value="John Jaques of London" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8565" value="King International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="512" value="Kohner Bros." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12135" value="Longfield Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10489" value="Lubbers &amp; Bell Mfg Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3789" value="Merit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49478" value="Montana" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5320" value="Nelospelit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11063" value="Nelostuote Oy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11952" value="Neroulia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4291" value="New Entertainment Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11187" value="Oriental Trading Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32677" value="Original Pussy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26662" value="Parris Manufacturing Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="486" value="Paul Lamond Games Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5646" value="Pentangle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="648" value="Peri Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="782" value="Peter Pan Playthings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45960" value="Pier 1 Imports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1087" value="Pin International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45802" value="Planet Finska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25511" value="The Purple Cow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="945" value="Reiss Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48859" value="relo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1061" value="Ruibal Hermanos S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9927" value="Russimco Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23580" value="S.A. Derwik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18727" value="Salco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="359" value="Selchow &amp; Righter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21036" value="Sherms, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23146" value="Sladecolour Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3080" value="Smethport Specialty Co." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24212" value="Sterling Innovation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6088" value="Super Accord" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="964" value="Tactic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2792" value="ThinkFun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4645" value="Toltoys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1177" value="Tryne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18789" value="R Turner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6367" value="U3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22353" value="Unicorn Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27231" value="Verlag Junge Welt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24613" value="VERO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3245" value="Wm F. Drueke &amp; Sons, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9301" value="Woodstock Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1124" />
+			<average value="4.4506" />
+			<bayesaverage value="5.091" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24507" bayesaverage="5.091" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1352" bayesaverage="4.55196" />
+												</ranks>
+
+			<stddev value="1.70897" />
+			<median value="0" />
+			<owned value="1619" />
+			<trading value="30" />
+			<wanting value="1" />
+			<wishing value="21" />
+			<numcomments value="392" />
+			<numweights value="103" />
+			<averageweight value="1.5049" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

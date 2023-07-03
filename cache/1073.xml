@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1073">
+         <thumbnail>https://cf.geekdo-images.com/tWRk_IKAERK58pESqioNCQ__thumb/img/y1Sd0uWsr7CFFltFIgH6x0dJcFA=/fit-in/200x150/filters:strip_icc()/pic32070.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tWRk_IKAERK58pESqioNCQ__original/img/-_G3Di3AlWq5ReByS4QSmdPjdow=/0x0/filters:format(jpeg)/pic32070.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="Der Schatz der Inka" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Das Gold von El-Tempo-Rado" />
+			    				
+				<name type="alternate" sortindex="1" value="Inka" />
+			    				
+				<name type="alternate" sortindex="1" value="Inkojen aarre" />
+			    				
+				<name type="alternate" sortindex="1" value="Jagten på Inka-skatten" />
+			    				
+				<name type="alternate" sortindex="1" value="Jakten På Inkaskatten" />
+			    				
+				<name type="alternate" sortindex="4" value="De Schat van de Inca&#039;s" />
+			    				
+				<name type="alternate" sortindex="4" value="El Tesoro de la Pirámide Inca" />
+			    				
+				<name type="alternate" sortindex="4" value="Il tesoro degli Incas" />
+			    				
+				<name type="alternate" sortindex="5" value="The Treasure of the Incas" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Trésor des Incas" />
+			    				
+				<name type="alternate" sortindex="1" value="Ο θησαυρός των Ίνκα" />
+			
+						               													<description>Each player takes control of an expedition searching for the Inca treasure. Before the game starts the treasure is placed in one of the temples. The temples are mixed and placed on the game board, one on each square marked with a temple. Movement is done by rolling dice and playing compass cards in the direction(s) you want to move. If you land on a temple you may search it.&amp;#10;&amp;#10;When a player finds the treasure he must bring it safely to his home camp in order to win the game (the other players will gang up to try and steal the treasure from him).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1987" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65062" value="Country: Inca Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="483" value="Edith Grein-Böttcher" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11788" value="Matthias Wittig" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1906" value="Educa Sallent SA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43237" value="Το Καλό Παιχνίδι Α.Ε." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="297" />
+			<average value="4.97458" />
+			<bayesaverage value="5.42542" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24178" bayesaverage="5.42542" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2923" bayesaverage="5.38878" />
+												</ranks>
+
+			<stddev value="1.52608" />
+			<median value="0" />
+			<owned value="779" />
+			<trading value="43" />
+			<wanting value="4" />
+			<wishing value="14" />
+			<numcomments value="114" />
+			<numweights value="31" />
+			<averageweight value="1.2581" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

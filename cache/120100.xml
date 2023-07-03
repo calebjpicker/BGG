@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="120100">
+         <thumbnail>https://cf.geekdo-images.com/Ub1k7tSkKw5HcRF_pk0h2g__thumb/img/xYQDrZ5Nnh_JfX3ZubHc6EEsxp0=/fit-in/200x150/filters:strip_icc()/pic1233374.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Ub1k7tSkKw5HcRF_pk0h2g__original/img/DnfQ4GNk0DP_77Vh-sbk4plHKvQ=/0x0/filters:format(jpeg)/pic1233374.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Splink" />
+			
+						                           
+						               													<description>Splink (SP + link) is a ball-stacking game that can be played with a Series: Shibumi set, as it uses a 4x4 holes board and balls in two colours (white and red).&amp;#10;&amp;#10;RULES&amp;#10;&amp;#10;2 players ('attractor' and 'repulsor') share a supply of 16 red and 16 white balls.&amp;#10;&amp;#10;Splink has two types of game play:&amp;#10;&amp;#10;- Duel: The players play two complete games, switching roles after the first game. Whoever gets the maximum score as the 'attractor' wins.&amp;#10;&amp;#10;- Bid: Before the game starts, players take turns increasing bids as to how many ponts they think they can make playing the 'attractor' role. The player who passes first plays the 'repulsor'; the other player plays the 'attractor' and must get as many points as he bid to win.&amp;#10;&amp;#10;The board starts empty. Starting with 'attractor', players take turns either:&amp;#10;&amp;#10;a) placing TWO balls, one of each colour, on ANY TWO valid locations (empty spaces or 2x2 platforms) or...&amp;#10;&amp;#10;b) removing a ball from the board that supports exactly ONE ball on the level above and placing a new one of the other colour from the supply onto the board on any valid location; even on top of the dropped balls. Notice that you can only do this action if there is at least one ball on the supply of a different colour of the ball that you want to remove.&amp;#10;&amp;#10;GAME END&amp;#10;&amp;#10;The game ends when the pyramid has been completed.&amp;#10;&amp;#10;SCORING&amp;#10;&amp;#10;To get the attractor's score, count the number of all different red-white visible connections on the pyramid (the 5 inner balls don't count for connections). A red ball and a white ball must be touching to consider it a connection.&amp;#10;&amp;#10;VARIANT&amp;#10;&amp;#10;Consider an unlimited supply for both colours.&amp;#10;&amp;#10;Included in the Shibumi Rule Book&amp;#10;&amp;#10;Soft cover:&amp;#10;&amp;#10;http://www.lulu.com/shop/cameron-browne-and-nestor-romeral-andres/shibumi-rule-book/paperback/product-18940123.html&amp;#10;&amp;#10;Downloadable PDF:&amp;#10;&amp;#10;http://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="1" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13434" value="Series: Shibumi" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3541" value="Cameron Browne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3541" value="Cameron Browne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="6.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.92029" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

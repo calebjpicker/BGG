@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="41875">
+         <thumbnail>https://cf.geekdo-images.com/d0T0omEBuzUHVzM9tgFppw__thumb/img/yneWWQN4vAku_JO99pRlQI5jdZM=/fit-in/200x150/filters:strip_icc()/pic533414.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/d0T0omEBuzUHVzM9tgFppw__original/img/Bti9IlwMx6hHeUuaiyOA8J7NZ0Y=/0x0/filters:format(jpeg)/pic533414.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Trader" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ka-Ching!" />
+			
+						               													<description>Your objective: to invest in different economic categories and earn the maximum money from your actions. Buy them at low prices to resell them in pairs in the same category, multiplying your profits. But take care to also upset your opponent's profit plans.&amp;#10;&amp;#10;Re-implements Ka-Ching!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="336" value="No necessary in-game text" numvotes="6" />
+					<result level="337" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="338" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="339" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="340" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2968" value="Ka-Ching!" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50" value="Klaus Palesch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="139" value="Horst-Rainer Rösner" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12037" value="Gary Locke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12386" value="Stéphane Poinsot" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9287" value="Kanga Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="277" />
+			<average value="6.50993" />
+			<bayesaverage value="5.62743" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6976" bayesaverage="5.62743" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1744" bayesaverage="5.68306" />
+												</ranks>
+
+			<stddev value="1.24385" />
+			<median value="0" />
+			<owned value="372" />
+			<trading value="11" />
+			<wanting value="16" />
+			<wishing value="66" />
+			<numcomments value="70" />
+			<numweights value="26" />
+			<averageweight value="1.4231" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

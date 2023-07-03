@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="126042">
+         <thumbnail>https://cf.geekdo-images.com/-hn7gA50ci0n7j9u_-jHhA__thumb/img/rJqh_lHJ45NZHtxC5uq8xH2_Hzk=/fit-in/200x150/filters:strip_icc()/pic1591406.png</thumbnail>
+      <image>https://cf.geekdo-images.com/-hn7gA50ci0n7j9u_-jHhA__original/img/1RkLWWHzepOqacKarc1176UofVs=/0x0/filters:format(png)/pic1591406.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nations" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Wojna Narodów" />
+			
+						               													<description>From the humble beginnings of civilization through the historical ages of progress, mankind has lived, fought, and built together in nations. Great nations protect and provide for their own, while fighting and competing against both other nations and nature itself. Nations must provide food and stability as the population increases. They must build a productive economy. And all the while, they must amaze the world with their great achievements to build up their heritage as the greatest nations in the history of mankind!&amp;#10;&amp;#10;Nations is an intense historical board game for 1&amp;ndash;5 players that takes 40 minutes per player to play. Players control the fate of nations from their humble start in prehistoric times until the beginning of World War I. The nations constantly compete against each other and must balance immediate needs, long-term growth, threats, and opportunities.&amp;#10;&amp;#10;Gameplay introduction&amp;#10;&amp;#10;Players choose a Nation and a difficulty to play at, similar to the Civilization computer games series. After the growth phase, 2 historical events are revealed, which the players will compete for during the round. Then players take a single small action each, in player order, as many times as they wish until all have passed. Actions are:&amp;#10;&amp;#10;&amp;#10;     Buy a card&amp;#10;     Deploy a worker&amp;#10;     Hire an architect for a wonder&amp;#10;     Special action provided by a card&amp;#10;&amp;#10;&amp;#10;Players each have individual boards that represent their Nation. There are many ways that players affect, compete, and indirectly interact with other players. But there is no map, no units to move around, and no direct attacks on other players.&amp;#10;&amp;#10;When all have passed, there is production, new player order is determined (every position is competed for), the historical events happen, and if this is the last round of an age, the books are scored. At the start of a new round, most old cards are removed and new ones are put on the display.&amp;#10;&amp;#10;Victory points are gained and lost during the game, and also awarded at the end of the game. The player with the most victory points is the winner.&amp;#10;&amp;#10;See 'More information' below for link to rules, etc.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="277">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="56" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="128" />
+					<result value="Not Recommended" numvotes="44" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="134" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="106" />
+					<result value="Recommended" numvotes="91" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="73" />
+					<result value="Not Recommended" numvotes="89" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="90" />
+				</results>					
+	</poll> 			               				<playingtime value="200" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="200" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="43">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="12" />
+					<result value="14" numvotes="25" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="47">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="30" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="8" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2830" value="Turn Order: Pass Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70705" value="Digital Implementations: MaBiWeb" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28991" value="Game: Nations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76973" value="Historical Figures: Various" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180539" value="Nations: Dynasties" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149247" value="Nations: Grand Duchy of Finland promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149246" value="Nations: Hagia Sophia promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164875" value="Nations: Inspiration Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149248" value="Nations: Kremlin promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149249" value="Nations: Mechanical Turk promo card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149245" value="Nations: Nicola Tesla promo card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308335" value="Nations: Meeple Realty Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="157809" value="Nations: The Dice Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="37300" value="Rustan Håkansson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="60882" value="Nina Håkansson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="60883" value="Einar Rosén" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="60884" value="Robert Rosén" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19023" value="Ossi Hiekkala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66790" value="Jere Kasanen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37840" value="Paul Laane" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60881" value="Frida Lögdberg" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12050" />
+			<average value="7.61086" />
+			<bayesaverage value="7.30284" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="204" bayesaverage="7.30284" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="137" bayesaverage="7.37447" />
+												</ranks>
+
+			<stddev value="1.40431" />
+			<median value="0" />
+			<owned value="12746" />
+			<trading value="367" />
+			<wanting value="636" />
+			<wishing value="3446" />
+			<numcomments value="2292" />
+			<numweights value="714" />
+			<averageweight value="3.5448" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

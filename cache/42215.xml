@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="42215">
+         <thumbnail>https://cf.geekdo-images.com/fuC2C10_6QK84R45Mseojw__thumb/img/bfp4x8H9nzQJQyNf2amKyx1BqUs=/fit-in/200x150/filters:strip_icc()/pic596625.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/fuC2C10_6QK84R45Mseojw__original/img/H3S1YSPe4O54yLV3W4G_zSTIiwU=/0x0/filters:format(jpeg)/pic596625.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tobago" />
+			
+						                           
+						               													<description>Tobago is an adventure game in which the players use representations of treasure maps to locate unknown treasures. During the game, more and more information about the location of a treasure is revealed and its possible locations are gradually narrowed down. When the location of one of the treasures is finally revealed players try to reach it as quickly as possible to secure the findings. The more clues you have provided, the more of a stake you will have in the loot.&amp;#10;Players can carefully play their clues and use bonus-action gems to influence where and when the treasure is found in order to ensure a more favourable outcome when the loot is finally 'dug up' and shared.&amp;#10;&amp;#10;The game features a 3 piece, double-sided, modular game board which can be rearranged to create 32 possible island arrangements.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="198">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="94" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="97" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="108" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="111" />
+					<result value="Recommended" numvotes="47" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="70" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="74">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="34" />
+					<result value="10" numvotes="30" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="74">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="74" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13439" value="Country: Trinidad and Tobago" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51732" value="Theme: Tropical Islands" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319398" value="Tobago: Volcano" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12461" value="Bruce Allen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12587" value="Victor Boden" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="87" value="Zoch Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2862" value="The Game Master BV" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11825" />
+			<average value="7.10058" />
+			<bayesaverage value="6.86485" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="591" bayesaverage="6.86485" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="142" bayesaverage="6.926" />
+												</ranks>
+
+			<stddev value="1.18239" />
+			<median value="0" />
+			<owned value="13557" />
+			<trading value="245" />
+			<wanting value="752" />
+			<wishing value="3224" />
+			<numcomments value="2625" />
+			<numweights value="705" />
+			<averageweight value="2.1277" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

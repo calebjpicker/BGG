@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="181521">
+         <thumbnail>https://cf.geekdo-images.com/iZTS0-aD6KRvXxtYbbdODQ__thumb/img/FQdBjbA45KEJPG-36gWOn92uu4c=/fit-in/200x150/filters:strip_icc()/pic2625794.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/iZTS0-aD6KRvXxtYbbdODQ__original/img/HC-LHlo1bc6vpzPH2qBV2-71MNg=/0x0/filters:format(jpeg)/pic2625794.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Warhammer Quest: The Adventure Card Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Warhammer Quest: Das Abenteuer-Kartenspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Warhammer Quest: Dobrodružná karetní hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Warhammer Quest: El juego de cartas de aventuras" />
+			    				
+				<name type="alternate" sortindex="1" value="Warhammer Quest: Le Jeu d&#039;Aventure" />
+			    				
+				<name type="alternate" sortindex="1" value="Warhammer Quest: Przygodowa gra karciana" />
+			    				
+				<name type="alternate" sortindex="1" value="ウォーハンマー・クエスト：カードゲーム" />
+			
+						               													<description>Join forces with legendary heroes to brave the many dangers of a cavernous dungeon. Wield potent weapons and magic. Conquer hordes of vile monsters. Discover fabulous treasures.&amp;#10;&amp;#10;Warhammer Quest: The Adventure Card Game is a cooperative game of heroic dungeon adventures for one to four players. Players assume the roles of some of the Old World's most iconic heroes, then venture into the shadows to battle ghouls, Goblins, Skaven, giant bats, swarms of rats, and other monsters.&amp;#10;&amp;#10;Can you survive their relentless onslaught? Can you press deeper into their lair to find the evil villain that drives them forward? There are only two ways for your quest to end &amp;ndash; in death or in glory!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="106">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="53" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="9" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="15" />
+					<result level="30" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4330" value="Setting: Warhammer Fantasy Card Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202395" value="Warhammer Quest: The Adventure Card Game – Trollslayer Expansion Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202394" value="Warhammer Quest: The Adventure Card Game – Witch Hunter Expansion Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="225766" value="Awful Fantasy Adventures" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="392133" value="Dragonbond Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="254591" value="Heroes of Terrinoth" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72460" value="Justin Kemppainen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50880" value="Adam Sadler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="36921" value="Brady Sadler" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5370" />
+			<average value="7.31509" />
+			<bayesaverage value="6.75902" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="730" bayesaverage="6.75902" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="158" bayesaverage="6.93558" />
+												</ranks>
+
+			<stddev value="1.31342" />
+			<median value="0" />
+			<owned value="10347" />
+			<trading value="464" />
+			<wanting value="139" />
+			<wishing value="1073" />
+			<numcomments value="1107" />
+			<numweights value="190" />
+			<averageweight value="2.7368" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

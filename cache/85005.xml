@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="85005">
+         <thumbnail>https://cf.geekdo-images.com/yq8_IeVY2vxH8q7HFLDblA__thumb/img/_xvzvwWlaGoXn-uAnm3-5_arqaU=/fit-in/200x150/filters:strip_icc()/pic1091844.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yq8_IeVY2vxH8q7HFLDblA__original/img/hXWenZBpoI1eL7xbVlnvmNAUZQU=/0x0/filters:format(jpeg)/pic1091844.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Boss" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Босс" />
+			    				
+				<name type="alternate" sortindex="1" value="Босс" />
+			    				
+				<name type="alternate" sortindex="1" value="黑幫老大" />
+			
+						               													<description>With each card played, you gain more information about the loot &amp;mdash; or sanctions &amp;mdash; that may be yours for the taking in different American cities. Basing upon this information, you send out the members of your gang to those cities: some are pros, some are wannabes.&amp;#10;&amp;#10;Whoever has the most gang members in a city cashes the loot or undergoes the sanction. When going to Chicago, you have no choice but to split your takings with the boss himself: Al Capone. The further the game progresses, the higher the stakes are getting, especially in Chicago.&amp;#10;&amp;#10;The Boss is essentially a card game (with a small game board for keeping scores) of deduction, bluffing, and a lot of backstabbing.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="66">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="45" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="19">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="19" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44423" value="Series: Europe Collection (Blue Orange Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="128478" value="The Boss: 5-6 Player Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="340030" value="Les Apaches de Paris" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8609" value="Alain Ollier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20762" value="Tony Rochon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16102" value="ABBA Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15983" value="Jolly Thinkers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38305" value="Mancalamaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19148" value="Playhouse Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2581" />
+			<average value="6.78465" />
+			<bayesaverage value="6.21507" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1881" bayesaverage="6.21507" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="548" bayesaverage="6.32839" />
+												</ranks>
+
+			<stddev value="1.31297" />
+			<median value="0" />
+			<owned value="2876" />
+			<trading value="71" />
+			<wanting value="62" />
+			<wishing value="375" />
+			<numcomments value="521" />
+			<numweights value="150" />
+			<averageweight value="1.7867" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

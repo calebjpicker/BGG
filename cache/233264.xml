@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="233264">
+         <thumbnail>https://cf.geekdo-images.com/pRJMUzd4j63w5lK40FhJBQ__thumb/img/9LL_G4ubXq_koDsrxfweA-WzwmY=/fit-in/200x150/filters:strip_icc()/pic3720138.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pRJMUzd4j63w5lK40FhJBQ__original/img/NgScymFC3BHEFlPdn8yy4hk_iOE=/0x0/filters:format(jpeg)/pic3720138.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Renge Shogi" />
+			
+						                           
+						               													<description>Inspired by Kyoto Shogi, Renge Shogi, designed by Michael Sandeman, is played on a 7x7 board. Each player has seven pieces, from left to right along the back rank: Silver, Pawn, Gold, King, Gold, Pawn, Silver. Whenever a piece moves (except the King), it alternately promotes and demotes:&amp;#10;&amp;#10;Silver - Lance&amp;#10;Gold - Knight&amp;#10;Left Pawn - Bishop&amp;#10;Right Pawn - Rook&amp;#10;&amp;#10;As in Shogi, players may drop captured pieces on any empty space, but with either side facing up. There are no restrictions on where players may drop pieces; for example, you may mate with a pawn drop and have two pawns on the same file.&amp;#10;&amp;#10;Players may also drop pieces [b]from the opponent's hand[/b]. The only restriction is that you may not mate by dropping from the opponent's hand.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="45" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="126" value="No necessary in-game text" numvotes="1" />
+					<result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="130" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11305" value="Traditional Games: Shogi" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="102805" value="Michael Sandeman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

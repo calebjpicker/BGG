@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="346645">
+         <thumbnail>https://cf.geekdo-images.com/_Llslivex0jdKgZ4mksmBg__thumb/img/gROIXqT_Op1p6ngnCwJy_EVMJDo=/fit-in/200x150/filters:strip_icc()/pic6389069.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_Llslivex0jdKgZ4mksmBg__original/img/DnOOdrJ36XSzGlDDIUkeZCYQm_Y=/0x0/filters:format(jpeg)/pic6389069.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="New York City" />
+			
+						                           
+						               													<description>Build sky scrapers and develop transport in the city that never sleeps.&amp;#10;&amp;#10;A game of New York City is played over 5 game rounds. First, players each draw 3 cards from the deck.  Then deal out cards in sets of two cards equal to two times the number of players plus one additional. In turn order, players draft a pair of cards until they have a total of 7 cards in hand.&amp;#10;&amp;#10;Next comes the bidding round, where in turn order players will play cards to bid to determine the strength of their action, with the player who bids the highest getting a bonus. In order, the actions are:&amp;#10;&amp;#10;&amp;#10;     Press: Advance on the Press track to determine player and tie-breaking order. &amp;#10;     Money: Receive money to be used for special actions. &amp;#10;     Characters: Take a character with a special ability or scoring up to the value of cards played. &amp;#10;     Building plans: Take a number of skyscrapers from the general supply.&amp;#10;     Prestige: Receive points equal to your bidding value. I addition, the first and second place bidder gets to increase the value of a borough. &amp;#10;     Skyscrapers: Players place skyscrapers from their board into borough currently being visited by the mayor. &amp;#10;&amp;#10;&amp;#10;The game is played over five rounds (there are six boroughs, one is randomly not visited each game). Each game, the value of boroughs is randomly assigned, and the player with the most skyscrapers in a a borough receives full value, and the next player receiving half, and so on. There is also a bonus for building in every borough. Points are also awarded for certain characters, and the player with the most points is the winner.&amp;#10;&amp;#10;Based on Rialto, a previously designed game by Stefan Feld.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="141" value="No necessary in-game text" numvotes="2" />
+					<result level="142" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="143" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="144" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="145" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2838" value="Action Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13111" value="Cities: New York (New York, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71480" value="Series: Stefan Feld City Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66113" value="Theme: Construction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="370330" value="New York City: Custom Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="370375" value="New York City: Game Trayz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="370241" value="Stefan Feld City Collection: The Coins" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="119591" value="Rialto" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4958" value="Stefan Feld" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="187" />
+			<average value="7.24797" />
+			<bayesaverage value="5.65338" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6286" bayesaverage="5.65338" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1998" bayesaverage="5.7095" />
+												</ranks>
+
+			<stddev value="1.3668" />
+			<median value="0" />
+			<owned value="805" />
+			<trading value="8" />
+			<wanting value="52" />
+			<wishing value="217" />
+			<numcomments value="66" />
+			<numweights value="10" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

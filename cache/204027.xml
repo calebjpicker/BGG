@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="204027">
+         <thumbnail>https://cf.geekdo-images.com/7Zk5_GsYycmHYD4RN3kIJQ__thumb/img/feLpplY6_MLKO4Tzfj5N2bW4a9o=/fit-in/200x150/filters:strip_icc()/pic3499059.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7Zk5_GsYycmHYD4RN3kIJQ__original/img/LbvQO9zKGNFn9UKo_adUsarRarQ=/0x0/filters:format(jpeg)/pic3499059.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cottage Garden" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cottage Garden: Mi Pequeño Jardín" />
+			    				
+				<name type="alternate" sortindex="1" value="Ogródek" />
+			    				
+				<name type="alternate" sortindex="1" value="Virágoskert" />
+			    				
+				<name type="alternate" sortindex="1" value="Zahrada" />
+			    				
+				<name type="alternate" sortindex="1" value="コテージガーデン" />
+			    				
+				<name type="alternate" sortindex="1" value="花舍物語" />
+			    				
+				<name type="alternate" sortindex="1" value="코티지 가든" />
+			
+						               													<description>In Cottage Garden, you compete in the art of gardening and are working two beds with a variety of flowers. Whenever no unplanted box is visible on a bed, you have completed it, then you count your points and replace it with a fresh, unplanted bed. You gain points for all of the visible plant pots and planting bells.&amp;#10;&amp;#10;In more detail, players select various polyomino tiles of flower beds from a central market grid, depending on the location of the &amp;quot;gardener&amp;quot;, then place them on one of their two personal garden boards. Each board has several garden elements that are worth points when not planted over, and these are scored on two different tracks as soon as a garden has been finished. Crossing over a line on each track awards bonus tokens that can fill in empty spaces or give you a better selection of the flower bed tiles. Whenever a garden is finished, you receive a new one to complete. After the gardener completes her fifth lap around the market, the game enters its last round. The player with the most points from their completed gardens at the end of the game wins.&amp;#10;&amp;#10;Cottage Garden is the first part of Uwe Rosenberg's puzzle trilogy.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="93">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="12" />
+					<result value="8" numvotes="15" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="17" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7334" value="Animals: Cats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48514" value="Series: Puzzle Trilogy (Uwe Rosenberg)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="37838" value="Series: The Great Designers (Stronghold Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231506" value="Brettspiel Adventskalender 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234133" value="Cottage Garden: The Easter Bunny" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12035" value="Andrea Boekhoff" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33419" value="Edition Spielwiese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8202" />
+			<average value="6.86327" />
+			<bayesaverage value="6.58168" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1012" bayesaverage="6.58168" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="280" bayesaverage="6.65135" />
+												</ranks>
+
+			<stddev value="1.1996" />
+			<median value="0" />
+			<owned value="12222" />
+			<trading value="297" />
+			<wanting value="321" />
+			<wishing value="2142" />
+			<numcomments value="1568" />
+			<numweights value="170" />
+			<averageweight value="1.8941" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

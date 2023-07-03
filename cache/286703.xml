@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="286703">
+         <thumbnail>https://cf.geekdo-images.com/pyle4OiEEfgcXfiggeIijA__thumb/img/gpTe2O-rhcNnoLml_LSZOicZAQM=/fit-in/200x150/filters:strip_icc()/pic4923771.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pyle4OiEEfgcXfiggeIijA__original/img/SnqpPtgXqtuttx5HxJXdC7GRblQ=/0x0/filters:format(jpeg)/pic4923771.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kameleo" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="카멜레오" />
+			
+						               													<description>Kameleo is primarily a solitaire logic puzzle. It includes sixty challenge cards and sixteen insect tokens, four each of four types. To complete a challenge, you lay out the insects as shown on the challenge card, then place the chameleon token adjacent to one edge of the grid. A move consists of eating (i.e., flipping face down) all the insects of one type in the row/column next to the chameleon, then advancing the chameleon clockwise around the perimeter as many spaces as the number of insects you just ate. If you land on a row/column with no uneaten insects &amp;mdash; yet insects remain elsewhere in the layout &amp;mdash; then you've lost the challenge; if you eat all the insects, you win.&amp;#10;&amp;#10;Kameleo can also be played as a two-player game. Lay out the insects on a challenge card, then the first player chooses where to place the chameleon token. Players take turns eating a type of insect and moving the chameleon. Whoever can't eat on their turn loses the round, and whoever first loses three rounds loses the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="1" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1727" value="Bruno Cathala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="52070" value="Stivo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5022" value="Blue Orange (EU)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="28" />
+			<average value="5.75357" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.49535" />
+			<median value="0" />
+			<owned value="90" />
+			<trading value="2" />
+			<wanting value="2" />
+			<wishing value="15" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="143323">
+         <thumbnail>https://cf.geekdo-images.com/BssB4FBfxJzAG3Cflb_Hxw__thumb/img/52JGLK93buJuoYU71wrgkUW4DEc=/fit-in/200x150/filters:strip_icc()/pic2056061.png</thumbnail>
+      <image>https://cf.geekdo-images.com/BssB4FBfxJzAG3Cflb_Hxw__original/img/iyTRhnbRbechFTdJbcndkpZoJ60=/0x0/filters:format(png)/pic2056061.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stak Bots" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Robotite kakelung" />
+			
+						               													<description>Simple but fun game based on playing from a hand of cards representing robots. Each has special powers and affects the stack (stak) in different ways, making it more tactical than a simple rock-paper-scissors exercise.&amp;#10;&amp;#10;The game functions by giving each player a stack of cards as well as a hand.  Each turn, players take a new card from the shared draw pile and may add a face-up card to the stack, trash a card from the stack or from their hand.  When a card is played, it will have &amp;quot;entry effect&amp;quot; that may operate on the stack ordering of the player or opponent.&amp;#10;&amp;#10;Once all playing/trashing is finished for a turn, the player may attack the card on top of an opponent's stack with the top card of their own.  The battle itself is quite simple and just a matter of comparing power, although assuming your bot survives its first battle, it can go on to attack the newly revealed card underneath.  The real tactical consideration goes into the pre-attack stack manipulation phase.&amp;#10;&amp;#10;There is an open turn structure which allows players to carry out actions in any order and any number of times. This means they can react to the often unpredictable results of long entry effect chains, or to cards that their opponents play defensively during your turn.&amp;#10;&amp;#10;The game is also customisable: you can adjust the complexity or game length by adding more Staks for each player or by changing basic game mechanics.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22232" value="Theme: Robots" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156194" value="Stak Bots: Backer Bot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156196" value="Stak Bots: Magnet Bot" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="258299" value="Stak Bots: Purple Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="210626" value="Stak Bots: Red Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="155745" value="Stak Bots: Yellow Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68724" value="Tom Norfolk" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68724" value="Tom Norfolk" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14529" value="2D6.EE (Side Quest Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25284" value="DogEared Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="181" />
+			<average value="6.23287" />
+			<bayesaverage value="5.54943" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11246" bayesaverage="5.54943" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2322" bayesaverage="5.55504" />
+												</ranks>
+
+			<stddev value="1.67897" />
+			<median value="0" />
+			<owned value="329" />
+			<trading value="5" />
+			<wanting value="3" />
+			<wishing value="19" />
+			<numcomments value="39" />
+			<numweights value="10" />
+			<averageweight value="1.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

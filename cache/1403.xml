@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1403">
+         <thumbnail>https://cf.geekdo-images.com/lg2cZmqHCdBWuYMFqnYHoA__thumb/img/HMpv7y7QY4_1FvCVL5AAzdHZZ74=/fit-in/200x150/filters:strip_icc()/pic725351.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lg2cZmqHCdBWuYMFqnYHoA__original/img/7GqhodEFevjpNdLxkS6PrAqvmYE=/0x0/filters:format(jpeg)/pic725351.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Turn the Tide" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Alta Marea" />
+			    				
+				<name type="alternate" sortindex="1" value="Idzie fala!" />
+			    				
+				<name type="alternate" sortindex="1" value="Land unter" />
+			    				
+				<name type="alternate" sortindex="1" value="Maré Alta" />
+			    				
+				<name type="alternate" sortindex="1" value="Marea Alta" />
+			    				
+				<name type="alternate" sortindex="4" value="Un mouton à la mer!" />
+			    				
+				<name type="alternate" sortindex="1" value="Pompen of Verzuipen" />
+			    				
+				<name type="alternate" sortindex="1" value="Sauve Moutons" />
+			    				
+				<name type="alternate" sortindex="1" value="Země pod vodou" />
+			    				
+				<name type="alternate" sortindex="1" value="Zum Kuckuck!" />
+			    				
+				<name type="alternate" sortindex="1" value="Держись на плаву!" />
+			    				
+				<name type="alternate" sortindex="1" value="ぶくぶく" />
+			    				
+				<name type="alternate" sortindex="1" value="ブクブク" />
+			    				
+				<name type="alternate" sortindex="1" value="洪水警報" />
+			    				
+				<name type="alternate" sortindex="1" value="運轉潮汐 (运转潮汐)" />
+			    				
+				<name type="alternate" sortindex="1" value="란드운터" />
+			
+						               													<description>Players are dealt a hand of 12 from a deck of 1-60 (the remainder go back in the box for the whole game), and then lay out marker cards that show the other players the strength of their hand. Another scoring deck of 24 has values of 1-12; two cards from this deck are laid face up.&amp;#10;&amp;#10;Players choose one card from their hand in secret and reveal them simultaneously. The highest value played takes the lowest scoring card, which goes face-up to a pile in front of you. The second highest takes the other card likewise. Remaining cards are discounted. Then look at everyone's face-up deck: the highest scoring player turns one of his or her marker cards over! (The original game had cockatoos becoming cuckoos; this edition is themed on lifesavers). At the end of a round, players score according to their markers cards that they managed to save (cockatoos or life-savers).&amp;#10;&amp;#10;There is a further twist! Players then pick up all their playing hand, and pass it clockwise. So as each round commences, you are using the cards previously used by your neighbor! Are you smarter? Can you make a better fist of the same hand your neighbor had? Play out rounds until all players have had each hand. Top score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="95">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="56" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="37">
+			
+		<results>		
+					<result level="416" value="No necessary in-game text" numvotes="36" />
+					<result level="417" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="418" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="419" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="420" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56257" value="Series: NSV Middys (Nürnberger Spielkartenverlag)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13" value="Stefan Dorra" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114293" value="Vanessa Gale Ambata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66181" value="Sandra Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30" value="Berliner Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="485" value="Dal Negro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40993" value="Funbox Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="108" value="Gamewright" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5640" value="Kikigagne?" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34627" value="Nasza Księgarnia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47202" value="Neptuno Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6011" value="Oya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Primigenio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2962" value="PS-Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4650" />
+			<average value="6.77958" />
+			<bayesaverage value="6.3936" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1392" bayesaverage="6.3936" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="399" bayesaverage="6.48544" />
+												</ranks>
+
+			<stddev value="1.23499" />
+			<median value="0" />
+			<owned value="6580" />
+			<trading value="166" />
+			<wanting value="136" />
+			<wishing value="655" />
+			<numcomments value="1204" />
+			<numweights value="395" />
+			<averageweight value="1.5241" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

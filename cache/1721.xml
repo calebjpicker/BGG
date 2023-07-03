@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1721">
+         <thumbnail>https://cf.geekdo-images.com/kboFmGsc2Avv0vN31FAOmw__thumb/img/2jkFGQX2n5fkTW6h-JYiffyh1Y4=/fit-in/200x150/filters:strip_icc()/pic140282.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/kboFmGsc2Avv0vN31FAOmw__original/img/dG2gez-2buJZKzc5qArDeljIC6w=/0x0/filters:format(jpeg)/pic140282.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Business Strategy" />
+			
+						                           
+						               													<description>Business Strategy is a management game where players have to compete for the resources needed to produce their finished goods.  They then compete in the marketplace to sell their goods.  The winner is the last player to be in business.&amp;#10;&amp;#10;Games can also end by player agreement, as it is possible for all players to establish stable companies, particularly if everyone plays a cautious game.&amp;#10;&amp;#10;Reimplements: Tycoon: Business Game&amp;#10;&amp;#10;Components:&amp;#10;&amp;#10;     Family Game Rules card&amp;#10;     Rules of Play folder&amp;#10;     16&amp;quot; x 16&amp;quot; Playing Board&amp;#10;     One Running Record Pad&amp;#10;     One set of 18 Climate situation cards&amp;#10;     4 sets of 4-colored Pawns (16 total)&amp;#10;     Paper money&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1973" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2904" value="Loans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="7006" value="Management" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="60221" value="Tycoon: Business Game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="142" />
+			<average value="6.19366" />
+			<bayesaverage value="5.53413" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13293" bayesaverage="5.53413" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2544" bayesaverage="5.54239" />
+												</ranks>
+
+			<stddev value="1.4879" />
+			<median value="0" />
+			<owned value="511" />
+			<trading value="31" />
+			<wanting value="6" />
+			<wishing value="30" />
+			<numcomments value="85" />
+			<numweights value="17" />
+			<averageweight value="2.5882" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

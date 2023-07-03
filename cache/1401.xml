@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1401">
+         <thumbnail>https://cf.geekdo-images.com/bZwzJeqUryWssb0aD7wJ1A__thumb/img/7BG5RiuUqUIw4ObGXJ_xyD_Gvls=/fit-in/200x150/filters:strip_icc()/pic526574.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bZwzJeqUryWssb0aD7wJ1A__original/img/GyYUWlk6l1LkFDfwPsahxgsxjBc=/0x0/filters:format(jpeg)/pic526574.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Crash!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Manoover" />
+			    				
+				<name type="alternate" sortindex="1" value="Robot Attack" />
+			
+						               													<description>Demolition Derby on a small hex grid. Players have six cars each and roll dice to smash vehicles off the board.&amp;#10;&amp;#10;Published in 1992 as Crash! by Franjos and in 2007 as Manoover by Kadon. The published versions do not accommodate 3 players.&amp;#10;&amp;#10;Kadon has, by special order, a 2-sided gameboard that has the 2 player board on one side and the 3 player board on the reverse. (It comes with enough pieces for the three player game, of course.)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1992" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="2" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="102259" value="Manoover Plus" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="583" value="Don O'Brien" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1586" value="Ralf E. Kahlert" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="151" value="franjos Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="459" value="Kadon Enterprises" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="61" />
+			<average value="6.3541" />
+			<bayesaverage value="5.5289" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14183" bayesaverage="5.5289" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="689" bayesaverage="5.63195" />
+												</ranks>
+
+			<stddev value="1.27634" />
+			<median value="0" />
+			<owned value="128" />
+			<trading value="4" />
+			<wanting value="2" />
+			<wishing value="15" />
+			<numcomments value="32" />
+			<numweights value="10" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="300664">
+         <thumbnail>https://cf.geekdo-images.com/8idwh3TfQ5FWGaMExD5HRw__thumb/img/x0jHHNTOBBwxhRXNGUzMpvGRXGI=/fit-in/200x150/filters:strip_icc()/pic5408665.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8idwh3TfQ5FWGaMExD5HRw__original/img/B1k6WF1u1t4JFMLfF4BgTsAlvuI=/0x0/filters:format(jpeg)/pic5408665.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Arkwright: The Card Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Arkwright: El Juego de Cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="Arkwright: Karetní hra" />
+			    				
+				<name type="alternate" sortindex="1" value="아크라이트: 카드 게임" />
+			
+						               													<description>In the late 18th century, the Industrial Revolution starts. The first factories were founded by businessmen like Richard Arkwright, who ran the first factory for spinning wool with machines like the &amp;quot;Spinning Jenny&amp;quot; and the water frame.&amp;#10;&amp;#10;In &amp;quot;Arkwright: The Card Game&amp;quot;, you run a business and will employ workers in your different factories to produce and sell goods. The more workers, the more goods that can be sold &amp;mdash; but be prepared for crises and some stiff competition.&amp;#10;&amp;#10;The game is played over three decades (1770/1780/1790), split up into four rounds per decade. On your turn, you play new cards from your hand to open factories and upgrade existing ones, select improvements, improve factory quality, build machines, and employ new workers. You can also pay money to improve your shareholdings, and take out loans if you require more money for production costs. After the actions phase, you can improve your abilities by advancing your development markers on your player board, or take one of the available development cards.&amp;#10;&amp;#10;Then, the production phase starts, where every player who owns a factory of the current good produces those goods. The market fluctuates with the general demand, so the demand may be lower than the value of your current good, lowering your profit. Workers must be paid, and machines need regular maintenance, so you can possibly lose money instead of turning a profit. Selling enough of one good improves your share value, and there are bonuses for having the highest appeal. Lastly, if you can&amp;rsquo;t sell your goods to the home market, you can ship them overseas or store them for future rounds.&amp;#10;&amp;#10;After the final round of the last decade, the game ends. Players then sell all goods left in their storehouses, reduce the number of shares they hold by the number of loans they took, and reduce their share value based on their personal shipping track. Each player then multiplies the number of their shares by their share value to determine their end score. The player with the highest end score wins the game.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="100" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="100" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="3" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2904" value="Loans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63210" value="Game: Arkwright" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50152" value="History: Industrial Revolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359130" value="Arkwright: The Card Game – Game Brewer Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="154825" value="Arkwright" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5766" value="Stefan Risthaus" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="126965" value="Mehdi Merrouche" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33809" value="Game Brewer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="597" value="Eagle-Gryphon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21577" value="OSTIA Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="738" />
+			<average value="7.00413" />
+			<bayesaverage value="5.90364" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3330" bayesaverage="5.90364" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1394" bayesaverage="6.01763" />
+												</ranks>
+
+			<stddev value="1.31407" />
+			<median value="0" />
+			<owned value="2719" />
+			<trading value="141" />
+			<wanting value="85" />
+			<wishing value="483" />
+			<numcomments value="236" />
+			<numweights value="48" />
+			<averageweight value="3.9792" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

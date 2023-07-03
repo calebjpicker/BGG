@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="41114">
+         <thumbnail>https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__thumb/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__original/img/_UahoIUTqh39xRqzCc2jwgdYbSA=/0x0/filters:format(jpeg)/pic2576459.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Resistance" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Direniş" />
+			    				
+				<name type="alternate" sortindex="1" value="Mafie" />
+			    				
+				<name type="alternate" sortindex="4" value="De Mol" />
+			    				
+				<name type="alternate" sortindex="4" value="La Résistance" />
+			    				
+				<name type="alternate" sortindex="5" value="The Resistance: Agenci Molocha" />
+			    				
+				<name type="alternate" sortindex="4" value="La Resistencia" />
+			    				
+				<name type="alternate" sortindex="1" value="Rezistența" />
+			    				
+				<name type="alternate" sortindex="5" value="Der Widerstand" />
+			    				
+				<name type="alternate" sortindex="1" value="Сопротивление" />
+			    				
+				<name type="alternate" sortindex="1" value="Съпротива" />
+			    				
+				<name type="alternate" sortindex="1" value="レジスタンス" />
+			    				
+				<name type="alternate" sortindex="1" value="抵抗組織" />
+			    				
+				<name type="alternate" sortindex="1" value="抵抗组织" />
+			
+						               													<description>The Empire must fall. Our mission must succeed. By destroying their key bases, we will shatter Imperial strength and liberate our people. Yet spies have infiltrated our ranks, ready for sabotage. We must unmask them. In five nights we reshape destiny or die trying. We are the Resistance!&amp;#10;&amp;#10;The Resistance is a party game of social deduction. It is designed for five to ten players, lasts about 30 minutes, and has no player elimination. The Resistance is inspired by Mafia/Werewolf, yet it is unique in its core mechanics, which increase the resources for informed decisions, intensify player interaction, and eliminate player elimination.&amp;#10;&amp;#10;Players are either Resistance Operatives or Imperial Spies. For three to five rounds, they must depend on each other to carry out missions against the Empire. At the same time, they must try to deduce the other players&amp;rsquo; identities and gain their trust. Each round begins with discussion. When ready, the Leader entrusts sets of Plans to a certain number of players (possibly including himself/herself). Everyone votes on whether or not to approve the assignment. Once an assignment passes, the chosen players secretly decide to Support or Sabotage the mission. Based on the results, the mission succeeds (Resistance win) or fails (Empire win). When a team wins three missions, they have won the game.&amp;#10;&amp;#10;Rule Correction:&amp;#10;&amp;#10;For first printing (2010 purchases), the expansion rules should read: &amp;quot;Games of 5-6 players use 7 plot cards, games with 7+ players use all 15 Plot Cards.&amp;quot; and &amp;quot;...each Round, the leader draws Plot cards (1 for 5-6 players, 2 for 7-8 players, and 3 for 9-10 players)&amp;quot; - This has been corrected in the subsequent printings.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="5" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="482">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="313" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="311" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="312" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="301" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="235" />
+					<result value="Not Recommended" numvotes="113" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="117" />
+					<result value="Recommended" numvotes="258" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="283" />
+					<result value="Recommended" numvotes="130" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="179" />
+					<result value="Recommended" numvotes="187" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="79" />
+					<result value="Recommended" numvotes="233" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="73" />
+					<result value="Recommended" numvotes="211" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="227" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="114">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="14" />
+					<result value="10" numvotes="34" />
+					<result value="12" numvotes="39" />
+					<result value="14" numvotes="20" />
+					<result value="16" numvotes="6" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="98">
+			
+		<results>		
+					<result level="951" value="No necessary in-game text" numvotes="66" />
+					<result level="952" value="Some necessary text - easily memorized or small crib sheet" numvotes="26" />
+					<result level="953" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="954" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="955" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2892" value="Roles with Asymmetric Information" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2989" value="Game: Werewolf / Mafia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7958" value="Series: Postcard Box Games (Indie Boards and Cards)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20304" value="Setting: Dystopian Universe (Indie Boards &amp; Cards)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="157927" value="The Resistance: Additional Plot Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="162890" value="The Resistance: Hidden Agenda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="163322" value="The Resistance: Hidden Agenda &amp; Hostile Intent" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="162889" value="The Resistance: Hostile Intent" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151522" value="The Resistance: Inquisitor Tile Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="140771" value="The Resistance: Merlin/Assassin Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="162856" value="The Resistance: Rogue Agent and Sergeant Modules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="200630" value="The Resistance: The Plot Thickens" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="142936" value="The Resistance: Anime Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="311293" value="The Resistance: Laserox Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138397" value="The Resistance: Replacement Plot Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="367396" value="Avalon: Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="316287" value="Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="128882" value="The Resistance: Avalon" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11906" value="Don Eskridge" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92809" value="Luis Franco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49916" value="Piotr Haraszczak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="107073" value="Jihoon Jang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71120" value="Maryam Khatoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39261" value="Jordy Knoop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71122" value="Vinh Mac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71123" value="Alex Murur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38447" value="Jarek Nocoń" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49082" value="George Patsouras" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39248" value="Michael Rasmussen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71119" value="Jordan Saia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71121" value="Luis Thomas" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10290" value="Indie Boards &amp; Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25203" value="Lex Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="39647" />
+			<average value="7.22841" />
+			<bayesaverage value="7.09176" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="357" bayesaverage="7.09176" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="29" bayesaverage="7.04979" />
+												</ranks>
+
+			<stddev value="1.47246" />
+			<median value="0" />
+			<owned value="62322" />
+			<trading value="1626" />
+			<wanting value="262" />
+			<wishing value="3901" />
+			<numcomments value="6713" />
+			<numweights value="1539" />
+			<averageweight value="1.5965" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

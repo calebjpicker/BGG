@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="299179">
+         <thumbnail>https://cf.geekdo-images.com/KqX8Cbsv_O6QNYKBzXVoWQ__thumb/img/NoHya8FLgbAmRby5-i0OqT2KbVE=/fit-in/200x150/filters:strip_icc()/pic5179089.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/KqX8Cbsv_O6QNYKBzXVoWQ__original/img/zTJULJy5T1-k5X98toM0NXyt29c=/0x0/filters:format(jpeg)/pic5179089.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Chancellorsville 1863" />
+			
+						                           
+						               													<description>Chancellorsville 1863 is a card-driven game on the American Civil War Battle of Chancellorsville. Playable by 1 to 2 players in 1 hour, the game comes with a card-driven solitaire engine.  Designed by Maurice Suckling (designer of Freeman's Farm 1777), the game uses many of the concepts from that game.  However, added hidden movement, much more maneuver, and other design tweaks make this a truly unique game.&amp;#10;&amp;#10;Each turn players will play 1 of their 3 in-hand formation cards to maneuver or attack enemy forces, gaining momentum cubes based on the formation activated.  Each formation is a Confederate division or Union corps.  Each formation card will allow a major and possibly an additional minor activation, major allowing two moves for a formation while the minor allows one move.  After each formation moves combat can occur if a move ends in a location with an enemy formation.  Tactic cards may be played during the formation's activation giving it movement or combat bonuses.&amp;#10;&amp;#10;At the end of the formation card activation players may spend their momentum cubes to buy tactics cards which may give them benefits in combat or movement in future turns.&amp;#10;&amp;#10;Players then draw a new formation card refilling their hands to 3.  Hooker, Lee, and Jackson have bonuses that can be played once a game, adding to movement and combat.&amp;#10;&amp;#10;Victory is determined by destroying enemy formations through morale/strength loss, or the Union occupying the three victory locations which represent cutting off the Confederate army from Richmond.&amp;#10;&amp;#10;Additional rules allow for fixed defensive positions, Jackson's Flank March -- and even his death.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1048" value="American Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1102" value="Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2840" value="Action/Event" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2841" value="Command Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6137" value="Components: Block Wargames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76987" value="Mechanism: Static Battle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43671" value="States: Virginia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="115352" value="Maurice Suckling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="27597" value="Sean Cooke" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41007" value="Old School Wargames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26659" value="Worthington Publishing, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="164" />
+			<average value="7.84362" />
+			<bayesaverage value="5.67502" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5833" bayesaverage="5.67502" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="573" bayesaverage="6.41604" />
+												</ranks>
+
+			<stddev value="1.19047" />
+			<median value="0" />
+			<owned value="426" />
+			<trading value="13" />
+			<wanting value="60" />
+			<wishing value="212" />
+			<numcomments value="59" />
+			<numweights value="10" />
+			<averageweight value="2.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

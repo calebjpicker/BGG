@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="91430">
+         <thumbnail>https://cf.geekdo-images.com/lhmnfa8Z_NdSA4eVCT73Xg__thumb/img/0IGXAM3e5yCk4asMCeNqmfg7f9I=/fit-in/200x150/filters:strip_icc()/pic5518214.png</thumbnail>
+      <image>https://cf.geekdo-images.com/lhmnfa8Z_NdSA4eVCT73Xg__original/img/3Vc6QGk5T5ngqtPSxcD4xPbwixQ=/0x0/filters:format(png)/pic5518214.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="None of a Kind" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Rood Wit Blauw" />
+			    				
+				<name type="alternate" sortindex="1" value="Rouge Jaune Vert" />
+			    				
+				<name type="alternate" sortindex="1" value="Schwarz Rot Gelb" />
+			
+						               													<description>None of a Kind, a.k.a. Schwarz Rot Gelb, is a quick-playing pattern-building game &amp;mdash; well, anti-pattern-building really. The game includes 80 color cards and 30 point cards (valued -4 to 10); each color card has 1-4 words on it, with the words being one of five colors but printed in one of the remaining four colors. Thus, the card might have &amp;quot;Gelb&amp;quot; (yellow) printed twice, but in black ink.&amp;#10;&amp;#10;Shuffle the color cards, then spread them out on the table. Reveal as many points cards as the number of players. Each player takes a starting card and places it at the beginning of a row. Simultaneously, players start flipping over cards to find one that fits next to their rightmost card, with &amp;quot;fits&amp;quot; meaning that neither of the two colors on the rightmost card are repeated on the new card and the number of words showing on the two cards differ. If you draw a card that meets this description, add it to your row and draw again; if not, place it face-up on the table.&amp;#10;&amp;#10;Once a player has a certain number of cards in their row &amp;mdash; 7 to 11 depending on the number of players &amp;mdash; they call &amp;quot;Stop!&amp;quot; All players check their card rows for errors, discarding any mistaken card and all cards played after it. The player with the longest row of cards claims the highest point card on display; the player with the second-longest row the next highest point card; and so on.&amp;#10;&amp;#10;Shuffle the color cards for a new round of play. After five rounds, the player with the highest point total wins the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="217365" value="Schwarz Rot Gelb Extreme" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="173" value="Günter Burkhardt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49901" value="INGEORGE Design" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="254" />
+			<average value="6.00232" />
+			<bayesaverage value="5.55918" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10392" bayesaverage="5.55918" />
+												</ranks>
+
+			<stddev value="1.47911" />
+			<median value="0" />
+			<owned value="587" />
+			<trading value="14" />
+			<wanting value="1" />
+			<wishing value="20" />
+			<numcomments value="54" />
+			<numweights value="15" />
+			<averageweight value="1.2667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

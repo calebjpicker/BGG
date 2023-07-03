@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="99808">
+         <thumbnail>https://cf.geekdo-images.com/F9e74-JxJYLcZBkD1-N8ng__thumb/img/qrBh1WhiFBCO68WGcaBajET99Bs=/fit-in/200x150/filters:strip_icc()/pic1135828.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/F9e74-JxJYLcZBkD1-N8ng__original/img/gbOTU2HdhDc3Zyltp3Qj_L4JDu4=/0x0/filters:format(jpeg)/pic1135828.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pizza Theory" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pizza Party" />
+			
+						               													<description>Pizza Theory, designed for exactly three players, has no randomness and simple turn actions, but the outcome each round is unpredictable since each cook has his own idea for the best way to create the pie.&amp;#10;&amp;#10;To set up the game, each player takes his pizza cutter (a wooden stick) and the die and topping counters that match. Each player places two toppings on the game board in the spaces designated with an X.&amp;#10;&amp;#10;In each round, the three players take turns placing one topping on the game board; that topping cannot be placed adjacent to any of that player's other toppings. Each player then secretly chooses a number (1-6) on his die; players reveal the numbers and lay their pizza cutters on the board in the space matching their number. The cutters divide the pizza into one of 216 possible outcomes, creating a number of slices. In each slice if a player has more toppings than each opponent, he replaces those opponent's toppings with his own; if two players tie for the most toppings, the toppings of the third player are removed but not replaced; in a three-way tie, nothing changes. (NB: If a player has at most one topping in each slice, then his toppings cannot be removed or replaced this round.)&amp;#10;&amp;#10;Whoever first places his 16 toppings on the game board wins.&amp;#10;&amp;#10;With only two players, the cutter and toppings of the third color are still used, with players taking turns placing those toppings on the board. If all 16 toppings of the third color are on the board before either player gets his toppings on the board, then both players lose.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="8" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62233" value="Food &amp; Drink: Pizza" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="111783" value="Pizza Theory: Anchovy Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51569" value="Greg Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51571" value="Brian Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35026" value="Charlie Bink" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="597" value="Eagle-Gryphon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1562" value="Ferti" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="481" />
+			<average value="6.12744" />
+			<bayesaverage value="5.61637" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7326" bayesaverage="5.61637" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="404" bayesaverage="5.80571" />
+												</ranks>
+
+			<stddev value="1.41428" />
+			<median value="0" />
+			<owned value="590" />
+			<trading value="50" />
+			<wanting value="17" />
+			<wishing value="88" />
+			<numcomments value="161" />
+			<numweights value="36" />
+			<averageweight value="1.5833" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="433">
+         <thumbnail>https://cf.geekdo-images.com/wU-CelFCsMaOrhWwAiny0g__thumb/img/yBv4f9_eXfmfuh6bFTGT_QTQOao=/fit-in/200x150/filters:strip_icc()/pic6985693.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wU-CelFCsMaOrhWwAiny0g__original/img/gjJVZP30YNCeFmPxxpZyTkBS85g=/0x0/filters:format(jpeg)/pic6985693.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Shark" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tiburones de las Finanzas" />
+			    				
+				<name type="alternate" sortindex="1" value="샤크" />
+			
+						               													<description>Shark is a stock-trading game slightly reminiscent of Acquire in that abstract play on the game board determines the share values of the various companies.  The similarities end there, though, as Shark is more free-wheeling than Acquire.&amp;#10;&amp;#10;At the start of your turn, you can buy shares (up to five) and sell shares (as many as you want), then you roll dice to determine which of the four company markers you place on the board and in which region. A company marker on its own doesn't contribute to the value of a company; only groups of at least two markers count, so groups of 5, 4, 1, and 1 markers would create a value of $9,000 for each of that company's shares. If you place a marker that combines those two lone markers, then you'd have groups of 5, 4, and 3, so the share price would shoot to $12,000. If you placed that marker on its own, the share price wouldn't change. When you place a marker, you gain money equal to that company's new share price, so you have an incentive to boost a company's size &amp;mdash; but all players receive funds equal to the difference between the old share price and new for each share they hold, so are you enriching them more than yourself?&amp;#10;&amp;#10;Of course, you can also place a marker to tank a company's share price. When a company's group expands to touch a smaller group, that smaller group is removed from the board, lowering the value of that company's shares (as long as the group had at least two markers) and costing everyone money equal to the loss in value. (Groups of equal size cannot touch, and you cannot place a marker to force a smaller group to touch a larger one.) To end your turn, you can again sell as many shares as you want and buy shares up to the per-turn limit of five.&amp;#10;&amp;#10;Removed markers are banished from the game, not returned to the supply. Once all of a company's markers have been used, or a company's share price reaches $15,000, or all of the shares have been sold, the game ends, and players cash out all their shares to see who has the most money.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1987" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="11" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7691" value="Animals: Sharks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78568" value="Components: 12 x 12 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="488" value="H. Jean Vanaise" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22512" value="A. Lefort" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22513" value="J. C. Sohier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12565" value="Walter Wagner" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4089" value="Falomir Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="144" value="Flying Turtle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="99" value="Otto Maier Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1354" />
+			<average value="6.62064" />
+			<bayesaverage value="5.94966" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3038" bayesaverage="5.94966" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1345" bayesaverage="6.04912" />
+												</ranks>
+
+			<stddev value="1.36666" />
+			<median value="0" />
+			<owned value="2012" />
+			<trading value="137" />
+			<wanting value="64" />
+			<wishing value="255" />
+			<numcomments value="510" />
+			<numweights value="158" />
+			<averageweight value="2.2025" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

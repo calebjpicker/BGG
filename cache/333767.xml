@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="333767">
+         <thumbnail>https://cf.geekdo-images.com/bQRlk8aNRFLZzpZGlLHAAQ__thumb/img/zCM93l0JTECgBPC9C69XPughEGk=/fit-in/200x150/filters:strip_icc()/pic6060894.png</thumbnail>
+      <image>https://cf.geekdo-images.com/bQRlk8aNRFLZzpZGlLHAAQ__original/img/XLNqMM20DuxZaMlFMQunLgFxFoY=/0x0/filters:format(png)/pic6060894.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stigmergy" />
+			
+						                           
+						               													<description>Stigmergy is a drawless territory game for two players: Black and White. It is played on the spaces (cells) of an initially empty hexagonal grid of hexagons. Each player must have access to a sufficient number of stones of their own color.&amp;#10;&amp;#10;Two stones, or a stone and an empty cell, see each other if they lie on the same straight line of adjacent cells and there are no other stones between them along that line. You control a cell if the number of stones of your color it sees is more than half the number of cells (empty or occupied) adjacent to it. To flip a stone is to replace it with a stone of the opposite color.&amp;#10;&amp;#10;Black plays first, then turns alternate. On your turn, perform exactly one of the following actions: a) Pass, provided that there are no empty cells or every empty cell is controlled by some player. b) Place a stone of your color on an empty cell not controlled by your opponent. c) Flip an enemy stone on a cell you control. The game ends when both players pass in succession. The player with the higher score in the final position wins. Your score is the number of stones of your color on the board, plus the number of empty cells you control, plus komi in the case of White. The button is used to avoid ties.&amp;#10;&amp;#10;Komi is the whole number of points which is added to White's score at the end of the game as compensation for going second. Before the game starts, the first player chooses the value of komi, and then the second player chooses sides. Alternatively, experienced players may agree on a standard value for all games. The button is a special token which is placed next to the board at the start of the game. It is only used when komi is an odd number. On your turn, if neither player has taken the button yet, you may not pass, but you may take the button instead of making a board play. At the end of the game, a half point is added to the score of the player who has taken the button.&amp;#10;&amp;#10;Stigmergy is based on Micha&amp;#197;&amp;#130; Zapa&amp;#197;&amp;#130;a's Tumbleweed.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="358881" value="Pletore" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="358881" value="Pletore" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11879" value="Steve Metzger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47001" value="Luis Bolaños Mures" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

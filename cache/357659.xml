@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="357659">
+         <thumbnail>https://cf.geekdo-images.com/pV0wOMTmMG0na4jW30IBng__thumb/img/8NI9RN-EvbXJXppxeF7QqlbYasI=/fit-in/200x150/filters:strip_icc()/pic6701539.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pV0wOMTmMG0na4jW30IBng__original/img/NQpGeyxjXhng_PVK7aQzCF8BgjU=/0x0/filters:format(jpeg)/pic6701539.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nightmare Cathedral" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Katedra Koszmarów" />
+			
+						               													<description>Nightmare Cathedral prominently features the haunting artwork by the late polish surrealist painter and sculptor Zdzis&amp;#197;&amp;#130;aw Beksi&amp;#197;&amp;#132;ski.&amp;#10;&amp;#10;Nightmare Cathedral is a strategy game for 1&amp;ndash;4 players, where victory is gained by controlling the map, managing resources, following objectives and selecting when to engage in fast and furious conflicts to gain strategic advantage. Over the course of the game, you will perform actions &amp;mdash; and follow the actions of other players &amp;mdash; to produce units, build fortifications, maneuver around the map, and spend your followers to climb the ritual track. Throughout the game, a haunting Cathedral will grow in the center of the board, and once it is completed, you will face &amp;mdash; and gain the ability to control! &amp;mdash; the physical manifestations of nightmares that are released upon the world. Nightmare Cathedral is a game of both strategy and tactics, where finding clever ways to follow your objectives and combining different strategies is the ultimate route to victory.&amp;#10;&amp;#10;Each player has a set of Action cards. These Action cards display various effects that may be activated either on that player's own turn, or as a reaction when other players perform that action. When you are the Active Player, you will move your Dreamer to a Day space that is not adjacent to its current Night space and perform the Action associated with that Day space, as outlined on your own Action card.&amp;#10;Inactive Players may react to your chosen Day Action.&amp;#10;&amp;#10;The game is divided into two stages. During the first stage, the titular Nightmare Cathedral is built, piece by piece, as the game progresses. Once the final Cathedral piece is placed on the main board, the Nightmare Cathedral is finished, at which point the game transitions to the second stage. From this moment on, Nightmares, powerful beings channeling the presence of the completed Cathedral, enter the game board, Devouring Units in their path. However, as a player, you may also take actions to control a Nightmare, Commanding it to do your bidding.&amp;#10;&amp;#10;The game end is triggered in one of the following ways:&amp;#10;&amp;#10;&amp;#10;     The Time marker reaches a certain space on the Time track.&amp;#10;     A single player reaches the final step of the Ritual track.&amp;#10;     A certain number of Units have been devoured.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2958" value="Moving Multiple Units" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60795" value="Theme: Dreams / Nightmares" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39521" value="Theme: Painting / Paintings" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360278" value="Nightmare Cathedral: Nightmare Cat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69224" value="Błażej Kubacki" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115580" value="Zdzisław Beksiński" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="144165" value="Franek Wolski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42144" value="Grimspire" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="102" />
+			<average value="7.75353" />
+			<bayesaverage value="5.59175" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8350" bayesaverage="5.59175" />
+												</ranks>
+
+			<stddev value="1.35812" />
+			<median value="0" />
+			<owned value="423" />
+			<trading value="3" />
+			<wanting value="38" />
+			<wishing value="307" />
+			<numcomments value="58" />
+			<numweights value="10" />
+			<averageweight value="3.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

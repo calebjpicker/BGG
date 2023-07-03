@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="228304">
+         <thumbnail>https://cf.geekdo-images.com/anVRPQqlelRLODHQ3QylMQ__thumb/img/KpVVfI_9IdwZlw2D-ux_xDfvaYE=/fit-in/200x150/filters:strip_icc()/pic3945327.png</thumbnail>
+      <image>https://cf.geekdo-images.com/anVRPQqlelRLODHQ3QylMQ__original/img/Ag5ggoghyY3Jmrkc4j5N0i7M6mU=/0x0/filters:format(png)/pic3945327.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Escabel" />
+			
+						                           
+						               													<description>&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Introduction&amp;#10;&amp;#10;Escabel is a drawless connection game for two players: Black and White. It's played on the intersections (points) of an initially empty square board. The top and bottom edges of the board are colored black; the left and right edges are colored white.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Definitions&amp;#10;&amp;#10;A stack is a set of one or more pieces piled onto each other on the same point. The color of a stack is the color of its topmost piece, which denotes its owner. The height of a stack is the number of pieces in it.&amp;#10;&amp;#10;A crosscut is a 2x2 set of pieces consisting of two diagonally adjacent black pieces and two diagonally adjacent white pieces.&amp;#10;&amp;#10;Two like-colored stacks are considered connected in the following cases:&amp;#10;&amp;#10;&amp;#10;     They are orthogonally or diagonally adjacent to each other and not part of the same crosscut.&amp;#10;&amp;#10;&amp;#10;&amp;#10;     They are both part of the same crosscut and higher than the lower enemy stack in it.&amp;#10;&amp;#10;&amp;#10;&amp;#10;     They are both part of the same crosscut, the lower of them is the same height as the lower enemy stack in the crosscut and the higher of them is higher than the higher enemy stack in the crosscut.&amp;#10;&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Play&amp;#10;&amp;#10;Black plays first, then turns alternate. On your turn, you must perform exactly one of the following actions:&amp;#10;&amp;#10;&amp;#10;     Place a piece of your color on an empty point.&amp;#10;&amp;#10;&amp;#10;&amp;#10;     Move the topmost piece of a stack of your color onto an orthogonally adjacent enemy stack, provided that, before the move, the heights of both stacks are the same. Then, place a piece of your opponent's color onto the stack from which you just moved your piece.&amp;#10;&amp;#10;&amp;#10;If, at the start of a player's turn, there's a chain of connected stacks of their color touching the two opposite board edges of their color, that player wins. Failing that, a player loses if they have no moves available on their turn, in which case the opponent will necessarily have a winning chain of the type just described. Draws are not possible.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Pie rule&amp;#10;&amp;#10;The pie rule is used in order to make the game fair. This means that White will have the option, on their first turn only, to change sides instead of making a regular move.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Variants&amp;#10;&amp;#10;&amp;#10;     Checkered: Same rules, but the game starts with the board fully covered with black and white pieces in a checkered pattern. On odd-sized boards, the two possible checkered setups may be used.&amp;#10;&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Notes&amp;#10;&amp;#10;Escabel was inspired by Matteo Perlini's Consta.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="1" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="47001" value="Luis Bolaños Mures" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="7.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.471405" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

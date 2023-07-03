@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22080">
+         <thumbnail>https://cf.geekdo-images.com/QzVDuBm-BaZHn_FgftYBBw__thumb/img/QufLcaGK1wL-O8wUsKjKprbIGTQ=/fit-in/200x150/filters:strip_icc()/pic31778.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/QzVDuBm-BaZHn_FgftYBBw__original/img/lnwWH_By7Ux4M02PIucmSFGyNiY=/0x0/filters:format(jpeg)/pic31778.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Brain Trainer" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mini Reversi" />
+			    				
+				<name type="alternate" sortindex="1" value="Reversi" />
+			
+						               													<description>Introduction taking from the rules:&amp;#10;&amp;#10;Brain Trainer / Reversi is a game of concentration in which the players are able to develop their ability of logical thought and planning independently of each other. The game is a typical family game in which everyone participates with equal enthusiasm. Two persons play at a time. Also, you can play alone, trying to solve the code with as few moves as possible.&amp;#10;&amp;#10;Underneath the gameboard at the top you will find four sheets of different colours. These sheets are called code boards. The game is supplied with the green side A at the top. Place the pegs corresponding to this patten. Before playing you must turn the green board so that the reverse side B faces up. A pattern now appears with the colours arranged in vertical rows. Try - with the fewest possible moves - to place the pegs so that they coincide with this pattern.&amp;#10;&amp;#10;Unrelated to Othello.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1975" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12037" value="Norsk Publikasjonstjeneste A/S" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="782" value="Peter Pan Playthings" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="142" />
+			<average value="5.56049" />
+			<bayesaverage value="5.50231" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19905" bayesaverage="5.50231" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1056" bayesaverage="5.51051" />
+												</ranks>
+
+			<stddev value="1.53912" />
+			<median value="0" />
+			<owned value="281" />
+			<trading value="5" />
+			<wanting value="4" />
+			<wishing value="13" />
+			<numcomments value="47" />
+			<numweights value="10" />
+			<averageweight value="1.7" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

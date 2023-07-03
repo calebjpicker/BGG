@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5404">
+         <thumbnail>https://cf.geekdo-images.com/wFD0mXh1AZshtsYlrBXyzA__thumb/img/nLzU6sEdEIrWcjgBVOlj-Jfsl6s=/fit-in/200x150/filters:strip_icc()/pic2748305.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wFD0mXh1AZshtsYlrBXyzA__original/img/TbMBl_wTToaiNN9YIF4nixlM6SE=/0x0/filters:format(jpeg)/pic2748305.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Amun-Re" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Amon Ra" />
+			    				
+				<name type="alternate" sortindex="1" value="Amon-Ra" />
+			    				
+				<name type="alternate" sortindex="1" value="Amun Re" />
+			    				
+				<name type="alternate" sortindex="1" value="Амон-Ра" />
+			    				
+				<name type="alternate" sortindex="1" value="亞蒙拉" />
+			    				
+				<name type="alternate" sortindex="1" value="아문 레" />
+			
+						               													<description>Everyone knows of the pyramids on the Nile &amp;mdash; eternal monuments of a powerful and beautiful culture that can still take our breath away. The players (leaders of a royal Egyptian family) choose their sites, build their pyramids, and thank Amun-Re and the other gods for their bounty.&amp;#10;&amp;#10;In Amun-Re, each pharaoh wants to build the most pyramids. To accomplish this, they must first acquire a province where they can trade and farm. With their profits, they can buy new provinces and building-stones to erect pyramids. For all their actions players must make clever use of their power cards, and always offer appropriate sacrifices to Amun-Re.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="261">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="149" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="161" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="90" />
+					<result value="Not Recommended" numvotes="115" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="144" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="212" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="118" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="34">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="22" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="47">
+			
+		<results>		
+					<result level="961" value="No necessary in-game text" numvotes="42" />
+					<result level="962" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="963" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="964" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="965" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2931" value="Auction: Fixed Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2922" value="Constrained Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72535" value="Ancient: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62771" value="Mythology: Egyptian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27500" value="Rivers: Nile" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="283524" value="Amun-Re: GeekUp Bit Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="354568" value="Amun-Re: 20th Anniversary Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="232303" value="Amun-Re: The Card Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="54199" value="Isidre Monés" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39058" value="Surfin' Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin' Meeple China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9047" />
+			<average value="7.295" />
+			<bayesaverage value="6.96213" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="470" bayesaverage="6.96213" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="305" bayesaverage="7.04355" />
+												</ranks>
+
+			<stddev value="1.22065" />
+			<median value="0" />
+			<owned value="10233" />
+			<trading value="354" />
+			<wanting value="455" />
+			<wishing value="1678" />
+			<numcomments value="2821" />
+			<numweights value="936" />
+			<averageweight value="3.0342" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

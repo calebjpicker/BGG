@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="114871">
+         <thumbnail>https://cf.geekdo-images.com/zHEYZdeXW5uuERvZa1Fehw__thumb/img/3Ei7OpLCitCN1ssKkNYBuXHn1gc=/fit-in/200x150/filters:strip_icc()/pic1223817.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zHEYZdeXW5uuERvZa1Fehw__original/img/VKgIJos5aNjfC0U7Bm31PaxL72E=/0x0/filters:format(jpeg)/pic1223817.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="For The Win" />
+			
+						                           
+						               													<description>&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Overview&amp;#10;&amp;#10;For The Win is an abstract strategy game in which each player gets ten tiles, two of each character representing Monkeys, Zombies, Pirates, Aliens, and Ninjas.  The objective is to connect five (or more) of one's tiles, including at least one of each type, together (sides and corners count).  Additionally, all five (or more) tiles must be face-up, or unactivated.  The game ends immediately when a player achieves this goal.  Each character type has a specific ability to help you toward the objective.&amp;#10;  &amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Gameplay&amp;#10;&amp;#10;Players take turns using either 1 or 2 actions within 5 action rounds.  Once one player's actions are consumed for a round, the other player(s) get to use any of their remaining 5 actions at once.  Judicious action management is key; if one budgets one's actions wisely, one can play several actions in a row for game-winning combinations.  The available actions are as follows:&amp;#10;&amp;#10;&amp;#10;      Add a tile to the Grid&amp;#10;      Move one of one's tiles&amp;#10;      Refresh or flip a tile face up&amp;#10;      Shove a tile or column/row of tiles&amp;#10;      Activate an ability (the chosen tile turns face down; see below)&amp;#10;&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Characters &amp;amp; abilities&amp;#10;&amp;#10;&amp;#10;    Alien &amp;mdash; The Alien uses her tractor beam to pull any tile in the Grid to a space that is adjacent to her. &amp;#10;    Monkey &amp;mdash; The mischievous Monkey uses a banana peel to flip over all of the tiles it is touching. &amp;#10;    Ninja &amp;mdash; The sneaky Ninja can move from his current spot to any other unoccupied space in the Grid.&amp;#10;    Pirate &amp;mdash; The Pirate uses his trusty cannon to blast an adjacent tile to any unoccupied space in the Grid.&amp;#10;    Zombie &amp;mdash; The Zombie can infect any adjacent tile. The infected tile is removed from the Grid and replaced with a Zombie tile that has not yet been added to the Grid. If all of the Zombie tiles have already been added to the Grid, the Zombie may choose one adjacent tile and deactivate it (that is, flip it face down).&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="2" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2964" value="Pieces as Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7178" value="Animals: Apes / Monkeys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17928" value="Organizations: Gamesmiths" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17927" value="Series: TMG Originals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5701" value="Theme: Ninjas" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127242" value="For The Win: 3-4 Player Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11303" value="Michael Eskue" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40032" value="Eric J. Carter" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="504" />
+			<average value="5.74171" />
+			<bayesaverage value="5.54775" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11423" bayesaverage="5.54775" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="778" bayesaverage="5.60135" />
+												</ranks>
+
+			<stddev value="1.41373" />
+			<median value="0" />
+			<owned value="1241" />
+			<trading value="174" />
+			<wanting value="8" />
+			<wishing value="36" />
+			<numcomments value="261" />
+			<numweights value="31" />
+			<averageweight value="1.8387" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

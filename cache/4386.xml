@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="4386">
+         <thumbnail>https://cf.geekdo-images.com/FcFvkHgre6V_nKYMOxS8aQ__thumb/img/JxHD2Cgd0hM6ijBHMOjLb9TMnJE=/fit-in/200x150/filters:strip_icc()/pic108537.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FcFvkHgre6V_nKYMOxS8aQ__original/img/bCUBvbyKeTIIq1isca5zPgqT8Bs=/0x0/filters:format(jpeg)/pic108537.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fanorona" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fandango" />
+			    				
+				<name type="alternate" sortindex="1" value="Fanorana" />
+			    				
+				<name type="alternate" sortindex="1" value="Fanorana-Dimy" />
+			    				
+				<name type="alternate" sortindex="1" value="Tumicarona" />
+			
+						               													<description>Fanorona is a classical two-person strategic abstract game that comes from the island of Madagascar and is still popular there today. It is played on a rectangular board made up of two Alquerque boards with 22 plain black and white pieces. Capturing is compulsory and a series of captures may be made by the same piece on a turn, as in checkers. Unique aspects of the game include its method of capture (either approaching or withdrawing your piece from a line of enemy pieces), and the &amp;quot;vela partie&amp;quot; (debt game) after winning a decisive game (the winner must let the loser &amp;quot;eat&amp;quot; one man each turn for 17 consecutive moves). Because of the density of the board (only one open spot at the games beginning) and the unique method of capture, strategy is complex and enigmatic, with fewer pieces often beating more pieces. (While very different, the game feels somewhat like Zertz due to the above.)&amp;#10;&amp;#10;Historical note from one game box: Some Fanorona matches were devoted to the Gods and last but not least the fate and colonialization of Madagascar (1895) supposed to be solved unbloody with Fanorona on the game table.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1680" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="4" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19524" value="Traditional Games: Alquerque" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26855" value="Traditional Games: Alquerque / Fanorona (Indian War Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="35863" value="The 15 Greatest Board Games in the World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="352837" value="AGON: 24 táblajáték a nagyvilágból" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="7159" value="The Boardgame Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="2883" value="The Book of Classic Board Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53628" value="3Joy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2407" value="Clemens Gerhards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3082" value="Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4826" value="Giseh Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26131" value="L'Impensé Radical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="793" value="La Mèche Rebelle Editions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12788" value="Moskito GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2097" value="Murmel Spielwerkstatt und Verlag AG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49182" value="New Venture Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7458" value="Northwest Corner, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3174" value="Oak Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23494" value="Oficina do Aprendiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2432" value="Origem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24436" value="Regionalia Verlag GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2972" value="Das Spiel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25685" value="Taş Devrı Oyuncak" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="245" />
+			<average value="6.34245" />
+			<bayesaverage value="5.59135" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8372" bayesaverage="5.59135" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="348" bayesaverage="5.87182" />
+												</ranks>
+
+			<stddev value="1.52986" />
+			<median value="0" />
+			<owned value="326" />
+			<trading value="10" />
+			<wanting value="9" />
+			<wishing value="66" />
+			<numcomments value="113" />
+			<numweights value="22" />
+			<averageweight value="2.5909" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

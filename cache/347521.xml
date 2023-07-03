@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="347521">
+         <thumbnail>https://cf.geekdo-images.com/8Uxw0IhS_MGMS_02G_KnuQ__thumb/img/wQLEH6i0YjD0JXG86W3VQXTFHmU=/fit-in/200x150/filters:strip_icc()/pic6156946.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8Uxw0IhS_MGMS_02G_KnuQ__original/img/Jc6kdu2I4Q97V8H-P9Fxaz9DEiM=/0x0/filters:format(jpeg)/pic6156946.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blitzkrieg!: World War Two in 20 Minutes" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Blitzkrieg!: 2. světová válka ve 20 minutách" />
+			    				
+				<name type="alternate" sortindex="1" value="Blitzkrieg!: Wereldoorlog II in 20 minuten" />
+			    				
+				<name type="alternate" sortindex="1" value="Blitzkrieg!: World War Two in 20 Minutes (square box edition)" />
+			    				
+				<name type="alternate" sortindex="1" value="Syndykat zbrodni" />
+			    				
+				<name type="alternate" sortindex="1" value="Натиск!" />
+			    				
+				<name type="alternate" sortindex="1" value="블리츠크리그!: 20분 만에 즐기는 제2차 세계 대전" />
+			
+						               													<description>New Square Edition: Now includes Nippon expansion, updated Axis bag art, and an updated rulebook!&amp;#10;&amp;#10;Recreate World War Two in 20 minutes! The perfect wargame for non-wargamers, Blitzkrieg! allows two players to battle across the War&amp;rsquo;s most iconic theatres, winning key campaigns and building military might.&amp;#10;&amp;#10;Players draw army tokens from a bag to determine their starting forces and to replenish their losses. Rather than &amp;lsquo;fighting&amp;rsquo; battles with dice or cards, players allocate their military resources to each theatre&amp;rsquo;s campaigns, winning victory points, further resources, special weapons, and strategic advantages as they play. Refight World War Two several times in one evening!&amp;#10;&amp;#10;Includes Solo mode by D&amp;aacute;vid Turczi.&amp;#10;&amp;#10;Rules changes include:&amp;#10;- Score bonus VPs from war track once when closing theatre due to reaching end of war track&amp;#10;- Can only move token to end of war track in theatre where token placed, not on other tokens (i.e. Strategic Advantage or Nuclear Weapon)&amp;#10;- When closing a theatre by reaching the end of a battle track, you receive the bonus VPs on the battle track once.&amp;#10;- Only the theatre you placed a token in can be closed by reaching the end of the battle track. If the effect of a battle space (Strategic Advantage) or token (Nuclear Weapon) would cause the marker of a different theatre to reach the end of the battle track, it instead stops at the penultimate space.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2871" value="Kill Steal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2888" value="Tug of War" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18581" value="Country: Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17056" value="Country: United Kingdom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77155" value="Series: 20 Minutes! (PSC Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369831" value="Blitzkrieg!: Decryption Promo Tile" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="291866" value="Blitzkrieg!: Nippon Expansion" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="258210" value="Blitzkrieg!: World War Two in 20 Minutes" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7640" value="Paolo Mori" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60472" value="Alan D'Amico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18700" value="Mariusz Gandzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7640" value="Paolo Mori" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="121729" value="Paul Sizer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29198" value="PSC Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25996" value="Jumping Turtle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34627" value="Nasza Księgarnia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39249" value="sternenschimmermeer" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="317" />
+			<average value="7.6239" />
+			<bayesaverage value="5.79566" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.79566" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="6.28552" />
+												</ranks>
+
+			<stddev value="1.04247" />
+			<median value="0" />
+			<owned value="807" />
+			<trading value="15" />
+			<wanting value="38" />
+			<wishing value="148" />
+			<numcomments value="55" />
+			<numweights value="13" />
+			<averageweight value="1.7692" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="103752">
+         <thumbnail>https://cf.geekdo-images.com/iVckYHXp2aQLNErzhOqBNQ__thumb/img/8DrFBEX5Kr_HE3t8XwuOrL6R4F8=/fit-in/200x150/filters:strip_icc()/pic1074344.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/iVckYHXp2aQLNErzhOqBNQ__original/img/Lgg3lgPtR-XOyMMEc4JstyntrHs=/0x0/filters:format(jpeg)/pic1074344.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Schachen" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Chess Me" />
+			
+						               													<description>Schachen (Chess Me) is a chess variant without a game board, which creates the fascination of a chess game in a compact way. Without long openings, the players enter directly into confrontation. The original rules of Chess are simplified/expanded by a few additional rules.&amp;#10;&amp;#10;At the start of the game, each player has a king and four pawns. Cards for the remaining chess pieces form a deck from which the player draws three. The active player first moves a piece according to the original rules for chess, then (optionally) chooses one of the three cards in hand, places it next to an existing card, then draws a replacement card. Pawns must be placed beside another pawn, and all other figures must be placed behind a pawn. The aim of the game remains the same: Checkmate the opponent's king!&amp;#10;&amp;#10;Schachen is for players who like and know chess, but who think the original game is too complex and takes too long.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="4" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1575" value="Heinrich Glumpler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12779" value="Matthias Schmitt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12530" value="Carsten Fuhrmann" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="252" value="Edition Erlkönig" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6127" value="Mücke Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="63" />
+			<average value="7.13333" />
+			<bayesaverage value="5.55008" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11180" bayesaverage="5.55008" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="543" bayesaverage="5.7095" />
+												</ranks>
+
+			<stddev value="1.40814" />
+			<median value="0" />
+			<owned value="129" />
+			<trading value="6" />
+			<wanting value="3" />
+			<wishing value="26" />
+			<numcomments value="20" />
+			<numweights value="9" />
+			<averageweight value="2.2222" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

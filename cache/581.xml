@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="581">
+         <thumbnail>https://cf.geekdo-images.com/Tr9lRzlpofkLerh76Cx7jw__thumb/img/oBofe4L_OOkKNromb9Xmri0-a_A=/fit-in/200x150/filters:strip_icc()/pic2045720.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Tr9lRzlpofkLerh76Cx7jw__original/img/ke3YrdFb23J2qqqUZoSGl3i9KxU=/0x0/filters:format(jpeg)/pic2045720.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tile Chess" />
+			
+						                           
+						               													<description>In Tile Chess, the board isn't used and the pieces are represented by tiles. The pieces move in the traditional fashion, including capturing, and the game &amp;mdash; and the pieces for that matter &amp;mdash; is held together by the restriction that each piece must always be connected to another piece, with that piece being connected to another, etc. Thanks to this requirement, the board and the grid that the pieces move on is formed by the pieces themselves (or lack thereof). You cannot make moves that would orphan pieces, which adds an interesting wrinkle to the game &amp;mdash; and to make matters worse (in a good way), you might have to defend yourself against more than just one opponent...&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="4" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="273" value="Jason Wittman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19" value="Steve Jackson Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="262" />
+			<average value="5.95088" />
+			<bayesaverage value="5.5534" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10884" bayesaverage="5.5534" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="606" bayesaverage="5.67186" />
+												</ranks>
+
+			<stddev value="1.4941" />
+			<median value="0" />
+			<owned value="707" />
+			<trading value="44" />
+			<wanting value="12" />
+			<wishing value="52" />
+			<numcomments value="125" />
+			<numweights value="22" />
+			<averageweight value="2.6818" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

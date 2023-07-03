@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="265684">
+         <thumbnail>https://cf.geekdo-images.com/DCidiljhlyLI2T8RwIynhA__thumb/img/Ut5TeXJIZrfBqFyVPSUfP3yw-Og=/fit-in/200x150/filters:strip_icc()/pic4422041.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DCidiljhlyLI2T8RwIynhA__original/img/ZUyjWSnnuBkdL1dpIvKz5qS2-B4=/0x0/filters:format(jpeg)/pic4422041.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Subtext" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Entre les lignes" />
+			    				
+				<name type="alternate" sortindex="1" value="畫外之意" />
+			
+						               													<description>In Subtext, players try to communicate with one another by drawing hints about the word on their card. Drawing well is not required &amp;mdash; just being clever in selecting your hints.&amp;#10;&amp;#10;Each round, one person is the dealer. This player looks at their word, then shuffles the card into the cards for the other players and distributes them randomly. By doing this, one player will have the same word as the dealer, but nobody &amp;mdash; not even the dealer &amp;mdash; knows who it is. The dealer then draws a picture, and you want to hint at your word so that ideally only the person who has the same word will understand what you're depicting. In the subsequent guessing phase, all players (including the dealer) guess which player got the same word as the dealer. Points are awarded based on the number of incorrect guesses, but the dealer and their partner have to guess correctly to even get points. How vague do you want to be in your drawing efforts to still get your message across without anyone else knowing it?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="0" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2866" value="Targeted Clues" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48868" value="Mechanism: Drawing" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80162" value="Wolfgang Warsch" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33419" value="Edition Spielwiese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29628" value="Act in games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47429" value="Buly Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="413" />
+			<average value="6.40948" />
+			<bayesaverage value="5.65042" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6355" bayesaverage="5.65042" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="382" bayesaverage="5.8541" />
+												</ranks>
+
+			<stddev value="1.48138" />
+			<median value="0" />
+			<owned value="729" />
+			<trading value="37" />
+			<wanting value="14" />
+			<wishing value="131" />
+			<numcomments value="97" />
+			<numweights value="6" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

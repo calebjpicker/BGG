@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="161383">
+         <thumbnail>https://cf.geekdo-images.com/2a90ieAFRP4xIzKbJUHf9w__thumb/img/vwY7L0bylKsxTruAboQlaThGz_8=/fit-in/200x150/filters:strip_icc()/pic2559567.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2a90ieAFRP4xIzKbJUHf9w__original/img/MfPGb3u7mEVN9xxthqhbJ_vSYIo=/0x0/filters:format(jpeg)/pic2559567.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="LIE" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="GRA" />
+			    				
+				<name type="alternate" sortindex="1" value="猜猜看" />
+			
+						               													<description>Players begin the game with 5 cards and they choose which number on each card they will use to bluff and win the round. During a round, each player must either make a bid of how many of a certain die they believe are shared amongst all players chosen dice -OR- call the previous player's bluff and say, &amp;quot;LIE!&amp;quot; The loser of the round may only draw back up to 4 cards next round and play continues until just one player remains!&amp;#10;&amp;#10;There are several unique aspects to this 30-card mini micro game:&amp;#10;&amp;#10;1. Players choose which dice they will bid and bluff with each round.&amp;#10;2. Each player holds extra hidden information based on which dice they DIDN'T use for the round.&amp;#10;3. The first player to bid in a round must choose which direction the bidding will proceed in.&amp;#10;4. 2 to 6 Players can play!&amp;#10;5. Several variants included.&amp;#10;&amp;#10;Number 6 in the Pack O Game series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="146" value="No necessary in-game text" numvotes="1" />
+					<result level="147" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="148" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="149" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="150" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25085" value="Series: Pack O Game (Perplext)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="264897" value="Pack O Game: Set 1" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4724" value="Chris Handy (I)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27235" value="Perplext" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6011" value="Oya" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="435" />
+			<average value="6.25292" />
+			<bayesaverage value="5.62857" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6940" bayesaverage="5.62857" />
+												</ranks>
+
+			<stddev value="1.37584" />
+			<median value="0" />
+			<owned value="1836" />
+			<trading value="39" />
+			<wanting value="18" />
+			<wishing value="119" />
+			<numcomments value="165" />
+			<numweights value="11" />
+			<averageweight value="1.4545" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

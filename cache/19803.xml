@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="19803">
+         <thumbnail>https://cf.geekdo-images.com/1PBqpVSEirpqme8rnXuNGA__thumb/img/a6-Nthl24PeMpwiHTIAhnYtmfqI=/fit-in/200x150/filters:strip_icc()/pic5241330.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1PBqpVSEirpqme8rnXuNGA__original/img/aChgTJCraDUMFLfUMkk5PUi9T9w=/0x0/filters:format(jpeg)/pic5241330.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Martian Chess" />
+			
+						                           
+						               													<description>Martian Chess is a 2-4 player game that uses Icehouse pieces, requiring one stash per player, and a chessboard. It was one of the games included in Icehouse: The Martian Chess Set and Pyramid Arcade.&amp;#10;&amp;#10;Much like its namesake, Martian Chess is a game of capturing pieces.  Like Chess, Martian Chess is turn based, and played on a chessboard.  In both games, players move and capture individual pieces, and each type of piece has distinct moving rules.&amp;#10;&amp;#10;However, Martian Chess differs from Chess in critical ways:&amp;#10;&amp;#10;     Piece ownership is determined not by color but by location.&amp;#10;     Instead of capturing a specific piece, winning is determined by points, making it possible to force the end of the game and still win with no pieces left in that player's control.&amp;#10;     Lastly, Martian Chess easily supports 4 players as well as two, and can also be played with 3, 5 or 6 players if you use geomorphic chessboard sections; see this photo for an example.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78583" value="Components: 4 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20" value="Components: Looney Pyramid Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10169" value="Space: Mars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="1818" value="Icehouse: Black Ice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="214172" value="Looney Pyramids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="214162" value="Icehouse: The Martian Chess Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="13454" value="Playing With Pyramids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="187988" value="Pyramid Arcade" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="21074" value="Monochrome  Chess" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="122" value="Andrew Looney" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="122" value="Andrew Looney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="89107" value="Eileen Tjan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="76" value="Looney Labs" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="331" />
+			<average value="6.56819" />
+			<bayesaverage value="5.65552" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6233" bayesaverage="5.65552" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="245" bayesaverage="6.0375" />
+												</ranks>
+
+			<stddev value="1.42765" />
+			<median value="0" />
+			<owned value="644" />
+			<trading value="6" />
+			<wanting value="10" />
+			<wishing value="103" />
+			<numcomments value="158" />
+			<numweights value="30" />
+			<averageweight value="2.4333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="180292">
+         <thumbnail>https://cf.geekdo-images.com/fFSJIV9RxlYjaaaZSUw2Dw__thumb/img/7AoNLgjKjv7NzYBAfjx3drwcuY4=/fit-in/200x150/filters:strip_icc()/pic2578308.png</thumbnail>
+      <image>https://cf.geekdo-images.com/fFSJIV9RxlYjaaaZSUw2Dw__original/img/5y1Au1BI0g2-IzXliIvJCf5_WVQ=/0x0/filters:format(png)/pic2578308.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stingy" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kapitan Sknera" />
+			
+						               													<description>As a pirate captain, it's hard to steal booty &amp;mdash; but it is even harder to share that booty equally. If you can outsmart your fellow pirates by using your brains and trading skills, you'll probably end up with the most valuable loot!&amp;#10;&amp;#10;Stingy is an interactive booty-swapping game for 2-6 players, with the booty in question being rum, parrots, coins, diamonds, and pirate flags; these first four items come in four colors, with 3-6 tiles of each item in those colors, while the pirate flags come only in black (as you might expect).&amp;#10;&amp;#10;Each player starts with six randomly drawn tiles, with the remainder of the tiles being scattered face down on the table or placed in the included pouch. On a turn, you swap tiles with a fellow player, then draw 1-2 tiles and add them to your collection. When you swap, you choose an opponent, then take all the tiles of one group (matching symbol &amp;amp; matching color) and add it to your collection. Each group has a value, with the values mostly being pyramidal (1 tile = 1, 2 tiles = 3, 3 tiles = 6, etc.). In return, this opponent then takes one or more groups from you that sum at most the same value as what you stole. If it's impossible to take groups this way, that opponent can take groups that sum to a lower value or demand that you hand over groups that sum to a higher value, with you choosing which groups you give up.&amp;#10;&amp;#10;When you collect all the tiles in a group (e.g., four blue parrots), you place those tiles face down to the side. No one can take these tiles from you.&amp;#10;&amp;#10;After the last tile is drawn, each player takes one final turn, then players score points &amp;mdash; but only for the complete groups that they've collected. Whoever has the most points wins.&amp;#10;&amp;#10;Stingy includes two-player rules that introduce a ghost pirate with whom players can trade, a variant in which players also score points for the number of differently colored groups they collect, and a &amp;quot;Captain Sly&amp;quot; variant in which an opponent who can't take tiles worth at most what you took gets nothing. Good luck trying to make those unfair trades!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="50" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="3" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77466" value="Roman Kucharski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28164" value="Imelda Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27639" value="Bomba Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21505" value="PLAYthisONE" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="103" />
+			<average value="5.63883" />
+			<bayesaverage value="5.50802" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18700" bayesaverage="5.50802" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2632" bayesaverage="5.50997" />
+												</ranks>
+
+			<stddev value="1.68219" />
+			<median value="0" />
+			<owned value="176" />
+			<trading value="11" />
+			<wanting value="3" />
+			<wishing value="16" />
+			<numcomments value="29" />
+			<numweights value="6" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

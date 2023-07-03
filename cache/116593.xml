@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="116593">
+         <thumbnail>https://cf.geekdo-images.com/gWCiiU2R2-aOruLa0hTR6g__thumb/img/NuQGIFyaSTXPmC9YiI-rMzR41D0=/fit-in/200x150/filters:strip_icc()/pic4899751.png</thumbnail>
+      <image>https://cf.geekdo-images.com/gWCiiU2R2-aOruLa0hTR6g__original/img/RKbsD4t7eKK8Zks9RlNgo4aUBQw=/0x0/filters:format(png)/pic4899751.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="UNO Dice Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Dadi" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dados" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dés" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dice Terninger" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Dobbelspel" />
+			    				
+				<name type="alternate" sortindex="1" value="UNO Würfel" />
+			
+						               													<description>BASIC DESCRIPTION:&amp;#10;The UNO Dice Game attempts to translate the original UNO card game into a two player dice game.  It was released during the 2011 Christmas season and displayed along with other Mattel dice games in the same type of soda can tin packaging.&amp;#10;&amp;#10;COMPONENTS:&amp;#10;The game includes 11 dice.  Each die is unique and has some combination of faces in the four UNO colors (yellow, green, blue and red).  The die faces include: 1, 2, 3, 4, 5, draw one, draw two, and wild (in black).  Note that there are no die faces that represent the Skip or Reverse cards from the original UNO card game (presumably because this is just a 2 player game).&amp;#10;&amp;#10;GAMEPLAY:&amp;#10;The game mechanic is simple and mimics the original UNO card game.  To begin, 5 dice are randomly given to each of the two players.  These dice take the place of a players hand of cards in the original UNO card game.  The 11th die is left in the middle of the play area to form the start of the dice line (think UNO discard stack from the original card game).  The starting player rolls their dice and has to match either the color or value of the most recently placed die in the dice line.  That player's matching die is placed in the dice line and will have to be matched by the next player.  Play continues as players take turns rolling their hand of dice and adding one matching die from their hand to the dice line each turn until they only have one die left in their hand.  The player must then say &amp;quot;UNO!&amp;quot; or be penalized.  The penalty for not remembering to say &amp;quot;UNO!&amp;quot; is similar to the draw one and draw two die faces:  the affected player must take the appropriate number of dice from the end of the dice line.  The first player with no dice left wins.  The winning player's score is based on the faces of the dice left in front of their opponent.  Alternate rules are provided to ignore scoring and simply play the best out of 3 games.&amp;#10;&amp;#10;PACKAGING:&amp;#10;This edition was packaged in a creative looking tin that was made to resemble an aluminum soda can--complete with Nutrition Facts label.  The top of the can pops off (twist to open).  The one sheet of rules and 11 dice fit inside the tin with a cardboard insert to help dampen the sound of the dice in the tin.  The tin also has a coin slot in the top that holds the a plastic hook to allow it to be hung for selling/display purposes.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="3" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62200" value="Series: Soda Pop Can Dice Game (Mattel)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="157945" value="UNO Dice" inbound="true"/>
+		
+									
+			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="190" />
+			<average value="4.90558" />
+			<bayesaverage value="5.43546" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24120" bayesaverage="5.43546" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2910" bayesaverage="5.4008" />
+												</ranks>
+
+			<stddev value="1.76855" />
+			<median value="0" />
+			<owned value="582" />
+			<trading value="7" />
+			<wanting value="3" />
+			<wishing value="20" />
+			<numcomments value="58" />
+			<numweights value="11" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

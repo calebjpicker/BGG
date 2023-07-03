@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="50">
+         <thumbnail>https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__thumb/img/Q-76aN92M3OveMp26t7b0i7V-i4=/fit-in/200x150/filters:strip_icc()/pic4597095.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__original/img/PdGBQ7xc0GA9ndKnnInx_sQwvl4=/0x0/filters:format(jpeg)/pic4597095.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lost Cities" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Cités Perdues" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Città Perdute" />
+			    				
+				<name type="alternate" sortindex="1" value="Elveszett Városok" />
+			    				
+				<name type="alternate" sortindex="1" value="Exploradores" />
+			    				
+				<name type="alternate" sortindex="1" value="Izgubljena Mesta" />
+			    				
+				<name type="alternate" sortindex="1" value="Kadonneet Kaupungit" />
+			    				
+				<name type="alternate" sortindex="1" value="Lost Cities: Das Duell" />
+			    				
+				<name type="alternate" sortindex="1" value="Lost Cities: Exploradores" />
+			    				
+				<name type="alternate" sortindex="1" value="Lost Cities: Le Duel" />
+			    				
+				<name type="alternate" sortindex="1" value="Lost Cities: Pojedynek" />
+			    				
+				<name type="alternate" sortindex="1" value="Zaginione Miasta" />
+			    				
+				<name type="alternate" sortindex="1" value="Ztracená města" />
+			    				
+				<name type="alternate" sortindex="1" value="Χαμένες Πολιτείες" />
+			    				
+				<name type="alternate" sortindex="1" value="Затерянные города" />
+			    				
+				<name type="alternate" sortindex="1" value="شهرهای گمشده" />
+			    				
+				<name type="alternate" sortindex="1" value="ロストシティ" />
+			    				
+				<name type="alternate" sortindex="1" value="失落的城市" />
+			    				
+				<name type="alternate" sortindex="1" value="로스트 시티" />
+			
+						               													<description>Lost Cities is a card game in the Kosmos two-player series. The game originally consisted of a single deck of cards of rank 2&amp;ndash;10 in five different colors with three special &amp;quot;handshakes&amp;quot; (&amp;quot;HS&amp;quot; in scoring examples below) in each suit, but as of 2019 the game now includes six colored suits, with the sixth color being optional for gameplay. A game board is included to organize discarded cards and help players organize their card collections.&amp;#10;&amp;#10;The object of the game is to gain points by mounting profitable archaeological expeditions to the different sites represented by the colored suits of cards. On a player's turn, they must first play one card, either to an expedition or by discarding it to the color-appropriate discard pile, then draw one card, either from the deck or from the top of a discard pile. Cards played to expeditions must be in ascending order, but they need not be consecutive. Handshakes are considered lower than a 2 and represent investments in an expedition. Thus, if you play a red 4, you may play any other red card higher than a 4 on a future turn but may no longer play a handshake, the 2, or the 3.&amp;#10;&amp;#10;The game continues in this fashion with players alternating turns until the final card is taken from the deck. The rest of the cards in hand are then discarded and players score their expeditions. Each expedition that has at least one card played into it must be scored. Cards played into an expedition are worth their rank in points, and handshakes count as a multiplier against your final total; one handshake doubles an expedition's value, while two handshakes triples that value and three handshakes quadruple it. Expeditions start at a value of -20, so you must play at least 20 points of cards into an expedition in order to make a profit. If you are left with a negative value and have a handshake, the multiplier still applies. A 20-point bonus is awarded to every expedition with at least eight cards played into it. A complete game of Lost Cities lasts three matches, with scores for each match being added together.&amp;#10;&amp;#10;Scoring example 1: An expedition has a 2,3,7,8,10 for a total of 30. This expedition is worth 10 total points: 30 plus the initial -20.&amp;#10;&amp;#10;Scoring example 2: An expedition has 2 HS, and 4,5,6,7,8,10 for a total of 40. This expedition is worth 80 total points: 40 points for cards, plus the initial -20, &amp;times;3 for the two multipliers, plus the 20-pt bonus for playing 8+ cards.&amp;#10;&amp;#10;Scoring example 3: An expedition has 1 HS, and 4,6,7 for a total of 17. This expedition is worth -6 total points: 17 plus the initial -20, &amp;times;2 for the multiplier.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="405">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="311" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="381" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="286" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="143">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="19" />
+					<result value="8" numvotes="85" />
+					<result value="10" numvotes="34" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="129">
+			
+		<results>		
+					<result level="276" value="No necessary in-game text" numvotes="129" />
+					<result level="277" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="278" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="279" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="280" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3101" value="Ordering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24439" value="Card Games: Draw and Discard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70711" value="Digital Implementations: Triqqy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="149" value="Game: Lost Cities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78" value="Series: Two-player games (Kosmos)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206374" value="Lost Cities: Expedition 6 – The Lost Expedition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282531" value="Lost Cities: Milestones" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="232103" value="Lost Cities: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="34585" value="Keltis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="244795" value="Lost Cities: To Go" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22516" value="Anke Pohl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22515" value="Thilo Rick" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1386" value="Group SNE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40841" value="Land of Beautiful Mind (سرزمین ذهن زیبا)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5597" value="Laser plus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3395" value="Midgaard Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19148" value="Playhouse Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42" value="Tilsit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47140" value="گیمِ پندو (Pendo Games)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="43994" />
+			<average value="7.22069" />
+			<bayesaverage value="7.12059" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="332" bayesaverage="7.12059" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="69" bayesaverage="7.13655" />
+												</ranks>
+
+			<stddev value="1.26708" />
+			<median value="0" />
+			<owned value="62811" />
+			<trading value="984" />
+			<wanting value="548" />
+			<wishing value="5423" />
+			<numcomments value="9906" />
+			<numweights value="3075" />
+			<averageweight value="1.4826" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

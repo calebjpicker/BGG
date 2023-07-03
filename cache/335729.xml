@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="335729">
+         <thumbnail>https://cf.geekdo-images.com/F6culfJSn468x_ON7odmJw__thumb/img/2bdnJQd-MrIvo7ykE7VniRqzVCw=/fit-in/200x150/filters:strip_icc()/pic6094840.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/F6culfJSn468x_ON7odmJw__original/img/5kNkFD-y70NDUaMJ4fA0QSOH_AQ=/0x0/filters:format(jpeg)/pic6094840.jpg</image>
+                                     				
+				<name type="primary" sortindex="8" value="ツクルテン (Total Ten)" />
+			
+						                           
+						               													<description>In &amp;#227;&amp;#131;&amp;#132;&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#131;&amp;#171;&amp;#227;&amp;#131;&amp;#134;&amp;#227;&amp;#131;&amp;#179; (Tsukuruten), you score points in the round if you can add up the eight cards in front of you to sum to 10. This challenge is complicated by the deck containing eight cards each of numbers 1-7, with half the cards being red and half blue &amp;mdash; which means almost every set of eight cards will sum to more than 10!&amp;#10;&amp;#10;The trick is that certain combinations of cards are worth less than their face value:&amp;#10;&amp;#10;&amp;#10;    Three cards of the same color and number = 0&amp;#10;    Three red cards in sequence are worth only the highest number in the sequence, so a red 345 = 5.&amp;#10;    Three blue cards in sequence are worth only the lowest number in the sequence, so a blue 345 = 3.&amp;#10;&amp;#10;&amp;#10;Each player starts with a hand of eight cards. On a turn, draw a card from the deck, then (if you don't have a sum of 10) discard a card in a row in front of you; alternatively, you can pick up the discarded card of the player before you, add two cards from your hand to this card, play it beside you as a special sequence (a &amp;quot;get&amp;quot;), then discard a card. The cards in that &amp;quot;get&amp;quot; cannot be altered for the remainder of this deal, but they still count as being in your hand toward the desired sum of 10.&amp;#10;&amp;#10;When someone does reach a sum of 10, whether by drawing a card or picking up a discarded card, the round ends, with players scoring points based on the combinations they've made and certain conditions in their hand. Having only one 7 in hand is worth 1 point, for example, as is having four red and four blue cards, whereas having all cards of one color or two triples are each worth 3 points. You also score points for being the one to end the round.&amp;#10;&amp;#10;Play enough rounds so that each player starts a hand twice, then whoever has the most points wins. Alternatively, if a player collects a &amp;quot;God Ten&amp;quot; &amp;mdash; that is, all eight 2s or all eight 5s, each of which sums to 10 &amp;mdash; they win the game instantly!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78720" value="かぶきけんいち (Kenichi Kabuki)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28450" value="Game Nowa" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21" />
+			<average value="6.52381" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.65095" />
+			<median value="0" />
+			<owned value="25" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

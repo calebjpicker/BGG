@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8309">
+         <thumbnail>https://cf.geekdo-images.com/yY056sgdYYSdG5Fs8Cmq_Q__thumb/img/MlzRd9WVt6EiSEgNyUdx_5QxuCE=/fit-in/200x150/filters:strip_icc()/pic321562.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yY056sgdYYSdG5Fs8Cmq_Q__original/img/kKbi2GO3it-ncvdi3KK0N7lmKLU=/0x0/filters:format(jpeg)/pic321562.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Die-Check" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cubulus" />
+			
+						               													<description>Cubulus / Die-Check is similar to chess on a 9x9 board except that for pieces each player has eight strategic cubes (dice), two shields (unmarked pieces the size of two cubes) and a master (king).  The game ends with a checkmate.&amp;#10;&amp;#10;The strategic cubes move the number of squares shown on their top face, and each step of the move rolls the die to its adjacent face (thus the new top side is determined be the sequence of horizontal and vertical steps).  Shields move so that one of their two covered squares stays the same.  The master moves one spot orthogonally.  (Additional moves for shields and strategic cubes exist in the advanced version.)&amp;#10;&amp;#10;Captures are made by moving onto other pieces, except that shields require one half to be put in check and the other half to be moved onto.  If the master moves to the far end of the board it can be returned to its original position and replaced with a captured piece.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1972" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78574" value="Components: 9 x 9 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8719" value="Benedict Einstein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2844" value="Benoit Launier" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11346" value="BFM" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10410" value="Liberty Distribution International Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="6.58333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.30437" />
+			<median value="0" />
+			<owned value="52" />
+			<trading value="7" />
+			<wanting value="7" />
+			<wishing value="7" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

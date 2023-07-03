@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6932">
+         <thumbnail>https://cf.geekdo-images.com/J7-0T4wVEWpagaf-g1DvrA__thumb/img/Yqf6gR-g5yrj5SabRaiTSMjxwPU=/fit-in/200x150/filters:strip_icc()/pic171009.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/J7-0T4wVEWpagaf-g1DvrA__original/img/XAOhmzOu_m0MK_Pd3_3RMUcjLgQ=/0x0/filters:format(jpeg)/pic171009.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hi Ho! Cherry-O" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="1-2-3 Kirschenzählerei" />
+			    				
+				<name type="alternate" sortindex="1" value="Äpfelchen" />
+			    				
+				<name type="alternate" sortindex="1" value="Appeltjes plukken" />
+			    				
+				<name type="alternate" sortindex="1" value="Apple Harvest" />
+			    				
+				<name type="alternate" sortindex="1" value="Fruttolino" />
+			    				
+				<name type="alternate" sortindex="1" value="Hi-ho! Cherry-O" />
+			    				
+				<name type="alternate" sortindex="1" value="Kersenkampioen!" />
+			    				
+				<name type="alternate" sortindex="1" value="Mein Apfelbaum" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Mele" />
+			    				
+				<name type="alternate" sortindex="1" value="Meyve Bahçesi" />
+			    				
+				<name type="alternate" sortindex="1" value="Mijn appelboompje" />
+			    				
+				<name type="alternate" sortindex="4" value="Il mio Albero delle Mele" />
+			    				
+				<name type="alternate" sortindex="1" value="Mon pommier" />
+			    				
+				<name type="alternate" sortindex="1" value="Pique Cerise" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Pommiers" />
+			    				
+				<name type="alternate" sortindex="1" value="Zanahorias: Mi primer juego de suma y resta" />
+			    				
+				<name type="alternate" sortindex="1" value="Η Μηλιά" />
+			
+						               													<description>Hi Ho! Cherry-O is a children's game which primarily teaches turn-taking and counting. Player spin a central spinner which dictates winning or losing cherries. The winner is the first player to get 10 cherries into their bucket.&amp;#10;&amp;#10;The game was updated in 2007 and now includes rules for cooperative play.  In the cooperative game, players work together to pick all of the fruits before the bird eats them.  A nine-piece puzzle represents the bird.  The cooperative game very closely resembles Orchard.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1960" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="3" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="3" />
+					<result value="3" numvotes="10" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="566" value="No necessary in-game text" numvotes="5" />
+					<result level="567" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="568" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="569" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="570" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="863" value="Hermann Wernhard" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42994" value="Katrin Lindley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="863" value="Hermann Wernhard" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6285" value="Bookmark Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="247" value="Golden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8931" value="MB Jeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4554" value="MB Spellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6380" value="Playskool" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1061" value="Ruibal Hermanos S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="329" value="Whitman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59" value="Winning Moves Games (USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43237" value="Το Καλό Παιχνίδι Α.Ε." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1185" />
+			<average value="3.57682" />
+			<bayesaverage value="4.74597" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24529" bayesaverage="4.74597" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="1020" bayesaverage="3.59562" />
+												</ranks>
+
+			<stddev value="1.66736" />
+			<median value="0" />
+			<owned value="2078" />
+			<trading value="35" />
+			<wanting value="1" />
+			<wishing value="36" />
+			<numcomments value="460" />
+			<numweights value="81" />
+			<averageweight value="1.0247" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="220133">
+         <thumbnail>https://cf.geekdo-images.com/Pta2XLIzcgAS5IQ0V4AKIw__thumb/img/9e3GatgokL2V8X5yOSeqwl0OMkE=/fit-in/200x150/filters:strip_icc()/pic4167562.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Pta2XLIzcgAS5IQ0V4AKIw__original/img/qu79pgPWmd9JO-TnmdjAvEz3lwc=/0x0/filters:format(jpeg)/pic4167562.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Endangered" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Extinction" />
+			    				
+				<name type="alternate" sortindex="1" value="Ohrožení" />
+			
+						               													<description>The march of humankind&amp;rsquo;s progress threatens the survival of many species. It's up to you and your team to save them!&amp;#10;&amp;#10;Work with your fellow conservationists to save tigers and sea otters from extinction. Influence the UN to save the animals and stop environmental destruction. If four UN ambassadors vote yes on the resolution then the players win. But until the vote takes place, players need to keep the destruction at bay, and keep the animals alive!&amp;#10;&amp;#10;Each turn players will roll the dice they can allocate to action cards. After actions are taken, mating pairs will have a chance to procreate, and destruction tiles will enter the board, possibly killing already scarce animals.&amp;#10;&amp;#10;Play as the Zoologist, Philanthropist, TV Wildlife Host, Lobbyist, or Environmental Lawyer, each with a special ability.&amp;#10;&amp;#10;Time is short. Can the animals be saved while also influencing the Ambassadors' votes? Or will threatened animals be lost forever?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="0" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7972" value="Animals: Tigers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75820" value="Theme: Endangered / Extinct species" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351895" value="Endangered: Campaign Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351897" value="Endangered: Celebrity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="328524" value="Endangered: Center for Biological Diversity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="376869" value="Endangered: Dice Tower 2022 Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304655" value="Endangered: Giant Panda Scenario" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359617" value="Endangered: Monarch Butterfly Scenario" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313803" value="Endangered: New Species" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="378400" value="Endangered: New Species – Kickstarter Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306338" value="Endangered: Tantrum House Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="328523" value="Endangered: TH2 + SiN" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359395" value="Endangered: Ukrainian Ambassador Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="328670" value="Endangered: Screen Printed Tigers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="99114" value="Joe Hopkins" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88600" value="Ben Flores" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33845" value="Grand Gamers Guild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1286" />
+			<average value="7.54472" />
+			<bayesaverage value="6.29335" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1635" bayesaverage="6.29335" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="808" bayesaverage="6.45355" />
+												</ranks>
+
+			<stddev value="1.17868" />
+			<median value="0" />
+			<owned value="2790" />
+			<trading value="40" />
+			<wanting value="205" />
+			<wishing value="1182" />
+			<numcomments value="329" />
+			<numweights value="38" />
+			<averageweight value="2.5263" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

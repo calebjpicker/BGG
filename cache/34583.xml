@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="34583">
+         <thumbnail>https://cf.geekdo-images.com/Xj4vLJMSjFzgTI1BP7y1KQ__thumb/img/7YSuD0lzOsmlnu7aTIrNRqjujlc=/fit-in/200x150/filters:strip_icc()/pic419532.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Xj4vLJMSjFzgTI1BP7y1KQ__original/img/NUCDqfNNky-YdQXtiPF0ZTT-0GQ=/0x0/filters:format(jpeg)/pic419532.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Set Cubed" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Set het Dobbelspel" />
+			    				
+				<name type="alternate" sortindex="1" value="Set: Dobbelspel" />
+			    				
+				<name type="alternate" sortindex="1" value="SET³" />
+			    				
+				<name type="alternate" sortindex="1" value="SET³ Dobbelspel" />
+			
+						               													<description>Game description from the publisher:&amp;#10;&amp;#10;Set Cubed is a curious game of clever connections, challenging a player's ability to identify SETs between the dice in their hand and those already on the board. Players can play up to 3 dice per turn making as many SETs as possible. Create SETs up, down and across the board, the more SETs you create, the higher your score. As the number of dice on the board increase so do the possible SET combinations. Rack up points by using BONUS SQUARES! Roll a WILD dice and unleash the possible number of SETs that can be made during your turn! How many SETs can you make?! The player with the most points wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="2" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78574" value="Components: 9 x 9 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26829" value="Game: Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="160441" value="Set Dice" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1198" value="SET" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="620" value="Marsha J. Falco" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11107" value="Nordic Games GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="109" value="Set Enterprises, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="401" />
+			<average value="5.28067" />
+			<bayesaverage value="5.46405" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="23602" bayesaverage="5.46405" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1273" bayesaverage="5.39067" />
+												</ranks>
+
+			<stddev value="1.52163" />
+			<median value="0" />
+			<owned value="1073" />
+			<trading value="65" />
+			<wanting value="7" />
+			<wishing value="37" />
+			<numcomments value="151" />
+			<numweights value="28" />
+			<averageweight value="1.9286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

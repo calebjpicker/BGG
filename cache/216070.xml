@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="216070">
+         <thumbnail>https://cf.geekdo-images.com/UeDKPWTSCmNIbSAmRYesXw__thumb/img/u4XMpNti1Hz2yclpezb1ldARF5E=/fit-in/200x150/filters:strip_icc()/pic3720024.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/UeDKPWTSCmNIbSAmRYesXw__original/img/CPcgOMANTdRqUW0SN_mIyxscIAw=/0x0/filters:format(jpeg)/pic3720024.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hunt for the Ring" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Busca pelo Anel" />
+			    				
+				<name type="alternate" sortindex="4" value="La Búsqueda del Anillo" />
+			    				
+				<name type="alternate" sortindex="4" value="La Caccia all&#039;Anello" />
+			    				
+				<name type="alternate" sortindex="1" value="Honba za prstenem" />
+			    				
+				<name type="alternate" sortindex="1" value="Jagd nach dem Ring" />
+			    				
+				<name type="alternate" sortindex="1" value="Poszukiwania Pierścienia" />
+			    				
+				<name type="alternate" sortindex="4" value="La Traque de l&#039;Anneau" />
+			    				
+				<name type="alternate" sortindex="1" value="Охота за Кольцом" />
+			
+						               													<description>In Hunt for the Ring, one player takes the role of Frodo and his companions, who are journeying from the Shire to Rivendell, while up to four other players represent the Nazg&amp;ucirc;l who are trying to hunt down the hobbits. While traveling, Frodo and others must resist being corrupted by the Ring that he wears.&amp;#10;&amp;#10;Hunt for the Ring is a hidden movement game played in two chapters, with each chapter being played on a different game board. In the first chapter, the Frodo player attempts to move from the Shire to Bree, gaining corruption points if they fail to do so after sixteen turns. If the Frodo player succeeds, they can either record their exit point (and other game details) to play the second chapter at a later time, or they can continue immediately, with the second chapter having the Frodo player move from Bree to Rivendell. In this chapter, the Frodo player doesn't control the hobbits directly, but instead draws cards from a journey deck, with each card showing one of many paths to Rivendell.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="58">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="180" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="241" value="No necessary in-game text" numvotes="0" />
+					<result level="242" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="243" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="244" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="245" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4263" value="Authors: J.R.R. Tolkien" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56938" value="Mechanism: Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5723" value="Series: War of the Ring (Nexus/Ares Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257660" value="Hunt for the Ring: Frodo Baggins Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="300526" value="Hunt for the Ring: Light and Shadow" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="934" value="Marco Maggi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8540" value="Gabriele Mari" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="935" value="Francesco Nepitello" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11884" value="John Howe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17374" value="Francesco Mattioli" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17917" value="Ares Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1516" />
+			<average value="7.13144" />
+			<bayesaverage value="6.1707" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2035" bayesaverage="6.1707" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="398" bayesaverage="6.42766" />
+												</ranks>
+
+			<stddev value="1.43592" />
+			<median value="0" />
+			<owned value="4239" />
+			<trading value="147" />
+			<wanting value="125" />
+			<wishing value="1013" />
+			<numcomments value="396" />
+			<numweights value="53" />
+			<averageweight value="3.2264" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

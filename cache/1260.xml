@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1260">
+         <thumbnail>https://cf.geekdo-images.com/lKJgntNaJAa8A7QStjRvzA__thumb/img/e6VbhPlXJgY86AMG-NsuS6zC-fw=/fit-in/200x150/filters:strip_icc()/pic394433.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lKJgntNaJAa8A7QStjRvzA__original/img/DB0f2rKbHv0aLUQpVQyBIsEsz_E=/0x0/filters:format(jpeg)/pic394433.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rook" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="200" />
+			    				
+				<name type="alternate" sortindex="1" value="Eagle" />
+			    				
+				<name type="alternate" sortindex="1" value="Jogo da Aposta" />
+			    				
+				<name type="alternate" sortindex="1" value="Rook for 2" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Tarin" />
+			
+						               													<description>Rook is a trump-based trick-taking game played with a deck of Rook playing cards. It was first sold in 1906 by Parker Brothers.  The Rook deck is similar to a standard deck of cards, but has only numbers from 1-14 in four colors (no face cards or card suits (spades, etc.)).&amp;#10;&amp;#10;The standard game is a 4-player partnership game with the 1's, 2's, 3's, and 4's removed for a deck of 41 cards (with the Rook card).  Each hand, players bid for Trump, and then the partnership that won the bid must make the amount of points bid in the hand.  Play of each trick is similar to Whist games like Bridge. The card led must be followed by a card of the same color.  A player may play a trump color if they have none of the color led.  The highest card of the color led wins the trick, unless the trick is trumped, and then the highest trump wins the trick.  The Rook card can be played at any time, and always wins the trick.  Unlike Whist or Bridge, the amount of tricks is not important, but certain count cards (5's, 10's, 14's, and the Rook card) taken in tricks are worth points, which is how the game is scored.&amp;#10;&amp;#10;The standard game is 4-player, but there are variants for 2-player and 3-player in the rules, and there also are many variations and house rules used in play.&amp;#10;&amp;#10;Rook has also been referred to as Missionary Poker.  The Rook deck, with no-face cards or suits from a standard deck of cards, has often been a card game played by religious groups who object to using a standard deck of cards.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1906" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="5" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7657" value="Animals: Crows / Ravens / Magpies" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="369086" value="L'escroc" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="991" value="George S. Parker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11271" value="Grace Parker" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1214" value="Pierre Jacquot" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="253" value="Editrice Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="920" value="Miro Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27089" value="Rook Card Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4645" value="Toltoys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="59" value="Winning Moves Games (USA)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2852" />
+			<average value="6.41528" />
+			<bayesaverage value="6.00803" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2703" bayesaverage="6.00803" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="898" bayesaverage="6.06728" />
+												</ranks>
+
+			<stddev value="1.52479" />
+			<median value="0" />
+			<owned value="8881" />
+			<trading value="268" />
+			<wanting value="10" />
+			<wishing value="108" />
+			<numcomments value="1018" />
+			<numweights value="186" />
+			<averageweight value="1.8656" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

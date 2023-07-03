@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="310100">
+         <thumbnail>https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__thumb/img/hXvYab51gUQLL05r7sVFEjLZAYI=/fit-in/200x150/filters:strip_icc()/pic7110034.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/NEbmFFGhKwegIryUArgw6w__original/img/YCDNmHN9DiyAnjSvFRen1sjAug4=/0x0/filters:format(jpeg)/pic7110034.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nemesis: Lockdown" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="네메시스: 락다운" />
+			
+						               													<description>Nemesis Lockdown is the first stand alone expansion to Nemesis. During the game, players will be taken to a totally new location - a secret base on Mars, represented by a multi level board. Lockdown will retain the highly cinematic, semi-co-op experience of the original game, while introducing a lot of new, fresh mechanics.&amp;#10;&amp;#10;During the tense gameplay, you and your fellow players will gather items, explore different rooms and use your actions, craft, run, and fight other species. At the same time, every player will try to complete their secret objective, that will grant them victory... Sometimes at the expense of others.&amp;#10;&amp;#10;Some of the new mechanics are: &amp;#10;- Multi-level base with stairs and elevators &amp;#10;- Advanced computer actions&amp;#10;- CSS hatch system &amp;#10;- Power and light on different levels &amp;#10;- Contingency procedure &amp;#10;- New characters and alien race&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="83">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="180" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="8" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="151" value="No necessary in-game text" numvotes="0" />
+					<result level="152" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="153" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="154" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="155" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57925" value="Game: Nemesis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78545" value="Misc: Eastar Game Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10169" value="Space: Mars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65494" value="Theme: Survival" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318351" value="Nemesis: Aftermath" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245845" value="Nemesis: Carnomorphs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="329652" value="Nemesis: Lockdown – Dice Tower 2021 Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321742" value="Nemesis: Lockdown – Stretch Goals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335320" value="Nemesis: Lockdown – Untold Stories #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245846" value="Nemesis: Medic Character Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386776" value="Nemesis: Story Dice Expansion – Intruder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386781" value="Nemesis: Story Dice Expansion – Space Cat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313790" value="Nemesis: Void Seeders" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380592" value="Nemesis: BGExpansions Ammo Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378710" value="Nemesis: Lockdown – Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="321701" value="Nemesis: Lockdown – Kings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367213" value="Nemesis: Lockdown – Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="314926" value="Nemesis: Lockdown – Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="321700" value="Nemesis: Lockdown – Spacecats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369547" value="Nemesis: Lockdown – The Dicetroyers Organizer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="167355" value="Nemesis" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61569" value="Adam Kwapiński" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="143063" value="Jakub Dzikowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39040" value="Piotr Foksowicz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113980" value="Patryk Jędraszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114786" value="Ewa Labak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="135964" value="Piotr Orleański" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86660" value="Michael Peitsch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29412" value="Awaken Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8832" value="Funforge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47684" value="Rebel Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3713" />
+			<average value="8.44135" />
+			<bayesaverage value="7.29672" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="208" bayesaverage="7.29672" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="25" bayesaverage="7.62771" />
+												</ranks>
+
+			<stddev value="1.43839" />
+			<median value="0" />
+			<owned value="11363" />
+			<trading value="85" />
+			<wanting value="250" />
+			<wishing value="1946" />
+			<numcomments value="881" />
+			<numweights value="137" />
+			<averageweight value="3.8467" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

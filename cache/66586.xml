@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="66586">
+         <thumbnail>https://cf.geekdo-images.com/YLcXYEYOD5GNEdSnAiaJ9A__thumb/img/T_ZfVqPxsV3hBmxcm-Iyw8vB1YA=/fit-in/200x150/filters:strip_icc()/pic660741.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YLcXYEYOD5GNEdSnAiaJ9A__original/img/tBhA9NJFf4TCMgm9nsKifybQyEA=/0x0/filters:format(jpeg)/pic660741.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Batalj" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Taistelu" />
+			
+						               													<description>Batalj. This Swedish Alga game is essentially a newer version of the old Alga game Attack, which probably is related to L'Attaque. Therefore Batalj could be considered a &amp;quot;cousin&amp;quot; of Stratego. Designed by Count Sigvard Bernadotte, an uncle of H M King Carl XVI Gustaf of Sweden, and illustrated by Lars-Olof Jerhammar.&amp;#10;&amp;#10;In the game you try to defeat your opponents army with your own. You only see the back of your opponents pieces so you don't know what piece is where. You try to use your stronger pieces to defeat your opponents weaker ones while protecting your weak ones. .&amp;#10;&amp;#10;Differences between Stratego and Batalj:&amp;#10;&amp;#10;-Batalj has 48 (2*24) pieces on a 64 square grid (8*8). Only the first 3 rows are filled in the initial setup.&amp;#10;-Instead of 'Bombs' Batalj has 'Cannon'. Cannons can only be defeated by the value 3 piece (Corporal).&amp;#10;-There are no 'Scouts' and the unit mix in general is slightly different.&amp;#10;-There are no 'lakes' nor any other obstructions on the board. &amp;#10;-Striking is mandatory and happens immediately when a player moves a piece to a square directly in front (but not on the sides or back) of an opposing piece. A victorious striking piece does not occupy the opponent's space.&amp;#10;-There are no 'Flags'; winner is the first player to either eliminate or block all opposing pieces. In case of an impasse, the value of remaining pieces on both sides is counted and the higher total wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="18" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="1" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="247944" value="Attack" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="34535" value="Sigvard Bernadotte" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34579" value="Lars-Olof Jerhammar" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2120" value="Oy Fenno-Alga Ab" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="4.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.4" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

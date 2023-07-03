@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3041">
+         <thumbnail>https://cf.geekdo-images.com/9qeztvPY0HggjQ0rR-XJ4g__thumb/img/oJ9QTtkb3caob97_UQp9QDLU-gU=/fit-in/200x150/filters:strip_icc()/pic4969198.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9qeztvPY0HggjQ0rR-XJ4g__original/img/54oT1UAoTt81wv1d6NfWd2zaFig=/0x0/filters:format(jpeg)/pic4969198.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Panzergruppe Guderian" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Panzergruppe Guderian: De Slag van Smolensk, Juli 1941" />
+			    				
+				<name type="alternate" sortindex="1" value="Panzergruppe Guderian: La Bataille pour Smolensk, Juillet 1941" />
+			    				
+				<name type="alternate" sortindex="1" value="Panzergruppe Guderian: The Battle of Smolensk, July 1941" />
+			    				
+				<name type="alternate" sortindex="1" value="Στρατάρχης Γκουντεριάν" />
+			
+						               													<description>&amp;quot;Panzergruppe Guderian&amp;quot;: The Battle of Smolensk, July 1941, is a wargame simulation of the German campaign to capture Smolensk in July, 1941.  The game is played in twelve turns, each one representing 2 days time, on a map scale of 10.5 km/hex.&amp;#10;&amp;#10;This wargame is famous for its innovative use of &amp;quot;untried&amp;quot; Soviet units.  These untried Soviet counters enter play face down, their combat strength unknown to either player, until they take part in combat, at which time they are flipped to reveal their strength and defense numbers.&amp;#10;&amp;#10;The game also models the effectiveness of German operations by allowing them a full mechanized movement phase both before and after combat, while the Soviets only move prior to combat.  In addition, if all of a German division's regiments attack or defend in the same hex, their strength is doubled by a divisional integrity bonus.&amp;#10;&amp;#10;The German player scores victory points for the capture of cities, and for any Soviet units redirected from the Southwestern Front.  The Soviet player scores vp for recaptured cities and destroying entire German divisions (which possess several steps of strength).&amp;#10;&amp;#10;The game includes: 1 map, counters (AH edition = 260; SPI edition = 200), 1 6-sided die, 1 Soviet reference card, 1 German reference card, 1 rules book, and 1 advanced rules insert.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1976" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="300" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="300" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2974" value="Zone of Control" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57313" value="Country: Belarus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18581" value="Country: Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73775" value="History: World War II (Eastern Front)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3231" value="Magazine: Strategy &amp; Tactics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23116" value="Series: Panzergruppe Guderian System (SPI)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1081" value="Jim Dunnigan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1030" value="Redmond A. Simonsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="739" />
+			<average value="7.36804" />
+			<bayesaverage value="5.97865" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2865" bayesaverage="5.97865" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="230" bayesaverage="6.85491" />
+												</ranks>
+
+			<stddev value="1.45329" />
+			<median value="0" />
+			<owned value="1790" />
+			<trading value="47" />
+			<wanting value="43" />
+			<wishing value="171" />
+			<numcomments value="460" />
+			<numweights value="93" />
+			<averageweight value="2.8065" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

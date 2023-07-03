@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="156668">
+         <thumbnail>https://cf.geekdo-images.com/BqcdyqEgo754Cbmji-LGlg__thumb/img/I2ZQYWL1M5WtKEg4aHRHoOrOJjc=/fit-in/200x150/filters:strip_icc()/pic1968604.png</thumbnail>
+      <image>https://cf.geekdo-images.com/BqcdyqEgo754Cbmji-LGlg__original/img/0UzxdcjrUHOMCLBVKR9SaowHcmo=/0x0/filters:format(png)/pic1968604.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Card Hockey League" />
+			
+						                           
+						               													<description>Card Hockey League is an ice hockey simulation game played with a standard deck of 52 cards.&amp;#10;&amp;#10;The two players take on the roles of team managers. The game is played over 3 rounds (periods). The players should ideally play facing each other and have access to a 6-card inverted pyramid game area.&amp;#10;&amp;#10;Each game area consists of 3 rows. The row closest to the player represents the goalkeeper. A single card is placed in this row. The second row holds two cards, representing defenders. The third, and final row, holds three cards, representing the forwards on the team. All cards are placed face up in a portrait orientation except the goalkeeper which is placed face down in a landscape orientation.&amp;#10;&amp;#10;The first player, determined in whatever fashion the players desire, shuffles the deck and secretly looks at the top card. He can choose to place this card in any open position in his own play area. Once placed, the card cannot be moved. Once all six spots are filled, the deck is passed to the opponent who fills his own six spots in like manner.&amp;#10;&amp;#10;Players take turns advancing on their opponent. Each turn begins with the player flipping over the top card of the deck and comparing it to his opponent's line of forwards. If the card matches or beats another card in value, both cards are discarded and the player is considered having advanced past that hockey player. If multiple cards meet the criteria, the player chooses which route to take.&amp;#10;&amp;#10;There is a strategic element when deciding which route to take when advancing on your opponent. With your first card, you compare against the three forwards. Once you have overcome a forward, your options for advancement may be limited. At no point are you allowed to skip another card in order to reach a more favorable card.&amp;#10;&amp;#10;Let's say that you use your first card to overtake the center forward with your first card &amp;mdash; you now have clear line of sight to both remaining forwards and the two defenders, but the goal is still blocked. If, on the other hand, you advanced past the left side forward, only the center forward and left defender are &amp;quot;open&amp;quot; to you.&amp;#10;&amp;#10;Once the goal is &amp;quot;open&amp;quot;, you are free to attempt to score at any point. You simply announce that you will shoot instead of taking on a hockey player. Your card is compared to the value of the goalkeeper. If your card is [i]higher[/i] in value, you have scored a goal. Regardless, both cards are discarded as usual.&amp;#10;&amp;#10;Whether a goal is successfully scored or not, it is now your opponents turn. Play also switches if you fail to successfully overtake enough players to clear an open path to your opponent's goal.&amp;#10;&amp;#10;Your opponent will begin his turn by first filling any open spots as was done when the game began. He then takes his turn as normal.&amp;#10;&amp;#10;Special Rule: When only one card is left in the deck, a player may, on his turn, assuming his team slots are filled, attempt a shot on goal regardless of whether an open path exists or not.&amp;#10;&amp;#10;Once the deck is exhausted, the period is considered having ended. All cards are gathered up, play switches to the next player who shuffles and drafts his team as was done at the beginning of the game.&amp;#10;&amp;#10;Once three periods have been played, the player with the most goals is declared the winner. There are no rules for breaking ties.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5628" value="Sports: Ice Hockey" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74042" value="Rainer Ahlfors" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74042" value="Rainer Ahlfors" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="4.875" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.1388" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

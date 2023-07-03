@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="229244">
+         <thumbnail>https://cf.geekdo-images.com/zcSfoC94JOeDJO8NfgB4EQ__thumb/img/aywMdO73ao7HB_W460bUHYOZcF0=/fit-in/200x150/filters:strip_icc()/pic3717323.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zcSfoC94JOeDJO8NfgB4EQ__original/img/UCK90XhSWjPog-08da7AVM3ZCbs=/0x0/filters:format(jpeg)/pic3717323.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battlefold" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="배틀폴드" />
+			
+						               													<description>In Battlefold, each player takes on the role of a warrior, assassin, magician, or archer. The player takes the handkerchief matching their character, with each handkerchief providing different fighting powers. The warrior, for example, has a cross-shaped attack range and is more powerful when staying in the same position, while the archer has a long-distance attack and more movement.&amp;#10;&amp;#10;As in the earlier game Fold-it, once a mission card is revealed, players must fold their handkerchief to leave visible only the right combination of symbols. After successfully making a combination, the player takes the lowest remaining turn order token. Starting with the first player, each player controls their character on the arena board, moving and fighting with the goal of being the last one standing. If a player defeats all other opponents, they win!&amp;#10;&amp;#10;Battlefold is a player-elimination game, but eliminated players can still participate via the &amp;quot;ghost&amp;quot; rule. When a player's character dies, the character becomes a ghost. Flip the character board to the ghost side and keep playing. A ghost player can gain spiritual energy by successfully attacking living characters, and if a ghost collects full spiritual energy before only one living character remains in the arena, then the ghost wins the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="35" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="35" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316491" value="Battlefold: Lion Heart Legendary Sword" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="206844" value="Fold-it" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="54096" value="Dave Choi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="73724" value="Yohan Goh" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="127" />
+			<average value="6.4548" />
+			<bayesaverage value="5.54774" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11426" bayesaverage="5.54774" />
+												</ranks>
+
+			<stddev value="1.37708" />
+			<median value="0" />
+			<owned value="190" />
+			<trading value="12" />
+			<wanting value="16" />
+			<wishing value="87" />
+			<numcomments value="32" />
+			<numweights value="7" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

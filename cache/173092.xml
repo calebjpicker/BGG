@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="173092">
+         <thumbnail>https://cf.geekdo-images.com/2eoSD8pdkX_4n8dZKBAueg__thumb/img/R6dxIekkEpO8r_JASFYR4gThz1Y=/fit-in/200x150/filters:strip_icc()/pic4540152.png</thumbnail>
+      <image>https://cf.geekdo-images.com/2eoSD8pdkX_4n8dZKBAueg__original/img/7SGu4vFSLLyic1at66hv_TTvWjw=/0x0/filters:format(png)/pic4540152.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Träxx" />
+			
+						                           
+						               													<description>Each player in Tr&amp;auml;xx has an erasable game board that features lots of colored hexagons shaped into a larger hexagon, with the numbers 2-10 being scattered across this playing area. While the color and number arrangement is the same on all player boards, the starting point differs on each board. (The second edition of Tr&amp;auml;xx includes a pad of individual score sheets instead of erasable boards.)&amp;#10;&amp;#10;To play, shuffle the deck of fifteen cards, then reveal the top card, which will show four or five colored hexagons. Playing at the same time, each player takes an erasable pen and draws a path on their game board &amp;mdash; with this path starting at or at least passing through the starting point on their board &amp;mdash; that covers up to as many hexagons as were revealed, with the colors of the hexagons in your path matching those shown on the card. Thus, if the card shows two gray hexagons and one each of blue, red and yellow, then your path can cover at most two gray hexagons and one each of blue, red and yellow.&amp;#10;&amp;#10;Once all players have drawn their path, reveal the next card, continuing the path in either direction and covering only as many hexagons of the proper colors as is shown on that card. A path cannot cross itself.&amp;#10;&amp;#10;When your path crosses a number, call out that number. If you're the first one to reach it, you'll score that many points at game end; if others have reached it first, you score half this many points, rounded up. Once you've finished all fifteen cards, the game ends and you lose one point for each space not covered. Whoever has the highest score wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="811" value="No necessary in-game text" numvotes="5" />
+					<result level="812" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="813" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="814" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="815" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56257" value="Series: NSV Middys (Nürnberger Spielkartenverlag)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11781" value="Steffen Benndorf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12" value="Reinhard Staupe" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66181" value="Sandra Freudenreich" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="667" />
+			<average value="6.56861" />
+			<bayesaverage value="5.78222" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4342" bayesaverage="5.78222" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1242" bayesaverage="5.87369" />
+												</ranks>
+
+			<stddev value="1.07595" />
+			<median value="0" />
+			<owned value="1050" />
+			<trading value="25" />
+			<wanting value="22" />
+			<wishing value="98" />
+			<numcomments value="144" />
+			<numweights value="31" />
+			<averageweight value="1.1935" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

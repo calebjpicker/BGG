@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="230244">
+         <thumbnail>https://cf.geekdo-images.com/UsG5d8U0wGFJLKctASkWTQ__thumb/img/WYXRiJNwu_XrUD4H0TVqFGWH2XI=/fit-in/200x150/filters:strip_icc()/pic4830520.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/UsG5d8U0wGFJLKctASkWTQ__original/img/S3zJjTPUEcFv3gSXnWU8JfUcaCw=/0x0/filters:format(jpeg)/pic4830520.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Black Angel" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Чёрный ангел" />
+			    				
+				<name type="alternate" sortindex="1" value="ブラックエンジェル" />
+			    				
+				<name type="alternate" sortindex="1" value="黑天使号" />
+			    				
+				<name type="alternate" sortindex="1" value="블랙 엔젤" />
+			
+						               													<description>Humanity, through its irresponsible behavior, has exhausted the natural resources of Earth, making it almost uninhabitable. In a burst of lucidity, pressed by the irreversible degradation of your planet, the great nations are forced to put aside their differences and share their knowledge in order to create the most vast spacecraft ever constructed. Thus, the BLACK ANGEL project is launched.&amp;#10;&amp;#10;The Black Angel, the first intergalactic frigate in history, must transport the genetic heritage of humanity beyond known worlds, over a journey that is likely to last several thousand years. Her crew will be composed of only robots. Because no nation is willing to trust creation of the AI (artificial intelligence) that will control this crew to any other nation, a compromise is found: The Black Angel will be co-managed by several AIs, and the utility of each decision will be evaluated in VP (Validation Process).&amp;#10;&amp;#10;At the completion of this long and perilous voyage, when a new inhabitable planet has been reached, the AI that has earned the most VP will be entrusted with reawakening Humanity, and overseeing its new start&amp;hellip;.&amp;#10;&amp;#10;All the reports are in agreement: The Black Angel is approaching Spes, a planet with the highest probability for habitability by the human species. Take advantage of our approach to maintain the good relations you have gradually woven with the benevolent Alien species populating the galaxy, and watch out for the dreaded Ravagers, who would do anything to prevent you from reaching Spes.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="121">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="57" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="25">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="16" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="861" value="No necessary in-game text" numvotes="10" />
+					<result level="862" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="863" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="864" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="865" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2957" value="Bias" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2960" value="Map Reduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3005" value="Slide/Push" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22232" value="Theme: Robots" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309492" value="Black Angel: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="319442" value="Black Angel: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365821" value="Black Angel: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="38335" value="Sébastien Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11312" value="Xavier Georges" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7369" value="Alain Orban" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38335" value="Sébastien Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11312" value="Xavier Georges" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64844" value="Ian O'Toole" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7369" value="Alain Orban" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12884" value="Pearl Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39249" value="sternenschimmermeer" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4498" />
+			<average value="7.27622" />
+			<bayesaverage value="6.71852" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="790" bayesaverage="6.71852" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="462" bayesaverage="6.82576" />
+												</ranks>
+
+			<stddev value="1.43405" />
+			<median value="0" />
+			<owned value="8351" />
+			<trading value="362" />
+			<wanting value="319" />
+			<wishing value="2323" />
+			<numcomments value="945" />
+			<numweights value="282" />
+			<averageweight value="3.8404" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

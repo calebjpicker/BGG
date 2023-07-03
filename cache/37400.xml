@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="37400">
+         <thumbnail>https://cf.geekdo-images.com/cU_FFruHtkJ8VHPOrwjSnA__thumb/img/PLW-r-C4dn2teaYE7NtjgVRIce0=/fit-in/200x150/filters:strip_icc()/pic400677.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cU_FFruHtkJ8VHPOrwjSnA__original/img/wTpJiR76wZP2_0Z1DKAsnaXQEUw=/0x0/filters:format(jpeg)/pic400677.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sushizock im Gockelwok" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Geharrewar in de Sushi-bar" />
+			    				
+				<name type="alternate" sortindex="1" value="Geharrewar in de Sushibar" />
+			    				
+				<name type="alternate" sortindex="1" value="Sushi Bar" />
+			    				
+				<name type="alternate" sortindex="1" value="Sushizock" />
+			    				
+				<name type="alternate" sortindex="1" value="美味刺壽司" />
+			
+						               													<description>This is another game in Zoch's &amp;quot;small square box&amp;quot; line and seems to be a follow-up to Reiner Knizia's Pickomino.&amp;#10;&amp;#10;There are five dice. Each dice has:&amp;#10;&amp;#10;2 x Sushi (blue)&amp;#10;2 x Fishbone (red)&amp;#10;1 x Chopsticks (blue)&amp;#10;1 x Chopsticks (red)&amp;#10;&amp;#10;There are 24 tiles:&amp;#10;&amp;#10;12 x Sushi (blue) ... Worth +1 to +6 points&amp;#10;12 x Fishbone (red) ... Worth -1 to -4 points&amp;#10;&amp;#10;Players roll dice to try and collect &amp;quot;Sushi&amp;quot; and &amp;quot;Fish Bone&amp;quot; tiles from the centre of the board (the tile they get depends how many they rolled).&amp;#10;&amp;#10;Players can also steal tiles from other players by rolling 3 or more appropriately coloured &amp;quot;Chopsticks&amp;quot; on their dice.  3 Chopsticks allows you to take the top tile from an appropriate pile from another player, 4 or 5 chopsticks allows you to nominate which tile from the pile you want, but you are not allowed to look first.&amp;#10;&amp;#10;At the end of the game (when the tiles are all gone), players score points based on the tiles they have collected, however if you have more blue tiles than red tiles, you lose the excess blue tiles first!&amp;#10;&amp;#10;This game is part of The Chicken Family of Zoch.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="41">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="16" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4" value="Series: The Chicken Family of Zoch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="207783" value="POW!" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="87" value="Zoch Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2429" />
+			<average value="6.49034" />
+			<bayesaverage value="6.03905" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2555" bayesaverage="6.03905" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="804" bayesaverage="6.12804" />
+												</ranks>
+
+			<stddev value="1.1505" />
+			<median value="0" />
+			<owned value="3487" />
+			<trading value="53" />
+			<wanting value="82" />
+			<wishing value="246" />
+			<numcomments value="620" />
+			<numweights value="217" />
+			<averageweight value="1.235" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

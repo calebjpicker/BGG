@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="13875">
+         <thumbnail>https://cf.geekdo-images.com/2D1avELOdq7emztMlJU-Gg__thumb/img/gxpgumuMABR4AH8EvqaP7Ad8aQk=/fit-in/200x150/filters:strip_icc()/pic82761.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2D1avELOdq7emztMlJU-Gg__original/img/akxJbxh7RrRwXJr5q80VwGVl13M=/0x0/filters:format(jpeg)/pic82761.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Quoridor Kid" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Quoridor" />
+			    				
+				<name type="alternate" sortindex="1" value="Quoridor Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Коридор для детей" />
+			    				
+				<name type="alternate" sortindex="1" value="Коридор для малышей" />
+			    				
+				<name type="alternate" sortindex="1" value="쿼리도 주니어" />
+			
+						               													<description>The game of mice and mazes has children scurrying their mice to the opposite side of the playing board. It is not a simple task though, as each player may move their mouse 1 space at a time or decide to install a &amp;quot;blocker&amp;quot; to delay their opponent. Yet the maze that is built may cause delays for every mouse, including their own, as it approaches the finish line.&amp;#10;&amp;#10;Quoridor Kid is 7 x 7 as opposed to Quoridor's 9 x 9.  In a fine bit of confusion, at least one version of Quoridor Kid retains the name Quoridor while still utilizing the 7 x 7 board.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="6" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5881" value="Game: Blockade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62080" value="Versions &amp; Editions: Junior Versions of Grown-Up Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="624" value="Quoridor" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="281" value="Mirko Marchesi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106166" value="Gaelle Picard" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="303" />
+			<average value="6.25916" />
+			<bayesaverage value="5.59731" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8101" bayesaverage="5.59731" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="148" bayesaverage="5.98528" />
+												</ranks>
+
+			<stddev value="1.3582" />
+			<median value="0" />
+			<owned value="473" />
+			<trading value="13" />
+			<wanting value="3" />
+			<wishing value="46" />
+			<numcomments value="94" />
+			<numweights value="20" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

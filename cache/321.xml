@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="321">
+         <thumbnail>https://cf.geekdo-images.com/Euh04jnKwlMUCxwRil6vcQ__thumb/img/mDVTctS_mW0pkTcxRsPjMiKnVo8=/fit-in/200x150/filters:strip_icc()/pic187440.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Euh04jnKwlMUCxwRil6vcQ__original/img/S9Bn8WyG-HSDX_Z8x5l8aoWfxT4=/0x0/filters:format(jpeg)/pic187440.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Mole in the Hole" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Gangue das Toupeiras" />
+			    				
+				<name type="alternate" sortindex="1" value="Iscavoka Iscavoka" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Maulwurf Company" />
+			    				
+				<name type="alternate" sortindex="1" value="Mole in the Hole / Taupes et Compagnie" />
+			    				
+				<name type="alternate" sortindex="1" value="Mollenmania" />
+			    				
+				<name type="alternate" sortindex="1" value="Muldvarpe-kompagniet" />
+			    				
+				<name type="alternate" sortindex="1" value="Muldvarpekompagniet" />
+			    				
+				<name type="alternate" sortindex="1" value="Myyräpeli" />
+			    				
+				<name type="alternate" sortindex="1" value="Taupes et compagnie" />
+			    				
+				<name type="alternate" sortindex="1" value="Under the Ground" />
+			    				
+				<name type="alternate" sortindex="1" value="두더지 땅 파기" />
+			
+						               													<description>A children's game that is equally entertaining for adults.  Players move their moles, who are on a quest to dig underground searching for The Golden Shovel.  A distinctive feature of this game is the multi-part board - there are four boards laid on top of each other, each with holes in it leading 'down' to the next level.  Players move their moles to those holes and, when one board is 'complete' (i.e., all holes occupied), the board, and any moles remaining on it, are removed from play.  Players continue working their way down from level to level, each board having fewer holes than the previous, until they reach the final level, which has only one hole leading to The Golden Shovel.  A simple race-to-the-finish game with fun, colorful playing pieces, just as much fun with or without the kids!&amp;#10;&amp;#10;This game is actually a mild re-working of Inner Circle, also called Top Star, by Virginia Charves. Thematically re-implemented as Up And Down.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="3" />
+					<result value="5" numvotes="7" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="7" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2960" value="Map Reduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7835" value="Animals: Moles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="325925" value="Die Maulwurf Company Demo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="245131" value="Die Maulwurf Company Mitbringspiel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2962" value="Inner Circle" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="179" value="Virginia Charves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="180" value="Bertram Kaes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2946" value="Walter Pepperle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53973" value="Foto Rhomberg" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46567" value="VAKKO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1019" />
+			<average value="6.28261" />
+			<bayesaverage value="5.76673" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4500" bayesaverage="5.76673" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="88" bayesaverage="6.22381" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1320" bayesaverage="5.84035" />
+												</ranks>
+
+			<stddev value="1.19557" />
+			<median value="0" />
+			<owned value="1809" />
+			<trading value="42" />
+			<wanting value="24" />
+			<wishing value="96" />
+			<numcomments value="336" />
+			<numweights value="89" />
+			<averageweight value="1.2809" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

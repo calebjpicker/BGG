@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6995">
+         <thumbnail>https://cf.geekdo-images.com/kKGTSLQXA1kMSmcBF8kgEw__thumb/img/Mk2JeTWpiMsvwmheLvdBM0zTGAw=/fit-in/200x150/filters:strip_icc()/pic545376.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/kKGTSLQXA1kMSmcBF8kgEw__original/img/cr1cVrnWNOJCmN4jYk-rYRJuSSk=/0x0/filters:format(jpeg)/pic545376.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Castle Danger" />
+			
+						                           
+						               													<description>Castle Danger is a 2-player, turn-based, full-information, strategy game. It is played on a rectangular board, divided into squares -- 9 columns by 7 rows. The middle column on the board is an impassible river, leaving each player with a 4x7 section of the board on which to control their pieces.&amp;#10;&amp;#10;Six (6) different types of pieces are used in the game: a single King per player (must be protected), Wizards (gives the player more moves to use each turn), Builders (add/remove Walls from the board), Cannons (shoot cannonballs at opponent's pieces), Walls (intercept cannonballs -- used to give protection to other pieces), and Fire (placed on the board wherever a cannonball lands).&amp;#10;&amp;#10;If a player's &amp;quot;portal&amp;quot; square (the middle square in their outside column) is open at the start of the turn, the player can add a new piece on that square.&amp;#10;&amp;#10;The first player to hit their opponent's King with a cannonball is the winner.&amp;#10;&amp;#10;The game was first published as a 2-player computer game, which can be played against an opponent over the Internet.&amp;#10;&amp;#10;Now there is also a tabletop version of the game available, which includes rules for a hidden-information variant.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2002" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="2" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78603" value="Components: 7 x 9 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7395" value="Containers: Video Tape Boxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25264" value="Series: Land of Danger (Matt Worden Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2477" value="Matt Worden" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2477" value="Matt Worden" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1621" value="Matt Worden Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="43" />
+			<average value="6.57907" />
+			<bayesaverage value="5.52165" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15634" bayesaverage="5.52165" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="771" bayesaverage="5.60257" />
+												</ranks>
+
+			<stddev value="1.33635" />
+			<median value="0" />
+			<owned value="56" />
+			<trading value="3" />
+			<wanting value="9" />
+			<wishing value="37" />
+			<numcomments value="36" />
+			<numweights value="3" />
+			<averageweight value="3.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

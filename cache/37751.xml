@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="37751">
+         <thumbnail>https://cf.geekdo-images.com/HEgvkZOTl6CcLZ2ysKApFw__thumb/img/2AhOMJzt5Lhp7pTjwKVcdSNTv18=/fit-in/200x150/filters:strip_icc()/pic395509.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/HEgvkZOTl6CcLZ2ysKApFw__original/img/m2JlQ9VBdeSiTcLB_usAihZhM3E=/0x0/filters:format(jpeg)/pic395509.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tri-Chess" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tri-Chess &amp; Chess" />
+			
+						               													<description>Three player chess on a hexagonal board with two colors of hexagonal spaces (black and white).&amp;#10;&amp;#10;There are six bishops (one per color for each player). The pieces have normal starting positions. The standard plastic chess pieces are ivory white, black and gold. There are eight pawns each.&amp;#10;&amp;#10;Movement is somewhat complicated:&amp;#10;&amp;#10;     The king and rook can move in 6 directions - onto adjacent hexes that share a side.&amp;#10;     The &amp;quot;diagonal&amp;quot; moves of the queen and bishop involve skipping over the two adjacent hexes of the other colours onto the hex beyond of the same colour. The bishop can thus move in 6 directions, the queen in 12.&amp;#10;     The knight can also moves onto 12 possible hexes - it moves two hexes forward and one to the side, always onto adjacent hexes that share a side.&amp;#10;     The pawn moves one diagonal hex forward and captures moving two adjacent hexes forward (these are the two hexes on either side of the one it could move to).&amp;#10;&amp;#10;&amp;#10;There are a few other special rules to deal with castling, pawn promotion and whether a diagonal move can pass between two occupied hexes.&amp;#10;&amp;#10;Note that despite the identical name and designer, this game is not identical to Tri-Chess from 1975.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1980" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="0" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64143" value="Players: Three Players Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10982" value="Anthony Patton" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8643" value="Tri-Chess" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="6.749" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.96367" />
+			<median value="0" />
+			<owned value="27" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="11" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

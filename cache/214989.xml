@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="214989">
+         <thumbnail>https://cf.geekdo-images.com/Z4E2b_mSrrZmumVzITqVRQ__thumb/img/VkaWd9CsYbrZoTBn8qgfMILbp9U=/fit-in/200x150/filters:strip_icc()/pic4093869.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Z4E2b_mSrrZmumVzITqVRQ__original/img/L-g5ntXINFIx2wO0Nmb1-iVWAw4=/0x0/filters:format(jpeg)/pic4093869.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Age of Towers" />
+			
+						                           
+						               													<description>You've just found a mine filled with precious energy crystals! Precisely those you use for your daily magic. The problem here is that you've also stumbled onto a horde of monsters! And to make things even worse, three other cities seem to have discovered the existence of your mine as well. As they rush into danger to mine the precious crystals, you have no choice but to join in the fray...&amp;#10;&amp;#10;Age of Towers brings the exciting gameplay of your favorite tower defense games onto the tabletop! Playable either solo or with up to four players, Age of Towers sees you and your opponents competing to defend your cities against the oncoming wave of monsters by constructing defenses, placing traps, and funneling those beasts towards your opponents' cities!&amp;#10;&amp;#10;In more detail, each turn has three phases: night, dawn, and day. During night, the event card is applied and monsters progress on your path (with each type having a different movement value). Two more monsters (or your boss) appear on your path. During dawn, the towers can attack one monster of a particular type on one of the four adjacent spaces, or the boss. During day, each player can choose one action from the four available, then they can take one more action, whether the same or different.&amp;#10;&amp;#10;Each monster type has a movement value (1-3 spaces) and maybe a special ability; all core box monsters have 2 life points. The boss, who is not a monster, is harder to kill as it has 10 life points; when a player successfully kills it, the game ends. Each time a monster or a boss leaves your path to reach your city, you lose a number of city guards equal to their movement value. You begin at 15, and even if you lose your last one, you don't lose the game; you will just earn fewer victory points than other players.&amp;#10;&amp;#10;After the game end, each player adds their victory points from three sources: Number of remaining city guards, amount of damage to your boss, and achievements (which are drawn randomly at the beginning of the game).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="75" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="701" value="No necessary in-game text" numvotes="0" />
+					<result level="702" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="703" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="704" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="705" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39912" value="Category: Tower Defense" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261591" value="Age of Towers: Building Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306639" value="Age of Towers: Kickstarter Exclusives" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="267093" value="Age of Towers: Monster Bag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261590" value="Age of Towers: The Dark Elves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="259719" value="Age of Towers: The Mountain Spirits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261589" value="Age of Towers: The Undead" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251476" value="Age of Towers: The Winx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="267097" value="Age of Towers: To The Rescue" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="96979" value="Guillaume Mazoyer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="89228" value="Gaël Denhard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="107535" value="Olivier Derouetteau" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42092" value="3 Emme Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15984" value="Devil Pig Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="409" />
+			<average value="6.50217" />
+			<bayesaverage value="5.65685" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6199" bayesaverage="5.65685" />
+												</ranks>
+
+			<stddev value="1.51887" />
+			<median value="0" />
+			<owned value="1194" />
+			<trading value="76" />
+			<wanting value="12" />
+			<wishing value="133" />
+			<numcomments value="151" />
+			<numweights value="12" />
+			<averageweight value="2.1667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

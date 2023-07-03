@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="144228">
+         <thumbnail>https://cf.geekdo-images.com/-VULyPVsXi23ioG3I7mF3Q__thumb/img/XTbo8Pg8YWiuLuiAurU4DFezrHQ=/fit-in/200x150/filters:strip_icc()/pic6596961.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-VULyPVsXi23ioG3I7mF3Q__original/img/u6CT6wb6yHUPUQzB1WKgNLqoV-I=/0x0/filters:format(jpeg)/pic6596961.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="FUBA" />
+			
+						                           
+						               													<description>FUBA is a tactical football simulation. This smart, fast-paced game takes on the world's number one sport from a tactical view. In FUBA, you become the head coach and choose the strategy for your team. Control the midfield with 4-5-1? Use two strikers to secure the win with 4-4-2? The choice is yours.&amp;#10;&amp;#10;The game is resolved in less than an hour, which is quicker than a real match. FUBA is played in turns, with an average of 23 turns per each half. The player controlling the ball chooses the action his team will go for, then both players roll the dice to see the outcome. After this, both players move their team according to the tactics they have chosen. There is always a small chance of random events such as a yellow or red card.&amp;#10;&amp;#10;Thanks to the flexible rubber board, FUBA can easily be played outdoors, too.&amp;#10;&amp;#10;http://fubaboardgame.com&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="4" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5551" value="Sports: Football / Soccer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68990" value="Hannu Uusitalo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68991" value="Kim Paqvalin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25405" value="U&amp;P Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="121" />
+			<average value="7.38967" />
+			<bayesaverage value="5.59845" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8046" bayesaverage="5.59845" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2233" bayesaverage="5.6253" />
+												</ranks>
+
+			<stddev value="1.50014" />
+			<median value="0" />
+			<owned value="209" />
+			<trading value="7" />
+			<wanting value="26" />
+			<wishing value="102" />
+			<numcomments value="40" />
+			<numweights value="14" />
+			<averageweight value="2.6429" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

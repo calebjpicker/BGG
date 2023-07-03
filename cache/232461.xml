@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="232461">
+         <thumbnail>https://cf.geekdo-images.com/0SeW03AqaR3ftiKDM_JDgg__thumb/img/SQC2KY0n6CKDSmryuCpUtqkoPR0=/fit-in/200x150/filters:strip_icc()/pic5209126.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0SeW03AqaR3ftiKDM_JDgg__original/img/OYKa0a86imwzwINue_n-wKLY_mc=/0x0/filters:format(jpeg)/pic5209126.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Saigon 75" />
+			
+						                           
+						               													<description>Gameplay overview&amp;#10;Saigon 75 is a simple and swift strategic wargame, simulating the fratricidal struggle between North and South Vietnam from summer 1973 to spring 1975. Everything is contained within a few pages of rules and 1 hour of strategy, with pressure at every moment! The game portrays the differences between North Vietnamese divisions and the Rangers/Marines/Parachutists and other units of the South Vietnamese. Air power and desertion are also featured, with the whole thing being completed by event cards that give the game great replayability. An ingenious mix that provides a game on tenterhooks right up to the last turn! If, at the end of any turn, the North player controls Saigon province the game ends with a North victory. The South player wins by successfully defending Saigon until the end of Turn 8.&amp;#10;&amp;#10;Solo Rules&amp;#10;In the solo mode, you play the South, while the North is controlled by a deck of cards (AI). There is not a lot of difference between the solo and two-player modes in terms of the rules and the winning condition. During each turn, there are phases (movement, attack, etc.) where the AI draws one card and does a specific action.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="351" value="No necessary in-game text" numvotes="0" />
+					<result level="352" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="353" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="354" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="355" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1102" value="Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1069" value="Modern Warfare" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1109" value="Vietnam War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63532" value="Cities: Ho Chi Minh City (Vietnam)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9470" value="Continents: Asia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24158" value="Country: Cambodia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10618" value="Country: Vietnam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18190" value="Decades: The 1970's" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46190" value="History: Cold War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77911" value="History: Vietnam War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63219" value="Region: South China Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="119668" value="Jean-Philippe Barcus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="77952" value="Pascal Toupy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81375" value="Tania Sanchez-Fortun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12545" value="Christophe Sancy" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="44" />
+			<average value="7.62159" />
+			<bayesaverage value="5.54029" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="12374" bayesaverage="5.54029" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2241" bayesaverage="5.77669" />
+												</ranks>
+
+			<stddev value="1.72002" />
+			<median value="0" />
+			<owned value="185" />
+			<trading value="2" />
+			<wanting value="29" />
+			<wishing value="137" />
+			<numcomments value="24" />
+			<numweights value="5" />
+			<averageweight value="2.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

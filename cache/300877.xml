@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="300877">
+         <thumbnail>https://cf.geekdo-images.com/8vqr1uYik715mqDqy0W9vg__thumb/img/Bu97VesRjdbQO2PxfuOrdC6icd8=/fit-in/200x150/filters:strip_icc()/pic5673404.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8vqr1uYik715mqDqy0W9vg__original/img/n_Q1WMkgDeNke6RdnagDS6j1lcc=/0x0/filters:format(jpeg)/pic5673404.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="New York Zoo" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Zoo New York" />
+			    				
+				<name type="alternate" sortindex="1" value="Зоопарк Нью-Йорка" />
+			    				
+				<name type="alternate" sortindex="1" value="Зоопарк Нью-Йорка" />
+			
+						               													<description>Puzzling and animal breeding: Designer Uwe Rosenberg is at his best! In New York Zoo, you are constructing an animal park. Build animal enclosures, introduce new animals and raise their offspring. The game play is straight forward as you have only two turn options: Puzzle a new enclosure tile into your zoo area or gain new animals to populate your animal encounters. But be sure to time your actions well since you want your zoo to participate in as many animal breedings as possible.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="96">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="43" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="18" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="431" value="No necessary in-game text" numvotes="14" />
+					<result level="432" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="433" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="434" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="435" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7544" value="Animals: Foxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7260" value="Animals: Kangaroos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7488" value="Animals: Penguins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76846" value="Theme: Zoos, Aquaria, Safari Parks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="343953" value="New York Zoo: Solo zoo board Spielbox Promo" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366916" value="New York Zoo: MeeplesUpgrade Upgrade Kit Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="321658" value="New York Zoo: Painted Promo-Elephant" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="124194" value="Felix Wermke" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30958" value="Capstone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53490" value="Rozum" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6534" />
+			<average value="7.14072" />
+			<bayesaverage value="6.74229" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="755" bayesaverage="6.74229" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="179" bayesaverage="6.83956" />
+												</ranks>
+
+			<stddev value="1.14388" />
+			<median value="0" />
+			<owned value="13301" />
+			<trading value="230" />
+			<wanting value="341" />
+			<wishing value="2526" />
+			<numcomments value="983" />
+			<numweights value="163" />
+			<averageweight value="1.9632" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

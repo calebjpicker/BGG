@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="322622">
+         <thumbnail>https://cf.geekdo-images.com/mg6SJV5JH5SY1pMI6C_GzA__thumb/img/cd754FyRcQm6udW9HXWSLbd5Ljo=/fit-in/200x150/filters:strip_icc()/pic5898743.png</thumbnail>
+      <image>https://cf.geekdo-images.com/mg6SJV5JH5SY1pMI6C_GzA__original/img/VhuloJwQlvD1v-Otc54evdXE5ew=/0x0/filters:format(png)/pic5898743.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Floriferous" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Blumengarten" />
+			    				
+				<name type="alternate" sortindex="1" value="Pachnący ogród" />
+			    				
+				<name type="alternate" sortindex="1" value="Virágvarázs" />
+			
+						               													<description>YOUR GARDEN AWAITS&amp;#10;Spend the afternoon in your Floriferous garden. Relax while enjoying this elegant game of strolling through your garden and collecting flowers. Find joy in the abundance of nature. Find the most joy by collecting flowers and pairing them with abundance, desire, and mastery cards.&amp;#10;&amp;#10;Floriferous is played over three days, which are divided into five turns. Each turn, a player moves one step through the garden. After each move, the player picks up a flower or desire card. After three days, players sum their scores for their desires, mastery, and points earned during the game. The player with the most points wins.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="1" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7564" value="Animals: Bees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7591" value="Animals: Butterflies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7657" value="Animals: Crows / Ravens / Magpies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62079" value="Animals: Insects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7833" value="Animals: Ladybugs / Ladybirds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350991" value="Floriferous: Early Spring Mini Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62511" value="Eduardo Baraf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10060" value="Steve Finn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="131233" value="Clémentine Campardou" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28987" value="Pencil First Games, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36831" value="Quality Beast" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27947" value="Vagabund" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1560" />
+			<average value="7.54677" />
+			<bayesaverage value="6.39564" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1387" bayesaverage="6.39564" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="322" bayesaverage="6.59344" />
+												</ranks>
+
+			<stddev value="1.05835" />
+			<median value="0" />
+			<owned value="3608" />
+			<trading value="30" />
+			<wanting value="145" />
+			<wishing value="1082" />
+			<numcomments value="337" />
+			<numweights value="33" />
+			<averageweight value="1.6364" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

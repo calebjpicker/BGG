@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="377738">
+         <thumbnail>https://cf.geekdo-images.com/ASbwyuBbpIpjHGkPvDd_Zg__thumb/img/CNRjLdMS4HngtOYJgtaFJqOJ8iQ=/fit-in/200x150/filters:strip_icc()/pic7263149.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ASbwyuBbpIpjHGkPvDd_Zg__original/img/LghdsFtSeFyr-kATrCqRnsGhs7U=/0x0/filters:format(png)/pic7263149.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Café del Gatto" />
+			
+						                           
+						               													<description>In Caf&amp;eacute; del Gatto, you want to serve valuable drinks to customers, but you're competing against other baristas for coffee and milk, so making drinks will be tricky!&amp;#10;&amp;#10;To set up, each player takes five glass tiles that require 1-4 &amp;quot;shots&amp;quot; to complete. Place the 36 coffee/milk tiles in the bag, then draw five tiles to fill the milk side of the espresso machine, then five tiles to fill the coffee side. Each double-sided coffee/milk tile has a value from 1-4 as well as a symbol for cold, hot, or foamy. Each player starts with 4-5 coins. Place completed drink tiles in the center of the playing area; each drink (cappuccino, latte macchiato, etc.) has tiles of varying values.&amp;#10;&amp;#10;On a turn, take one of three actions:&amp;#10;&amp;#10;&amp;#10;     Take 2 coins from the bank.&amp;#10;     Buy a tile from the espresso machine, with the cost of the tile being equal to the adjacent tile on the opposite side of the machine. If you're buying a milk tile, for example, the cost is the value on the adjacent coffee tile. Tiles in the top two rows have a 1-2 coin surcharge. Place the tile in the lowest empty matching space on one of your drink tiles, then draw a tile from the bag to refill the machine. If you buy a 1 tile, it comes with a bonus sugar cube.&amp;#10;     Serve one or more completed drinks. For each glass tile that has all its spots filled, first gain coins from the bank, earning more coins if the drink has fewer symbols in it. (Mixing cold and hot tiles isn't good!) Next, take a completed drink tile of the same type that has a value equal to or less than the sum of the tiles, gaining coins to make up the difference. You can raise the value of a drink by 1 for each sugar cube spent.&amp;#10;&amp;#10;&amp;#10;At the start of your turn, you can spend 2 coins to flush one side of the espresso machine, then refill it.&amp;#10;&amp;#10;As soon as a player has served all five types of drinks, complete the round, then sum the value of your completed drink tiles, with each pair of sugar cubes counting as 1 point. Whoever has the most points wins, with coin serving as a tiebreaker.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7334" value="Animals: Cats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46953" value="Food &amp; Drink: Coffee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="36540" value="Food &amp; Drink: Tea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69641" value="Theme: Pub, Bars, Bistros..." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85283" value="Lena Burkhardt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="150331" value="Julia Wagner" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="150330" value="Robin Struss" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="47" />
+			<average value="6.1117" />
+			<bayesaverage value="5.51144" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17920" bayesaverage="5.51144" />
+												</ranks>
+
+			<stddev value="1.47537" />
+			<median value="0" />
+			<owned value="80" />
+			<trading value="1" />
+			<wanting value="7" />
+			<wishing value="69" />
+			<numcomments value="13" />
+			<numweights value="4" />
+			<averageweight value="1.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

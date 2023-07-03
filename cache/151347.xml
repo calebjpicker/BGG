@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="151347">
+         <thumbnail>https://cf.geekdo-images.com/5h467xIvOqAE8YZdT3WH4w__thumb/img/QHATT9rshYO-_8qF3TH-x__iPnE=/fit-in/200x150/filters:strip_icc()/pic7455420.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5h467xIvOqAE8YZdT3WH4w__original/img/nJh74imh83N69hX3QK0ED0Af2Gw=/0x0/filters:format(jpeg)/pic7455420.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Millennium Blades" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="千年之刃" />
+			
+						               													<description>Millennium Blades is a CCG-Simulator -- A game in which you play as a group of friends who play the fictional CCG &amp;quot;Millennium Blades&amp;quot;.&amp;#10;&amp;#10;In this game you will build decks, play the meta, acquire valuable collections, crack open random boosters, and compete in tournaments for prizes and fame. The game takes you from Starter Deck to Regionals in about 2-3 hours.&amp;#10;&amp;#10;Multiple games can also be chained together to form a Campaign, going from Regionals to Nationals in game 2 and from Nationals to Worlds in game 3, with each game introducing ever more powerful cards and higher stakes, but also resetting the power of the game so that each player has a fair chance to win each 'season' of the campaign.&amp;#10;&amp;#10;The game draws heavily on Manga/Anime inspiration for its art, and parodies Magic: the Gathering, Yugioh, and many other collectible games.&amp;#10;&amp;#10;At its heart, it&amp;rsquo;s a commodity trading game, except that instead of cubes or stocks, the things you&amp;rsquo;ll be buying, selling, and speculating on are trading cards that can be used throughout the game in periodic tournaments. By trading wisely, playing the market, working together with friends, building collections, and winning tournaments, you&amp;rsquo;ll secure points and become the Millennium Blades World Champion.&amp;#10;&amp;#10;The game features a system of card pods, where you will play with about 400 of the base game&amp;rsquo;s 600 cards every game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="99">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="50" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="62" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="80" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="8" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="216" value="No necessary in-game text" numvotes="0" />
+					<result level="217" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="218" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="219" value="Extensive use of text - massive conversion needed to be playable" numvotes="13" />
+					<result level="220" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264393" value="Millennium Blades: BoardGameGeek Mini Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233901" value="Millennium Blades: Chucky Smooth Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331458" value="Millennium Blades: Co-Op Bosses Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271614" value="Millennium Blades: Collusion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199009" value="Millennium Blades: Crossover Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331456" value="Millennium Blades: Crossovers 2 Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331457" value="Millennium Blades: Crossovers 3 Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377036" value="Millennium Blades: Destruction Dinosaur Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255890" value="Millennium Blades: Doomtown Reloaded Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331459" value="Millennium Blades: Extra Characters Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331460" value="Millennium Blades: Extra Sets Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202250" value="Millennium Blades: Final Bosses Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331461" value="Millennium Blades: Finaler Bosses Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202249" value="Millennium Blades: Fusion Chaos Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215748" value="Millennium Blades: Futures Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231589" value="Millennium Blades: Professionals Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198507" value="Millennium Blades: Set Rotation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="199010" value="Millennium Blades: Sponsors Mini-Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="225614" value="Millennium Blades: &quot;Game of the Millennium&quot; Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="335831" value="Millennium Blades: Collusion – Special Edition Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="335830" value="Millennium Blades: Special Edition Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="36103" value="D. Brad Talton, Jr." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46478" value="Fábio Fontes" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11752" value="Level 99 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4780" />
+			<average value="7.67868" />
+			<bayesaverage value="7.0041" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="440" bayesaverage="7.0041" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="79" bayesaverage="7.22804" />
+												</ranks>
+
+			<stddev value="1.58234" />
+			<median value="0" />
+			<owned value="7320" />
+			<trading value="200" />
+			<wanting value="375" />
+			<wishing value="1989" />
+			<numcomments value="1053" />
+			<numweights value="128" />
+			<averageweight value="3.6797" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

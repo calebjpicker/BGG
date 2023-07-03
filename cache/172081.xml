@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="172081">
+         <thumbnail>https://cf.geekdo-images.com/cPZZhbehOr-cXE1HRa6T3w__thumb/img/snQ34rjbfQk96R_-pljlOetsYC4=/fit-in/200x150/filters:strip_icc()/pic2439102.png</thumbnail>
+      <image>https://cf.geekdo-images.com/cPZZhbehOr-cXE1HRa6T3w__original/img/GAmiCfqQ1UdkVxYw4LAkryGW4dY=/0x0/filters:format(png)/pic2439102.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Burgle Bros." />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Взломщики" />
+			
+						               													<description>Burgle Bros. is a cooperative game for 1-&amp;shy;4 players. Players are unique members of a crew trying to pull off a robbery of a highly secure building &amp;mdash; without getting caught. The building has three floors (4x4 tiles), each with its own safe to crack. Players start on the first floor and have to escape to their helicopter waiting on the roof.&amp;#10;&amp;#10;Players each have three stealth tokens. Whenever they are on the same tile with a guard, they lose one. If any player is caught without a stealth token, the game is over. If players can open all three safes, and escape through the stairs to the roof they win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="189">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="60" />
+					<result value="Recommended" numvotes="89" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="88" />
+					<result value="Recommended" numvotes="53" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="89" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="37">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="21" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="28">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="21" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2959" value="Map Addition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2965" value="Multiple Maps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2944" value="Three Dimensional Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68117" value="Components: Game Box Used In Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23287" value="Crowdfunding: Verkami" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75435" value="Theme: Burglary and Heists" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14661" value="Theme: Mystery / Crime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71573" value="Theme: Retro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219982" value="Burgle Bros.: 5 Promo Event Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="220971" value="Burgle Bros.: Bonus Event – Alter Ego" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343021" value="Burgle Bros 2: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="193440" value="Burgle Bros.: Card Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291671" value="Burgle Bros.: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291083" value="Burgle Bros.: The Burgle Van" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="286537" value="Burgle Bros 2: The Casino Capers" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="37740" value="Tim Fowers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80781" value="Virginia Critchfield" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74981" value="Ryan Goldsberry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50716" value="Heiko Günther" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34669" value="Fowers Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30571" value="2Tomatoes Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49480" value="Choo Choo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50506" value="Низа Гамс (Niza Gams)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10766" />
+			<average value="7.45494" />
+			<bayesaverage value="7.12712" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="319" bayesaverage="7.12712" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="88" bayesaverage="7.19458" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="59" bayesaverage="7.19237" />
+												</ranks>
+
+			<stddev value="1.1928" />
+			<median value="0" />
+			<owned value="16975" />
+			<trading value="315" />
+			<wanting value="857" />
+			<wishing value="5493" />
+			<numcomments value="2106" />
+			<numweights value="276" />
+			<averageweight value="2.3188" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

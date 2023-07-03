@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="214910">
+         <thumbnail>https://cf.geekdo-images.com/9VlGdJ_dOOrC13biHm_SWw__thumb/img/mSJITl2xNoONpptFhph7kGSM4OY=/fit-in/200x150/filters:strip_icc()/pic3327155.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9VlGdJ_dOOrC13biHm_SWw__original/img/44VRPae4czp0W2z3VTvD0mQX6fs=/0x0/filters:format(jpeg)/pic3327155.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tiki" />
+			
+						                           
+						               													<description>In Tiki, you are a divinity on Manami Island and you love all the delicious fruits that grow there. You prefer nothing more than influencing the living tribes of the island to share their gifts with you. Unfortunately, you aren't the only one. Another divinity shares your passion for these fruits, which leaves you only one choice &amp;mdash; you need to show him your power in order to get more fruits than he does before the end of the fruit season.&amp;#10;&amp;#10;To set up, shuffle the nine village tiles and place them in a 3x3 square with some space between each tile. Players then take turns until the fruit supply exhausted or one of them collects four fruits. On a turn, a player creates a new totem (by placing one of their totem tokens on an empty village tile) or moves a totem that has one of their tokens on top. When you move a totem, you must move the entire totem orthogonally as many spaces as the number of tokens in it. As you move, you drop the bottommost token in each village through which you pass, placing the dropped tokens on top of any totem already located there.&amp;#10;&amp;#10;When a totem has three tokens stacked in it, the village it's in is influenced, with the player who owns the top token winning a number of fruits equal to the number on the village tile. After this, remove the tokens in this totem and return them to their owners. If a village has a 0 on it, then the tokens are returned with no one collecting fruit; if a village has -1, then the owner of the top totem removes one of their collected fruits from the game.&amp;#10;&amp;#10;As soon as a player has four fruit, they win. If the fruit supply is empty, the game ends and whoever has the most fruit wins; in the event of a tie, continue to play until one player would win (or lose) a fruit to determine the winner.&amp;#10;&amp;#10;Once you've played a few times, start using the Shaman rule. The second player places a Shaman between two villages before their first move, and no totem can be moved between these two villages. When a village with value 0 is influenced, the owner of the topmost token can move the Shaman to a new location, if desired.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65627" value="Theme: Tiki Culture" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80199" value="Nicolas Sato" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="97003" value="Pauline Amelin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34805" value="Ôz Editions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="311" />
+			<average value="5.96692" />
+			<bayesaverage value="5.55395" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10843" bayesaverage="5.55395" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="709" bayesaverage="5.62479" />
+												</ranks>
+
+			<stddev value="1.68514" />
+			<median value="0" />
+			<owned value="306" />
+			<trading value="8" />
+			<wanting value="14" />
+			<wishing value="87" />
+			<numcomments value="92" />
+			<numweights value="9" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

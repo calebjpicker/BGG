@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="288920">
+         <thumbnail>https://cf.geekdo-images.com/kpwVHVrkUPI6rC3nHdcC2w__thumb/img/zGd62RCGBj7ZLAZ-EC6z1nFnCpA=/fit-in/200x150/filters:strip_icc()/pic6862125.png</thumbnail>
+      <image>https://cf.geekdo-images.com/kpwVHVrkUPI6rC3nHdcC2w__original/img/KuxAKv8PcnxH2Y5rDTOsPL-Xams=/0x0/filters:format(png)/pic6862125.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hội Phố" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fai-Fo" />
+			
+						               													<description>It is hard to make a business at Fai-fo &amp;ndash; the biggest city-port in Southeast Asia during 16th -17th century&amp;#10;&amp;#10;There are old and new competitors entering the city every day. The only way to secure your business success is to win 3 contracts from the King of Dai Viet. But don&amp;rsquo;t worry, you are not alone, there are others friendly merchants that are willing to help you only if you could use them wisely.&amp;#10;&amp;#10;Fai-fo is a game of risk taking, deduction and surprise for 3-5 players. There are only 12 merchant cards and 4-8 Merchant Ship Cards (depend on number of players) which make the deck total of 20 cards. Each merchant card has a Reputation Rank from 1 to 12 and a different Skill. Every round, each player will be deal 2 coins, 1 Merchant Ship card and 3 random Merchant Cards, at the end of the round the player with the most coins win 1 contract &amp;ndash; who ever win 3 contracts win the game.&amp;#10;&amp;#10;The game will be happened simultaneously as there are no turn order. Playing the Highest Reputation Merchant will give you money but only the lowest merchant can trigger its special Skill. The Merchant Ship counting as reputation 0 may give you the chance to earn a great deal but be aware, if there are too many Merchant Ship sailing, there will be no money for anyone.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="0" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2926" value="Selection Order Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67862" value="Occupation: Merchant" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="350468" value="Hội Phố (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="120774" value="Toàn Nguyễn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="120774" value="Toàn Nguyễn" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43460" value="Ngũ Hành Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="99" />
+			<average value="5.29939" />
+			<bayesaverage value="5.48591" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22330" bayesaverage="5.48591" />
+												</ranks>
+
+			<stddev value="1.52261" />
+			<median value="0" />
+			<owned value="28" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="12" />
+			<numcomments value="26" />
+			<numweights value="4" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

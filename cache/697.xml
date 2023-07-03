@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="697">
+         <thumbnail>https://cf.geekdo-images.com/WKFNP8WwItyM9sdSlcYasg__thumb/img/sqrE5u0i-9MihqCvuAmsunYQX2g=/fit-in/200x150/filters:strip_icc()/pic187425.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WKFNP8WwItyM9sdSlcYasg__original/img/xsluoiROUEtPv5eCQabc6p19_5E=/0x0/filters:format(jpeg)/pic187425.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Conspiracy" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Agent" />
+			    				
+				<name type="alternate" sortindex="1" value="Casablanca" />
+			    				
+				<name type="alternate" sortindex="1" value="Conspiration" />
+			    				
+				<name type="alternate" sortindex="1" value="Dossier" />
+			    				
+				<name type="alternate" sortindex="1" value="Dossier &quot;X&quot;" />
+			    				
+				<name type="alternate" sortindex="1" value="Sigma File" />
+			
+						               													<description>There are four capitals, four bankbooks, one top secret briefcase and eight greedy spies that anyone can control. The object is to move the briefcase to your headquarters. Players can either secretly pay off or openly move a spy one space on their turn. Each player has an account of $10,000 and can bribe spies in increments of at least $100. If you move a spy, another player may challenge the move. The two players then slowly reveal how much money they each have on the spy in question. If the challenger wins, the move is rescinded. If the defender wins, the move stays and the challenger loses his next turn. Players need to cooperate against whichever player is closest to victory. You can conspire openly to swipe the case or murder a spy and turn the tables on a player who is a mere one space away from winning. No dice, no cards, no luck involved. Learn to work together or games will end in a hurry.&amp;#10;&amp;#10;Amigo version (Casablanca) published 1991 supports 8 players.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1973" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="1" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60340" value="Series: Buchkassette (Pelikan)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="267991" value="Conspiracy: The Solomon Gambit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="31909" value="Die Jagd nach dem Gral" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="311232" value="Subterfuge" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="104" value="Eric Solomon" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1772" value="Clipper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2943" value="Condor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="500" value="Pelikan" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="622" />
+			<average value="6.25284" />
+			<bayesaverage value="5.6779" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5779" bayesaverage="5.6779" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1598" bayesaverage="5.72565" />
+												</ranks>
+
+			<stddev value="1.47139" />
+			<median value="0" />
+			<owned value="1721" />
+			<trading value="163" />
+			<wanting value="35" />
+			<wishing value="148" />
+			<numcomments value="352" />
+			<numweights value="46" />
+			<averageweight value="1.913" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

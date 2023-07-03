@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="145209">
+         <thumbnail>https://cf.geekdo-images.com/EjLDriIcasQlJQUHqRfOtQ__thumb/img/Rh6MxWEW0dc4O7EYOQEYdbCxLUU=/fit-in/200x150/filters:strip_icc()/pic1721930.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/EjLDriIcasQlJQUHqRfOtQ__original/img/rJMMssiJCDOo_eElyDSybnrv_Zc=/0x0/filters:format(jpeg)/pic1721930.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="404: Law Not Found" />
+			
+						                           
+						               													<description>404: Law Not Found is a competitive action programming game with hidden objectives. Players take the role of robots that awaken after an upgrade to find their three laws replaced with nonsensical directives such as &amp;quot;Explore Breathing&amp;quot; or &amp;quot;Improvise Science&amp;quot;. Players race to complete objectives based on these directives, the first player to complete all three directives wins the game.&amp;#10;&amp;#10;The game opens with players drafting directives, providing them with a partial knowledge of each others' objectives. Each turn the ship encounters an obstacle, such as a meteor or enemy ship. Once that's been revealed the (relatively helpless) human crew make a quick reaction. Then the bulk of the turn is spent by the players choosing actions for their robots to take in service to their directives, before finally the event is resolved if it has not been neutralized in some way. The game ends once a player completes all three directives or the ship has encountered ten events.&amp;#10;&amp;#10;The actions are general (move right, move left, turn on the machine in this room) and the directives might specify interactions with any part of the game (events, items, crew, machines, other robots). The wellbeing of the ship or its crew has no special place in the victory conditions, the state of the ship at the end of a game where a robot has to &amp;quot;Empower Technology&amp;quot; (repair at least two damaged machines) might differ from one in which a robot is trying to &amp;quot;Improvise War&amp;quot; (fire a living crewman and hit an enemy ship).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69357" value="Gregory Carslaw" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69356" value="Ludwin Schouten" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23299" value="3DTotal Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="118" />
+			<average value="5.78754" />
+			<bayesaverage value="5.50559" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19215" bayesaverage="5.50559" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1401" bayesaverage="5.49825" />
+												</ranks>
+
+			<stddev value="1.89754" />
+			<median value="0" />
+			<owned value="257" />
+			<trading value="24" />
+			<wanting value="14" />
+			<wishing value="90" />
+			<numcomments value="63" />
+			<numweights value="14" />
+			<averageweight value="2.2857" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

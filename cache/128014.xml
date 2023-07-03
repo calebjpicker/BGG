@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="128014">
+         <thumbnail>https://cf.geekdo-images.com/1yIyvQGzRUtrKbVyagEbFQ__thumb/img/AM6jqu0zX_gnf3dEe_nTQBuNKZU=/fit-in/200x150/filters:strip_icc()/pic3543848.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/1yIyvQGzRUtrKbVyagEbFQ__original/img/wzxRxTAwkjaeWOkBRgm1CuBqZeQ=/0x0/filters:format(jpeg)/pic3543848.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hidden Rules" />
+			
+						                           
+						               													<description>A game for three or more secret-keeping rule enforcers.&amp;#10;&amp;#10;Each player gets a secret rule at the start of the game. All rules are in play &amp;ndash; including the ones you don&amp;rsquo;t know. It&amp;rsquo;s up to the person who has the rule to enforce it or not. Your goal is to be the first player to accumulate 3 points. The best way to do this is by learning the secret rules of the game faster than the other players and taking tricks.&amp;#10;&amp;#10;You Need:&amp;#10;A standard Poker deck (Jokers removed)&amp;#10;A Hidden Rules trigger deck (available on the game's website)&amp;#10;A Hidden Rules action deck (available on the game's website)&amp;#10;Paper and pencil to track scores (optional, but recommended)&amp;#10;&amp;#10;The basic game is played in tricks. The dealer begins the first trick of the game; after that, each trick begins when the last player to take a trick takes the top card of the deck, places it face-up on the table, and announces its value. Starting with the player to his or her left, and proceeding clockwise, each player must play a card from his or her hand on the trick, calculate the sum of all cards in the trick, and announce the sum.&amp;#10;&amp;#10;Card Values: 2 through 10 are worth their face value. Aces are worth 1 or 11 (declared when played). Jacks are worth 0 points, Queens are worth -2 points, and Kings are worth -4 points.&amp;#10;&amp;#10;If the sum is less than 21, play continues normally. If you bring the sum to exactly 21, you take the trick. If you push the sum over 21, the player to your right takes the trick, for forcing you to exceed 21. When you take a trick, add one to your score, and gather the cards from the trick into a pile face-down in front of you. Once taken, the cards from a trick may not be looked at.&amp;#10;&amp;#10;All hidden rules are also in play. Each combination of a trigger and an action is a rule. It&amp;rsquo;s up to you to enforce (or not) a rule that you know about. When you enforce a rule, you must give the person information to indicate in what way their action violated the rule. The information you provide must be more specific than the violation. If you violate a rule, take back the card you played (if applicable), lose a point, and your turn ends (if it&amp;rsquo;s your turn).&amp;#10;&amp;#10;For example, trigger #13 says, &amp;ldquo;When you play a card that makes the total exactly zero&amp;hellip;&amp;rdquo; and action #5 says, &amp;ldquo;&amp;hellip;Name a Peanuts character that hasn&amp;rsquo;t been named previously this game before you announce the sum of the trick.&amp;rdquo; If I make the total 0 and don&amp;rsquo;t say anything, you can make me take back my card and say, &amp;ldquo;You didn&amp;rsquo;t say a name.&amp;rdquo; The next time I make the total 0, If I say, &amp;ldquo;Neil Armstrong,&amp;rdquo; you can correct me again and say, &amp;ldquo;Neil Armstrong isn&amp;rsquo;t fictional.&amp;rdquo;&amp;#10;&amp;#10;The first player to end a round with 3 or more points more wins.&amp;#10;&amp;#10;This game owes a lot to the children&amp;rsquo;s &amp;ldquo;folk game&amp;rdquo; Mao.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="0" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3003" value="Induction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="613" value="Jonathan Leistiko" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="320" value="Invisible City Productions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

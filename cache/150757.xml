@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="150757">
+         <thumbnail>https://cf.geekdo-images.com/rQ-29szlWTjX52FjR3ATyA__thumb/img/2H0_c5_ePYr_l048iKRmnUI7iRA=/fit-in/200x150/filters:strip_icc()/pic1835777.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rQ-29szlWTjX52FjR3ATyA__original/img/fmPVAh7GlP5-Epn2WYuf6-3qgBo=/0x0/filters:format(jpeg)/pic1835777.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Gameshop Gladiators" />
+			
+						                           
+						               													<description>Compete head to head against 5 different gamer types to see who will be Top Gamer. Players may choose from the CCGer, the RPGer, the Eurogamer, the Wargamer or the 18XX-er&amp;#10;&amp;#10;To Win: Survive one-on-one combat until only one player is left.&amp;#10;&amp;#10;Setup: Each player chooses 1 Gamer Gladiator card and places it in front of them and then places a red wooden cube next to the (10) on the Health (HP) Track, located on the left-hand side of the card. Track a gladiator&amp;rsquo;s health up and down this track. If it ever reaches 0 that gladiator is out of the game. Place the six dice in reach of all players.&amp;#10;&amp;#10;Play: 2 players each secretly roll three dice, hiding them from view. Two dice are the Attack dice and the total of both dice is the player&amp;rsquo;s attack strength for this turn. The other is the Special Ability die can be used for a special ability on the Gamer Gladiator card based on the number on the die face (players do not have to use a special ability if they choose not to. In this case set the Special Ability die aside). Players place these dice at the top of their Gamer Gladiator cards in the spaces indicated. Both players then reveal their dice at the same time. Any special abilities chosen are used (if special abilities conflict, players flip a coin for the ability that will happen first), and the player with the higher attack strength wins. The other player reduces their health (HP) by 2 (ex. Bob&amp;rsquo;s attack strength=10, Kylie&amp;rsquo;s attack strength=8, Kylie takes 2HP of damage). In the case of a tie, both players lose 1HP.  If a player rolls their Signature Move with their attack dice, after any special abilities have modified the dice values, they will gain 1HP.&amp;#10;&amp;#10;Play continues in a series of rounds until only one player with health remains. They are then declared &amp;ldquo;Top Gamer&amp;rdquo;.&amp;#10;&amp;#10;Note: For a 3 player game: the youngest player will be the first round&amp;rsquo;s starting player and will choose an opponent. In other rounds, the player who lost last in a round chooses which players will fight in the next round.&amp;#10;&amp;#10;This is the 3rd in a series of Annual Games Unlimited Holiday Games (2013) and is the followup to Gameshop Express (2011) and Gameshop Workday (2012)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46173" value="Series: Gameshop Games (Todd Sanders)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189194" value="Gameshop Expansions" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42166" value="Todd Sanders" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42166" value="Todd Sanders" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23816" value="Air and Nothingness Press" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="5.76667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.57021" />
+			<median value="0" />
+			<owned value="34" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="7" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

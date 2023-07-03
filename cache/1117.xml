@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1117">
+         <thumbnail>https://cf.geekdo-images.com/j7k4vyu3nOY0vOlizLznZQ__thumb/img/L-_9aXOVPSvibia42APGUbeSq2o=/fit-in/200x150/filters:strip_icc()/pic1068602.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/j7k4vyu3nOY0vOlizLznZQ__original/img/R_hx5KwiRMw2f4fMN4TcKne4flo=/0x0/filters:format(jpeg)/pic1068602.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="You&#039;re Bluffing!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bluff" />
+			    				
+				<name type="alternate" sortindex="1" value="Bluffing!" />
+			    				
+				<name type="alternate" sortindex="1" value="Boursicocotte" />
+			    				
+				<name type="alternate" sortindex="1" value="Handjeklap" />
+			    				
+				<name type="alternate" sortindex="1" value="Kip Poker" />
+			    				
+				<name type="alternate" sortindex="1" value="Koehandel" />
+			    				
+				<name type="alternate" sortindex="1" value="Koehandel Tope-là!" />
+			    				
+				<name type="alternate" sortindex="1" value="Kuhhandel" />
+			    				
+				<name type="alternate" sortindex="1" value="Lehmänkaupat" />
+			    				
+				<name type="alternate" sortindex="1" value="Pague pra ver!" />
+			    				
+				<name type="alternate" sortindex="1" value="Tope-là" />
+			    				
+				<name type="alternate" sortindex="1" value="Αγελαδοπάζαρο" />
+			    				
+				<name type="alternate" sortindex="1" value="你唬爛！" />
+			    				
+				<name type="alternate" sortindex="1" value="吹牛" />
+			    				
+				<name type="alternate" sortindex="1" value="幕後交易" />
+			
+						               													<description>Classic bidding and bluffing game. The deck consists of sets of farm animals, 4 cards per animal. Players auction off the top animal of the deck, or try to complete their set by trading with another player. Highest bid wins, but auctioneer always has the choice to buy the animal for the same price as the highest bid.&amp;#10;Trading is a blind bidding system: both players place their bid face down on the table and reveal them simultaneously to each other. High bidder gets the other player's animal. Both players swap their bid. It's best to bid just a little bit more than your opponent, but just how much did he bid?&amp;#10;&amp;#10;reimplemented by:&amp;#10;&amp;#10;Kuhhandel Master (2009)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1985" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="55">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="21">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="21" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17407" value="Series: Kartenspiele (Ravensburger)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="193062" value="Bidder Up!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="56786" value="Kuhhandel Master" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7101" value="Rüdiger Koltze" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2954" value="Bernard Bittler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69519" value="Josef Blaumeiser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12829" value="Trevor Dunton" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21625" value="Nestlé" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="99" value="Otto Maier Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4162" />
+			<average value="6.56815" />
+			<bayesaverage value="6.19418" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1949" bayesaverage="6.19418" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="620" bayesaverage="6.26354" />
+												</ranks>
+
+			<stddev value="1.36496" />
+			<median value="0" />
+			<owned value="7263" />
+			<trading value="215" />
+			<wanting value="88" />
+			<wishing value="381" />
+			<numcomments value="1108" />
+			<numweights value="328" />
+			<averageweight value="1.6311" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

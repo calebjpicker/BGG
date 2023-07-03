@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="306300">
+         <thumbnail>https://cf.geekdo-images.com/bK-I79lMt4ST694rKi5-aQ__thumb/img/TbNjTg9o8YI2Bsd2KVmubt4pO-E=/fit-in/200x150/filters:strip_icc()/pic6080590.png</thumbnail>
+      <image>https://cf.geekdo-images.com/bK-I79lMt4ST694rKi5-aQ__original/img/YG4kbrDoQXUcSC7CDryub3RwVdY=/0x0/filters:format(png)/pic6080590.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Little Factory" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Firm with Brownies" />
+			    				
+				<name type="alternate" sortindex="1" value="Goods Maker" />
+			    				
+				<name type="alternate" sortindex="1" value="Маленька факторія" />
+			    				
+				<name type="alternate" sortindex="1" value="グッズメイカー" />
+			    				
+				<name type="alternate" sortindex="1" value="ファーム ウィズ ブラウニーズ" />
+			
+						               													<description>Little Factory, first released as Goods Maker, is a resource management and building construction card game for 2-4 players with a playing time of about 30 minutes.&amp;#10;&amp;#10;Players increase their assets by processing resources into other resources, such as turning wood into wood or charcoal, or turning charcoal and flour into bread. If you increase your assets, you can build a building and use that building to acquire resources and victory points more quickly.&amp;#10;&amp;#10;The more buildings players construct, the more actions that become available on future turns. On a turn, players take one of two actions:&amp;#10;&amp;#10;&amp;#10;     Production: Choose a resource card or building card in the production action area, and gain the item shown on it; or,&amp;#10;     Trade: Discard resource cards from your hand to acquire resource or building cards of the same value or less from the available cards.&amp;#10;&amp;#10;&amp;#10;In addition, players can use the effects of each building they own once per turn (including on the turn during which they were acquired). An example of a building effect is: exchanging a thread card in hand for cloth available in the play area. Chain together cards, buildings, and actions to create more victory points.  The player who collects 10+ victory points first wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="461" value="No necessary in-game text" numvotes="3" />
+					<result level="462" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="463" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="464" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="465" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="352449" value="Firm With Brownies: Shokai Training!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349368" value="Little Factory: Suburbs" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="358940" value="Little Factory: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="75617" value="Shun Taguchi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="75618" value="Aya Taguchi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69113" value="Sabrina Miramon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="139524" value="Hotori Satose (里瀬ほとり)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75618" value="Aya Taguchi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27371" value="Studio GG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9382" value="Hutter Trade GmbH + Co KG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38305" value="Mancalamaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38448" value="TCG Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="666" value="Yanoman Corporation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="744" />
+			<average value="6.41966" />
+			<bayesaverage value="5.74093" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4809" bayesaverage="5.74093" />
+												</ranks>
+
+			<stddev value="1.41909" />
+			<median value="0" />
+			<owned value="1116" />
+			<trading value="25" />
+			<wanting value="27" />
+			<wishing value="178" />
+			<numcomments value="173" />
+			<numweights value="18" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

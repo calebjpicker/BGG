@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="116003">
+                                     				
+				<name type="primary" sortindex="1" value="Coin Table" />
+			
+						                           
+						               													<description>Abstract: &amp;#10;A strategy game for two players in which each attempts to control the most space on the hexagonal table by placing and flipping coins.&amp;#10;&amp;#10;Overview:&amp;#10;&amp;#10;Board: A hexagonal board divided up into a number of hexagons, resembing a honeycomb. Standard board size has 61 hexagon spaces measuring 1.25 inch across arranged in a hexagon shape, with each side of the board the length of five hexagon spaces and the middle of the board being nine hexagon spaces wide if measured between any two opposite corners. Non standard boards may be used, as long as the shape is a true hexagon.&amp;#10;&amp;#10;Pieces: 100 coins with distinctive heads and tails markings. Standard coins are the same size and weight as US pennies, with each face painted a distinctive color. &amp;#10;Coins may also be used in place of standard game coins.&amp;#10;&amp;#10;Objective: to control the most spaces on the hexagonal board.&amp;#10;&amp;#10;Rules:&amp;#10;1. For two players. Players alternate turns. Each player chooses a color or coin face On a player's turn, he may do one of the following:&amp;#10;&amp;#10;A: place a coin on any space on the hexagon spaces on the board, with his own color or his own face up.&amp;#10;&amp;#10;B: touch a coin that is already on the board. see &amp;quot;touching a coin&amp;quot;&amp;#10;&amp;#10;C: Flip a coin of his opponents over to his own color(or face). see &amp;quot;flipping a coin&amp;quot;&amp;#10;&amp;#10;D: make a castle. see &amp;quot;making a castle&amp;quot;.&amp;#10;&amp;#10;2. The last coin that has been put on the board, flipped, or touched cannot be flipped. It is &amp;quot;safe&amp;quot; until another coin has been put on the board, touched or flipped.&amp;#10;&amp;#10;3. The game ends when all spaces on the board are filled. Count up the number of spaces each player controls. The player who controls the most spaces wins.&amp;#10;&amp;#10;TOUCHING A COIN&amp;#10;On your turn, if you choose, you may touch a coin with your finger. That coin cannot be flipped until another coin has been touched, flipped, or put on the board. Use this to defend a coin for one turn.&amp;#10;&amp;#10;FLIPPING A COIN&amp;#10;A coin of an opponents color may be flipped to your color if These criteria are met:&amp;#10;A: You have two coins of your color/face on hexagonal spaces adjoining the coin you want to flip&amp;#10;B: The coin is not &amp;quot;safe&amp;quot;(has been put on the board, flipped, or touched on the opponent's most recent turn.&amp;#10;C: The coin is not part of a castle.&amp;#10;&amp;#10;MAKING A CASTLE:&amp;#10;If there are three coins of your color on adjoining spaces arranged in a triangle, you can place a coin on top of those three to make a castle*. Now these coins cannot be flipped for the entire game. A coin can be part of more than one castle, as long as the coin making the castle is placed on top of three coins on the board.&amp;#10;&amp;#10;    Note that only one coin may be flipped or placed per turn. A castle will take a minimum of 4 turns to build. &amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="0" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="28089">
+         <thumbnail>https://cf.geekdo-images.com/mG8NJnDq-FD0Y7706e1E-w__thumb/img/07rW9zpoQ_Q3OHgikI36G_XzaGw=/fit-in/200x150/filters:strip_icc()/pic7054370.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mG8NJnDq-FD0Y7706e1E-w__original/img/QL-ddcvEqop7b1pVg5nTfYlZVoE=/0x0/filters:format(jpeg)/pic7054370.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Burg Appenzell" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Appenzell Sajtvára" />
+			    				
+				<name type="alternate" sortindex="1" value="Borgo Parmigiano" />
+			    				
+				<name type="alternate" sortindex="1" value="Castle of Appenzell" />
+			    				
+				<name type="alternate" sortindex="5" value="The Castle of Appenzell 鼠來堡" />
+			    				
+				<name type="alternate" sortindex="1" value="Château Roquefort" />
+			    				
+				<name type="alternate" sortindex="1" value="Kaas Kasteel" />
+			    				
+				<name type="alternate" sortindex="1" value="Roqfort" />
+			    				
+				<name type="alternate" sortindex="1" value="Zamek Appenzell" />
+			    				
+				<name type="alternate" sortindex="1" value="Сырный замок" />
+			
+						               													<description>Each player controls colored mice and tries to collect pieces of cheese in Castle Appenzell. On their turn, players spend action points to put new mice into play, reveal corridors in the castle, move their mice around the castle, or push a tile into play, which changes the maze of cheese pieces underneath. If two of a single player's mice reach a place with the same kind of cheese showing, the player obtains a piece of this cheese. The first player with 4 different pieces of cheese wins the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="39">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="9" />
+					<result value="6" numvotes="23" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="21">
+			
+		<results>		
+					<result level="401" value="No necessary in-game text" numvotes="21" />
+					<result level="402" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="403" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="404" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="405" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2961" value="Map Deformation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7269" value="Animals: Mice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68117" value="Components: Game Box Used In Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77270" value="Food &amp; Drink: Cheese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Theme: Food / Cooking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="32312" value="Burg Appenzell Erweiterung: Völlig mausgeflippt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="35339" value="Cheesy Gonzola" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1288" value="Jens-Peter Schliemann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="129" value="Bernhard Weber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12587" value="Victor Boden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103825" value="Denny Minonne" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="87" value="Zoch Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Bergsala Enigma (Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6123" value="Red Glove" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53490" value="Rozum" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2441" />
+			<average value="6.85482" />
+			<bayesaverage value="6.24297" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1797" bayesaverage="6.24297" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="20" bayesaverage="6.74378" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="504" bayesaverage="6.36527" />
+												</ranks>
+
+			<stddev value="1.13314" />
+			<median value="0" />
+			<owned value="3311" />
+			<trading value="93" />
+			<wanting value="190" />
+			<wishing value="661" />
+			<numcomments value="793" />
+			<numweights value="229" />
+			<averageweight value="1.5852" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

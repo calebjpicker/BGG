@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="34442">
+         <thumbnail>https://cf.geekdo-images.com/GTNZ2-j1oOxABOgXLhs4HA__thumb/img/Xb7CqfS5dK_0-441JCrAVnwPcAs=/fit-in/200x150/filters:strip_icc()/pic301533.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GTNZ2-j1oOxABOgXLhs4HA__original/img/Z-eLuaSdhno8xISjrSURa1VvH-8=/0x0/filters:format(jpeg)/pic301533.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="3x16" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="3 x 16" />
+			    				
+				<name type="alternate" sortindex="1" value="Dreisechzehn" />
+			    				
+				<name type="alternate" sortindex="1" value="Nümmerchen" />
+			
+						               													<description>Summary&amp;#10;An abstract game in which the numbers 1-16 have to be arranged into rows, using five auxiliary columns and careful planning.&amp;#10;&amp;#10;Aim of the game&amp;#10;Each player tries to lay three new rows, each of them starting with 1 and ending with 16, with all the numbers in between in their correct sequence. The player who first completes his/her three rows wins the game.&amp;#10;&amp;#10;Game play&amp;#10;Each player gets 48 number tiles (three sets of numbers 1-16) and arranges them in three horizontal rows from 1 to 16. One player is selected as the caller, shuffles his/her tiles and draws them one by one from a bag. He/she calls the number drawn. Each player takes that number from one of his/her horizontal rows. If it is a 1, he/she can start one of his/her three new main rows. If it is any other number, it has to be placed in an auxiliary column first.&amp;#10;&amp;#10;Each player may have up to 5 vertical auxiliary columns of any length. There must not be any gaps (i.e. tiles must be placed directly below one another), and tiles must not be rearranged later. Tiles need not be placed in sequence, but they should be placed in a way that allows for efficient removal to construct the main rows. Tiles may only be taken from the auxiliary columns starting at the bottom (not in the middle or top), and main rows can only be started when a 1 has been called.&amp;#10;&amp;#10;Each of the three new rows has to be started with a 1. The tiles have to be placed in correct sequence here. A 3 can only be placed after a 2, and so on. Tiles can be taken from the auxiliary columns (without being called again) as soon as the number at the bottom directly follows one at the end of one of the player&amp;rsquo;s main rows. E.g. if there is a 3 at the end of one of the player&amp;rsquo;s main rows and a 4 at one of his/her auxiliary columns, the 4 may be taken and placed next to the 3 in the main row. Tiles can be taken from the bottom of the auxiliary columns as long as they are in matching sequence.&amp;#10;&amp;#10;The player who first completes his/her three rows wins the game. If no player is able to complete all three rows by the time the caller calls the last number, the player with the fewest tiles left wins instead.&amp;#10;__________________&amp;#10;&amp;#10;One of Ravensburger's Traveller-Series games.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1973" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="1" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7336" value="Series: Traveller (Ravensburger)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="99" value="Otto Maier Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="41" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

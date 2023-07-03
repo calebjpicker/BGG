@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="7008">
+         <thumbnail>https://cf.geekdo-images.com/DYvi1pJoUi7gsf4u0bha4g__thumb/img/Hw5AvvZBH0M_fkymXtkf5wWnKVg=/fit-in/200x150/filters:strip_icc()/pic100613.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DYvi1pJoUi7gsf4u0bha4g__original/img/DJAObyhdVm1kDWuds0A85o2aO4o=/0x0/filters:format(jpeg)/pic100613.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Preference" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Meister Preference" />
+			    				
+				<name type="alternate" sortindex="1" value="Preferans" />
+			    				
+				<name type="alternate" sortindex="1" value="Priffe" />
+			    				
+				<name type="alternate" sortindex="1" value="Πρέφα (Prefa)" />
+			    				
+				<name type="alternate" sortindex="1" value="Преф" />
+			    				
+				<name type="alternate" sortindex="1" value="Преферанс" />
+			
+						               													<description>Preference is a standard deck playing card game played throughout central Europe and Russia using a 32 card &amp;quot;Bavarian&amp;quot; deck like the one used in Schafkopf.  The major varieties of Preference are Croatian, Austrian, and Russian and there are variations of each as well.  Generally a three player game, a fourth player can play by having the dealer of each hand sit out for the round.  Following is a brief description of the Croatian version of the game, and below are links to rule sets for the Croatian, Austrian, and Russian versions.&amp;#10;&amp;#10;Each of the suits has a predetermined value:&amp;#10;Leaves = 2&amp;#10;Bells = 3&amp;#10;Hearts = 4&amp;#10;Acorns = 5&amp;#10;&amp;#10;The dealer deals out all 32 cards - 10 to each player and 2 to the &amp;quot;talon&amp;quot; (crib).  Each player in turn bids one of the suits for trump, or can bid the value 6 game where the declarer(bid winner) can attempt to take no tricks and the other two must try to force him to do so, or the 7 game where there is no trump suit. The highest bid becomes the declarer, takes the two cards from the &amp;quot;talon&amp;quot; and discards two, and then must take 6 tricks to succeed in the game he bid for or a higher one.  The opposing players have the option to play in which they must get two tricks to succeed.  If only one player is opposing, he may request the aid of the other non-declaring player in an attempt to make the declarer fail in his bid, but takes all the bonuses or penalties for doing so.  Non bid hands means a double scoring round in the next hand, and &amp;quot;kontra&amp;quot; may be offered to double the stakes of a hand a player is confident in making the declarer fail (and can be &amp;quot;rekontra&amp;quot; and &amp;quot;sukontra&amp;quot; or doubled and doubled again and again!).&amp;#10;&amp;#10;The players start out with a set number of points (usually 100 each) and the game goes until the total of all three players equals zero.  Tricks taken when opposing a contract score some points for the player and against those players in the final tally.  &amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1802" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="89" />
+			<average value="7.6327" />
+			<bayesaverage value="5.57761" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9123" bayesaverage="5.57761" />
+												</ranks>
+
+			<stddev value="1.84663" />
+			<median value="0" />
+			<owned value="78" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="23" />
+			<numcomments value="50" />
+			<numweights value="17" />
+			<averageweight value="3.3529" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

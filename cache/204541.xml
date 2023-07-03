@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="204541">
+         <thumbnail>https://cf.geekdo-images.com/9Qp0vSV90ntTAnx6uIVlZA__thumb/img/2XyNoN8pCFGgdGRWVdCLtOaUl4E=/fit-in/200x150/filters:strip_icc()/pic3149561.png</thumbnail>
+      <image>https://cf.geekdo-images.com/9Qp0vSV90ntTAnx6uIVlZA__original/img/9OocAH8ePWkUzFAwbdccIQH29c0=/0x0/filters:format(png)/pic3149561.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Demon Espionage" />
+			
+						                           
+						               													<description>Theme: &amp;#10;Underworld&amp;#10;&amp;#10;Overview:&amp;#10;Demon Espionage is a fun, dynamic and easy to learn party game for 3-6 players.&amp;#10;&amp;#10;Demon Espionage is a fun, dynamic and easy to learn party game where players are randomly assigned either to the Rebel or the Shadow faction. Players will draft troops, acquire demonic spells to challenge or be challenged by other players in a series of epic duels. Victors of the duels are awarded souls as bounties.&amp;#10;&amp;#10;During the game, players will deduce their teammates, fend off challengers and win duels to stay alive in order to collect as many souls as possible. The faction with the most number of souls shall be the ultimate winner!&amp;#10;&amp;#10;The duel:&amp;#10;On his turn, the player must either initiate a duel with any other player or change all 5 cards on his hand at the cost of forfeiting his next turn. (only applicable if no cards on his hand has damage point on it.)&amp;#10;After choosing the opponent to duel with, the player must play any combat card face down. The opponent will respond by also placing the combat card of his choice face down. Once both sides have decided that they are ready, the dueling combat cards are revealed. By default, the player with the higher damage point wins the duel and gets to draw a soul card while the defeated player loses 1 health. If the player choose to play any action combat card during or after the duel, the outcome of the duel will depend on the function of the action card. E.g. If negate (action) combat card is played, the whole duel is annulled and nobody wins or loses the duel.&amp;#10;&amp;#10;Goal:&amp;#10;The goal is to collect souls by dueling against opponents or even your own teammates. When a faction has been eliminated, the total number of souls per faction will be tabulated and the faction with the most souls wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="101" value="No necessary in-game text" numvotes="0" />
+					<result level="102" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="103" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="104" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="105" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="93795" value="Dasmond. L" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94278" value="Jodie Huang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="93733" value="Maycent.Y" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="93896" value="J J. Tan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="93796" value="Vincent Zhang" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94278" value="Jodie Huang" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33576" value="5tails Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="45" />
+			<average value="7.71111" />
+			<bayesaverage value="5.49381" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21367" bayesaverage="5.49381" />
+												</ranks>
+
+			<stddev value="2.31538" />
+			<median value="0" />
+			<owned value="59" />
+			<trading value="7" />
+			<wanting value="0" />
+			<wishing value="13" />
+			<numcomments value="24" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="154203">
+         <thumbnail>https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__thumb/img/-b7sYBaUVxdZ_a33QRfvJY2ccAk=/fit-in/200x150/filters:strip_icc()/pic2871265.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__original/img/Cw8O-7dOaO1sZRy95QGImdSm7p8=/0x0/filters:format(jpeg)/pic2871265.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Imperial Settlers" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Birodalmi Telepesek" />
+			    				
+				<name type="alternate" sortindex="1" value="Coloni Imperiali" />
+			    				
+				<name type="alternate" sortindex="1" value="Colonos del Imperio" />
+			    				
+				<name type="alternate" sortindex="1" value="Imperial Settlers: A Ascensão de um Império" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadnicy: Narodziny Imperium" />
+			    				
+				<name type="alternate" sortindex="1" value="Settlers: Naissance d&#039;un Empire" />
+			    				
+				<name type="alternate" sortindex="1" value="Settlers: Zrod impéria" />
+			    				
+				<name type="alternate" sortindex="1" value="Поселенцы" />
+			    				
+				<name type="alternate" sortindex="1" value="インペリアル・セトラーズ" />
+			    				
+				<name type="alternate" sortindex="1" value="帝國開拓者" />
+			
+						               													<description>Settlers from four major powers of the world have discovered new lands, with new resources and opportunities. Romans, Barbarians, Egyptians and Japanese all at once move there to expand the boundaries of their empires. They build new buildings to strengthen their economy, they found mines and fields to gather resources, and they build barracks and training grounds to train soldiers. Soon after they discover that this land is far too small for everybody, then the war begins...&amp;#10;&amp;#10;Imperial Settlers is a card game that lets players lead one of the four factions and build empires by placing buildings, then sending workers to those buildings to acquire new resources and abilities. The game is played over five rounds during which players take various actions in order to explore new lands, build buildings, trade resources, conquer enemies, and thus score victory points.&amp;#10;&amp;#10;The core mechanism of Imperial Settlers is based on concepts from the author's card game 51st State.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="485">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="199" />
+					<result value="Not Recommended" numvotes="76" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="318" />
+					<result value="Recommended" numvotes="108" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="93" />
+					<result value="Recommended" numvotes="225" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="38" />
+					<result value="Recommended" numvotes="144" />
+					<result value="Not Recommended" numvotes="167" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="223" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="79">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="33" />
+					<result value="12" numvotes="33" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="69">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="40" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="25" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56755" value="Game: Imperial Settlers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="191779" value="Brettspiel Easter Basket 2016" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195543" value="Imperial Settlers: 3 Is a Magic Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="385588" value="Imperial Settlers: Alternative Production Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245510" value="Imperial Settlers: Amazons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275997" value="Imperial Settlers: Armorer &amp; Barracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="177739" value="Imperial Settlers: Atlanteans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202459" value="Imperial Settlers: Aztecs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216863" value="Imperial Settlers: Aztecs – Common cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="385711" value="Imperial Settlers: Common Cards Set 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262641" value="Imperial Settlers: Common Village Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195748" value="Imperial Settlers: Council Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213749" value="Imperial Settlers: Diplomacy Promo Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179657" value="Imperial Settlers: Expedition Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268798" value="Imperial Settlers: Fette Beute" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="385722" value="Imperial Settlers: IS vs EoTN" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214313" value="Imperial Settlers: Man vs Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261437" value="Imperial Settlers: Marketplace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="299277" value="Imperial Settlers: Rise of the Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313864" value="Imperial Settlers: Rise of the Empire – Interimperial Organizations Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230850" value="Imperial Settlers: Ruins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310863" value="Imperial Settlers: Storage Box Plus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189485" value="Imperial Settlers: Storage Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="208103" value="Imperial Settlers: The Dice Tower Inn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186857" value="Imperial Settlers: The Watchers Guild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238389" value="Imperial Settlers: We Didn't Start The Fire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169075" value="Imperial Settlers: Why Can't We Be Friends" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="281698" value="Imperial Settlers: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334741" value="Imperial Settlers: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271318" value="Imperial Settlers: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273459" value="Imperial Settlers: Broken Token Organizer – Extra Dividers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="170533" value="Imperial Settlers: Character Meeples Scoring Markers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="236207" value="Imperial Settlers: Character Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="325278" value="Imperial Settlers: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="189470" value="Imperial Settlers: GameGuard Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="316248" value="Imperial Settlers: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="256340" value="Imperial Settlers: Global Village Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295529" value="Imperial Settlers: Go7 Game Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="248892" value="Imperial Settlers: In-store Event Kit 2017" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="244351" value="Imperial Settlers: In-store Event Kit 2018" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="247389" value="Imperial Settlers: In-store Event Kit 2018 – Administration Alternate Artwork Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="247388" value="Imperial Settlers: In-store Event Kit 2018 – Pyramid Alternate Artwork Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="247386" value="Imperial Settlers: In-store Event Kit 2018 – Raid Alternate Artwork Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="247387" value="Imperial Settlers: In-store Event Kit 2018 – Trade Route Alternate Artwork Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326935" value="Imperial Settlers: Laserox Settler's Sortiment Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="269744" value="Imperial Settlers: Panoramic Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="261702" value="Imperial Settlers: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378767" value="Imperial Settlers: Spielmaterial.de Upgrade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365832" value="Imperial Settlers: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295883" value="Imperial Settlers: War Box Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257607" value="Imperial Settlers: Wooden shields and swords with stickers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="270844" value="Imperial Settlers: Empires of the North" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="270836" value="Imperial Settlers: Roll &amp; Write" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="73369" value="51st State" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4735" value="Ignacy Trzewiczek" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38917" value="Mateusz Bielski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61936" value="Jarosław Marcinek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21002" value="Rafał Szyma" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24298" value="FunBox Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23756" value="MYBG Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27654" value="Pendragon Game Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="23763" />
+			<average value="7.333" />
+			<bayesaverage value="7.15896" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="295" bayesaverage="7.15896" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="231" bayesaverage="7.17338" />
+												</ranks>
+
+			<stddev value="1.30812" />
+			<median value="0" />
+			<owned value="31992" />
+			<trading value="1069" />
+			<wanting value="653" />
+			<wishing value="4807" />
+			<numcomments value="3819" />
+			<numweights value="889" />
+			<averageweight value="2.7672" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="54422">
+         <thumbnail>https://cf.geekdo-images.com/zZYFYhoCn9uGNx3D6WOQsw__thumb/img/sLHwatE9QFuqP-wC1D6rXSc_2so=/fit-in/200x150/filters:strip_icc()/pic542150.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zZYFYhoCn9uGNx3D6WOQsw__original/img/_rB-8DRbMcu84lGpTQ7muu3cEBc=/0x0/filters:format(jpeg)/pic542150.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pyramida" />
+			
+						                           
+						               													<description>TURNS&amp;#10;At each turn, each player moves a friendly stone.:&amp;#10;Stones move to one diagonally adjacent empty cell (forward or backward).&amp;#10;A stone is removed if it reaches the pyramid top (cell k14).&amp;#10;&amp;#10;ATTACKS&amp;#10;There are no captures, but enemy stones can be delayed in two ways:&amp;#10;By contact: If a stone moves forwards to a cell adjacent to an enemy stone, then this stone moves diagonally backwards to an empty cell. If the enemy stone cannot retreat (because both cells are occupied) the actual player gets an extra move.&amp;#10;By column: if there are exactly one black and one white stone at a column, the higher stone can be attacked. If the other player moves one stone forward to that column, the upper stone is placed in an empty cell on the lowest row of that column (which is accessible by a sequence of moves: in a chess-like board, the game only uses black squares). If the enemy stone cannot retreat (it was at the fifth row) the current player gets an extra move.&amp;#10;If both attacks occur in a single move, column attacks takes precedence over contact attacks. That is, the player only executes the column retreat. If that retreat is not possible, he executes the contact retreat. If that retreat is also not possible, the player gets an extra move.&amp;#10;&amp;#10;LAST STONE&amp;#10;If a player only has one stone, it may move one or two cells (mover's choice) and may retreat one or two cells after an attack by contact (attacker's choice).&amp;#10;&amp;#10;GOAL&amp;#10;If a player repeats a position by the third time, he loses.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="0" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="24203" value="Zbyšek Vlasák" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10463" value="V &amp; V: Zbyšek Vlasák" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

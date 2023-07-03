@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="282455">
+         <thumbnail>https://cf.geekdo-images.com/j4nEgr2-wmFQGCSco_T8ig__thumb/img/dDq0oCP4dEut7E0kBfsUSpFVY9c=/fit-in/200x150/filters:strip_icc()/pic5161274.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/j4nEgr2-wmFQGCSco_T8ig__original/img/OUW0-TMHnis64oQD9-d_UwptpG0=/0x0/filters:format(jpeg)/pic5161274.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Reforge" />
+			
+						                           
+						               													<description>2-6 players battle it out battle royale style in a race to craft the strongest weapon! Players play the role of a warrior that must combine different grips, guards, and blades to create a fantastical weapon!&amp;#10;&amp;#10;Game Prep:&amp;#10;Each player has a space in front of them known as the Forge where they place different card types including blades, grips, guards, shields, and gadgets. Each player starts with an Adventurer blade and wooden grip in their Forge. Each player starts with an attack die (starts at d4) and a health die (d20 set to 20). The Armory (draw pile) is shuffled and 6 cards are dealt to each player. A starting player is chosen.&amp;#10;&amp;#10;Gameplay:&amp;#10;The objective of the game is to be the last player standing after all others have been defeated. The goal as the game progresses is to place grips and guard onto your blade in order to Reforge. This allows you to upgrade your attack die (d4-&amp;gt;d6-&amp;gt;d8-&amp;gt;d10-&amp;gt;d12), giving the benefit of more possible damage and allowing you to use more powerful blades (Forge level requirements are marked on cards).&amp;#10;&amp;#10;Attacking is done by selecting a target player and adding up all the attack modifiers (red number) on your blade, grip, and guards. This is your base attack. You then roll your attack die and add it to your base attack to determine the total attack. Subtract your target's defense (blue number) to calculate damage dealt to the target player.&amp;#10;&amp;#10;Blocking can be performed if the defending player has at least one part (guard or grip) in play attached to their blade. To block, both players roll their attack die (blade and part modifiers are ignored). If the defending player rolls higher, they take no damage. If the attacking player rolls equal to or higher, the defending player takes the damage they would have AND discards a part of their choice from their Forge.&amp;#10;&amp;#10;Shields can be placed on a player's turn. If an attack meets or exceeds the shield's stability (marked in the corner of the card), the shield is discarded and the defending player takes no damage (there is no overflow damage to player). If the attack is less than the shield's stability, the player takes no damage and the shield remains. The stability of the shield is reset after each player's turn (it does not decrease like health).&amp;#10;&amp;#10;Turn Flow:&amp;#10;1) Draw a card.&amp;#10;2) Recycle (discard two cards to draw one).&amp;#10;2) Use gadgets (as many as you'd like).&amp;#10;3) Place or replace a part (one per turn).&amp;#10;4) Reforge or attack (you cannot attack if you Reforge).&amp;#10;&amp;#10;When a player's health reaches zero, that player is out. The player that dealt the killing blow &amp;quot;loots&amp;quot; the defeated player and takes all cards that were in that player's hand and Forge.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="0" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302386" value="Reforge Worlds: Volume I" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="118631" value="Stephen Royka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="118820" value="Sam Donez" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42618" value="Secret Boss Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="17" />
+			<average value="7.54431" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.90233" />
+			<median value="0" />
+			<owned value="38" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="262712">
+         <thumbnail>https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__thumb/img/5cPMxq_X6VIO8l2t1_6H7C_KqrU=/fit-in/200x150/filters:strip_icc()/pic4422847.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__original/img/YLSAurBSWEGi3PHsuQWi8St_0Yg=/0x0/filters:format(jpeg)/pic4422847.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Res Arcana" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="レスアルカナ" />
+			    				
+				<name type="alternate" sortindex="1" value="奧法之戰" />
+			    				
+				<name type="alternate" sortindex="1" value="레즈 아르카나" />
+			
+						               													<description>Prepare Your Place of Power!&amp;#10;&amp;#10;In a high tower, an Alchemist prepares potions, using vials filled with otherworldly fluids. In a sacred grove, a Druid grinds herbs for a mystical ritual. In the catacombs, a Necromancer summons a bone dragon... Welcome to the world of Res Arcana!&amp;#10;&amp;#10;In it, Life, Death, Elan, Calm, and Gold are the essences that fuel the art of magic. Choose your mage, gather essences, craft unique artifacts, and use them to summon dragons, conquer places of power, and achieve victory!&amp;#10;&amp;#10;A game typically lasts 4-6 rounds. In each round, players do these steps:&amp;#10;&amp;#10;&amp;#10;    Collect essences: performs  any Collect abilities, and may take essences from components.&amp;#10;    Do actions, 1 per turn, clockwise from the First Player: place an artifact, claim a monument or Place of Power, discard a card for 1 Gold or any 2 other essences, use a power on a straightened component, or pass: exchange magic items and draw 1 card. Play continues until all players have passed.&amp;#10;    Pass procedure: If you are first to pass, take the First Player token, swap your magic item for a different magic item, draw 1 card.&amp;#10;    Check victory points (10+ VPs). If no one has won: straighten all turned components, and begin the next round.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="349">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="196" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="227" />
+					<result value="Recommended" numvotes="94" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="108" />
+					<result value="Recommended" numvotes="175" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="156" />
+					<result value="Not Recommended" numvotes="74" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="171" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="55">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="19" />
+					<result value="12" numvotes="25" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="29">
+			
+		<results>		
+					<result level="1371" value="No necessary in-game text" numvotes="1" />
+					<result level="1372" value="Some necessary text - easily memorized or small crib sheet" numvotes="21" />
+					<result level="1373" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="1374" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="1375" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2830" value="Turn Order: Pass Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64970" value="Theme: Alchemy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28880" value="Theme: Witches" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="288168" value="Res Arcana: Lux et Tenebrae" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340375" value="Res Arcana: Perlae Imperii" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="276102" value="Res Arcana: Alternative Mages Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377285" value="Res Arcana: LevityGames Meeple Vinyl Sticker/Decal upgrade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="335453" value="Res Arcana: Lux et Tenebrae – Alternative Mages Card Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="150" value="Thomas Lehmann" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40312" value="Sand Castle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39755" value="17wanzy (Yihu BG)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39249" value="sternenschimmermeer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19583" />
+			<average value="7.67482" />
+			<bayesaverage value="7.43849" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="133" bayesaverage="7.43849" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="113" bayesaverage="7.46442" />
+												</ranks>
+
+			<stddev value="1.35576" />
+			<median value="0" />
+			<owned value="26451" />
+			<trading value="290" />
+			<wanting value="727" />
+			<wishing value="5539" />
+			<numcomments value="2846" />
+			<numweights value="471" />
+			<averageweight value="2.6306" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

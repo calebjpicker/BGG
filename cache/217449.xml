@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="217449">
+         <thumbnail>https://cf.geekdo-images.com/a6j6yZmBJ5J2hcuo0KOW-A__thumb/img/w62iXqdK9cU_QCAwJffXewexjaU=/fit-in/200x150/filters:strip_icc()/pic3328269.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/a6j6yZmBJ5J2hcuo0KOW-A__original/img/PtqzpYyf8ENzK589ZVNifR62V3Y=/0x0/filters:format(jpeg)/pic3328269.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="NMBR 9" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="0-9" />
+			    				
+				<name type="alternate" sortindex="1" value="Level 9" />
+			    				
+				<name type="alternate" sortindex="1" value="NMBR9" />
+			    				
+				<name type="alternate" sortindex="1" value="Number 9" />
+			    				
+				<name type="alternate" sortindex="1" value="Номер Девять" />
+			    				
+				<name type="alternate" sortindex="1" value="№9" />
+			    				
+				<name type="alternate" sortindex="1" value="ナンバーナイン" />
+			    				
+				<name type="alternate" sortindex="1" value="넘버9" />
+			
+						               													<description>Numbers aren't worth anything in NMBR 9 unless they're off the ground floor and looking down from above.&amp;#10;&amp;#10;The game includes twenty cards numbered 0-9 twice and eighty tiles numbered 0-9; each number tile is composed of squares in some arrangement. After shuffling the deck of cards, draw and reveal the first card. Each player takes a number tile matching the card and places it on the table. With each new card drawn after that, each player takes the appropriate number tile, then adds it to the tiles that they already have in play, with each player building their own arrangement of tiles.&amp;#10;&amp;#10;The new tile must touch at least one other tile on the same level along one side of a square. A tile can also be placed on top of two or more other tiles as long as no part of the new tile overhangs the tiles below it; new tiles placed on this same level must touch at least one other tile, while also covering parts of at least two tiles and not overhanging.&amp;#10;&amp;#10;Once all the cards have been drawn and the tiles placed, players take turns calculating their score. A tile on the bottom level &amp;mdash; the 0th level, if you will &amp;mdash; scores 0 points; a tile on the 1st level above this is worth as many points as the number on the tile; a tile on the 2nd level is worth twice the number on the tile; etc. Whoever scores the most points wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="83">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="44" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="23">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="3" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="366" value="No necessary in-game text" numvotes="13" />
+					<result level="367" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="368" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="369" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="370" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65208" value="Mechanism: Partially overlapping cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234744" value="NMBR 9: Extra Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234743" value="NMBR 9: Starting Tiles" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="405" value="Peter Wichmann" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61842" value="Fiore GmbH" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29" value="ABACUSSPIELE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24631" value="cutia.ro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3504" value="Möbius Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7229" />
+			<average value="6.87022" />
+			<bayesaverage value="6.56513" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1051" bayesaverage="6.56513" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="58" bayesaverage="6.71939" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="284" bayesaverage="6.64329" />
+												</ranks>
+
+			<stddev value="1.22924" />
+			<median value="0" />
+			<owned value="9685" />
+			<trading value="215" />
+			<wanting value="161" />
+			<wishing value="1197" />
+			<numcomments value="1249" />
+			<numweights value="125" />
+			<averageweight value="1.216" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165041">
+         <thumbnail>https://cf.geekdo-images.com/Xqo4Yuc0c8-cDwFlMpCn4Q__thumb/img/uvhH1Rkb78c4Q1FTa4m2G77YXDM=/fit-in/200x150/filters:strip_icc()/pic2231768.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Xqo4Yuc0c8-cDwFlMpCn4Q__original/img/x_u5EMNlvfh4hs_SXAGGVSlrM-k=/0x0/filters:format(jpeg)/pic2231768.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cargotrain" />
+			
+						                           
+						               													<description>CargoTrain is a fast-paced card game with a train theme. Deliver as much cargo to the factories as you can. Plan carefully. Invest wisely. Anticipate your opponents' moves, and deliver the most stock in the quickest way possible. And, what&amp;rsquo;s most important, fulfill trade contracts. Let your adversaries watch the sparks fly from under the wheels of your dashing train!&amp;#10;&amp;#10;Every turn in this game is divided into two phases. First is the planning phase, in which players plan their moves by playing move cards. Next is the action phase; this is the heart of the game. Players reveal their move cards one by one and perform actions (load cargo, deliver cargo, upgrade train, switch cargo order on the stations, pick up a new contract). There are many possibilities; players must choose wisely and plan ahead their moves. The gameboard is made from cards and players change it during the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="636" value="No necessary in-game text" numvotes="4" />
+					<result level="637" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="638" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="639" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="640" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="262562" value="Cargo Express" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="370778" value="Cargo Master" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="174695" value="Cargotrain Duel" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6948" value="Krzysztof Matusik" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6948" value="Krzysztof Matusik" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28014" value="Game Fabrica" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="126" />
+			<average value="6.03683" />
+			<bayesaverage value="5.53407" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13307" bayesaverage="5.53407" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2541" bayesaverage="5.54387" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2389" bayesaverage="5.54462" />
+												</ranks>
+
+			<stddev value="1.41725" />
+			<median value="0" />
+			<owned value="272" />
+			<trading value="23" />
+			<wanting value="3" />
+			<wishing value="34" />
+			<numcomments value="41" />
+			<numweights value="5" />
+			<averageweight value="2.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

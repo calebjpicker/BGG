@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="53093">
+         <thumbnail>https://cf.geekdo-images.com/AQ2YuTtAhA0x4tqbtVcvHQ__thumb/img/fXRyozs2PZxTHnZNms4px1avYx4=/fit-in/200x150/filters:strip_icc()/pic2532444.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/AQ2YuTtAhA0x4tqbtVcvHQ__original/img/nwvto8TsdCHDFbX0YaOPTQWM_RA=/0x0/filters:format(jpeg)/pic2532444.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Heroes of Normandie" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Helden der Normandie" />
+			
+						               													<description>The time is summer 1944. The Sun shines on Normandie hedgerows. Gentle wind, fields of bright flowers, and in the background, the romantic staccato of machine gun fire in the morning. In these typical French countryside landscapes, thousands of men are about to fight. And die. Bravely like heroes, or cowardly like wussies. But only heroes really matter. Those you see in Hollywood Golden Age war movies. Here lies the inspiration for Heroes of Normandie; here is what the game has to offer: explosive and fast-paced battles; the pleasure of butchering your enemies through MG42 walls of lead; and the ability to crush Nazi bastards under tons of shells &amp;ndash; basically, blood and guts.&amp;#10;&amp;#10;A miniatures game without miniatures, Heroes of Normandie is a fast-paced WW2 strategy wargame inspired by Hollywood war movies. A tactical scale board-game opposing two players and two armies, with the Germans on one side and the Americans on the other. Players use order tokens to determine initiative and to bluff. While a single six-sided die determines combat, action cards are played to spice things up. Secretly plan your attacks and outwit your opponent. Block the opposing strategy and surprise the enemies. Deploy your units and don't turn back!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="216" value="No necessary in-game text" numvotes="0" />
+					<result level="217" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="218" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="219" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="220" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57887" value="Region: Normandy (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28078" value="Series: Heroes System Tactical Scale World War 2" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271733" value="Heroes of Normandie: 2e DB Heroic Recon Platoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174994" value="Heroes of Normandie: Achtung! Cthulhu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234792" value="Heroes of Normandie: Battleground Set 3 – Rails &amp; Roads" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262240" value="Heroes of Normandie: Battleground Set 4 – Woods &amp; Hills" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233928" value="Heroes of Normandie: Battleground Set II – Harbor &amp; Hills" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180900" value="Heroes of Normandie: Battleground Set – Terrain Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359633" value="Heroes of Normandie: Big Red One Edition – Bloody Omaha" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359635" value="Heroes of Normandie: Big Red One Edition – Solo Mode" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="161859" value="Heroes of Normandie: Bill Furlong &amp; Siegfried" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="165297" value="Heroes of Normandie: British Platoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="165298" value="Heroes of Normandie: Canadian Platoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179783" value="Heroes of Normandie: Carentan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182519" value="Heroes of Normandie: Civilians Under Fire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164751" value="Heroes of Normandie: Commonwealth Army Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150881" value="Heroes of Normandie: D-DAY Scenarios Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193845" value="Heroes of Normandie: DUSTMod" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="170264" value="Heroes of Normandie: Extra Terrain Set #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158315" value="Heroes of Normandie: Extra Unit US-GE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188844" value="Heroes of Normandie: FFI" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245451" value="Heroes of Normandie: FFI – La Cellule de Guesclin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="159991" value="Heroes of Normandie: Fortified Farm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186360" value="Heroes of Normandie: Gazette #0" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="173604" value="Heroes of Normandie: Gazette #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175144" value="Heroes of Normandie: Gazette #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180233" value="Heroes of Normandie: Gazette #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186518" value="Heroes of Normandie: Gazette #4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="191990" value="Heroes of Normandie: Gazette #5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235379" value="Heroes of Normandie: Gazette #6" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235378" value="Heroes of Normandie: Gazette #7" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254346" value="Heroes of Normandie: Gazette #8" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213487" value="Heroes of Normandie: GE 1st SS Panzer Division" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232448" value="Heroes of Normandie: GE Airborne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158312" value="Heroes of Normandie: GE SS Panzergrenadiere" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158309" value="Heroes of Normandie: GE Wittman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="161299" value="Heroes of Normandie: German Army Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234794" value="Heroes of Normandie: Goering and his Armoured Train" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186519" value="Heroes of Normandie: Guardians' Chronicles Expansion Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205729" value="Heroes of Normandie: Kampania Czterej Pancerni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234795" value="Heroes of Normandie: Karl von Croc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193842" value="Heroes of Normandie: Kelly's Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233929" value="Heroes of Normandie: Level Up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="159432" value="Heroes of Normandie: Lord Lovat's Commandos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193843" value="Heroes of Normandie: Miller's Rangers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182518" value="Heroes of Normandie: Pegasus Bridge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193846" value="Heroes of Normandie: Pointe du Hoc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234796" value="Heroes of Normandie: Private Bryan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="380906" value="Heroes of Normandie: Pulp Stories #01 – Pumpkin's Revenge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232450" value="Heroes of Normandie: Radar Station and Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158310" value="Heroes of Normandie: Reinforcement-GE 21eme PZ" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="155776" value="Heroes of Normandie: River Set Terrain Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="177222" value="Heroes of Normandie: Sainte-Mere Eglise" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="246357" value="Heroes of Normandie: South Lancashire Regiment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193844" value="Heroes of Normandie: Steiner Kampfgruppe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="233930" value="Heroes of Normandie: The Ventura and Smugglers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213488" value="Heroes of Normandie: UK 7th Armored Division" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232449" value="Heroes of Normandie: UK Airborne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213490" value="Heroes of Normandie: US 4th Armored Division" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232447" value="Heroes of Normandie: US Airborne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="161298" value="Heroes of Normandie: US Army Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158313" value="Heroes of Normandie: US Platoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="161846" value="Heroes of Normandie: US Rangers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="281252" value="Heroes of Stalingrad: Battleground Set #5 – The Sewers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="163927" value="HONCOMP" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235674" value="Heroes of Normandie: Army Storage Boxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235680" value="Heroes of Normandie: Battlegrounds Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380912" value="Heroes of Normandie: Big Red One Edition – Battleground Elements Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380909" value="Heroes of Normandie: Big Red One Edition – Canadian Game Elements" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380911" value="Heroes of Normandie: Big Red One Edition – Devil Pig Games Game Elements" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235676" value="Heroes of Normandie: Civilians Under Fire Storage Boxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235677" value="Heroes of Normandie: Core Box Storage System" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="254784" value="Heroes of Normandie: Core Box Terrain Tile Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235669" value="Heroes of Normandie: Deck Boxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235678" value="Heroes of Normandie: FFI – Order Tokens and Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235682" value="Heroes of Normandie: Pegasus Bridge Dice Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="266571" value="Heroes of Normandie: Tournament Maps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="234333" value="Heroes of Normandie: World War II Compendium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="355846" value="Shadows Over Normandie: Conversion Deck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="248188" value="Heroes of Stalingrad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="381282" value="Heroes of the Pacific" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="162351" value="Shadows Over Normandie" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="319264" value="Heroes of Normandie: Big Red One Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="381282" value="Heroes of the Pacific" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="228051" value="Warhammer 40,000: Heroes of Black Reach" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="29078" value="Frontiers: Liberty or Death!" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10426" value="Yann and Clem" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69731" value="Alexandre Bonvalot" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15984" value="Devil Pig Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26503" value="Play Well Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2109" />
+			<average value="7.44192" />
+			<bayesaverage value="6.41588" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1333" bayesaverage="6.41588" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="159" bayesaverage="7.01618" />
+												</ranks>
+
+			<stddev value="1.51402" />
+			<median value="0" />
+			<owned value="4689" />
+			<trading value="237" />
+			<wanting value="157" />
+			<wishing value="826" />
+			<numcomments value="578" />
+			<numweights value="143" />
+			<averageweight value="2.7483" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3182">
+         <thumbnail>https://cf.geekdo-images.com/YsqIa8dGTwlEA6L1dkF_Zw__thumb/img/-S53o0OzgVXtnFiyHySDof6ttzg=/fit-in/200x150/filters:strip_icc()/pic16558.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/YsqIa8dGTwlEA6L1dkF_Zw__original/img/eODSe4MECZaixNrAUCITEWR6Sc4=/0x0/filters:format(jpeg)/pic16558.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Vanished!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Comings &amp; Goings" />
+			    				
+				<name type="alternate" sortindex="1" value="Gründer sucht Berater" />
+			    				
+				<name type="alternate" sortindex="1" value="Pater Noster" />
+			    				
+				<name type="alternate" sortindex="1" value="Paternoster" />
+			    				
+				<name type="alternate" sortindex="1" value="Paternoster" />
+			    				
+				<name type="alternate" sortindex="1" value="Think: Paternoster" />
+			
+						               													<description>A paternoster is a type of elevator that has no doors, you simply step onto a narrow platform on a continuously rotating belt. Apparently they were common on the Continent and are still used in places where lift doors would be unsafe, such as nuclear power stations. Anyway, this game has 9 thick cards showing various odd looking passengers going up or down in the lift, with some only partially shown. Each player has a deck of cards showing the same people, in different poses. The cabin cards are shuffled and laid out face-down in two columns of 5, with a gap and a pawn is placed next to the gap. First player to grab the die rolls it and moves the pawn clockwise to face a cabin. Players call out which person they think is in the cabin and the cabin card is turned up. If you're correct, you dump the matching card from your hand; if not, you keep it. But the cabin card is replaced face-down in the original empty space, not where it was previously. In this way, the cabin cards will be moved around as you play, and you'll have to use your memory to clear your hand to win.&amp;#10;&amp;#10;There are also tempo chips you can draw for correctly guessing a card you've already dumped. You can use the chips to move the pawn fore or back from the numbered rolled (so it goes to a cabin you remember and want to dump). But get it wrong and you pick the card back to your hand.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1990" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="16" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="2" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="88" value="Series: Think (Ravensburger)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="951" value="Uli Geissler" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="497" value="bePuzzled" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1197" value="Lombard Marketing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53334" value="Rentrop Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="223" />
+			<average value="5.79305" />
+			<bayesaverage value="5.52872" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14220" bayesaverage="5.52872" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2537" bayesaverage="5.54436" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2406" bayesaverage="5.54137" />
+												</ranks>
+
+			<stddev value="1.35713" />
+			<median value="0" />
+			<owned value="596" />
+			<trading value="41" />
+			<wanting value="8" />
+			<wishing value="13" />
+			<numcomments value="102" />
+			<numweights value="23" />
+			<averageweight value="1.5217" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

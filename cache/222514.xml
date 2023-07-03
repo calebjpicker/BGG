@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="222514">
+         <thumbnail>https://cf.geekdo-images.com/YGNk9UF-QqLWT58aWiRV7w__thumb/img/OJRkVH8OmPyCtrpExfCW63phnkE=/fit-in/200x150/filters:strip_icc()/pic3893551.png</thumbnail>
+      <image>https://cf.geekdo-images.com/YGNk9UF-QqLWT58aWiRV7w__original/img/KdB7vv0-cUujU4-eE3udGR1xYKA=/0x0/filters:format(png)/pic3893551.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Batman: Gotham City Chronicles" />
+			
+						                           
+						               													<description>In Batman: Gotham City Chronicles, one villain faces off against a team of heroes in one of multiple scenarios. Each hero has their own character, and they control this character by spending energy to perform actions (such as Melee and Ranged attacks, defusing bombs...) recovering more or less energy at the beginning of their turn depending on their stance. If the hero gets damaged, energy moves to a wound area, and if they lose all of their energy, then they're out of action for a while to recover their strength. Each hero has differing strengths for their abilities, and these strengths are represented by colored dice with different values; the more energy a hero spends on an ability, the more dice of that color they can roll.&amp;#10;&amp;#10;The villain controls a team of henchmen and iconic villains of the Batman universe, and these characters are represented by tiles on their command board, with the characters costing 1, 2, 3, etc. energy to activate as you move left to right down the line. Once a character is activated, they move to the end of the line, boosting their cost to the maximum value should you want to use them again immediately, and decreasing the cost of the other tiles.&amp;#10;&amp;#10;The game-play in Batman: Gotham City Chronicles is based on that of Conan, with revisions to character abilities, the addition of two different types of dice (w/ five types total), and a modified two-player set-up, the Versus Mode, in which each player has a command board and their own team of tiles that they can draft, with heroes facing off against villains.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="63">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1006" value="No necessary in-game text" numvotes="2" />
+					<result level="1007" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="1008" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="1009" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="1010" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61748" value="Comic Books: Batman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5427" value="Comic Books: DC Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48227" value="Game: Batman – Gotham City Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250968" value="Batman: Gotham City Chronicles – The Batmobile Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285921" value="Batman: Gotham City Chronicles – 5th Player Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306427" value="Batman: Gotham City Chronicles – Amygdala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="250665" value="Batman: Gotham City Chronicles – Arkham Asylum Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363844" value="Batman: Gotham City Chronicles – Batman (New 52) and Rookie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307010" value="Batman: Gotham City Chronicles – Batman Beyond" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285918" value="Batman: Gotham City Chronicles – Batman Inc. Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307011" value="Batman: Gotham City Chronicles – Batman Rebirth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307016" value="Batman: Gotham City Chronicles – Carmine Falcone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307013" value="Batman: Gotham City Chronicles – Catwoman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307020" value="Batman: Gotham City Chronicles – Cluemaster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307021" value="Batman: Gotham City Chronicles – Deacon Blackfire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306927" value="Batman: Gotham City Chronicles – Etrigan (The Demon)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307012" value="Batman: Gotham City Chronicles – Gang of Robin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363851" value="Batman: Gotham City Chronicles – Ghost Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377986" value="Batman: Gotham City Chronicles – Gotham City in Flames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306425" value="Batman: Gotham City Chronicles – Hawkfire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307015" value="Batman: Gotham City Chronicles – Hounds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363847" value="Batman: Gotham City Chronicles – KGBeast" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285919" value="Batman: Gotham City Chronicles – League of Assassins Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306923" value="Batman: Gotham City Chronicles – Lincoln March" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306424" value="Batman: Gotham City Chronicles – Mr. Freeze (New 52)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363849" value="Batman: Gotham City Chronicles – Nobody" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363843" value="Batman: Gotham City Chronicles – Poison Ivy (New 52)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309139" value="Batman: Gotham City Chronicles – Portable Batcomputer Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363846" value="Batman: Gotham City Chronicles – Prof. Pyg's Gang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306426" value="Batman: Gotham City Chronicles – Red Hood (New 52)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306924" value="Batman: Gotham City Chronicles – Shen Fang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377990" value="Batman: Gotham City Chronicles – Solo-Cooperative Mode Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285922" value="Batman: Gotham City Chronicles – Suicide Squad Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307019" value="Batman: Gotham City Chronicles – Talon (Uriah Boone)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363848" value="Batman: Gotham City Chronicles – The Architect" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363850" value="Batman: Gotham City Chronicles – The Great White Shark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="273064" value="Batman: Gotham City Chronicles – The Narrows Chronicles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377988" value="Batman: Gotham City Chronicles – The Narrows Chronicles 2: A New Eden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306928" value="Batman: Gotham City Chronicles – The Reaper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285920" value="Batman: Gotham City Chronicles – The Sewers &amp; GCPD Maps Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306929" value="Batman: Gotham City Chronicles – The Ventriloquist (Arnold Wesker)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307017" value="Batman: Gotham City Chronicles – The Ventriloquist (Peyton Riley)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248759" value="Batman: Gotham City Chronicles – Versus Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248114" value="Batman: Gotham City Chronicles – Wayne Manor Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="307018" value="Batman: Gotham City Chronicles – White Rabbit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309138" value="Compendium: The Overlord – Tome IV (fan expansion to Batman)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273066" value="Batman: Gotham City Chronicles – Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306127" value="Batman: Gotham City Chronicles – Laserox Batman Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="160010" value="Conan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2617" value="Frédéric Henry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69238" value="Georges Clarenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66266" value="David Demaret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46203" value="David Finch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46225" value="Jim Lee" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27147" value="Monolith Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2522" />
+			<average value="7.64163" />
+			<bayesaverage value="6.53696" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1098" bayesaverage="6.53696" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="194" bayesaverage="6.81775" />
+												</ranks>
+
+			<stddev value="1.77711" />
+			<median value="0" />
+			<owned value="6136" />
+			<trading value="164" />
+			<wanting value="151" />
+			<wishing value="1093" />
+			<numcomments value="690" />
+			<numweights value="117" />
+			<averageweight value="3.7436" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

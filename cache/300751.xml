@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="300751">
+         <thumbnail>https://cf.geekdo-images.com/VN2KUKs_Kgfq2LrobCC87g__thumb/img/7qNG7SdjNMQM0Ujbt2d1C61mWa4=/fit-in/200x150/filters:strip_icc()/pic5333823.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VN2KUKs_Kgfq2LrobCC87g__original/img/aOMianmjDmnmXfHoHn6nKzmC6AA=/0x0/filters:format(jpeg)/pic5333823.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mini Express" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="箱庭特急" />
+			    				
+				<name type="alternate" sortindex="1" value="迷你特快車" />
+			    				
+				<name type="alternate" sortindex="1" value="미니 익스프레스" />
+			
+						               													<description>Mini Express is a strategic train game for 1 to 5 players in which you and other wealthy capitalists manage four railroad companies. Through careful planning and ruthless execution, players pioneer the western expansion of the 19th century, vying to be the most influential railroad baron and complete the transcontinental railroad.&amp;#10;&amp;#10;Mini Express is a sequel of sorts to Mini Rails in that on a turn each player takes one of the two available actions, although otherwise the games are not similar. Your action choices are to (1) lay track to expand a company's railroad or (2) take a stock from a company.&amp;#10;&amp;#10;To lay track, you take train pieces from the company's reservoir on the game board and place them one per hex to expand that company's network to a new city. When you do this, you gain influence in the goods that are in demand in that city. (The game includes four types of goods, and each type of good is the same color as one of the railroad companies.) Each city can have at most 1-3 companies enter it, and when that limit is reached, you remove the demand tile from the game. When you build into a hex (whether landscape or city), any other train companies in that hex gain a train in their reservoir (to represent them profiting from how your efforts affect that area).&amp;#10;&amp;#10;To take a stock, you must decrease your influence in that company equal to the number of trains in that company's reservoir. If you can't do so without going below zero, then you cannot take that stock.&amp;#10;&amp;#10;When all the shares have been claimed from two companies or two companies have no train pieces remaining, then you complete the round and the game ends. For each good/company, you multiple the number of shares you hold by a points multiplier that's based on how much influence you have in that good/company relative to other players. The higher your standing, the more valuable each of your shares will be. Whoever has the most points wins.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="43">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="306" value="No necessary in-game text" numvotes="2" />
+					<result level="307" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="308" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="309" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="310" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50153" value="Continents: Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18979" value="Series: Cube Rails" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="337914" value="Mini Express Map Pack 1: Taiwan &amp; United Kingdom" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="353221" value="Mini Express: Great Britain 1918" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336100" value="Mini Express: US &amp; Europe Playmats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="331195" value="Mini Express: Wooden Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42451" value="Mark Gerrits" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23245" value="Moaideas Game Design" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45315" value="BoardBros" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40510" value="Delirium Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="936" />
+			<average value="7.33094" />
+			<bayesaverage value="6.08599" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2364" bayesaverage="6.08599" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1082" bayesaverage="6.22721" />
+												</ranks>
+
+			<stddev value="1.14264" />
+			<median value="0" />
+			<owned value="1845" />
+			<trading value="32" />
+			<wanting value="82" />
+			<wishing value="456" />
+			<numcomments value="213" />
+			<numweights value="39" />
+			<averageweight value="2.359" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

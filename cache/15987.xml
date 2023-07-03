@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="15987">
+         <thumbnail>https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__thumb/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__original/img/YA5R2ZUV2Zwt_fgXIxu8bii3OJ0=/0x0/filters:format(jpeg)/pic175966.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Arkham Horror" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Horreur à Arkham" />
+			    				
+				<name type="alternate" sortindex="1" value="Horror w Arkham" />
+			    				
+				<name type="alternate" sortindex="1" value="Rettegés Arkhamban" />
+			    				
+				<name type="alternate" sortindex="1" value="Ужас Аркхэма" />
+			    				
+				<name type="alternate" sortindex="1" value="アーカムホラー" />
+			    				
+				<name type="alternate" sortindex="1" value="魔镇惊魂 (魔鎮驚魂 )" />
+			    				
+				<name type="alternate" sortindex="1" value="아컴 호러" />
+			
+						               													<description>&amp;#10;        The year is 1926, and it is the height of the Roaring Twenties. Flappers dance till dawn in smoke-filled speakeasies drinking alcohol supplied by rum runners and the mob. It's a celebration to end all celebrations in the aftermath of the war to end all wars.&amp;#10;&amp;#10;&amp;#10;&amp;#10;        Yet a dark shadow grows in the city of Arkham. Alien entities known as Ancient Ones lurk in the emptiness beyond space and time, writhing at the gates between worlds. These gates have begun to open and must be closed before the Ancient Ones make our world their ruined domination.&amp;#10;&amp;#10;&amp;#10;&amp;#10;        Only a handful of investigators stand against the Arkham Horror.  Will they Prevail? &amp;#10;&amp;#10;&amp;#10;Arkham Horror is a cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. Players choose from 16 Investigators and take to the streets of Arkham. Before the game, one of the eight Ancient Ones is chosen and it's up to the Investigators to prevent it from breaking into our world. During the course of the game, players will upgrade their characters by acquiring skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close gates to other dimensions that are opening up around town. With too many gates open the Ancient One awakens and the players only have one last chance to save the world - defeat the Ancient One in combat!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1089">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="100" />
+					<result value="Recommended" numvotes="401" />
+					<result value="Not Recommended" numvotes="276" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="125" />
+					<result value="Recommended" numvotes="540" />
+					<result value="Not Recommended" numvotes="154" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="277" />
+					<result value="Recommended" numvotes="535" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="655" />
+					<result value="Recommended" numvotes="279" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="220" />
+					<result value="Recommended" numvotes="437" />
+					<result value="Not Recommended" numvotes="141" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="81" />
+					<result value="Recommended" numvotes="374" />
+					<result value="Not Recommended" numvotes="282" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="152" />
+					<result value="Not Recommended" numvotes="505" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="124" />
+					<result value="Not Recommended" numvotes="563" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="567" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="240" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="364">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="29" />
+					<result value="12" numvotes="86" />
+					<result value="14" numvotes="167" />
+					<result value="16" numvotes="59" />
+					<result value="18" numvotes="12" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="431">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="10" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="325" />
+					<result level="5" value="Unplayable in another language" numvotes="94" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2885" value="Finale Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2836" value="Lose a Turn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67953" value="Components: Map (City Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62462" value="Game: Arkham Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71193" value="Game: Arkham Horror (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4311" value="Series: Arkham Horror Files (Fantasy Flight Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="116301" value="Arkham Horror: Arkham Nights 2010 Promotional Ancient One Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="22172" value="Arkham Horror: Curse of the Dark Pharaoh Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="112595" value="Arkham Horror: Dance of the Damned (Mythos)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21059" value="Arkham Horror: Dunwich Horror Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="116302" value="Arkham Horror: Hastur Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40776" value="Arkham Horror: Innsmouth Horror Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31536" value="Arkham Horror: Kingsport Horror Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="93465" value="Arkham Horror: Miskatonic Horror Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="106219" value="Arkham Horror: Oliver Grayson (Ally)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="85451" value="Arkham Horror: Penny Arcade Characters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37008" value="Arkham Horror: The Black Goat of the Woods Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="95683" value="Arkham Horror: The Curse of the Dark Pharaoh Expansion (Revised Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="85449" value="Arkham Horror: The Dark Pharaoh (Herald)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="85450" value="Arkham Horror: The Dunwich Horror (Herald)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="25945" value="Arkham Horror: The King in Yellow Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="67208" value="Arkham Horror: The Lurker at the Threshold Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132105" value="Arkham Horror: Yig Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142500" value="Cult of the Golden Scarab (fan expansion for Arkham Horror)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142409" value="The Door to Saturn (fan expansion for Arkham Horror)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="127198" value="Vermont Horror Expansion (fan expansion for Arkham Horror)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385691" value="Arkham Horror (Second edition): The GiftForge All-in Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270981" value="Arkham Horror: Arkham Altar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271440" value="Arkham Horror: Arkham Altar – Extra Dividers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349452" value="Arkham Horror: Arkham Nights 2013 Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349453" value="Arkham Horror: Arkham Nights 2014 Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349454" value="Arkham Horror: Arkham Nights 2015 Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349455" value="Arkham Horror: Arkham Nights 2018 Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="155643" value="Arkham Horror: Blessed Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="345438" value="Arkham Horror: Broken Token Investigator's Journal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="345061" value="Arkham Horror: Broken Token Player Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="274932" value="Arkham Horror: Complete Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="155645" value="Arkham Horror: Cursed Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138802" value="Arkham Horror: Dice Sets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308972" value="Arkham Horror: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="180261" value="Arkham Horror: e-Raptor Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="180789" value="Arkham Horror: Figure Stands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="279777" value="Arkham Horror: Gate Stands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138800" value="Arkham Horror: Investigator Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138801" value="Arkham Horror: Monster Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348617" value="Arkham Horror: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="219423" value="Arkham Horror: Toolkit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273598" value="Arkham Horror: Tower Rex Card Holder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271402" value="Arkham Horror: Tower Rex Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="385698" value="Arkham/Eldritch Horror: The GiftForge Gate holder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309611" value="Eldritch Horror: e-Raptor Clues Tokens Set (20 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309613" value="Eldritch Horror: e-Raptor Sanity Tokens Set 1 pt (20 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309615" value="Eldritch Horror: e-Raptor Sanity Tokens Set 3 pt (15 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309616" value="Eldritch Horror: e-Raptor Stamina Tokens Set 1 pt (20 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309617" value="Eldritch Horror: e-Raptor Stamina Tokens Set 3 pt (15 pcs)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372671" value="Eldritch Horror: Geekmod Storage Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="257499" value="Arkham Horror (Third Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="146021" value="Eldritch Horror" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="34" value="Arkham Horror" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4819" value="Richard Launius" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14596" value="Anders Finér" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37721" value="Rafał Hrynkiewicz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4819" value="Richard Launius" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12065" value="Patrick McEvoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12017" value="Scott Nicely" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104761" value="Vlad Ricean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11989" value="Brian Schomburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5530" value="Giochi Uniti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="504" value="Nexus Editrice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8313" value="Smart Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3446" value="Ubik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="38830" />
+			<average value="7.24183" />
+			<bayesaverage value="7.03527" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="404" bayesaverage="7.03527" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="137" bayesaverage="7.01476" />
+												</ranks>
+
+			<stddev value="1.70598" />
+			<median value="0" />
+			<owned value="52079" />
+			<trading value="1620" />
+			<wanting value="434" />
+			<wishing value="4919" />
+			<numcomments value="8855" />
+			<numweights value="3843" />
+			<averageweight value="3.5816" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

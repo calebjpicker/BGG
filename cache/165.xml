@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165">
+         <thumbnail>https://cf.geekdo-images.com/6v94O3LyEQ-unURDnxnPHA__thumb/img/RO4A6COfo-WQvFJUvXpCdSLHVWM=/fit-in/200x150/filters:strip_icc()/pic23902.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/6v94O3LyEQ-unURDnxnPHA__original/img/Rv_zXH3fmXE-0j_MMKeJ-UNi2XQ=/0x0/filters:format(jpeg)/pic23902.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Black Box" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="La Boite Magique" />
+			    				
+				<name type="alternate" sortindex="1" value="Ko-Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Logo" />
+			    				
+				<name type="alternate" sortindex="1" value="Mini Black Box" />
+			    				
+				<name type="alternate" sortindex="1" value="Ordo" />
+			    				
+				<name type="alternate" sortindex="1" value="Planétaire" />
+			
+						               													<description>Black Box  or &amp;quot;KO-code&amp;quot; is a puzzle game in which one player creates a puzzle by secretly choosing the positions of 4-5 marbles on a 8x8 grid.   The other player tries to guess their positions by shooting 'rays' into the grid and seeing how they bounce around.  The player requiring the fewest rays to solve a puzzle wins.&amp;#10;&amp;#10;The German First Edition was named LOGO but the LEGO-Company was not amused with this Title and thought there will be a possibility of confusion. So PARKER renamed the Second Editon to ORDO.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="6" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5902" value="Components: Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104963" value="Black Box Game Book" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="31853" value="Black Box +" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="104" value="Eric Solomon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3106" value="Franz-Josef Schulte" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2074" value="Capiépa Éditeur: Jeux Éducatifs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1772" value="Clipper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="151" value="franjos Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6290" value="MB Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="876" />
+			<average value="6.39295" />
+			<bayesaverage value="5.77188" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4447" bayesaverage="5.77188" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="212" bayesaverage="6.10957" />
+												</ranks>
+
+			<stddev value="1.39689" />
+			<median value="0" />
+			<owned value="1670" />
+			<trading value="108" />
+			<wanting value="14" />
+			<wishing value="106" />
+			<numcomments value="390" />
+			<numweights value="76" />
+			<averageweight value="2.0658" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="144743">
+         <thumbnail>https://cf.geekdo-images.com/ycJ4uyYn4L-vh_ITPs8UIA__thumb/img/NahBUYz70ks0hszO38WiXMW_s6s=/fit-in/200x150/filters:strip_icc()/pic1787530.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ycJ4uyYn4L-vh_ITPs8UIA__original/img/EBMxcOpYHBYhuVLlZGmHA34RSr8=/0x0/filters:format(jpeg)/pic1787530.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Machina Arcana" />
+			
+						                           
+						               													<description>In Machina Arcana, players take on the role of explorers who are investigating an ancient subterranean complex of unknown origin. They face monsters inspired by H. P. Lovecraft's Cthulhu mythos in a steampunk setting. The adventurers collect equipment, interact and utilize their environment, fight monsters, and immerse themselves in the rich narrative elements.&amp;#10;&amp;#10;The complete story is broken down into different scenarios that represent a self-contained game. All of these scenarios contain chapters, each with its own narration and specifics. The objective of the game is to progress through the tale and face the endgame at the finale of each scenario.&amp;#10;&amp;#10;The main goal behind Machina Arcana is to provide players with a chilling game that can never be played the same way, mechanisms that enable varying strategies and approaches, and an extensive framework that combines everything smoothly. The game scales by default; there is no need for special conditions based on the player count. As the story progresses, so does your gear. But beware! If you are too slow, horror might very well prevail and devour you whole...&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="150" />
+						               				<minplaytime value="150" />
+						               				<maxplaytime value="150" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="11" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5065" value="Game: Compact Combat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5610" value="Theme: Steampunk" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="328618" value="Machina Arcana: Core Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="156652" value="Machina Arcana: Fabula Rasa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="328617" value="Machina Arcana: Game Mats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="156653" value="Machina Arcana: Player Boards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="299121" value="Machina Arcana (Second/Third Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70342" value="Juraj Bilich" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76652" value="Aleksandra Bilic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70454" value="Nele Diel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98099" value="Sebastian Giacobino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60918" value="Antal Kéninger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="103515" value="Igor Krstic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32404" value="Marek Madej" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="438" />
+			<average value="7.34971" />
+			<bayesaverage value="5.77167" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4453" bayesaverage="5.77167" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="725" bayesaverage="5.96321" />
+												</ranks>
+
+			<stddev value="1.753" />
+			<median value="0" />
+			<owned value="1195" />
+			<trading value="38" />
+			<wanting value="40" />
+			<wishing value="437" />
+			<numcomments value="206" />
+			<numweights value="27" />
+			<averageweight value="3.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

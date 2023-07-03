@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="250539">
+         <thumbnail>https://cf.geekdo-images.com/P8s-tpiM0wnqxttnAz5fQA__thumb/img/H5XDlTYoK6eBFHGIYIIeoGWtgKY=/fit-in/200x150/filters:strip_icc()/pic4084242.png</thumbnail>
+      <image>https://cf.geekdo-images.com/P8s-tpiM0wnqxttnAz5fQA__original/img/7-d5dps0cmSR5oj4qV4qxtuUws0=/0x0/filters:format(png)/pic4084242.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Potion" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Das Elixier" />
+			    				
+				<name type="alternate" sortindex="1" value="Varázsfőzet" />
+			    				
+				<name type="alternate" sortindex="1" value="포션" />
+			
+						               													<description>An epic encounter between the world&amp;rsquo;s savviest alchemists is drawing universal attention. Each alchemist starts with the same basic ingredients: rare mushrooms, secret liquid vials, and poisonous beetles. In a match of wit and bluff, they compete to get rid of their ingredients and take control of the final potion. Closely watching each other's moves, will you prevail in this unique and original game of deception?&amp;#10;&amp;#10;At the beginning of each round in The Potion, a player rolls the dice to determine the ingredients players will be bidding on. After considering the roll, players secretly choose one ingredient from their palm and place it in their other hand. Once all players have made their choice, everyone reveals their selected ingredient.&amp;#10;&amp;#10;Compare the type and quantity of the ingredients revealed with the result of the dice roll. Players who meet the winning conditions set by the dice may discard their ingredient and place it into the bottle. The players who did not meet the winning condition keep their ingredient. Dice are passed clockwise to the next player who rolls the dice, and a new round begins.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="7" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="656" value="No necessary in-game text" numvotes="1" />
+					<result level="657" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="658" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="659" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="660" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2858" value="Prisoner's Dilemma" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62079" value="Animals: Insects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64970" value="Theme: Alchemy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25368" value="Theme: Mushrooms" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282422" value="The Potion's Magic Scroll" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="235696" value="POK" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="95143" value="Kasper Lapp" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65633" value="Jacqui Davis" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1280" value="FoxMind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46439" value="Brainteasers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18021" value="HCM Kinzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="339" />
+			<average value="5.96763" />
+			<bayesaverage value="5.56961" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9639" bayesaverage="5.56961" />
+												</ranks>
+
+			<stddev value="1.37511" />
+			<median value="0" />
+			<owned value="868" />
+			<trading value="16" />
+			<wanting value="6" />
+			<wishing value="74" />
+			<numcomments value="69" />
+			<numweights value="10" />
+			<averageweight value="1.1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

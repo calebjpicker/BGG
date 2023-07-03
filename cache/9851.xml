@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="9851">
+         <thumbnail>https://cf.geekdo-images.com/GSp2Gj5Cg5hvgj9JibNqww__thumb/img/1NIEt72DaxrWSOYlZ-HFgISyl0w=/fit-in/200x150/filters:strip_icc()/pic305120.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GSp2Gj5Cg5hvgj9JibNqww__original/img/Lj_lEet4OWKTOKZc6jwNDryN1wg=/0x0/filters:format(jpeg)/pic305120.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Shut the Box" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="12er Shut the Box" />
+			    				
+				<name type="alternate" sortindex="1" value="4-Player Shut the Box" />
+			    				
+				<name type="alternate" sortindex="1" value="45" />
+			    				
+				<name type="alternate" sortindex="1" value="Alle Negen" />
+			    				
+				<name type="alternate" sortindex="1" value="Alle Neune" />
+			    				
+				<name type="alternate" sortindex="1" value="Bamboo Shut the Box" />
+			    				
+				<name type="alternate" sortindex="1" value="Blitz" />
+			    				
+				<name type="alternate" sortindex="1" value="Block" />
+			    				
+				<name type="alternate" sortindex="1" value="Bottoms-Up" />
+			    				
+				<name type="alternate" sortindex="1" value="Canoga" />
+			    				
+				<name type="alternate" sortindex="1" value="Canoga XII" />
+			    				
+				<name type="alternate" sortindex="1" value="Casablanca" />
+			    				
+				<name type="alternate" sortindex="1" value="Cierra la Caja" />
+			    				
+				<name type="alternate" sortindex="1" value="Clapper" />
+			    				
+				<name type="alternate" sortindex="1" value="Cover-Up" />
+			    				
+				<name type="alternate" sortindex="1" value="Dominino" />
+			    				
+				<name type="alternate" sortindex="1" value="Double-Sided 9-Number Shut the Box Game Set" />
+			    				
+				<name type="alternate" sortindex="1" value="Down &amp; Out" />
+			    				
+				<name type="alternate" sortindex="1" value="Down and Out" />
+			    				
+				<name type="alternate" sortindex="1" value="feche a caixa" />
+			    				
+				<name type="alternate" sortindex="1" value="Fermer La Boite" />
+			    				
+				<name type="alternate" sortindex="4" value="Il gioco del 45" />
+			    				
+				<name type="alternate" sortindex="1" value="Hoch verliert-Niedrig gewinnt!" />
+			    				
+				<name type="alternate" sortindex="1" value="Hoch Verloren: Wenig Gewonnen" />
+			    				
+				<name type="alternate" sortindex="5" value="The James Bond Box" />
+			    				
+				<name type="alternate" sortindex="5" value="Das Klappenspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Klipp Klapp" />
+			    				
+				<name type="alternate" sortindex="1" value="Kudot" />
+			    				
+				<name type="alternate" sortindex="1" value="Largo" />
+			    				
+				<name type="alternate" sortindex="1" value="Lights Out!" />
+			    				
+				<name type="alternate" sortindex="1" value="Lo-Man" />
+			    				
+				<name type="alternate" sortindex="1" value="Lo-Roll" />
+			    				
+				<name type="alternate" sortindex="1" value="Low Score" />
+			    				
+				<name type="alternate" sortindex="1" value="Luukku Kiinni" />
+			    				
+				<name type="alternate" sortindex="1" value="Neun im Kasten" />
+			    				
+				<name type="alternate" sortindex="1" value="Nine-Up" />
+			    				
+				<name type="alternate" sortindex="1" value="Numbers Down" />
+			    				
+				<name type="alternate" sortindex="1" value="Numbers Up Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Pythagoras" />
+			    				
+				<name type="alternate" sortindex="1" value="Ro-Lo" />
+			    				
+				<name type="alternate" sortindex="1" value="Shut Eye" />
+			    				
+				<name type="alternate" sortindex="1" value="Shut the Box 12" />
+			    				
+				<name type="alternate" sortindex="1" value="Shut the Box Klipp-Klapp" />
+			    				
+				<name type="alternate" sortindex="1" value="Shut-the-Box" />
+			    				
+				<name type="alternate" sortindex="1" value="Simple Nine" />
+			    				
+				<name type="alternate" sortindex="1" value="Snake Eyes" />
+			    				
+				<name type="alternate" sortindex="1" value="Sorcière" />
+			    				
+				<name type="alternate" sortindex="1" value="Stop-Stop" />
+			    				
+				<name type="alternate" sortindex="1" value="Strike 9" />
+			    				
+				<name type="alternate" sortindex="1" value="That Flippin&#039; Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Trick-Track" />
+			    				
+				<name type="alternate" sortindex="1" value="Wake Up, Giants!" />
+			    				
+				<name type="alternate" sortindex="1" value="Würfel-Bar" />
+			    				
+				<name type="alternate" sortindex="1" value="Würfelbrett" />
+			    				
+				<name type="alternate" sortindex="1" value="Würfelspass mit Kuemmerling" />
+			    				
+				<name type="alternate" sortindex="1" value="Zamknij pudełko" />
+			    				
+				<name type="alternate" sortindex="1" value="Zock" />
+			    				
+				<name type="alternate" sortindex="1" value="상자 닫기" />
+			
+						               													<description>The game 'box' has levers labelled from one to nine. (There are also sets made with 1-12.)&amp;#10;&amp;#10;Initially all the levers are in the 'up' position.&amp;#10;&amp;#10;The first player rolls two dice.  He or she then knocks down the levers as follows:&amp;#10;&amp;#10;One number which is the combined value of both dice.&amp;#10;&amp;#10;Or...&amp;#10;&amp;#10;Two numbers whose total adds up to the combined total of each dice.&amp;#10;&amp;#10;For example:&amp;#10;&amp;#10;If a one and a five are rolled, the player may choose to knock down the lever covering the number six, or the levers covering numbers one AND five, or ANY other combination of numbers adding up to six.&amp;#10;&amp;#10;The player continues to roll, knocking down levers each turn, until he or she cannot use the whole of the dice count because those numbers in the box have already been covered. (Note: If the 7,8 &amp;amp; 9 are covered, some versions let you choose to roll one or two dice. Some use that rule if the total of the remaining numbers is less than six.)&amp;#10;&amp;#10;The player's score is the total value of the numbers left uncovered (in some versions the score is instead read directly from the numbers left on the box -- if the 2, 4, &amp;amp; 6 are left, then your score is 246).  All the levers are then raised again, and play passes to the next player.&amp;#10;&amp;#10;There are several methods of scoring. In the traditional pub gambling game, you add up all the levers left uncovered. The games pays out after one round (one turn per player who paid into the pool). If you manage to &amp;quot;shut the box&amp;quot; you win instantly and get double the stake from each player.&amp;#10;&amp;#10;In other scoring methods, you play multiple rounds, with players adding points to their previous score. As players reach forty-five (or other set number) they go 'bust' and must drop out of the game. The game then ends when only one player remains in the game.  He or she is the winner.&amp;#10;&amp;#10;If any player knocks down ALL the levers in his or her turn, and thus 'shuts the box', they are automatically declared the winner!&amp;#10;&amp;#10;This was later the inspiration for the NBC Daytime TV game show High Rollers airing from 1974 until 1975 and again from 1979 until 1980 under the name as (The New) High Rollers and much later in Syndication from 1975 until 1976 and from 1987 until 1988.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1750" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="7" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="561" value="No necessary in-game text" numvotes="10" />
+					<result level="562" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="563" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="564" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="565" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18281" value="Traditional Games: Shut the Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="7159" value="The Boardgame Book" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11748" value="alfaset" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4074" value="Are-Jay Game Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18143" value="Autruche" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2594" value="Bartl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31495" value="The Bombay Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="389" value="Brio AB" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="225" value="Cardinal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="755" value="Carrom Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2401" value="CHH Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17388" value="Creative Crafthouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="193" value="Crisloid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18420" value="DBC Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11320" value="Dilemma Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="377" value="Dynamic Games / Dynamic Design Industries" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4952" value="Fair Trade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11188" value="Fame Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2231" value="Feldheim" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1270" value="Front Porch Classics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16844" value="Galleryplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27958" value="Go! Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9386" value="Goki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="858" value="Grow Jogos e Brinquedos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17808" value="H&amp;H Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1856" value="HearthSong" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="153" value="Ideal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4742" value="IKEA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="233" value="Invicta Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16831" value="Jersey Wood Enterprises Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8905" value="Joen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5722" value="John Jaques of London" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="291" value="John N. Hansen Co., Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25485" value="Kuemmerling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12135" value="Longfield Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1431" value="Mag-Nif, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16714" value="Mainstreet Classic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1024" value="Marx Toys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4554" value="MB Spellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6290" value="MB Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8760" value="Melissa &amp; Doug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25932" value="Mischief, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16715" value="Monkey Pod Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50291" value="MP Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16716" value="Mr. Man" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="845" value="National Geographic Society" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="304" value="Noris Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1781" value="Pacific Game Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1530" value="Philos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1087" value="Pin International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4910" value="Pintoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45802" value="Planet Finska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3530" value="Sala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="875" value="Schylling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="359" value="Selchow &amp; Righter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="777" value="Simba Toys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="433" value="Skor-Mor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="288" value="Spear's Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2142" value="Square Root Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2625" value="Sterling Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3983" value="Tobar Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17985" value="Toyrific" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4490" value="Toys Pure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4916" value="Toysmith" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1844" value="Troika" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="254" value="University Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1859" value="Vic-Toy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="909" value="Week End Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3245" value="Wm F. Drueke &amp; Sons, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7506" value="Wood Expressions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31496" value="Woodrich &amp; Wells" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9301" value="Woodstock Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16758" value="WorldWise Imports, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1484" />
+			<average value="5.13545" />
+			<bayesaverage value="5.30541" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24441" bayesaverage="5.30541" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="946" bayesaverage="4.88368" />
+												</ranks>
+
+			<stddev value="1.6737" />
+			<median value="0" />
+			<owned value="3580" />
+			<trading value="60" />
+			<wanting value="1" />
+			<wishing value="71" />
+			<numcomments value="535" />
+			<numweights value="96" />
+			<averageweight value="1.0833" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

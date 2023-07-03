@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="171672">
+         <thumbnail>https://cf.geekdo-images.com/xex3uERYa8omU33btf6vIQ__thumb/img/Zu1wngsZxRCISl7eO6sF24O8gkg=/fit-in/200x150/filters:strip_icc()/pic2323662.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xex3uERYa8omU33btf6vIQ__original/img/dxUlfXgs7sG2Xv0v-c4r8VcOvXU=/0x0/filters:format(jpeg)/pic2323662.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Why First?" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kto drugi, ten lepszy!" />
+			    				
+				<name type="alternate" sortindex="1" value="Runner-Up" />
+			    				
+				<name type="alternate" sortindex="1" value="¡Segundón! (Why First)" />
+			    				
+				<name type="alternate" sortindex="1" value="老二哲學" />
+			
+						               													<description>Why First? is a racing game in which players vie to be second in order to win.&amp;#10;&amp;#10;The game lasts five races, with each race lasting five turns. At the start of each race, players receive a hand of five cards, with each card bearing a value from -4 to +5. The players' pawns start each race on 0 of the racing track. Each turn, players choose a card from their hands and choose which pawn to move with this card, then reveal them simultaneously and move the selected pawns forward or backward based on the cards they played.&amp;#10;&amp;#10;After five turns, the race ends and the player in second place on the racing track wins, scoring a number of points equal to his position on the race track. All other players score nothing. (If the winner is in the negative portion of the racing track, he loses points instead.) After five races, sum all of the points scored; the player with the second highest total who has won at least one race wins.&amp;#10;&amp;#10;This revised version of Why First? has new rules, including simultaneous actions by players that cuts down the playing time from the original release.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="25" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="721" value="No necessary in-game text" numvotes="6" />
+					<result level="722" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="723" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="724" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="725" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2888" value="Tug of War" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71181" value="Mechanism: Artificial Player" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="131165" value="Why First?" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="63972" value="Simon Havard" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72920" value="Erkan Karagöz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1217" />
+			<average value="6.16616" />
+			<bayesaverage value="5.74756" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4722" bayesaverage="5.74756" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="355" bayesaverage="5.89199" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1393" bayesaverage="5.8096" />
+												</ranks>
+
+			<stddev value="1.41508" />
+			<median value="0" />
+			<owned value="1829" />
+			<trading value="71" />
+			<wanting value="26" />
+			<wishing value="159" />
+			<numcomments value="249" />
+			<numweights value="38" />
+			<averageweight value="1.1579" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

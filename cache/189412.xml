@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="189412">
+         <thumbnail>https://cf.geekdo-images.com/eDp76gTqIkS1zIUNeo00HA__thumb/img/4Rq00V2KJF0ew36oC9aUHO5hkbQ=/fit-in/200x150/filters:strip_icc()/pic2806044.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/eDp76gTqIkS1zIUNeo00HA__original/img/jXuG8IDYHA2rYn9mWIHk9vFXcMg=/0x0/filters:format(jpeg)/pic2806044.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Taking Food from Bears" />
+			
+						                           
+						               													<description>In Taking Food From Bears, each player takes the role of a hiker trying to take food from a bear&amp;#10;&amp;#10;At the beginning of the game, each player receives a set of seven cards, with numbers from 1 to 5, 1 whistle, and 1 bear trap. The Bear cards have values 3, 5, 7, 9, 11, 13, and 15. In a round, players attempt to steal from the target bear by playing his cards in sequence. The first player secretly looks at the target bear (the top bear card) and plays one of his number cards face up. If he plays a &amp;quot;3&amp;quot; card, it means that the player intends to steal 3 food from the target bear. Next players have two options: 1) look at the bear card just as the first player did and play a number card face up; or 2) play a number/whistle/bear card face down, take a multiplier (x2) card from the pool, and put the multiplier card on his face down number card.&amp;#10;&amp;#10;After all the players played their cards, the Bear card is revealed. Beginning from the player who played the lowest card, add up the value of the number tokens. Suppose that the Bear is &amp;quot;9&amp;quot; and Josh played &amp;quot;3&amp;quot;, Becky &amp;quot;5&amp;quot;, Lupita &amp;quot;2&amp;quot;, and Samuel &amp;quot;3&amp;quot; with &amp;quot;x2&amp;quot; multiplier on it, Lupita (2), Josh (3), and Samuel (3) are entitled to receive 2, 3, and 6 (3x2) food respectively. However, Becky will receive a wound (worth -2 food at the end of the game), since she fought the bear and lost. 9 is bigger than 2+3+3 but it is smaller than 2+3+3+5. Becky triggered the Bear's wrath. Playing the Whistle card will startle the Bear and trigger each other player to be wounded, but the player playing the Whistle card will receive no food this round. Playing the Trap card will keep the player safe against being wounded, but the player playing the card will receive no food this round. The player that received the most amount of food the last round, going clockwise from the starting player, starts the next round.&amp;#10;&amp;#10;Play continues in this manner for a specified number of rounds,or until all the food is depleted, or until one player receives 5 wounds. The player with the most food at the game end is the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193310" value="Taking Food From Bears: Bear's Revenge Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="85250" value="J. S. Bridges" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85250" value="J. S. Bridges" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30457" value="Ockham's Razor Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

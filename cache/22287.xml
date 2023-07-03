@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22287">
+         <thumbnail>https://cf.geekdo-images.com/x-zW2KRAoBD-C-UEnD5otQ__thumb/img/qomLArI7jqISiFJlMt_SsukweD4=/fit-in/200x150/filters:strip_icc()/pic134519.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/x-zW2KRAoBD-C-UEnD5otQ__original/img/NQ_HF97Vix5a1ULpO-ICICRx86k=/0x0/filters:format(jpeg)/pic134519.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Buccaneer" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kalóztámadás" />
+			    				
+				<name type="alternate" sortindex="1" value="Piraci" />
+			    				
+				<name type="alternate" sortindex="5" value="The Pirates" />
+			    				
+				<name type="alternate" sortindex="1" value="Seeräuber" />
+			
+						               													<description>Each player starts with five chips.  To take one of the ship cards, you have to have a stack of chips, the minimum number of chips for each ship being shown on the card.  Making the stacks higher is the game's signature gimmick (originating in Die Safeknacker):  On your turn, you can take one of your chips, or one of your stacks, and put it on top of one chip or stack of another player, and are then the proud owner of the entire stack.  Trouble is, you can't SPEND the stack on a ship until your next turn, by which time somebody else may have taken it away from you by the same process.&amp;#10;&amp;#10;Scoring in Die Safeknacker was very streamlined and elegant:  You scored the value of the card when you took it and paid off the other players the values of their chips in your stack.  In this new version there are complications (tokens to collect, a consolation prize for the player next to the top in the stack) which give you a little more to think about.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;&amp;#10;     Die Safeknacker&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="13" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9545" value="Series: Small Box (Queen)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="342807" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3349" value="Die Safeknacker" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13" value="Stefan Dorra" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="962" value="Jo Hartwig" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1757" />
+			<average value="6.26866" />
+			<bayesaverage value="5.86192" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3608" bayesaverage="5.86192" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1111" bayesaverage="5.93768" />
+												</ranks>
+
+			<stddev value="1.16075" />
+			<median value="0" />
+			<owned value="2223" />
+			<trading value="114" />
+			<wanting value="32" />
+			<wishing value="172" />
+			<numcomments value="588" />
+			<numweights value="210" />
+			<averageweight value="1.5857" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

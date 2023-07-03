@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="13883">
+         <thumbnail>https://cf.geekdo-images.com/PYRk-47KMTMDRza7ysxuvg__thumb/img/Rj3PUD2EnHCE-GUFSXAtJa6O8LI=/fit-in/200x150/filters:strip_icc()/pic98697.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PYRk-47KMTMDRza7ysxuvg__original/img/VetfG6suB8luL6v0devCkOEI3eY=/0x0/filters:format(jpeg)/pic98697.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Jenseits von Theben" />
+			
+						                           
+						               													<description>This entry is for the original Jenseits von Theben; for the new printing by Queen, go to Thebes.&amp;#10;&amp;#10;Jenseits von Theben is a game of competitive archeology.  Players are archaeologists who must travel around Europe to acquire knowledge about five ancient civilizations -- the Greeks, the Cretans, the Egyptians, the Palestinians, and the Macedonians -- and then must use this knowledge to excavate historical sites in the areas of these civilizations.  Periodically, there are expositions at major European cities, and the archaeologist who shows up on time with the best collection of artifacts (plus a minor die roll) wins the purse.  The archaeologist who learns the most about the civilizations, claims the greatest-valued artifacts, and presents the biggest collection to the European exhibitions will win out over his or her colleagues.&amp;#10;&amp;#10;The key element to the game is that it is played out over a period of two (or three) years, and each action a player performs takes a certain amount of time -- traveling is a week between cities, gathering knowledge takes time for the level of the knowledge, and actually digging at a cultural site takes time to yield a certain number of artifact cards.  The game uses a novel mechanic to keep track of this -- there is a track of 52 spaces around the outside of the board, and each time a player moves and takes an action, he or she moves their player token forward in time.  Players take turns based on being the one who is furthest back in &amp;quot;time&amp;quot;.  So, a player can go to an excavation site and spend 10 weeks digging for artifacts, but that will also mean that the other players will likely be taking several actions in the interim while that player waits for the &amp;quot;time&amp;quot; to catch up.&amp;#10;&amp;#10;In addition, the artifact cards in each civilization are a hidden number.  The deck for each civilization contains twelve treasures of varying point values and two knowledge cards, with another sixteen cards of dirt.  At the beginning of the game, seven cards are removed from each deck without the players seeing them.  Through the course of the game, when a player excavates at a site, he or she keeps the artifacts that are revealed from a site, but the dirt is shuffled back into the remaining cards.  Both the imperfect information element as well as the recycled dirt make for a random chance element that is overcome somewhat by digging at a site where a player has much knowledge -- more knowledge means that more cards will be revealed in a shorter period of time, and a greater chance of revealing treasures that may yet remain after another player has already recovered some treasures from that site.&amp;#10;&amp;#10;The original run of Jenseits von Theben was hand-produced by Prinz Spiele in a first edition of 100, and a second edition of 300.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Thebes&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2663" value="Turn Order: Time Track" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="30869" value="Thebes" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4299" value="Peter Prinz" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3110" value="Prinz Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="559" />
+			<average value="7.13097" />
+			<bayesaverage value="5.85729" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3640" bayesaverage="5.85729" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1474" bayesaverage="5.97205" />
+												</ranks>
+
+			<stddev value="1.22285" />
+			<median value="0" />
+			<owned value="563" />
+			<trading value="23" />
+			<wanting value="32" />
+			<wishing value="137" />
+			<numcomments value="206" />
+			<numweights value="66" />
+			<averageweight value="2.4242" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

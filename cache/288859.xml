@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="288859">
+         <thumbnail>https://cf.geekdo-images.com/vBbDKu7-dyKdVVIRl3pcVg__thumb/img/BZKKUPexGkJIMdNRajGpnwazNSg=/fit-in/200x150/filters:strip_icc()/pic4995935.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/vBbDKu7-dyKdVVIRl3pcVg__original/img/4ksS3XnDOKiQtwk6OCPKdcAuC6E=/0x0/filters:format(jpeg)/pic4995935.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hungry Hugo" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Den hongeregen Hugo" />
+			
+						               													<description>Hungry Hugo is a card and dice game. Every player starts with a hut (consisting of 5 parts), an empty garden, with 5 spaces for nice garden d&amp;eacute;cor and 3 action cards, which can be: Build (d&amp;eacute;cor), Move (the sleeping monkey), Wake (the monkey), Banana (for bad times).&amp;#10;&amp;#10;In the middle of the table, there are 20 &amp;ldquo;BEAUTIFUL THINGS&amp;rdquo; (garden d&amp;eacute;cor standees), which players can build in their gardens. The first players, who has 5 &amp;quot;BEAUTIFUL THINGS&amp;quot; in his garden, wins the game.&amp;#10;&amp;#10;Sounds easy? There&amp;rsquo;s a little snag. The snag is called Hugo, and is 3 meters high. This monkey is always hungry &amp;hellip; when he&amp;rsquo;s awake. Fortunately he sleeps most of the time. &amp;#10;The game is played turn by turn. In his turn a player can play 1 action card, or discard 1 action card, and draw a new card (hand = 3 cards).&amp;#10;As an action you can BUILD a beautiful thing into your garden - but only if the monkey is not in front of your hut. Another possible action is to MOVE the sleeping monkey to another players hut. Or, you can WAKE up the monkey, when he&amp;rsquo;s at anothers players hut.&amp;#10;If someone plays a WAKE card, he rolls the HUGO DICE, to see what the monkey will do. The dice has 4 sides with HOT HUNGER, which means, Hugo will eat one of your BEAUTIFUL THINGS. 1 other side shows a sleeping Hugo, which means, Hugo felt immediately back into his dreams, the guy in the hut is lucky, and nothing else happens in this turn. The last side of the dice is I SEE YOU, which means Hugo noticed the active player, while waking him up, and follows him to his hut. &amp;#10;And what about the banana? You can keep these cards in your hand, to give it to Hugo in a HOT HUNGER Situation, so that he can eat it &amp;hellip; instead of your garden d&amp;eacute;cor. &amp;#10;And so players will build d&amp;eacute;cor, push the sleeping Hugo back and forth, collect bananas and hope not the have the monkey in front of their huts, when he awakes hungry. Every eaten thing comes out of the game, so the game ends, if someone has a full garden (5 beautiful things), or if no beautiful things are in stock (in the middle). In this case, the player with the most beautiful things wins. In case of a tie, the winner will be the one who&amp;rsquo;s furthest away from Hugo.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="641" value="No necessary in-game text" numvotes="0" />
+					<result level="642" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="643" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="644" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="645" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="100253" value="Jens Merkl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78073" value="Jean-Claude Pellin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31716" value="Gediminas Akelaitis" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8398" value="LOGIS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4683" value="Ludolux" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="5.945" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.81727" />
+			<median value="0" />
+			<owned value="33" />
+			<trading value="1" />
+			<wanting value="7" />
+			<wishing value="27" />
+			<numcomments value="9" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

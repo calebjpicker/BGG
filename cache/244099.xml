@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="244099">
+         <thumbnail>https://cf.geekdo-images.com/9-iJIeDAHRkhnUkPVnjMTA__thumb/img/YZVc-aqS0BTUExZoEUio7nLP78Q=/fit-in/200x150/filters:strip_icc()/pic4066833.png</thumbnail>
+      <image>https://cf.geekdo-images.com/9-iJIeDAHRkhnUkPVnjMTA__original/img/qgVRMu_QB3ZTZd7r-U9gfCzHuCE=/0x0/filters:format(png)/pic4066833.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Herbaceous Sprouts" />
+			
+						                           
+						               													<description>A FLAVORFUL DICE GAME&amp;#10;Everyone has a green thumb when playing Herbaceous Sprouts. Unwind while enjoying this beautiful and thoughtful game of collecting seeds, using tools, and growing sprouts in the community garden. Gather your seeds and tools from the shed, but don&amp;rsquo;t take too long or your friend might become the Head Gardener first.&amp;#10;&amp;#10;OBJECTIVE&amp;#10;Become the Head Gardener by collecting herb and flower seeds and using your garden tools to plant in the community garden and scoring the most points. Each round, gardeners take turns collecting herb and flower seeds (represented by dice) which they place and save in their wheelbarrow, as well as tools (represented by cards) which they use to plant sprouts. Players can plant quickly for low point spots, or push their luck saving their seeds for premier spots in the garden.&amp;#10;&amp;#10;GAMEPLAY&amp;#10;Herbaceous Sprouts is played over a series of rounds, each with a different Lead Gardener. When the last Tool Cards are used, the game ends the final score is tallied.&amp;#10;&amp;#10;Each round has three phases:&amp;#10;&amp;#10;     Phase 1: Preparing the Tool Shed&amp;#10;     Phase 2: Picking and Planting Seeds&amp;#10;     Phase 3: Clean Up&amp;#10;&amp;#10;&amp;#10;PHASE 1: Preparing the Tool Shed&amp;#10;This phase is performed by the Lead Gardener of the current round. They set up the Tool Cards and Seed Dice for the round.&amp;#10;&amp;#10;PHASE 2: Picking and Planting Seeds&amp;#10;In this phase, all players take turns picking resources from the shed and planting in the community garden. Starting with the Lead Gardener and moving clockwise, each player takes a turn. &amp;#10;Each player performs the following steps, in this order:&amp;#10;&amp;#10;&amp;#10;    A. Take a Tool Card &amp;amp; Seed Dice from the Tool Shed&amp;#10;    B. Add Seeds to the Wheelbarrow&amp;#10;    C. Perform Special Actions&amp;#10;    D. Plant Herb and Flower Seeds&amp;#10;&amp;#10;&amp;#10;PHASE 3: Clean Up&amp;#10;Players set up for the next round, or proceed to End Game scoring.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="386" value="No necessary in-game text" numvotes="0" />
+					<result level="387" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="388" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="389" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="390" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64953" value="Game: Herbaceous" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270727" value="Herbaceous Sprouts: Green Thumb Mini Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62511" value="Eduardo Baraf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10060" value="Steve Finn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28987" value="Pencil First Games, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="808" />
+			<average value="7.01787" />
+			<bayesaverage value="5.93615" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3128" bayesaverage="5.93615" />
+												</ranks>
+
+			<stddev value="1.11317" />
+			<median value="0" />
+			<owned value="1847" />
+			<trading value="41" />
+			<wanting value="75" />
+			<wishing value="510" />
+			<numcomments value="235" />
+			<numweights value="25" />
+			<averageweight value="1.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

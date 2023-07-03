@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="179275">
+         <thumbnail>https://cf.geekdo-images.com/quvyGpE7kwbd2Mt1H5iLwQ__thumb/img/Vf5PvYElsfOG28LqJimwPC6rqw4=/fit-in/200x150/filters:strip_icc()/pic3019101.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/quvyGpE7kwbd2Mt1H5iLwQ__original/img/pjwQVzsCHiXg8qFTZpVoJYx6SOE=/0x0/filters:format(jpeg)/pic3019101.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="One Deck Dungeon" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Karciane Podziemia" />
+			    				
+				<name type="alternate" sortindex="1" value="Winziges Verlies" />
+			    				
+				<name type="alternate" sortindex="1" value="迷你地下城" />
+			
+						               													<description>One Deck Dungeon is a card game &amp;quot;roguelike&amp;quot; &amp;mdash; a dungeon delve that is different every time, difficult to survive, with a character you build up from scratch. The deck consists of various foes to combat and other perils from the dungeon. Each card, though, depicts both the obstacle to overcome and the potential rewards for doing so. When you defeat a card, you claim it as either experience, an item, or a skill, tucking it under the appropriate side of your character card to show its benefits.&amp;#10;&amp;#10;The longer you take exploring the dungeon, the deeper you'll delve, and the difficulty will scale up quickly! If you make it far enough, you'll have to fight the dungeon boss. Survive, and you'll be a legend!&amp;#10;&amp;#10;One Deck Dungeon is designed for 1-2 players. With multiple sets, you can add more players.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="208">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="160" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="101" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="108" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="54">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="16" />
+					<result value="10" numvotes="20" />
+					<result value="12" numvotes="16" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="966" value="No necessary in-game text" numvotes="0" />
+					<result level="967" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="968" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="13" />
+					<result level="969" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="970" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79059" value="Series: One Deck  (Asmadi Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73724" value="Theme: Boss Battle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295146" value="One Deck Dungeon: Abyssal Depths" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256224" value="One Deck Dungeon: Caliana" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368337" value="One Deck Dungeon: Felisi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286136" value="One Deck Dungeon: Mist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255353" value="One Deck Dungeon: Phoenix's Den" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321549" value="One Deck Dungeon: Witch" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="233617" value="One Deck Dungeon: Forest of Shadows – Neoprene Playmat" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="224821" value="One Deck Dungeon: Forest of Shadows" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7011" value="Chris Cieslik" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73851" value="Alanna Cervenak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="83354" value="Will Pitzer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5407" value="Asmadi Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30713" value="Magic Store Srl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37959" value="MS Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15906" value="Nuts! Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10661" />
+			<average value="6.97142" />
+			<bayesaverage value="6.6901" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="830" bayesaverage="6.6901" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="226" bayesaverage="6.75004" />
+												</ranks>
+
+			<stddev value="1.32155" />
+			<median value="0" />
+			<owned value="21912" />
+			<trading value="579" />
+			<wanting value="264" />
+			<wishing value="3097" />
+			<numcomments value="2401" />
+			<numweights value="280" />
+			<averageweight value="2.0679" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

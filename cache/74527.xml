@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="74527">
+                                     				
+				<name type="primary" sortindex="1" value="Crouch Touch Engage Rugby" />
+			
+						                           
+						               													<description>Touch, Crouch, Engage Rugby is an easy to learn replay game on rugby, featuring complete statistical data for all the Five Nations and Six Nations tournaments from 1980 till 2010.&amp;#10;Each match is resolved with a few dice rolls and you may able to replay an entire tournament in fifteen minutes!!&amp;#10;It uses a derivation of the system premiered in Dream to end all dreams: World Cup Soccer, more developed to take in account the peculiar key aspects of rugby.&amp;#10;First step is to compare the Attack class of the first team against the Defense class of the opponent (both indicated by a letter on the data sheet for the tournament chosen). Calculate the difference between the higher class and the inferior, divide by two the result (rounding up toward the inferior value) and take this number as a column shift from the higher value toward the inferior value (see the example below, for a clearer explanation). Now, roll 2 6-sided die on the &amp;quot;Tries Table&amp;quot; to see how many tries that team has scored in the match. Then, check the &amp;quot;conversion percentage&amp;quot; of that team and roll a percentage dice (ie. two 10-sided dice, reading one of them as &amp;quot;tens&amp;quot;) for each try scored: if the roll is inside the percentage value, the try is succesfully converted (add two points to team's score); otherwise, conversion kick is failed. Then, check the &amp;quot;Three points&amp;quot; value of the team to see how many penalty kicks/drops have been scored during the match. Roll 1 10-sided die on the correct column of the &amp;quot;3-points Table&amp;quot;, multiply by 3 the number obtained and add that result to the points scored by that team to reach its total for the match. Repeat this procedure for the opposing team and you will get the final result of the match.&amp;#10;&amp;#10;A separate expansion set contains data for all the World Cup and the Tri Nations tournaments&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5573" value="Sports: Rugby" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8869" value="Roberto Chiavini" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6597" value="TCS Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

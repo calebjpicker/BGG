@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="27833">
+         <thumbnail>https://cf.geekdo-images.com/IB38fOp0mTvFuvfdHczf0Q__thumb/img/UpyU-hvpdn3Q2b4Y486w2M3CO8I=/fit-in/200x150/filters:strip_icc()/pic392515.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IB38fOp0mTvFuvfdHczf0Q__original/img/SN5DSgS5Z0GOEzTBulGgX3faHCA=/0x0/filters:format(jpeg)/pic392515.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Steam" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Martin Wallace&#039;s Totally Renamed Train Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Raíles: Millonarios del Vapor" />
+			    				
+				<name type="alternate" sortindex="1" value="Steam. Железнодорожный магнат" />
+			    				
+				<name type="alternate" sortindex="1" value="Steam: Auf Schienen zum Ruhm" />
+			    				
+				<name type="alternate" sortindex="1" value="Steam: Les voies de la richesse" />
+			    				
+				<name type="alternate" sortindex="1" value="Steam: Rails to Riches" />
+			    				
+				<name type="alternate" sortindex="1" value="Steam: Wyścig do Bogactwa" />
+			    				
+				<name type="alternate" sortindex="1" value="Stoom: Rails, Roem en Rijkdom" />
+			    				
+				<name type="alternate" sortindex="1" value="蒸汽：致富之道" />
+			
+						               													<description>In Steam you build railroads and deliver goods along an ever changing network of tracks and stations. You build the tracks, upgrade towns, improve your train, and grab the right goods to make the longest, most profitable deliveries. Score your deliveries and add to your income or victory points, balancing your need to invest against your quest to win the game.&amp;#10;&amp;#10;Steam contains a beautiful, double-sided game board. The map on each side depicts terrain, towns, and cities at the start of the railway age. The map of the northeastern USA and neighboring Canada is ideal for 3 or 4 players. Use the map of Europe's lower Rhine and Ruhr region when playing a 4 or 5 player game. You can play Steam on any number of current and future variant and expansion maps, so we include pieces for 6 players.&amp;#10;&amp;#10;The game plays very similarly to Age of Steam but with modifications to some of its mechanics and artwork. Tracks for income, train level, etc. are all printed on the board around the map such that alternate maps can be overlaid on the board and the necessary tracks will still be able to be used.&amp;#10;&amp;#10;Similar to:&amp;#10;&amp;#10;     Railways of the World&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="126">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="53" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="71" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="93" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="15" />
+					<result value="14" numvotes="8" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="36">
+			
+		<results>		
+					<result level="581" value="No necessary in-game text" numvotes="36" />
+					<result level="582" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="583" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="584" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="585" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2904" value="Loans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6135" value="Game: Steam" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="23189" value="Age of Steam Expansion: 1830's Pennsylvania / Northern California" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="47687" value="Age of Steam Expansion: 1867 Georgia Reconstruction, South Carolina &amp; Oklahoma Land Rush" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101082" value="Age of Steam Expansion: African Diamond Mines &amp; Taiwan Cube Factories" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="47686" value="Age of Steam Expansion: Alabama Railways, Antebellum Louisiana &amp; Four Corners" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="75825" value="Age of Steam Expansion: Amazon Rainforest &amp; Sahara Desert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30930" value="Age of Steam Expansion: America / Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="76727" value="Age of Steam Expansion: Atlantis &amp; Trisland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101081" value="Age of Steam Expansion: Australia &amp; Tasmania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30929" value="Age of Steam Expansion: Barbados / St. Lucia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="19983" value="Age of Steam Expansion: Bay Area" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="47689" value="Age of Steam Expansion: Beer &amp; Pretzels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="74493" value="Age of Steam Expansion: California Gold Rush &amp; Underground Railroad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="25193" value="Age of Steam Expansion: Disco Inferno / Soul Train" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30928" value="Age of Steam Expansion: Jamaica / Puerto Rico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="27520" value="Age of Steam Expansion: Mississippi Steamboats / Golden Spike" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101083" value="Age of Steam Expansion: Orient Express &amp; Disoriented Express" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101080" value="Age of Steam Expansion: Outer Space &amp; Reversteam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="43242" value="Age of Steam Expansion: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37326" value="Age of Steam Expansion: Secret Blueprints of Steam Plans 1 &amp; 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="78386" value="Age of Steam Expansion: Sharing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37325" value="Age of Steam Expansion: Special 2008 Spiel Limited Edition – Essen Spiel &amp; Secret Blueprints of Steam Plan #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37302" value="Age of Steam Expansion: Vermont, New Hampshire &amp; Central New England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="144851" value="Mayfair Game Variants &amp; Mini-Expansions Set #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151124" value="Mayfair Games Limited Edition Promo Expansion Set #5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172825" value="Mayfair Games' Limited Edition Promo Expansion Set #15" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="103365" value="Ni'ihau: A Solitaire map for Steam (fan expansion for Steam)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="56890" value="Steam Barons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="88431" value="Steam Expansion: Andalusia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="103935" value="Steam Expansion: Isle of Wight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="75690" value="Steam Expansion: Sardinia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="74635" value="Steam Expansion: Sicily &amp; Malta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="145131" value="Steam: City Growth Special Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172827" value="Steam: Demanding Suppliers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130463" value="Steam: Five Way Town" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="93544" value="Steam: Map Expansion #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="109144" value="Steam: Map Expansion #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137906" value="Steam: Map Expansion #3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="152166" value="Steam: Map Expansion #4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="173650" value="Steam: Map Expansion #5" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139598" value="Miscellaneous: Premium Wooden Train Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139656" value="Miscellaneous: Wooden Train Token Set (50 Pack)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138351" value="Steam: Locomotive Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="4098" value="Age of Steam" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6" value="Martin Wallace" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17055" value="John Austin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12193" value="Jared Blando" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36203" value="Craig Hamilton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="5249" value="Christopher Moeller" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="855" value="Phalanx Games B.V." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8450" value="Phalanx Games Deutschland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9426" value="Phalanx Games Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10067" />
+			<average value="7.56468" />
+			<bayesaverage value="7.22428" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="258" bayesaverage="7.22428" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="170" bayesaverage="7.30793" />
+												</ranks>
+
+			<stddev value="1.355" />
+			<median value="0" />
+			<owned value="11021" />
+			<trading value="395" />
+			<wanting value="390" />
+			<wishing value="2194" />
+			<numcomments value="2304" />
+			<numweights value="694" />
+			<averageweight value="3.4568" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

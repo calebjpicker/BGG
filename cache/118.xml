@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="118">
+         <thumbnail>https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__thumb/img/AUqMholGVlwXLjMcxwiziE_7Ffw=/fit-in/200x150/filters:strip_icc()/pic3458036.png</thumbnail>
+      <image>https://cf.geekdo-images.com/wLto-xaabHwKQe_Bc4iD1Q__original/img/s3Gai8XBTVfWFFlYpL4XF3kIlWU=/0x0/filters:format(png)/pic3458036.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Modern Art" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Art Moderne" />
+			    				
+				<name type="alternate" sortindex="1" value="Arte Moderna" />
+			    				
+				<name type="alternate" sortindex="1" value="Arte Moderno" />
+			    				
+				<name type="alternate" sortindex="1" value="Современное искусство" />
+			    				
+				<name type="alternate" sortindex="1" value="هنر مدرن" />
+			    				
+				<name type="alternate" sortindex="1" value="スタンプス (Stamps)" />
+			    				
+				<name type="alternate" sortindex="1" value="モダンアート" />
+			    				
+				<name type="alternate" sortindex="1" value="現代藝術 (现代艺术)" />
+			
+						               													<description>Buying and selling paintings can be a very lucrative business.  Five different artists have produced a bunch of paintings, and it's the player's task to be both the buyer and the seller, hopefully making a profit in both roles.  He does this by putting a painting from his hand up for auction each turn.  He gets the money if some other player buys it, but must pay the bank if he buys it for himself.  After each round, paintings are valued by the number of paintings of that type that were sold.  The broker with the most cash after four rounds is the winner.&amp;#10;&amp;#10;Part of the Knizia auction trilogy.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1992" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="319">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="207" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="210" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="153" />
+					<result value="Not Recommended" numvotes="89" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="190" />
+					<result value="Recommended" numvotes="103" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="212" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="145" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="55">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="22" />
+					<result value="12" numvotes="22" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="68">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="61" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2918" value="Auction: English" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2923" value="Auction: Once Around" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2920" value="Auction: Sealed Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71084" value="Series: Book Box (DiceTree)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75406" value="Theme: Fine Art and Art Museums" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39521" value="Theme: Painting / Paintings" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="379576" value="Modern Art: Cinder &amp; Ember Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343291" value="Modern Art: Korean Artist Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="40381" value="Modern Art Card Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="16908" value="Carole Carrion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="96304" value="Manuel Carvalho" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104188" value="Chen Cheng-po" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11858" value="Mike Doyle (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13034" value="Pete Fenlon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115623" value="Gianfranco Giordano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37840" value="Paul Laane" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99444" value="Ramon Martins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99446" value="Daniel Melim" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99445" value="Rafael Silveira" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99443" value="Sigrid Thaler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35684" value="Zeilbeck &amp; Natzeck Design Company" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36401" value="Arrakis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23205" value="DiceTree Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24215" value="Drosselmeyer &amp; Co. Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22650" value="GeGe Co. Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40841" value="Land of Beautiful Mind (سرزمین ذهن زیبا)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6267" value="Odysseia Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22649" value="Oink Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33999" value="Phantasia Co., Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20843" />
+			<average value="7.48266" />
+			<bayesaverage value="7.2937" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="212" bayesaverage="7.2937" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="161" bayesaverage="7.32347" />
+												</ranks>
+
+			<stddev value="1.32182" />
+			<median value="0" />
+			<owned value="26501" />
+			<trading value="483" />
+			<wanting value="846" />
+			<wishing value="4988" />
+			<numcomments value="5086" />
+			<numweights value="1459" />
+			<averageweight value="2.2899" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

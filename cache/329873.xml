@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="329873">
+         <thumbnail>https://cf.geekdo-images.com/9UMK8dvUyDuUYwaMh59Hvw__thumb/img/b7X6bWORWAiFfjnUh13W3jg9mtQ=/fit-in/200x150/filters:strip_icc()/pic5945719.png</thumbnail>
+      <image>https://cf.geekdo-images.com/9UMK8dvUyDuUYwaMh59Hvw__original/img/CLMopRW1HDpA53PWi62m5Zs_1No=/0x0/filters:format(png)/pic5945719.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Grove: A 9 card solitaire game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Citrusy" />
+			    				
+				<name type="alternate" sortindex="1" value="Grove: Een uitdagend kaartspel voor 1 speler" />
+			    				
+				<name type="alternate" sortindex="1" value="Grove: Gioco solitario in 9 carte" />
+			    				
+				<name type="alternate" sortindex="1" value="GROVE: un juego en solitario de 9 cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="Hortis" />
+			    				
+				<name type="alternate" sortindex="1" value="Liget: Egyszemélyes szüret" />
+			    				
+				<name type="alternate" sortindex="1" value="Zitrushain" />
+			    				
+				<name type="alternate" sortindex="1" value="Περιβόλι" />
+			
+						               													<description>Grove is the citrusy sequel to the award winning Orchard 9 card solitaire game. &amp;#10;Its 18 cards feature orange, lemon and lime trees and a new 'wild card' element, glades. These open spaces without trees, combined with a new scoring mechanic, offer more ways and opportunities to increase your harvest and create a greater variety of gameplay and strategies compared to Orchard.&amp;#10;You'll also find a cheeky squirrrel, who can either help or hinder your fruit picking, as well as a wheelbarrow - useful if you manage to get an extra large haul.&amp;#10;&amp;#10;The card backs feature recipe challenges with various scoring conditions and target scores. These provide a win/lose condition (as an alternative to the standard game's &amp;lsquo;beat your score&amp;rsquo;) for those that prefer it - and add even more variety to the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="1" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65208" value="Mechanism: Partially overlapping cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73392" value="Players: Solitaire Only Card Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="245487" value="Orchard: A 9 card solitaire game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="90925" value="Mark Tuck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="90925" value="Mark Tuck" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39453" value="Side Room Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36754" value="Board Game Circus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46459" value="Giga Mech Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42352" value="Meeple On Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45074" value="Melmac Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22651" value="Origames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41423" value="TLAMA games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1028" />
+			<average value="7.79956" />
+			<bayesaverage value="6.27442" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1695" bayesaverage="6.27442" />
+												</ranks>
+
+			<stddev value="1.00179" />
+			<median value="0" />
+			<owned value="3062" />
+			<trading value="17" />
+			<wanting value="50" />
+			<wishing value="471" />
+			<numcomments value="262" />
+			<numweights value="32" />
+			<averageweight value="1.4375" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

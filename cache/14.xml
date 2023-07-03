@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="14">
+         <thumbnail>https://cf.geekdo-images.com/TFsXHCy5o7paWDX2RqHkZA__thumb/img/xSw4hvYLFbJbsYUYz14pwitbjFI=/fit-in/200x150/filters:strip_icc()/pic147370.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TFsXHCy5o7paWDX2RqHkZA__original/img/j5BnK3mj-9oxq_qxRgSTJzVVQ08=/0x0/filters:format(jpeg)/pic147370.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Basari" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="バザリ" />
+			
+						               													<description>Basari is a game of gem merchants competing in a marketplace&amp;quot;: racing, collecting, trading, and predicting what the other merchants will do.&amp;#10;&amp;#10;To start the game, players receive 12 gemstones (3 each of 4 colors). &amp;#10;Each turn there will be a movement phase and an action phase:&amp;#10;&amp;#10;For movement, everyone simultaneously rolls their die and moves their markers around a track.&amp;#10;&amp;#10;They then choose one of three different actions to perform. The actions are:&amp;#10;- to take a variety of gems from a market stall, &amp;#10;- to immediately score from between 4 and 7 points, or &amp;#10;- to roll and move again and also collect points.&amp;#10;&amp;#10;The action cards are revealed simultaneously. If only 1 player chose a particular action, they simply perform that action. If 2 players chose the same action, they barter back and forth with gemstones. One player will eventually accept the other's offer of gems, and the other will take the action. If 3 or 4 players all chose the same action card, that action is cancelled. Note that in 4-player games, there will always be a conflict in choice of 3 actions, so much more negotiating goes on.&amp;#10;&amp;#10;A new turn begins with everyone rolling their die, moving, then choosing and revealing their action cards. When any merchant piece completes a lap around the board, the round ends and bonus points are awarded based on who has the majority in each gem color and who has completed a lap. After three rounds, the game is over and the highest score wins.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;&amp;#10;     Edel, Stein &amp; Reich&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1998" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="41">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="25" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="7" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67862" value="Occupation: Merchant" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="152567" value="Basari: Das Kartenspiel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5781" value="Edel, Stein &amp; Reich" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12" value="Reinhard Staupe" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6815" value="John Kovalic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37332" value="Lüders &amp; Baran" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17547" value="Stefan Theurer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48" value="Out of the Box Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1685" />
+			<average value="6.74971" />
+			<bayesaverage value="6.08218" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2386" bayesaverage="6.08218" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1142" bayesaverage="6.18846" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="698" bayesaverage="6.20489" />
+												</ranks>
+
+			<stddev value="1.217" />
+			<median value="0" />
+			<owned value="1961" />
+			<trading value="89" />
+			<wanting value="48" />
+			<wishing value="211" />
+			<numcomments value="679" />
+			<numweights value="182" />
+			<averageweight value="1.8571" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

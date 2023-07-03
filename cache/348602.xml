@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="348602">
+         <thumbnail>https://cf.geekdo-images.com/daGtM5dXQR5LslGyvz5Y4A__thumb/img/poVZNzwfevs-dn-opn1O9TUyTgs=/fit-in/200x150/filters:strip_icc()/pic7477967.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/daGtM5dXQR5LslGyvz5Y4A__original/img/-5gFTfdepDHu3be44vnriP8PUkU=/0x0/filters:format(jpeg)/pic7477967.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Illiterati" />
+			
+						                           
+						               													<description>The Illiterati are an evil secret organization that has taken over the world. Your job as a member of the League of Librarians is to save the world's books &amp;mdash; one word at a time.&amp;#10;&amp;#10;Illiterati is a real-time, co-operative word game in which players work together to form words and bind books. Each player starts the game with five letter tiles and a red torched book that shows a condition that player must achieve to restore that book, e.g. using 8+ tiles with at least 3 green symbols, create words that are all animals. A library of three random tiles is placed in the center of the table. The game takes place in three-minute rounds, and before the round begins each player draw seven letter tiles from the draw bag.&amp;#10;&amp;#10;Once the countdown begins, players can talk and trade letters as much as they want with one another and the library to try to achieve their goal. Once time ends, if the library contains too many letters &amp;mdash; and this threshold is based on your difficulty level &amp;mdash; then you trigger a burn event. Flip all of these letters face down, then remove one of them from the game, then discard excess letters to the discard bag. If you burn too many letters, you lose the game. If you didn't burn any letters and you've completed your goal, flip your red book face down and draw a blue waterlogged book to give yourself a new goal.&amp;#10;&amp;#10;At the end of the round, draw an illiterati villain card and resolve its effect. If you've drawn this villain previously &amp;mdash; and the deck contains five copies of five villains &amp;mdash; then all of the previous effects from this villain also resolve in a chain attack from newest to oldest. Villain attacks often strip letters from words, which means you'll need to create new words with what's left during the next round to avoid burning another letter.&amp;#10;&amp;#10;Once all players have completed two books &amp;mdash; or three or four depending on your difficulty level &amp;mdash; draw one more book, the Final Chapter, with all players needing to complete this challenge in the same round, e.g., using 12+ tiles, create words in which all of your vowels are the same color. If all players meet this goal during the same round, you win; if even one person fails, another villain attacks, then you draw new tiles to start another round. You can discard and redraw up to seven tiles at the start of a round, but you must draw a second illiterati villain card that round &amp;mdash; and if the villain deck runs out, you lose.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60939" value="Theme: Books / Libraries" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62039" value="Word Games: Spelling / Letters" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="123318" value="Gary Alaka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="112612" value="Rob Chew" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="112611" value="Jon Kang" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="112613" value="Audrey Jung" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40053" value="Gap Closer Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="296" />
+			<average value="7.66546" />
+			<bayesaverage value="5.74868" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4709" bayesaverage="5.74868" />
+												</ranks>
+
+			<stddev value="1.26353" />
+			<median value="0" />
+			<owned value="1203" />
+			<trading value="12" />
+			<wanting value="49" />
+			<wishing value="281" />
+			<numcomments value="131" />
+			<numweights value="8" />
+			<averageweight value="2.125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

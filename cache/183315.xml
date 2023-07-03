@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="183315">
+         <thumbnail>https://cf.geekdo-images.com/mNDTN0q3NjcBeBC-3O6pWw__thumb/img/ajIMpDPug2fgGU21mjehpPxNMeQ=/fit-in/200x150/filters:strip_icc()/pic6858642.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mNDTN0q3NjcBeBC-3O6pWw__original/img/5ber3TdyyRbWlKQV4DNPEGXQ08M=/0x0/filters:format(jpeg)/pic6858642.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tetrarchia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="四帝共治" />
+			
+						               													<description>By the end of the III century the Roman Empire is doomed. Enemies surround the borders, instability spreads over the provinces, and whenever a Roman Emperor fights a threat, usurpers take his place in Rome. The Emperor Diocletian only sees one revolutionary way out: share the power with Maximian, Constantius and Galerius, forming the first 'Tetrarchy'. Now their enemies are doomed...&amp;#10;&amp;#10;TETRARCHIA (&amp;quot;rule of four&amp;quot; in Latin) is a cooperative game in which 1 to 4 players take the role of the 4 Emperors, fighting the revolts within the Empire and the Barbarian armies that try to bring it down. With easy rules, the core engine leads to very different games full of interesting choices, with up to 81 difficulty levels. The Draco Ideas edition also includes:&amp;#10;&amp;#10;- The Dux expansion, now with 4 independent modules (Dux, Vicarius, Pirates and Goths).&amp;#10;- Plus 6 independent variants, including a new competitive one (Barbaria) that holds up to 5 players.&amp;#10;- Plus 4 updated historical scenarios (Carausian revolt, Danubian Wars, Mauretanian War and Great Persian War).&amp;#10;&amp;#10;The combinations are countless! The flow of each Emperor's turn is very simple: spend up to 6 'Imperivm Points' (to Move, Sail, Secure, Subdue or Attack), and then propagate threats with the roll of two dice. The players win if they secure the borders of the Empire before the majority of provinces revolt or Rome falls.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="4" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58534" value="History: Roman Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="208704" value="Tetrarchia: Dux" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="351418" value="Tetrarchia: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51899" value="Miguel Marqués" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105707" value="Paco Arenas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86131" value="Matias Cazorla" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51899" value="Miguel Marqués" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28788" value="Draco Ideas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7251" value="Giochix.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="488" />
+			<average value="7.65697" />
+			<bayesaverage value="5.89467" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3386" bayesaverage="5.89467" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="436" bayesaverage="6.55522" />
+												</ranks>
+
+			<stddev value="1.06881" />
+			<median value="0" />
+			<owned value="1097" />
+			<trading value="19" />
+			<wanting value="108" />
+			<wishing value="517" />
+			<numcomments value="156" />
+			<numweights value="28" />
+			<averageweight value="2.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="221194">
+         <thumbnail>https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__thumb/img/cHgvJgF-Gr6mgDKj51uPoqbjHQk=/fit-in/200x150/filters:strip_icc()/pic3429338.png</thumbnail>
+      <image>https://cf.geekdo-images.com/hLJv1A1TwrMrLLIJhVpKVA__original/img/LXqkRZSyg3hRMJlUMm2m83gmi_s=/0x0/filters:format(png)/pic3429338.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dinosaur Island" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ilha dos Dinossauros" />
+			    				
+				<name type="alternate" sortindex="1" value="Wyspa dinozaurów" />
+			    				
+				<name type="alternate" sortindex="1" value="Остров юрского периода" />
+			    				
+				<name type="alternate" sortindex="1" value="ダイナソー・アイランド　第２版" />
+			    				
+				<name type="alternate" sortindex="1" value="恐龍島 Dinosaur Island" />
+			    				
+				<name type="alternate" sortindex="1" value="공룡섬" />
+			
+						               													<description>In Dinosaur Island, players will have to collect DNA, research the DNA sequences of extinct dinosaur species, and then combine the ancient DNA in the correct sequence to bring these prehistoric creatures back to life. Dino cooking! All players will compete to build the most thrilling park each season, and then work to attract (and keep alive!) the most visitors each season that the park opens.&amp;#10;&amp;#10;Do you go big and create a pack of Velociraptors? They'll definitely excite potential visitors, but you'd better make a large enough enclosure for them. And maybe hire some (read: a lot of) security. Or they WILL break out and start eating your visitors, and we all know how that ends. You could play it safe and grow a bunch of herbivores, but then you aren't going to have the most exciting park in the world (sad face). So maybe buy a roller coaster or two to attract visitors to your park the good old-fashioned way?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="173">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="103" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="77" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="60" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="62" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="56">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="20" />
+					<result value="12" numvotes="22" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="1186" value="No necessary in-game text" numvotes="0" />
+					<result level="1187" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="1188" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="1189" value="Extensive use of text - massive conversion needed to be playable" numvotes="8" />
+					<result level="1190" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7559" value="Animals: Dinosaurs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64997" value="Components: Meeples (Dinosaur) / Dinomeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56992" value="Game: Dinosaur Island/Dinosaur World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64968" value="Theme: Amusement Parks / Theme Parks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73290" value="Theme: Mad Science / Mad Scientist" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272394" value="Dinosaur Island:  Dice Tower – Mandi and Suzanne Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272395" value="Dinosaur Island:  Dice Tower – Sam and Zee Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272396" value="Dinosaur Island:  Dice Tower – Tom and Eric Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265086" value="Dinosaur Island: Dice Tower Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266839" value="Dinosaur Island: Mascot Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289938" value="Dinosaur Island: Space Dinosaur Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248591" value="Dinosaur Island: Totally Liquid" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367204" value="Dinosaur Island Totally Liquid: Laserox organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285325" value="Dinosaur Island: Broken Token Crate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285323" value="Dinosaur Island: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285326" value="Dinosaur Island: Broken Token V.I.P. Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="297601" value="Dinosaur Island: Custom Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="306379" value="Dinosaur Island: Dinomeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285973" value="Dinosaur Island: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308311" value="Dinosaur Island: GeekUp Bit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291050" value="Dinosaur Island: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367207" value="Dinosaur Island: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272015" value="Dinosaur Island: Meeple Realty Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285324" value="Dinosaur Island: Totally Liquid – Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365884" value="Dinosaur Island: Tower Rex Organizer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="247236" value="Duelosaur Island" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="318009" value="Dinosaur Island: Rawr 'n Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="317457" value="Dinosaur World" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12679" value="Jonathan Gilmour" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58135" value="Brian Lewis" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28024" value="Kwanchai Moriya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94542" value="Anthony Wocken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38809" value="Angry Lion Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47848" value="Asmodee China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32591" value="MeepleBR" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15333" />
+			<average value="7.6009" />
+			<bayesaverage value="7.31006" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="196" bayesaverage="7.31006" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="158" bayesaverage="7.33776" />
+												</ranks>
+
+			<stddev value="1.34204" />
+			<median value="0" />
+			<owned value="25187" />
+			<trading value="595" />
+			<wanting value="654" />
+			<wishing value="4875" />
+			<numcomments value="2727" />
+			<numweights value="439" />
+			<averageweight value="3.0387" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

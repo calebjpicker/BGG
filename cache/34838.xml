@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="34838">
+         <thumbnail>https://cf.geekdo-images.com/ZSHyNraJUYJZ2ixkRaESwA__thumb/img/14ThxTMRyQ-h-CgqtsEnlO8J7pE=/fit-in/200x150/filters:strip_icc()/pic303888.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ZSHyNraJUYJZ2ixkRaESwA__original/img/_A40WvejJGW9ki4piQUgp6WFviU=/0x0/filters:format(jpeg)/pic303888.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rex" />
+			
+						                           
+						               													<description>Rex was published by &amp;quot;Rex-Verlag Rudolf Schilling&amp;quot; in Frankfurt am Main, Germany in 1900. It can be described as a mixture between Salta from 1899, since the pieces of each player have to cross the board to the other side, and Chess, for the pieces have different value and represent General, Horse, Soldier etc.&amp;#10;&amp;#10;Unlike Chess, captured pieces are of a certain value (between 1 and 40!), and pieces all move in the same way (one step along the lines) crossing a grid of diagonally linked points in alternating dark and light rows. To start, pieces can jump from the &amp;quot;encampment&amp;quot; onto each of the points in the first row. Only pieces on dark points can be captured - obviously only by pieces on light points. After crossing the &amp;quot;battlefield&amp;quot;, they &amp;quot;jump off&amp;quot; into the opponent`s encampment, where they are safe.&amp;#10;The game ends, if one player cannot do a legal move anymore. The player with less lost points wins the game. But aware: Not only captured pieces score negative, also the pieces still in your own half (now the opponents`) are considered &amp;quot;captured&amp;quot;.&amp;#10;&amp;#10;There were different editions of the game, a more expensive one with 3-dimensional figures and a cheaper one with flat stones instead.&amp;#10;&amp;#10;In 1902 there was a second edition with simpler rules.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1900" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="3" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8090" value="Rex-Verlag Rudolf Schilling" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="5" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

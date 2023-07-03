@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="332347">
+         <thumbnail>https://cf.geekdo-images.com/6jSgu95a5AYpkMkfCmauEA__thumb/img/gR619kSq5etYGDcye6az2YsKUQc=/fit-in/200x150/filters:strip_icc()/pic6006442.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/6jSgu95a5AYpkMkfCmauEA__original/img/Y2-6-XMPJjJ6THWIa0uDopqDiEw=/0x0/filters:format(jpeg)/pic6006442.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ex nihilo" />
+			
+						                           
+						               													<description>Ex nihilo is a highly tactical and quite novel stack-fighting game with an emergent checkmate-esque win condition. The novelty of this game lies in its central gimmick: Every move consists in moving a stack. In this sense it is a pure movement game. Yet, the game features both placement and captures.&amp;#10;&amp;#10;Rules:&amp;#10;The game is for 2 players and is played with stackable pieces of two colors on a hexagonal arrangement of hexagons (a hexhex board). The board starts out empty. The game is over as soon as one player is unable to make a move. The other player is then the winner.&amp;#10;&amp;#10;Movement &amp;ndash; overview: &amp;#10;Stacks move along straight open lines and grow when they move away from the center cell. This game is unusual in allowing movement of stacks containing 0 pieces. It is by growing these that pieces get onto the board in the first place.&amp;#10;&amp;#10;Movement &amp;ndash; details: &amp;#10;On your turn, you must move a stack not topped by an enemy piece to an empty cell reachable through an unbroken line of empty cells. By convention, a single piece is considered a stack of size 1 and an empty cell is considered to contain a stack of size 0.&amp;#10;&amp;#10;If, after you have moved a stack, it is farther away from the center cell than before it was moved (measured in number of steps), its size is increased by 1 per step further away from the center it now is. This is effected by adding pieces to the top of it from your hand.&amp;#10;&amp;#10;You may move a proper part of a stack by splitting it.  That is, if a stack contains several pieces you can choose to only move the top n pieces, given that you do not change their order, for any number n less than the number of pieces in the stack.&amp;#10;&amp;#10;You may also move a whole stack, but only on the condition that you move it farther away from the center cell. A consequence is that moving a whole stack always results in its size increasing. Together with the convention that empty cells contain stacks of size 0, this also has the consequence that you can effectively place a new stack on the board by moving a stack of size 0.&amp;#10;&amp;#10;Note that nothing special happens to the cell you moved the 0-stack from &amp;ndash; it still contains a 0-stack.&amp;#10;&amp;#10;Capturing &amp;ndash; overview: &amp;#10;Flanked enemy stacks are captured by being taken hostage for a move. Capturing is obligatory: If a capturing move is available, a capturing move must be made.  The winner will be the player who manages to force their opponent to capture an immovable stack.&amp;#10;&amp;#10;Capturing &amp;ndash; details: &amp;#10;If (and only if) the top piece of a stack is of your color, it is said to partake in flanking an enemy stack if (i) this enemy stack is exactly in the middle of a line of otherwise empty cells going from the flanking stack to another one of your stacks, and (ii) all three of these stacks are of the same size.&amp;#10;&amp;#10;If, after you have moved a stack, it partakes in flanking one or more enemy stacks, you must immediately move one of these enemy stacks. Except for the obvious difference that you are moving an enemy stack, all normal rules apply to this move. For example: If the captured stack grows (if you move it farther away from the center cell, that is), it grows by the addition of pieces of your color, so situations where this hostage move must itself be a capturing move are possible. Such chaining of captures must continue until you capture a stack that is not in a position to continue the chain. Growing captured stacks is the only way to take ownership of them more permanently.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="133389" value="Michael Amundsen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

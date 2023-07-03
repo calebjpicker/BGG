@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="240">
+         <thumbnail>https://cf.geekdo-images.com/-M-1zs8oMttiUS2xd8qK4A__thumb/img/qjfnfPFYpTCgmvV9Yon2BDdy88Q=/fit-in/200x150/filters:strip_icc()/pic106711.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-M-1zs8oMttiUS2xd8qK4A__original/img/Hil6BWCATeo_bcRqRMHGhAsx_mw=/0x0/filters:format(jpeg)/pic106711.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Britannia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Britania" />
+			
+						               													<description>&amp;quot;Britannia&amp;quot; is a historical Strategic board-wargame that broadly depicts the millennia-long struggle for control of England, Scotland, and Wales. The game begins with the Roman invasion of 43 A.D., continues through the many struggles between Angles, Saxons, Picts, Norsemen, Scots, Irish, and other tribes, and ends with the Norman invasion of 1066.&amp;#10;&amp;#10;Britannia allows players to re-create this epic history, re-enacting important battles in some cases, altering the course of history in others. The game rules discourage players from making historically unrealistic moves, but also give players the freedom to alter Great Britain&amp;rsquo;s history in important ways, creating countless interesting &amp;ldquo;what if?&amp;rdquo; scenarios. What if Boudicca&amp;rsquo;s Revolt against the Romans had been more successful? What if the Romans and the Romano-British had repelled the Saxon invasions of the 5th and 6th centuries? What if William the Conqueror had died during the Norman invasion of 1066?&amp;#10;&amp;#10;In Britannia, the players will determine the destiny of a kingdom.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1986" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="154">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="77" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="84" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="86" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="137" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="83" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="79" />
+				</results>					
+	</poll> 			               				<playingtime value="300" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="300" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="34">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="10" />
+					<result value="14" numvotes="16" />
+					<result value="16" numvotes="4" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="2516" value="No necessary in-game text" numvotes="0" />
+					<result level="2517" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="2518" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="20" />
+					<result level="2519" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="2520" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14759" value="Country: England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13105" value="Country: Scotland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13106" value="Country: Wales" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18284" value="Series: Britannia Game System" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22839" value="Theme: King Arthur / The Knights of the Round Table / Camelot" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="280106" value="Britannia: Classic and New Duel Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1000" value="Lewis Pulsipher" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60355" value="Alex Anders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28022" value="Mark Bromley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="52766" value="Guy Gentry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="63801" value="Norbert Gräf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12019" value="Tomasz Jedruszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12065" value="Patrick McEvoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12422" value="George I. Parrish, Jr." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14276" value="Ted Pendergraft" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1000" value="Lewis Pulsipher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="63802" value="Günter Vojtek" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="531" value="Esdevium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="307" value="Welt der Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4225" />
+			<average value="7.19371" />
+			<bayesaverage value="6.62291" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="957" bayesaverage="6.62291" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="143" bayesaverage="7.04702" />
+												</ranks>
+
+			<stddev value="1.50857" />
+			<median value="0" />
+			<owned value="6021" />
+			<trading value="258" />
+			<wanting value="135" />
+			<wishing value="709" />
+			<numcomments value="1542" />
+			<numweights value="536" />
+			<averageweight value="3.1604" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

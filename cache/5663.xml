@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5663">
+         <thumbnail>https://cf.geekdo-images.com/WRNQAm6_CjCz07uqYkEsHA__thumb/img/cmwQSug53CHiJR_DmQnOdO2H9co=/fit-in/200x150/filters:strip_icc()/pic41736.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WRNQAm6_CjCz07uqYkEsHA__original/img/z5hwRbA7nAQrolO0VC6maHt6hFc=/0x0/filters:format(jpeg)/pic41736.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="WFF &#039;N PROOF" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="WFF" />
+			
+						               													<description>The complete set of 21 games that started with the game of WFF (q.v.).&amp;#10;&amp;#10;The game includes 36 special dice, a timer, and a 184 page rules and examples manual.&amp;#10;&amp;#10;The games included in this set are actually a set of logic rules presented in a 'Programmed Instruction' order.  Each game adds to all prior games until Game 21, Frantic WFF 'N PROOF, is attained.&amp;#10;&amp;#10;As well as building WFFs (Well Formed Formulas), players must also try to reach a goal by using rules of inference.&amp;#10;&amp;#10;For example: If the goal is 'p', a player could use the 'Ko' (or Conjunction Out) rule and use 'Kpq' as a premise.  In other terms, if the following sentence is true: &amp;quot;The first games of WFF 'N PROOF are easy and the last games of WFF 'n PROOF are hard.&amp;quot;  Then it can be inferred that the following sentence is true: &amp;quot;The first games of WFF 'N PROOF are easy.&amp;quot;&amp;#10;&amp;#10;Up to 36 dice are rolled depending on the game being played.  One player sets a 'goal' by building a WFF in the goal area of the playing mat.  players then alternate playing dice to the &amp;quot;permitted&amp;quot; or &amp;quot;essential&amp;quot; sections of the play area.  If a die is placed in the essential area it MUST be used in either a premise or a rule.  If a player doesn't think that it can be used, he can challenge his opponent.&amp;#10;&amp;#10;To win, a player must make a successful challenge or be unsuccessfully challenged.&amp;#10;&amp;#10;Games 3 through 19 introduce the 11 Rules of Logical Inference in this order: Conjunction, Implication, Reiteration, Disjunction, Negation, and Equivalence.  Then 18 more derived rules are added to the mix for Game 20, the PC (Propositional Calculus) game.  The 21st and final game, Frantic WFF 'N PROOF, takes the PC game and adds timed moves for rapid and chaotic scoring.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1962" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75031" value="Components: Sand Timers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1403" value="Layman E. Allen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2102" value="Robert W. Allen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1316" value="WFF 'N PROOF Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="66" />
+			<average value="5.02273" />
+			<bayesaverage value="5.48011" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22830" bayesaverage="5.48011" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1270" bayesaverage="5.39272" />
+												</ranks>
+
+			<stddev value="1.88983" />
+			<median value="0" />
+			<owned value="272" />
+			<trading value="20" />
+			<wanting value="16" />
+			<wishing value="48" />
+			<numcomments value="65" />
+			<numweights value="10" />
+			<averageweight value="3.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="145645">
+         <thumbnail>https://cf.geekdo-images.com/L4Of6W3yhhjYgmUjH2FDpQ__thumb/img/_evRWSRlE2VrjLu5XCxlayW0qmI=/fit-in/200x150/filters:strip_icc()/pic1726671.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/L4Of6W3yhhjYgmUjH2FDpQ__original/img/1oeyfC8r_TGKgu0vj-MmFp0iTFs=/0x0/filters:format(jpeg)/pic1726671.jpg</image>
+                                     				
+				<name type="primary" sortindex="4" value="Le Fantôme de l&#039;Opéra" />
+			
+						                           
+						               													<description>Le Fant&amp;ocirc;me de l&amp;rsquo;Op&amp;eacute;ra is a two-player game based on the Mr. Jack game system &amp;ndash; that is, the game is an asymmetric affair in which one player wants to reveal which suspect token on the game board represents the opponent, with both players taking turns moving all of the suspects to alternately reveal and hide information. That said, the game differs in a number of ways from Mr. Jack. In more detail...&amp;#10;&amp;#10;In Le Fant&amp;ocirc;me de l&amp;rsquo;Op&amp;eacute;ra, eight suspect tokens stand in the ten rooms of the Op&amp;eacute;ra Garnier. Each suspect has a reason to drive the opera singer La Carlotta away from the production, and at the start of the game one of the suspects is randomly determined to be the true identity of the Phantom player. The other player is the Investigator, and he wants to discover the Phantom's identity; if he does so before La Carlotta flees the Op&amp;eacute;ra Garnier, then he wins. Otherwise, he loses. (To balance play between newcomers and experienced players La Carlotta's starting position can changed.)&amp;#10;&amp;#10;At the start of each odd round, eight suspect cards are shuffled and four of them revealed. The Investigator moves one suspect and (likely) uses this suspect's unique ability, then the Phantom moves two of the remaining three suspects, then the Investigator moves the final suspect. The Phantom player then reveals whether he can or cannot cause a disturbance in the Op&amp;eacute;ra Garnier, thus scaring La Carlotta; he can cause a disturbance only if he's alone or if he's in the room with the blackout token. If he can cause a disturbance, the Investigator clears all suspects sharing a lit room; if not, the Investigator clears all suspects in the dark or on their own. After this, La Carlotta moves one step closer to fleeing for each suspect that hasn't been declared innocent (and an additional step if the Phantom did create a disturbance).&amp;#10;&amp;#10;For each even round, the remaining four suspect cards are revealed, and the players again move characters and use their special abilities, with the Phantom going first. The game continues until only a single suspect is not innocent or La Carlotta flees France for the safety of Milan.&amp;#10;&amp;#10;When a character moves, it can move up to as many spaces as the number of characters in the room from which it moves. Most characters can move only through open corridors, but Meg Giry can use secret passageways that connect many of the rooms. The players must use Meg's ability and the other characters' special abilities to hide or reveal information. One character, for example, moves a padlock that blocks one corridor, while another is responsible for the roaming blackout that allows the Phantom to operate in darkness (or at least provide cover for his activity elsewhere). One sweet character can draw everyone from adjacent rooms to her side, while an unpleasant fellow can drive everyone away. Still another reveals (or hides) an alibi card, clearing one suspect (or keeping his true nature unknown). Every character is useful in the right situation. You just have to learn what those situations are...&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="9" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1054" value="Music" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76627" value="Books: The Phantom of the Opera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17520" value="Cities: Paris (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5132" value="Game: Mr. Jack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="21763" value="Mr. Jack" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1727" value="Bruno Cathala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4337" value="Ludovic Maublanc" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37911" value="Jean-Marie Minguez" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6015" value="Hurrican" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1098" />
+			<average value="6.99275" />
+			<bayesaverage value="6.03831" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2562" bayesaverage="6.03831" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1185" bayesaverage="6.15884" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="736" bayesaverage="6.17875" />
+												</ranks>
+
+			<stddev value="1.17748" />
+			<median value="0" />
+			<owned value="1698" />
+			<trading value="53" />
+			<wanting value="136" />
+			<wishing value="535" />
+			<numcomments value="259" />
+			<numweights value="38" />
+			<averageweight value="2.2105" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

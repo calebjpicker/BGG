@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="12995">
+         <thumbnail>https://cf.geekdo-images.com/fngIoEZCqy8mAFmygDdbCg__thumb/img/OSC45vms69MYZKZZ2e04QT12icU=/fit-in/200x150/filters:strip_icc()/pic97630.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/fngIoEZCqy8mAFmygDdbCg__original/img/xcOzaDbzYWlNL170jgV7EgWukjY=/0x0/filters:format(jpeg)/pic97630.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon Twister" />
+			
+						                           
+						               													<description>Dungeon Twister is a 2-player high level strategy game where 2 teams of adventurers with various powers are trapped in a dungeon. The board is composed of 8 rooms that can be moved and rotated by the players. Each turn, a player is able to spend actions to move around the dungeon, pick up and use items, battle with the opponents team, or turn and move the rooms of the dungeon.&amp;#10;&amp;#10;The goal is to reach 5 victory points.  Points are collected by moving adventurers out of the dungeon or by killing an opponent's adventurer. Objects are disseminated across the whole dungeon and will bring the adventurers well-needed powers.&amp;#10;&amp;#10;Each player has the same characters, each with different powers. Some run fast, some fight or disarm traps. The cleric heals, magician burns everything in sight, and the goblin is so weak that the simple fact of getting him out will bring you two victory points.&amp;#10;&amp;#10;Combat and actions are managed via cards. To move, fight, heal, or turn a room, you must manage action points obtained by playing cards. Those cards are not drawn but selected from a set of cards by both players. Both players have access to the same panel of cards at the beginning of the game, so the game is really about managing the resources and adapting to the changing environment.&amp;#10;&amp;#10;Dungeon Twister is the original game in the Dungeon Twister series&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="64">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="49" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="60" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="11" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="39">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="19" />
+					<result value="14" numvotes="8" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="39">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="9" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="27" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2961" value="Map Deformation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78589" value="Components: 10 x 20 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="30" value="Game: Dungeon Twister" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80115" value="Dungeon Twister:  Room P3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="14533" value="Dungeon Twister: 3/4 Players Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="25724" value="Dungeon Twister: À Feu et À Sang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="246497" value="Dungeon Twister: Amazone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="72366" value="Dungeon Twister: Beggar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80499" value="Dungeon Twister: Bonus Objects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="27099" value="Dungeon Twister: Créatures Sylvestres" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="72408" value="Dungeon Twister: Disciple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="165213" value="Dungeon Twister: Dwarf Elf Slayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="165214" value="Dungeon Twister: Father Christmas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17565" value="Dungeon Twister: Fire and Water" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="20435" value="Dungeon Twister: Forces of Darkness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80011" value="Dungeon Twister: Forest Elf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80013" value="Dungeon Twister: Insaisissable" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80007" value="Dungeon Twister: Master of Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21795" value="Dungeon Twister: Mercenaries" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="23300" value="Dungeon Twister: Minotaur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="81180" value="Dungeon Twister: Neutral Characters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="72367" value="Dungeon Twister: Ogre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13809" value="Dungeon Twister: Paladins &amp; Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26136" value="Dungeon Twister: Purple Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80016" value="Dungeon Twister: Room P1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80781" value="Dungeon Twister: Room P2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31736" value="Dungeon Twister: Terres de Glace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80008" value="Dungeon Twister: The Merciless One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="117794" value="Dungeon Twister: Traps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="80010" value="Dungeon Twister: Zephyr, the Cheater" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="153921" value="Dungeon Twister: Base Set Arabian Stand-Ups" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="153922" value="Dungeon Twister: Base Set Gender-Reversed Stand-Ups" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141130" value="Dungeon Twister: Base Set Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326078" value="Dungeon Twister: Base Set Pirates Stand-Ups" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141236" value="Dungeon Twister: Fire &amp; Water Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141237" value="Dungeon Twister: Forces of Darkness Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141239" value="Dungeon Twister: Mercenaires Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141235" value="Dungeon Twister: Paladins and Dragons Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="141238" value="Dungeon Twister: Zombies Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="26138" value="Dungeon Twister Collectors Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="42124" value="Dungeon Twister 2: Prison" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="144525" value="Dungeon Twister: The Card Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1206" value="Christophe Boelinger" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12317" value="Thierry Masson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12316" value="Wayne Reynolds" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2778" value="Pro Ludo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="504" value="Nexus Editrice" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5984" />
+			<average value="6.80985" />
+			<bayesaverage value="6.45423" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1252" bayesaverage="6.45423" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="760" bayesaverage="6.50215" />
+												</ranks>
+
+			<stddev value="1.51641" />
+			<median value="0" />
+			<owned value="7861" />
+			<trading value="476" />
+			<wanting value="167" />
+			<wishing value="1013" />
+			<numcomments value="1933" />
+			<numweights value="694" />
+			<averageweight value="2.8862" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8122">
+         <thumbnail>https://cf.geekdo-images.com/FLM7jXIlS13kudIw_511tw__thumb/img/iGNhP2okkOj31Yrqs05elCgc09Y=/fit-in/200x150/filters:strip_icc()/pic322918.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FLM7jXIlS13kudIw_511tw__original/img/_cllUIh7D8MO3N331-dEI7_QaVw=/0x0/filters:format(jpeg)/pic322918.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Konane" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hawaiian Checkers" />
+			    				
+				<name type="alternate" sortindex="1" value="Koanane" />
+			    				
+				<name type="alternate" sortindex="1" value="Konane Master" />
+			
+						               													<description>A traditional Hawaiian game.&amp;#10;&amp;#10;From Katie Harris's review:&amp;#10;&amp;#10;The gameboard is made up of rows and columns, like a checkerboard. However, you can have as many rows and columns as you would like (and your board accommodates). To set-up the game, fill each square with a playing piece, alternating between black and white pieces.&amp;#10;&amp;#10;Black moves first, by taking off one of his pieces. He may only remove a piece from the middle of the board or from one of the corners. White removes one of his pieces that is adjacent orthogonally to the empty square created by Black. There should now be two empty squares next to each other.&amp;#10;&amp;#10;From there on, players take turns jumping their opponents&amp;rsquo; pieces. A jump may only be made orthogonally, never diagonally. A player may make multiple jumps with the same piece in a turn, provided that he does not change direction. Making a multiple jump is optional. Pieces that are jumped are removed from the board.&amp;#10;&amp;#10;When one player is unable to jump during his turn, his opponent wins the game.&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     http://www.iggamecenter.com/  - igGameCenter (real-time, bot)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1775" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="4" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2861" value="Static Capture" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78571" value="Components: 19 x 19 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6363" value="Containers: Tubes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80242" value="Digital Implementations: MindSports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28013" value="States: Hawaii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="7159" value="The Boardgame Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="349795" value="Generic Board &quot;Square&quot; Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109537" value="Mariela Arratia" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10969" value="anekona hawaii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34648" value="Brascogames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3115" value="Fratelli Fabbri Editori  (Fabbri Editore)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="130" value="Gamut of Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1195" value="House of Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39371" value="Krealudik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5970" value="Kumu-Lipo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49182" value="New Venture Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3174" value="Oak Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="945" value="Reiss Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="89" />
+			<average value="5.7729" />
+			<bayesaverage value="5.51281" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17619" bayesaverage="5.51281" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="874" bayesaverage="5.56418" />
+												</ranks>
+
+			<stddev value="1.47981" />
+			<median value="0" />
+			<owned value="185" />
+			<trading value="5" />
+			<wanting value="6" />
+			<wishing value="31" />
+			<numcomments value="60" />
+			<numweights value="7" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

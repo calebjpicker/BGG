@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="114051">
+         <thumbnail>https://cf.geekdo-images.com/DFkaMORFQWFod2jbrKORLg__thumb/img/ZLxNzs-Y_LFdTK1Mdb-ROJZ5Wto=/fit-in/200x150/filters:strip_icc()/pic1171791.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/DFkaMORFQWFod2jbrKORLg__original/img/ppnDj4o4B3MXGH-1RTb--kYmDqU=/0x0/filters:format(jpeg)/pic1171791.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Spinca" />
+			
+						                           
+						               													<description>Spinca is a game that embraces the Shibumi ideal that less is more. It is a 2 or 3-player game and can be played with a Series: Shibumi set. The winning conditions vary slightly for the 2 and 3-player games; however, the game play is the same for both versions.  Naturally, team play is also possible.&amp;#10;&amp;#10;At game&amp;rsquo;s end, a pyramid of 29 marbles is created, which resembles an Inca temple. The peak level is not used.&amp;#10;&amp;#10;The board starts empty. Players choose a color and take the corresponding marbles. Player turns proceed clockwise. Herein, the order is assumed to be White, Black, and possibly Red.&amp;#10;&amp;#10;Starting with White, using the phase order below:&amp;#10;1.    A player may move any free marble on the board to any adjacent (orthogonal or diagonal) hole or 2x2 platform which is on the same level as the marble.&amp;#10;&amp;#10;A free marble is any marble that does not support two or more marbles in the level above it, and will not cause to move any marble that was moved or placed on the previous player&amp;rsquo;s turn. This includes tumble-downs. And,&amp;#10;&amp;#10;2.    A player must place one of his or her marbles on any empty space or 2x2 platform on the board. This completes the player&amp;rsquo;s turn.&amp;#10; Any marble that was relocated, tumbled down or was placed is temporarily locked for the following player&amp;rsquo;s turn. The virtual Shibumi Sandbox implementation at  igGameCenter at http://www.iggamecenter.com/, has moved marbles marked with a plus sign. Nice and convenient. For physical game board play, players will have to keep tract of their last moves by recording them.&amp;#10;&amp;#10;When the Inca temple is completed, each player sums the sizes of the smallest of his or her connected groups on each of the four faces of the pyramid. Each of the four faces will yield only one number. For example, if on one face of the temple, a player had group sizes of 1, 1 and 3, the player would only score 1 for that face. The marbles on the pyramid&amp;rsquo;s rising edges are considered part of both of the adjacent faces making them strategically important because they are potentially counted twice!. However, an isolated edge marble can ruin a player&amp;rsquo;s score.&amp;#10;&amp;#10;For a 2-player or 4-player game, the player or team with the highest sum wins. If there is a tie, remove the outer faces to reveal the inner pyramid. The player or team with the most marbles in the inner pyramid wins the game.&amp;#10; For a 3-player game, the player with the highest sum wins. If there is a two-way tie, the player with the lowest sum wins. If there is a three way tie, remove the outer faces to reveal the inner pyramid. Players score the inner pyramid by counting all their visible marbles once each. The player with the highest inner total wins. If there is a two-way tie for the inner totals, the player with the lowest total wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5902" value="Components: Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13434" value="Series: Shibumi" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="24978" value="Phil Leduc" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="772" value="(Looking for a publisher)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

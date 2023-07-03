@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="173090">
+         <thumbnail>https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__thumb/img/IRLfNA-yFg0etLOeNFp7QKFsea4=/fit-in/200x150/filters:strip_icc()/pic4203279.png</thumbnail>
+      <image>https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__original/img/ZcwvBXraym0wfre1sm9t1d44BBA=/0x0/filters:format(png)/pic4203279.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Game" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Game: Are you ready to play The Game?" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: Édition haute en couleur" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: Gioca finché puoi..." />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: Hraj, dokud můžeš!" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: Juega... ¡mientras puedas!" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: le Jeu n&#039;est pas votre ami!" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: Speel...zolang je kunt!" />
+			    				
+				<name type="alternate" sortindex="5" value="The Game: Spiel...so lange du kannst!" />
+			    				
+				<name type="alternate" sortindex="1" value="ザ・ゲーム 完全日本語版" />
+			    				
+				<name type="alternate" sortindex="1" value="더 게임" />
+			
+						               													<description>Players in The Game try to discard all 98 cards in the deck onto four discard piles in order to win, but they need to do so in the right ways.&amp;#10;&amp;#10;Each player starts with 6-8 cards in their hand depending on the number of players, and four discard pile prompt cards are on the table: two showing &amp;quot;1&amp;quot; and an up arrow and two showing &amp;quot;100&amp;quot; and a down arrow. On a turn, a player must discard at least two cards from their hand onto one or more discard piles, with cards on the 1 piles being placed in ascending order and cards on the 100 piles being placed in descending order. One tricky aspect of the game is that you can play a card exactly 10 higher/lower than the top card of a discard pile even when you would normally have to play in a descending/ascending order, e.g., if a 100 discard pile is topped with an 87, you can play any card lower than 87 or you can play the 97.&amp;#10;&amp;#10;After a player finishes their turn, they refill their hand from the deck. During play, players cannot reveal exact numbers in their hands, but they can warn others not to play on certain discard piles or otherwise make play suggestions.&amp;#10;&amp;#10;Once the deck is emptied, players are required only to play at least one card on a turn. If you play all 98 cards, you win! If you get good, the rules suggest that you play at least three cards a turn to increase the challenge.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="143">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="59" />
+					<result value="Recommended" numvotes="47" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="61" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="42">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="31" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="32">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="32" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="53569" value="Game: The Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75022" value="Series: Nature Line (Nürnberger-Spielkarten-Verlag)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56257" value="Series: NSV Middys (Nürnberger Spielkartenverlag)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186155" value="The Game on Fire" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="182453" value="The Game + The Game on Fire" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="345283" value="The Game オバケやしきのすうじのアクマ (Demons of Numbers)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="209325" value="The Game: Extreme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="236461" value="The Game: Face to Face" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="296512" value="The Game: Quick &amp; Easy" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11781" value="Steffen Benndorf" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66181" value="Sandra Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53573" value="Jason D. Kingsley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28024" value="Kwanchai Moriya" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="FoxGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26024" value="IDW Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5787" value="Morapiaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6011" value="Oya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43146" value="Pravi Junak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44340" value="YellowBOX" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10939" />
+			<average value="6.71001" />
+			<bayesaverage value="6.50063" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1168" bayesaverage="6.50063" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="352" bayesaverage="6.54184" />
+												</ranks>
+
+			<stddev value="1.32708" />
+			<median value="0" />
+			<owned value="18459" />
+			<trading value="300" />
+			<wanting value="79" />
+			<wishing value="933" />
+			<numcomments value="1887" />
+			<numweights value="354" />
+			<averageweight value="1.2458" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

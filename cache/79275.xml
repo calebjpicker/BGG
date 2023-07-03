@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="79275">
+         <thumbnail>https://cf.geekdo-images.com/omzZnf3FRNqYAztPuRoI1A__thumb/img/Tx86YC-CQznUaDpF1pNCznDQrSw=/fit-in/200x150/filters:strip_icc()/pic795675.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/omzZnf3FRNqYAztPuRoI1A__original/img/b9KbXz9zy1DZQtEpfudHrpne-7U=/0x0/filters:format(jpeg)/pic795675.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Red Card" />
+			
+						                           
+						               													<description>Red Card is a game based primarily on luck where you try to beat 90 levels by revealing cards until you reveal a bad red card.&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Rules&amp;#10;&amp;#10;There are 12 green cards in each level. There is 1 red card in level 1, 2 red cards in level 2, 3 red cards in level 3, etc. The cards are randomly laid out on the board.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Red card count and red card limit&amp;#10;&amp;#10;Red card count is a number of red cards remaining on the board. To calculate red card limit divide initial red card count by 2. Round up to nearest integer. For example, in level 7 red card limit is 7:3=3.5, round up to 4. If you pick a red card and red card count is lower than red card limit, you lose. You win 1 point times multiplier for each green card during main game, 2 point times multiplier during 1st replay, 3 points times multiplier during 2nd replay, and so on. If you complete all 90 levels, you play the game again.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Yellow cards&amp;#10;&amp;#10;Yellow cards are cards that are used automatically to avoid decreasing of a red card count if you pick a red card. Levels 41-65 come with 1 yellow card on the board and levels 66-90 come with 2 yellow cards.&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Money tree&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;    &amp;#10;         Red card count &amp;#10;         Multiplier&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         1 &amp;#10;         1&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         2 &amp;#10;         2&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         3 &amp;#10;         3&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         4 &amp;#10;         4&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         5 &amp;#10;         5&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         6 &amp;#10;         6&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         7 &amp;#10;         7&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         8 &amp;#10;         8&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         9 &amp;#10;         9&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         10 &amp;#10;         10&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         11 &amp;#10;         15&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         12 &amp;#10;         20&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         13 &amp;#10;         30&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         14 &amp;#10;         40&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         15 &amp;#10;         50&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         16 &amp;#10;         100&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         17 &amp;#10;         200&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         18 &amp;#10;         300&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         19 &amp;#10;         400&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         20 &amp;#10;         500&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         21 &amp;#10;         600&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         22 &amp;#10;         700&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         23 &amp;#10;         800&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         24 &amp;#10;         900&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         25 &amp;#10;         1000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         26 &amp;#10;         1500&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         27 &amp;#10;         2000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         28 &amp;#10;         3000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         29 &amp;#10;         4000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         30 &amp;#10;         5000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         31 &amp;#10;         10000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         32 &amp;#10;         20000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         33 &amp;#10;         30000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         34 &amp;#10;         40000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         35 &amp;#10;         50000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         36 &amp;#10;         60000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         37 &amp;#10;         70000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         38 &amp;#10;         80000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         39 &amp;#10;         90000&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         40 &amp;#10;         100000&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14332" value="Dmityok's Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

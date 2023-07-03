@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="949">
+         <thumbnail>https://cf.geekdo-images.com/gkUmKTRa1ShkaatS8CKZXg__thumb/img/zxArnmJbWLD1K1XQFEG51K88nB8=/fit-in/200x150/filters:strip_icc()/pic1916973.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gkUmKTRa1ShkaatS8CKZXg__original/img/YFM0KSkEn6sj3lI_opTVINNBg9g=/0x0/filters:format(jpeg)/pic1916973.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Twixt" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mini-Twixt" />
+			    				
+				<name type="alternate" sortindex="1" value="ツィクスト" />
+			
+						               													<description>Twixt is a 2-player abstract game invented by Alex Randolph. TwixT is a &amp;quot;connection-type&amp;quot; game, very similar to Hex. Other related games are Havannah and The Game of Y. &amp;quot;Connection type&amp;quot; means the object is to form a path connecting something to something else. This requires very different thinking from the standard battle-type game such as chess or checkers.&amp;#10;&amp;#10;Some old US sets mention a 4-player variant, with 2 teams as in Bridge, but this probably wasn't Randolph's idea.  The game was popular in the 60s and 70s as part of the 3M Bookshelf Series. Avalon Hill then acquired the series and issued the game themselves. Several European publishers have sold the game as well.&amp;#10;&amp;#10;Twixt employs a pegboard, pegs and links.  The playing surface is a 24x24 square pegboard, usually minus the corner holes, with two opposite sides marked with one player's color and the other two sides marked with the other player's color.  Each player has a supply of pegs and links of their color.  50 of each piece type of each color, a total of 200, is an ample supply. Players alternate turns placing pegs and links, if possible, in attempt to have a continuous path of links connecting the two sides of the board with their color.&amp;#10;&amp;#10;After the 3M edition, Randolph added the pie rule. After the first peg is placed, the opponent has the option to swap sides. This reduces the imbalance from the first move advantage.&amp;#10;&amp;#10;On your turn you place one peg of your color on the board, and then add or rearrange your color links. Pegs may be placed in any vacant hole in the board except the corners and the last row on the sides of the opposing player. When two pegs of the same color are at opposite corners of a six hole rectangle (3x2 or 2x3), a link may be placed between those two pegs.  Links may not be placed such that they cross other links.  Multiple links may be added on a single move. Usually, all links are to the peg just placed, but on your move you are allowed to remove as many of your own links as you wish, and add your own links anywhere on the board as long as they are legal as described here.&amp;#10;&amp;#10;When a player connects his two sides with a continuous path of links, he prevents his opponent from doing the same, the game is over, and the player connecting his two sides wins the game. If neither side can complete such a path, the game is a draw.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1962" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="726" value="No necessary in-game text" numvotes="11" />
+					<result level="727" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="728" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="729" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="730" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79508" value="Digital Implementations: Little Golem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4891" value="Series: 3M Bookshelf Series" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="382010" value="カードツイクスト (Card Twixt)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="24" value="Alex Randolph" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="92" value="3M" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3082" value="Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5686" value="Felsberger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21640" value="GP Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="127" value="Klee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40744" value="Lil' Cerebral" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4668" value="Schmidt International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4622" value="Selecta Spel en Hobby" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2521" />
+			<average value="6.59866" />
+			<bayesaverage value="6.08778" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2353" bayesaverage="6.08778" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="120" bayesaverage="6.39752" />
+												</ranks>
+
+			<stddev value="1.49905" />
+			<median value="0" />
+			<owned value="5385" />
+			<trading value="355" />
+			<wanting value="46" />
+			<wishing value="260" />
+			<numcomments value="957" />
+			<numweights value="197" />
+			<averageweight value="2.4924" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

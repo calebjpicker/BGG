@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="53953">
+         <thumbnail>https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__thumb/img/HSIygEfsQ0wSpnNtrBMgA6Iv5aA=/fit-in/200x150/filters:strip_icc()/pic544780.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pVyy-LSVBIMQ0GUsvsIfww__original/img/VGifdk1nKtSmzv0Q8aOFqRU3p_o=/0x0/filters:format(jpeg)/pic544780.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Thunderstone" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kamień Gromu" />
+			    				
+				<name type="alternate" sortindex="1" value="Громовой камень" />
+			    				
+				<name type="alternate" sortindex="1" value="サンダーストーン" />
+			    				
+				<name type="alternate" sortindex="1" value="雷霆之石" />
+			
+						               													<description>For ages the vile Doom Knights have sought to gather the remaining Thunderstones to fulfill a prophecy of corruption over the lands. Now the first Thunderstone has been discovered in the Dungeons of Grimhold and the Doom Knights have sent their minions to claim the relic. The Villagers of Barrowsdale gather brave souls to face the dungeon and keep the Thunderstone out of the hands of the Doom Knights.&amp;#10;&amp;#10;Thunderstone is a fantasy deck-building game much in the style of Dominion. Before the game starts a selection of Village and Hero cards will be randomnly chosen that players may add to their specific decks. Like Dominion, every player starts with a basic deck of weaker cards that they can use to purchase other more powerful cards. In Thunderstone these cards may be different Heroes such as mages, archers, thieves, or warriors or they may be supplies the heroes need like weapons, rations, or light to reach further into the dungeon.&amp;#10;&amp;#10;A dungeon deck is also created by combining several different groups of monsters. Certain groups of monsters may be more or less susceptible to different Hero types, so players will have to take this into account when they choose what to buy.&amp;#10;&amp;#10;Rather than buying puny Victory Points, players will use their deck to defeat monsters in the dungeon. From the monster deck a row of cards is laid out. Players may on their turn choose to attack a monster in the deck rather than visit town and buy cards. If they do this they play cards from their hand and resolve their abilities in order to boost strength and have enough light to reach a specific monster. Some monsters also have special abilities which may hinder the player. If they have enough strength they defeat the monster and place that card in their deck. This card is worth victory points and often can be used as money to purchase other cards. In addition to this, players are awarded experience points for defeating monsters which can be used to upgrade their heroes into more powerful versions. The game is played until the Thunderstone is revealed from the dungeon and a player is able to claim it. The player with the most victory points in their deck is the winner.&amp;#10;&amp;#10;The basic Thunderstone framework was updated in the implementation of Thunderstone: Advance.&amp;#10;&amp;#10;Integrates with&amp;#10;&amp;#10;&amp;#10;    Thunderstone Advance: Towers of Ruin&amp;#10;    Thunderstone: Dragonspire&amp;#10;    Thunderstone: Starter Set&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="165">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="70" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="87" />
+					<result value="Recommended" numvotes="43" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="77" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="72" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="71" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="43">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="25" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="52">
+			
+		<results>		
+					<result level="1236" value="No necessary in-game text" numvotes="0" />
+					<result level="1237" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+					<result level="1238" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="31" />
+					<result level="1239" value="Extensive use of text - massive conversion needed to be playable" numvotes="15" />
+					<result level="1240" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5321" value="Game: Thunderstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="121007" value="Thunderstone: Avatars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="81424" value="Thunderstone: Blade Trap Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="74096" value="Thunderstone: Death Sentinel Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="70940" value="Thunderstone: Doomgate Legion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="73114" value="Thunderstone: For the Dwarf Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101864" value="Thunderstone: German Promo Pack Harrulier (Harruli)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104891" value="Thunderstone: Heart of Doom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="92091" value="Thunderstone: Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="100222" value="Thunderstone: Promo Pack #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188593" value="Thunderstone: Promokarte Wächter der Stärke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="93701" value="Thunderstone: Thornwood Siege" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="119740" value="Thunderstone: Vicious Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="100766" value="Thunderstone: Vision Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104394" value="Thunderstone: Werewolf Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="63214" value="Thunderstone: Wrath of the Elements" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="85897" value="Thunderstone: Dragonspire" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="142961" value="Thunderstone Advance: Numenera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="116998" value="Thunderstone Advance: Towers of Ruin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="215341" value="Thunderstone Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="140951" value="Thunderstone: Starter Set" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="615" value="Mike Elliott" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14611" value="Jason Engle" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3888" value="Stratelibri" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10468" />
+			<average value="6.9148" />
+			<bayesaverage value="6.6609" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="886" bayesaverage="6.6609" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="245" bayesaverage="6.7186" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="583" bayesaverage="6.69148" />
+												</ranks>
+
+			<stddev value="1.44784" />
+			<median value="0" />
+			<owned value="11000" />
+			<trading value="647" />
+			<wanting value="190" />
+			<wishing value="1438" />
+			<numcomments value="2327" />
+			<numweights value="627" />
+			<averageweight value="2.5024" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

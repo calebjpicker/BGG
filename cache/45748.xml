@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="45748">
+         <thumbnail>https://cf.geekdo-images.com/iMohFrlsPRNWb63oXsUplw__thumb/img/UkOlzsNaXwdDAQiDsP-IFda3Y1s=/fit-in/200x150/filters:strip_icc()/pic587442.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/iMohFrlsPRNWb63oXsUplw__original/img/h2T8yfvTcBDC8OyVi6hf2G3eTys=/0x0/filters:format(jpeg)/pic587442.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Carcassonne: Wheel of Fortune" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Carcassonne: Das Schicksalsrad" />
+			    				
+				<name type="alternate" sortindex="1" value="Carcassonne: Het Rad van Fortuin" />
+			
+						               													<description>Carcassonne: Das Schicksalsrad (English: Wheel of Fortune) is both a full replacement for the base game of Carcassonne and an expansion to the original base game. It includes 72 tiles, consisting of 63 tiles released in the original base game, 6 from Inns &amp;amp; Cathedrals, 1 from Traders &amp;amp; Builders and 2 from King &amp;amp; Scout. It also includes a special replacement start tile which depicts the Wheel of Fortune, a new mechanic unique to this edition of the game. The new start tile is the size of 16 tiles, arranged in a 4&amp;times;4 square and is built using some of the tiles removed from the base game.&amp;#10;&amp;#10;Nineteen tiles from the game have numbers printed on them allowing players to randomly spin the Wheel of Fate (between 1 and 3 spaces around the wheel). Otherwise, a player may choose to place a follower on the wheel if they decline placing a follower that turn. The results of the Wheel vary depending on which of the sixths of the wheel the pig lands on. Results vary from forcing all players to remove a follower from the board to rewarding the player who moves the pig with three bonus points. There are six outcomes in all.&amp;#10;&amp;#10;Play of this game does not require ownership of any Carcassonne base game. All expansions are compatible with this game. This game can also be played with the base game as an expansion, using its wagon wheel watermark to differentiate it from the base game.&amp;#10;&amp;#10;The German edition of this game includes a book Carcassonne -&amp;nbsp;Das Schicksalsrad by Helene Luise K&amp;ouml;ppel.&amp;#10;&amp;#10;The English edition of the game was released in October 2009 by Rio Grande Games.&amp;#10;&amp;#10;Part of the Carcassonne series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="2" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2" value="Game: Carcassonne" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175653" value="Carcassonne: Castles in Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="120686" value="Carcassonne: Corn Circles II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="35666" value="Carcassonne: Cult, Siege &amp; Creativity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195771" value="Carcassonne: Das Labyrinth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="59065" value="Carcassonne: Der Tunnel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13300" value="Carcassonne: Die Katharer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="67055" value="Carcassonne: Die Kornkreise" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131676" value="Carcassonne: Die Windrosen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2993" value="Carcassonne: Expansion 1 – Inns &amp; Cathedrals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="217006" value="Carcassonne: Expansion 10 – Under the Big Top" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="5405" value="Carcassonne: Expansion 2 – Traders &amp; Builders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="15158" value="Carcassonne: Expansion 3 – The Princess &amp; The Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21385" value="Carcassonne: Expansion 4 – The Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31784" value="Carcassonne: Expansion 5 – Abbey &amp; Mayor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="33458" value="Carcassonne: Expansion 6 – Count, King &amp; Robber" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38855" value="Carcassonne: Expansion 7 – The Catapult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66646" value="Carcassonne: Expansion 8 – Bridges, Castles and Bazaars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153773" value="Carcassonne: Expansion 9 – Hills &amp; Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26615" value="Carcassonne: GQ Promo Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169392" value="Carcassonne: Halb so wild II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="7707" value="Carcassonne: King &amp; Scout" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158041" value="Carcassonne: Klöster in Deutschland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24506" value="Carcassonne: Kreivi ja Kuningas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130998" value="Carcassonne: Little Buildings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="12903" value="Carcassonne: The Count of Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="38431" value="Carcassonne: The Cult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118615" value="Carcassonne: The Flying Machines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="118617" value="Carcassonne: The Gold Mines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="92332" value="Carcassonne: The Phantom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="85003" value="Carcassonne: The Plague" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="2591" value="Carcassonne: The River" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="18836" value="Carcassonne: The River II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104634" value="Carcassonne: The School" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211659" value="Каркассон: Наука и магия" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="197502" value="Carcassonne: Zähltafel &quot;Magneto&quot;" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="822" value="Carcassonne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="329954" value="Carcassonne: 20th Anniversary Edition" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="164127" value="Carcassonne Big Box 5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="160500" value="Каркассон: Колесо фортуны" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="398" value="Klaus-Jürgen Wrede" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1199" />
+			<average value="7.01099" />
+			<bayesaverage value="6.06039" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2465" bayesaverage="6.06039" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="707" bayesaverage="6.19788" />
+												</ranks>
+
+			<stddev value="1.37631" />
+			<median value="0" />
+			<owned value="3115" />
+			<trading value="35" />
+			<wanting value="94" />
+			<wishing value="349" />
+			<numcomments value="302" />
+			<numweights value="67" />
+			<averageweight value="2.0448" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

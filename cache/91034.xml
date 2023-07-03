@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="91034">
+         <thumbnail>https://cf.geekdo-images.com/8VnQyYMQZGiTCO3e8CjBQg__thumb/img/4s5BaVmkKxcK2p8Zt9skfZOLOSQ=/fit-in/200x150/filters:strip_icc()/pic3950331.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8VnQyYMQZGiTCO3e8CjBQg__original/img/AsLQ0q62L3fXJPcFqVadk4zqLx0=/0x0/filters:format(jpeg)/pic3950331.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Laser Chess" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Khet 2.0" />
+			    				
+				<name type="alternate" sortindex="1" value="Laser Khet 2.0 Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Фараон" />
+			
+						               													<description>Laser Chess, originally released as Khet 2.0, is a chess-like game that combines lasers with classic strategy.&amp;#10;&amp;#10;To begin, players set up the pieces on the game board in one of several starting positions. Players then alternate turns, either moving a piece to an adjacent space, rotating a piece 90&amp;ordm;, swap two adjacent pieces if one of them is a switch piece, or rotating their laser 90&amp;ordm;; the pieces have two, one, or zero mirrored surfaces, and after moving or rotating a piece on your turn, you must then fire your laser, with the laser possibly being deflected by 90&amp;ordm; whenever it hits a mirror on a piece (since the mirrors are angled at 45&amp;ordm;). If the beam strikes a non-mirrored surface on almost any piece, that piece is removed from play. (One exception: The defenders have one surface immune from laser fire, which means you can use them to protect your king; they're vulnerable to laser fire from other directions, though.)&amp;#10;&amp;#10;When a king is hit by a laser, the other player wins the game! Friendly fire is possible, so try to make sure that you won't remove one of your one pieces when you shoot &amp;mdash; unless you need to clear a shot to the enemy, that is!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="341" value="No necessary in-game text" numvotes="6" />
+					<result level="342" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="343" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="344" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="345" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78499" value="Components: 8 x 10 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44344" value="Game: Khet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="129765" value="Khet 2.0: Eye of Horus Beam Splitter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="16991" value="Khet: The Laser Game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5083" value="Luke Hooper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5084" value="Michael Larson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5082" value="Del Segura" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5963" value="Innovention Toys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14368" value="Productief BV" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2792" value="ThinkFun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="840" />
+			<average value="6.64966" />
+			<bayesaverage value="5.82717" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3903" bayesaverage="5.82717" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="194" bayesaverage="6.1599" />
+												</ranks>
+
+			<stddev value="1.40231" />
+			<median value="0" />
+			<owned value="2092" />
+			<trading value="104" />
+			<wanting value="28" />
+			<wishing value="205" />
+			<numcomments value="268" />
+			<numweights value="39" />
+			<averageweight value="2.6923" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

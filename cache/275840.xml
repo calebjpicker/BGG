@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="275840">
+         <thumbnail>https://cf.geekdo-images.com/BfNs41Oju0Ut9JSgo-nJFQ__thumb/img/MFYrGcw8j72Z99WMVIZDR6M5oiQ=/fit-in/200x150/filters:strip_icc()/pic4641504.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/BfNs41Oju0Ut9JSgo-nJFQ__original/img/DMj8eRDQvmXXmLB1__ttnI_Kwoc=/0x0/filters:format(jpeg)/pic4641504.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon Academy" />
+			
+						                           
+						               													<description>Time to enter a dungeon &amp;mdash; a dungeon composed of dice! &amp;mdash; to kill monsters and score as much as possible.&amp;#10;&amp;#10;In Dungeon Academy, each player has a piece of paper that shows four dungeons, with each dungeon being a 4x4 grid. The game lasts four rounds, and in each round you will go through one of these dungeons. Each player also has a character card that shows some amount of life (red) and mana (blue) along with a special power.&amp;#10;&amp;#10;What's actually in a dungeon is determined by dice that you roll at the start of the round. You roll sixteen dice, then let them settle in a 4x4 grid. The dice show red and blue monsters in both small and large sizes, as well as blue potions and red strength. You decide where to enter the dice dungeon and which dice to pass through in a continuous line that can change directions only orthogonally, and you draw this corresponding line on your personal grid until you exit at some other point of the dungeon without crossing over your line. You then claim the lowest available number card, with the number of cards matching the number of players.&amp;#10;&amp;#10;Once everyone has finished drawing a line through the dungeon, you trace out that path step by step, removing life (1 or 2) to defeat red monsters (small or large) and mana (1 or 2) to defeat blue monsters (small or large). You place new tokens on your character as you pass through potions and strength spaces. Once you're through the grid, you score points for the monsters you defeated, and you choose one of four quests on your sheet for bonus points. (In the second round, you choose one of the three remaining quests, so your choices diminish over time.) In player order based on your number card, you take one of the available treasures, which provide points and powers. Your life and mana levels carry over into the next round.&amp;#10;&amp;#10;In the second and third rounds, you replace one of the dice with a labyrinth die that can be passed through only in certain directions, and in the fourth round another die is replaced with the big boss die, giving you something giant to take on before ending the game and tallying your final score.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="1" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="299473" value="Dungeon Academy: Punchboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316254" value="Dungeon Academy: The Desert of Illusions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="328010" value="Dungeon Academy: The Forbidden Mountain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316086" value="Dungeon Academy: The Lost Forest" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="81496" value="Julian Allain" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76496" value="Régis Torres" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44144" value="Buró" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8351" value="Gen-X Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="602" />
+			<average value="6.69518" />
+			<bayesaverage value="5.76039" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4574" bayesaverage="5.76039" />
+												</ranks>
+
+			<stddev value="1.34469" />
+			<median value="0" />
+			<owned value="1241" />
+			<trading value="45" />
+			<wanting value="30" />
+			<wishing value="326" />
+			<numcomments value="128" />
+			<numweights value="6" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

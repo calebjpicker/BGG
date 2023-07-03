@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="240225">
+         <thumbnail>https://cf.geekdo-images.com/C3-Yn-TFh1qivVQ4Zkkmww__thumb/img/LTHfuazbGezvoYkJCP2tp_YpGik=/fit-in/200x150/filters:strip_icc()/pic4440341.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/C3-Yn-TFh1qivVQ4Zkkmww__original/img/m9RrIbcGdVK-4rIRxNk-QUGOfd0=/0x0/filters:format(jpeg)/pic4440341.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Roll to the Top!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Roll to the Top! LAMINATE" />
+			
+						               													<description>The goal of the game is to complete your 'Challenge' sheet by filling in numbers in all the squares of your sheet.&amp;#10;&amp;#10;Each game round some of the 4, 6, 8, 12 and 20 sided dice get rolled for all players.&amp;#10;Write the rolled numbers from the bottom to the top at your sheet, with each new number higher than or equal to each number underneath.&amp;#10;Your squares can contain:&amp;#10;- a number from 1 die, or&amp;#10;- the sum of 2 or more dice&amp;#10;You can also skip 1 or more dice.&amp;#10;&amp;#10;Before each next round, the special white die tells the next player (clockwise) to add, remove or swap a die before rolling.&amp;#10;&amp;#10;Key tactic is creating the best opportunities. The 4, 6, 8, 12 and 20 sided dice are capricious, so try to anticipate on chances!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="25" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="5" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78540" value="Game: Roll to the Top!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351530" value="Roll to the Top!: Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255965" value="Roll to the Top!: Roll Through Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255963" value="Roll to the Top!: Special Challenges Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308359" value="Roll to the Top!: Taj Mahal and Sydney Opera House" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="370193" value="Roll to the Top: Journeys" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="105277" value="Peter Joustra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="124" value="Corné van Moorsel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85261" value="Steven Tu" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="77" value="Cwali" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25185" value="Brain Picnic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25973" value="Zacatrus" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1313" />
+			<average value="6.77515" />
+			<bayesaverage value="6.00117" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2742" bayesaverage="6.00117" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="807" bayesaverage="6.12516" />
+												</ranks>
+
+			<stddev value="1.2969" />
+			<median value="0" />
+			<owned value="2400" />
+			<trading value="50" />
+			<wanting value="50" />
+			<wishing value="271" />
+			<numcomments value="328" />
+			<numweights value="22" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="146886">
+         <thumbnail>https://cf.geekdo-images.com/ufUK_7N_13rYhsIurbbtzg__thumb/img/5EIOSTEfRYq1LtHtSnnR9GFJP_M=/fit-in/200x150/filters:strip_icc()/pic2031777.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ufUK_7N_13rYhsIurbbtzg__original/img/eKzUqIgkc34WsSVq9zSW6sjZgbc=/0x0/filters:format(jpeg)/pic2031777.jpg</image>
+                                     				
+				<name type="primary" sortindex="4" value="La Granja" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ла-Гранха" />
+			    				
+				<name type="alternate" sortindex="1" value="拉格蘭哈莊園" />
+			    				
+				<name type="alternate" sortindex="1" value="라 그랑하" />
+			
+						               													<description>In La Granja, players control small farms by the Alpich pond near the village of Esporles on the island of Mallorca. Over time, the players develop their farms and deliver goods to the village. Players are vying to earn the title of &amp;quot;La Granja&amp;quot; for their country estate!&amp;#10;&amp;#10;Over the course of 6 game rounds, players will expand their farm by adding fields, farm extensions, market barrows, and helpers.  They will earn VPs by delivering goods to the village of Esporles.  It is important to observe the actions of other players, manipulate turn order, and adjust your strategy based on the dice and cards.&amp;#10;&amp;#10;La Granja is a fascinating game that requires careful planning. Timing and speed is crucial. However, successful players must cope with the uncertainty of events during the game. The player who has earned the most victory points at the end of the game is the winner and new owner of the La Granja estate!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="185">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="65" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="112" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="73" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="66" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="75" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="33">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="21" />
+					<result value="14" numvotes="7" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="29">
+			
+		<results>		
+					<result level="551" value="No necessary in-game text" numvotes="0" />
+					<result level="552" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="553" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="22" />
+					<result level="554" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="555" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10310" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57680" value="Game: La Granja" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27502" value="Islands: Mallorca (Spain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="178452" value="La Granja: 2nd Edition Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291010" value="La Granja: Insert Here Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="368386" value="El Burro: A La Granja Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="341945" value="La Granja: Deluxe Master Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="195528" value="La Granja: No Siesta" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70143" value="Michael Keller (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="70144" value="Andreas &quot;ode.&quot; Odendahl" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15108" value="Spielworxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39686" value="Across the Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39751" value="Do it games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28640" value="LudoSentinel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8401" value="PD-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12884" value="Pearl Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39249" value="sternenschimmermeer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39794" value="Toy Box Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10553" />
+			<average value="7.62065" />
+			<bayesaverage value="7.2811" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="218" bayesaverage="7.2811" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="144" bayesaverage="7.35977" />
+												</ranks>
+
+			<stddev value="1.2499" />
+			<median value="0" />
+			<owned value="12447" />
+			<trading value="384" />
+			<wanting value="577" />
+			<wishing value="2649" />
+			<numcomments value="1987" />
+			<numweights value="520" />
+			<averageweight value="3.5654" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

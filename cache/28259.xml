@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="28259">
+         <thumbnail>https://cf.geekdo-images.com/38jw1p0ZcayPgLJuZyPVyA__thumb/img/dLfS2NrthAEMFa8A5-5Xd1jNZAg=/fit-in/200x150/filters:strip_icc()/pic249004.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/38jw1p0ZcayPgLJuZyPVyA__original/img/AEziYekzku9n8R0CSxuHv1C7unQ=/0x0/filters:format(jpeg)/pic249004.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cutthroat Caverns" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Sang Rancune" />
+			    				
+				<name type="alternate" sortindex="1" value="割喉探險隊" />
+			
+						               													<description>&amp;quot;Without teamwork, you will never survive. Without betrayal, you&amp;rsquo;ll never win.&amp;quot;&amp;#10;&amp;#10;Cutthroat Caverns is played over 9 rounds, each with a random encounter.  Essentially a game of 'kill stealing'. Each round, any monster encountered will have a prestige value of 1 through 6.  The player that successfully jockeys for position and lands the killing blow gets the prestige value for the encounter.  Some encounters will not have a specific monster, such as a trap room for the heroes to pass through (and in this case, earning no prestige).  The surviving player with the most prestige after the 9 encounters is the winner.  If the players do not survive all 9 encounters, no one wins the game.&amp;#10;&amp;#10;A unique combination of cooperative game play and opportunistic backstabbing.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="47">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="18">
+			
+		<results>		
+					<result level="226" value="No necessary in-game text" numvotes="0" />
+					<result level="227" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="228" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="229" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="230" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2871" value="Kill Steal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9640" value="Game: Cutthroat Caverns" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="79033" value="Cutthroat Caverns Adventures: B1 – Savage Arena  /  B2 – Errand of Evil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226135" value="Cutthroat Caverns: Death Incarnate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31420" value="Cutthroat Caverns: Deeper &amp; Darker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="33091" value="Cutthroat Caverns: Fresh Meat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="65052" value="Cutthroat Caverns: Hex Room Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="35522" value="Cutthroat Caverns: Relics &amp; Ruin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="35595" value="Cutthroat Caverns: Tombs &amp; Tomes" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="279348" value="Cutthroat Caverns: Anniversary Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3462" value="Curt Covert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28631" value="Paul Adam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28632" value="Justin Brunetto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3462" value="Curt Covert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28628" value="Ian Field-Richards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28627" value="Henri Härkönen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28629" value="Noel Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19848" value="Mats Holmgren" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28630" value="Mark Jernstrom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28625" value="Bruno Krippahl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28623" value="Eric R. Martin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28624" value="Steve Messenger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60452" value="Loïc Muzy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28626" value="Morgan Rashand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28622" value="Chad Savage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14350" value="William Teo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17129" value="Adam Vehige" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28619" value="Tim Wollweber" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2354" value="Smirk &amp; Dagger Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5012" />
+			<average value="6.52293" />
+			<bayesaverage value="6.20343" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1913" bayesaverage="6.20343" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="473" bayesaverage="6.2957" />
+												</ranks>
+
+			<stddev value="1.50797" />
+			<median value="0" />
+			<owned value="6996" />
+			<trading value="433" />
+			<wanting value="157" />
+			<wishing value="1172" />
+			<numcomments value="1428" />
+			<numweights value="263" />
+			<averageweight value="2.0798" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

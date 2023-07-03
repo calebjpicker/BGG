@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="246613">
+         <thumbnail>https://cf.geekdo-images.com/SFGnwYJrDyLZpskJ5qXFPQ__thumb/img/ljMCrvQvjyh8qhh12L-LuUcJPQI=/fit-in/200x150/filters:strip_icc()/pic3999238.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/SFGnwYJrDyLZpskJ5qXFPQ__original/img/MXL_M-V39h-Q-C0N3fv5p23VLS8=/0x0/filters:format(jpeg)/pic3999238.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Castella" />
+			
+						                           
+						               													<description>Two players play as bees and collect honey. The greedy bear will destroy the hive in the process to get the honey. To help their owner taste the delicious honey cake, players have to consider how to place their boards and collect resources. With mutual interference, the player who collects the most honey cakes wins.&amp;#10;&amp;#10;How to play&amp;#10;&amp;#10;&amp;#10;    Steps of the game&amp;#10;&amp;#10;&amp;#10;Step 1. Get 1 hexagon card and select Honeycomb Side or Garden Side. It's needed to connect any side of the hexagon when placed.&amp;#10;&amp;#10;Step 2. Take actions of the card. A player can choose any hexagon card on the table and take its associated action.&amp;#10;&amp;#10;&amp;#10;    Example of actions for the cards&amp;#10;&amp;#10;&amp;#10;Honeycomb Side of the card  &amp;gt;  Honey producing or honey&amp;#10;&amp;#10;Get nectar cubes from bee card and put the cubes on the Honeycomb Card. Collect the honey cubes in the next run.&amp;#10;&amp;#10;Switch the white / black nectar cubes to the numbers of honey cubes according to the card, and then put the honey cubes on BOTTLE Card. Every 8 honey cubes could convert into 1 CASTELLA Card.&amp;#10;&amp;#10;Garden Side of the card  &amp;gt;  Nectar collecting&amp;#10;&amp;#10;Collect 1/2/3/D nectar cubes from your own Garden Card and put the cubes on the bee card. The nectar cubes on the bee card could be used to produce honey.&amp;#10;&amp;#10;How to use Greedy Bear Card&amp;#10;&amp;#10;Bear attack: Put Greedy Bear Card, the Greedy Bear would eat all of the nectar cubes on the Honeycomb Side around the Greedy Bear, and also turn the Honeycomb Side into Garden Side.&amp;#10;&amp;#10;&amp;#10;    Goal of the game&amp;#10;&amp;#10;&amp;#10;When all the hexagon cards are out, the points are calculated by the total cubes on both the bee card, the bottle card, and the numbers of castella cakes.  The winner is the one who got the most points. If there are any Greedy Bear cards left, each Greedy Bear Card will deduct 1 honey cube on the honey card. If no honey cubes are on the honey Card, then no points would be deducted.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7265" value="Animals: Bears" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7564" value="Animals: Bees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="103444" value="Graeme Wu" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37401" value="Graemebase" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="4" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

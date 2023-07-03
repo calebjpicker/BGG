@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="22468">
+         <thumbnail>https://cf.geekdo-images.com/8GF9HdqqU-iXcrObJxMxWw__thumb/img/H6KigooqLdUP4Sh1s616dGUgyww=/fit-in/200x150/filters:strip_icc()/pic117244.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8GF9HdqqU-iXcrObJxMxWw__original/img/0pY4XT608-nrQ4yAErw7cy6GQT4=/0x0/filters:format(jpeg)/pic117244.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Perlen-Pyramide" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Perlenpyramide" />
+			
+						               													<description>&amp;quot;Perlen-Pyramide&amp;quot; or &amp;quot;Pearl-Pyramid&amp;quot;&amp;#10;&amp;#10;Quick playing abstract pyramid stacking game for exactly 3 players. Each player uses a pool of 25 &amp;quot;pearls&amp;quot; in their color and placement starts on a 5x5 base grid, with pearls in subsequent layers being supported by four underneath.  A completed pyramid will thus contain exactly 55 pearl bricks.&amp;#10;&amp;#10;Each player in turn will add exactly one piece to the construction, and the aim is to have the most external pearls visible in the completed pyramid. Players will be placing their pearls only onto the base of the pyramid, making sure all placed pearls touch what's already there (orthogonal or diagonally). Placement of pearls on the additional layers is triggered automatically by what is present underneath. The moment that a square group of four pearls is created in the same layer, a special &amp;quot;filling&amp;quot; placement interrupts the regular turn progression. To resolve which pearl gets placed on top of the four pearls underneath players need to look at how many different pearls are present. If one color is in the majority (3:1 or 2:1:1) then another pearl of that color gets placed on top. However, if two players each have two pearls  present than a pearl of the third player becomes the peak. If all four pearls are from a single player then the player who would have the turn after this colour's player gets to place the bonus pearl. When the bonus pearl itself triggers the completion of another group of four in the next layer then again bonus pearls are resolved before the normal turn-order is resumed. When the 25th base pearl is placed the completion of the pyramid is triggered and the game ends. The winner is the one with the most external pearls present.&amp;#10;&amp;#10;Three variations are also included.&amp;#10;&amp;#10;Publishing history: Peter Pallat was one of the original designer &amp;quot;Altmeisters&amp;quot; of the German game industry.  It was his designs that found their way into many family homes from way back in the 1930s, through Ravensburger, then known as Otto Maier Verlag, and others. He remained an active designer throughout his life, but his career went through a renaissance when, in his older days, he found a welcome and supportive group of younger designers and admirers, who, in their turn, had become torch-bearers of German game design. One of these, Reinhold Wittig, published a handful of Peter Pallat's games and ideas in small editions through his own Edition Perlhuhn designers imprint, giving him the recognition for his longstanding input into our hobby he fully deserved. These games later found their way to publishers like Abacus and the Danish Abra who released wooden versions of some of these. As did this game. &amp;quot;Perlen-Pyramide&amp;quot; appeared with Edition Perlhuhn in 1978 and was republished by the Danish Abra as part of their abstract wooden game series of the latter part of the 1980s. It is hard to get hold of these days.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1978" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="1" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5902" value="Components: Marbles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64143" value="Players: Three Players Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1480" value="Peter Pallat" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1017" value="ABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="402" value="Edition Perlhuhn (Göttinger Spiele)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="4" />
+			<wishing value="4" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

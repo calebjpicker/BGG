@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="257283">
+         <thumbnail>https://cf.geekdo-images.com/auUjnvi2D596hPBz0z0Ybg__thumb/img/0lUGODA2QrJVWjy5vYZF4Mwqz_M=/fit-in/200x150/filters:strip_icc()/pic4239499.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/auUjnvi2D596hPBz0z0Ybg__original/img/-Tf8kGrpfMkaEkXve-P1rgR3M5Y=/0x0/filters:format(jpeg)/pic4239499.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tiny Epic Mechs" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pequeños grandes Mechs" />
+			    				
+				<name type="alternate" sortindex="1" value="Tiny Epic Mech Aréna" />
+			    				
+				<name type="alternate" sortindex="1" value="타이니 에픽 메크" />
+			
+						               													<description>It's the year 3030, and technology offers humankind unimaginable entertainment. What used to be virtual reality is now reality, and sports that once occupied your flat-screen now occupy the world stage. The largest of them embodies the evolution and integration of athleticism and machinery. Once every five years, hundreds of millions of viewers tune in to witness the spectacle that is M.E.C.H.s: Mechanized Entertainment Combat Heroes.&amp;#10;&amp;#10;Tiny Epic Mechs is an arena-style player-vs-player action-programming game. It features ITEMeeples with plastic molded power armors and a Mech suit that the ITEMeeples actually go inside of.&amp;#10;&amp;#10;In Tiny Epic Mechs, players take on the roles of highly skilled and athletic Mech pilots. They compete in a free-for-all battle royale over the span of six rounds. In each round, players select four of eight available actions to program. These actions keep you moving around the arena while allowing you to deploy high-scoring defensive turrets, plant explosive land mines with hidden values, collect resources, purchase weaponry, and power up into your Power Armor or eventually the highly-sought-after Mech Suit. While each player has their own Power Armor, there is only one Mech Suit, reserved for the king of the hill.&amp;#10;&amp;#10;Your programmed actions are played out one at a time around the table until all players have executed their four actions. When you cross paths with another player, combat ensues. During combat, players exchange fire until one player is out of ammo and must retreat, or they are defeated and forced to reset.&amp;#10;&amp;#10;Combat is fast, and you can use each weapon only one time per fight, so the more weapons you have, the longer you'll last. Weapons are categorized into three types, and each type counters one of the other types. If you time your weapons correctly, you can counter your opponent and unleash a more powerful attack and gain an edge over them. Dealing a lot of damage to your opponent will wow the audience and earn you lots of points, which brings you closer to victory. You also score victory points every other round based on area control and who controls the Mech. At the end of the game, you also earn points for each weapon you own.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="531" value="No necessary in-game text" numvotes="0" />
+					<result level="532" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="533" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="534" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="535" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2953" value="Programmed Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25072" value="Series: Tiny Epic (Gamelyn Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22232" value="Theme: Robots" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="285979" value="Tiny Epic Mechs: Kickstarter Deluxe Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="315174" value="Tiny Epic Mechs: Man vs. Meeple Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="341342" value="Tiny Epic Game Haul Carrier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="283450" value="Tiny Epic Mechs: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343458" value="Tiny Epic Mechs: Shipshape Gamer Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="313163" value="Tiny Epic Mechs: Deluxe Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="43431" value="Scott Almes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51039" value="Roland MacDonald" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23957" value="Gamelyn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38809" value="Angry Lion Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44532" value="Fishbone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2251" />
+			<average value="6.75839" />
+			<bayesaverage value="6.12702" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2211" bayesaverage="6.12702" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1134" bayesaverage="6.19317" />
+												</ranks>
+
+			<stddev value="1.37597" />
+			<median value="0" />
+			<owned value="9120" />
+			<trading value="221" />
+			<wanting value="68" />
+			<wishing value="625" />
+			<numcomments value="665" />
+			<numweights value="41" />
+			<averageweight value="2.4878" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

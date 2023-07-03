@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="388963">
+                                     				
+				<name type="primary" sortindex="1" value="Braunche" />
+			
+						                           
+						               													<description>Braunche (from Middle English: Braunche, meaning &amp;quot;branch&amp;quot;) is an abstract board game for two players who play on an initially empty hexagonal board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective is to build the group of stones with the largest number of partitions that intersect the edges of the board.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A centerless hexagonal board with 9 intersections on 2 sides and 10 intersections on 4 sides (but can be played on smaller boards for shorter games).&amp;#10;&amp;ndash; A set of black stones and one set of white stones.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A group is a set of connected stones of the same color. A single stone is considered a group.&amp;#10;&amp;ndash; A partition is a set of connected stones that occupy the intersections of the edge. A single stone on the edge is also a partition.&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternate. On your turn, do one of the following:&amp;#10;&amp;#10;&amp;ndash; Place a stone of your color on an empty intersection that has an unbroken path to friendly and enemy stones through empty intersections.&amp;#10;&amp;ndash; Pass your turn.&amp;#10;&amp;#10;End of the game:&amp;#10;If a player cannot place stones, he must pass his turn. If the other player can't either, the game is over and the player with the highest value group wins.&amp;#10;&amp;#10;The value of a group is determined by the number of partitions it contains. The value is calculated by adding the consecutive natural numbers from 1 to the number of partitions in a group. For example, a group with 3 border partitions has a value of 1 + 2 + 3 = 6. To avoid ties, an extra half point is awarded to the player who made the last placement.&amp;#10;&amp;#10;To make the game fair, before the game begins, the first player sets two starting stones, one black and one white, on any empty spot on the board, and the second player chooses the sides. This balancing method is called the two-stone pie rule.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="121545">
+         <thumbnail>https://cf.geekdo-images.com/pbT3lfaGLbkHZWp7fwc74A__thumb/img/sk97nJX2hLUtcpK3xD_siOaiKNE=/fit-in/200x150/filters:strip_icc()/pic1278478.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pbT3lfaGLbkHZWp7fwc74A__original/img/sfdl4i2aGXkKUNYQwbzx6fQVpuE=/0x0/filters:format(jpeg)/pic1278478.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Shadow Agent" />
+			
+						                           
+						               													<description>In Shadow Agent, inspired by video games like Splinter Cell and Metal Gear Solid, the players take on the role of shadow agents from a non-specified secret agency, with the goal of infiltrating an enemy location (base or mansion) to accomplish a certain mission. The agents must not be seen or heard by the numerous guards walking around the location, so they must hide among the shadows, hide behind walls and furniture, and hit the enemies from behind, being silent the whole time.&amp;#10;&amp;#10;At the start of the game, each player chooses up to five items to help with the current mission. Each turn, the active player rolls the action dice and performs two of the rolled actions, which can be Move, Shoot, Melee Attack and Heal. In addition, one die can be replaced by a free action, which range from using an enemy as a meatshield, to interacting with locations, to hiding the corpse of a dead guard.&amp;#10;&amp;#10;After a player performs his two actions, the guards &amp;ndash; which come in three types: green, yellow and red &amp;ndash; are activated. For each type of guard, one player rolls a die twice, with all the guards of this type then performing the rolled actions in order. Actions range from moving 1-4 areas, to shooting, to calling for help (which will spawn other guards). In more detail:&amp;#10;&amp;#10;&amp;#10;    Green guards move, shoot, and spawn other guards at an average rate.&amp;#10;    Yellow guards shoot and spawn other guards a lot.&amp;#10;    Red guards shoot a lot and move very quickly.&amp;#10;&amp;#10;&amp;#10;As soon as an alarm sounds due to a guard spotting a dead guard's corpse, all guards are activated with the red die, so things become much tougher for the player agents.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19564" value="Contests: Solitaire Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41932" value="Michele Esmanech" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41932" value="Michele Esmanech" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.816497" />
+			<median value="0" />
+			<owned value="36" />
+			<trading value="0" />
+			<wanting value="11" />
+			<wishing value="84" />
+			<numcomments value="25" />
+			<numweights value="5" />
+			<averageweight value="3.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

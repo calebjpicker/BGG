@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="27364">
+         <thumbnail>https://cf.geekdo-images.com/XLo2qDE1uVGAvVUc2TJZzw__thumb/img/A7eydugtIseiNjCxfxcmdCgdy2s=/fit-in/200x150/filters:strip_icc()/pic339842.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/XLo2qDE1uVGAvVUc2TJZzw__original/img/yoB_q4x1o91ccexqhK09RRqg9tM=/0x0/filters:format(jpeg)/pic339842.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Caylus Magna Carta" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="케일러스 마그나 카르타" />
+			
+						               													<description>The general theme and mechanics of Caylus Magna Carta are similar to the Caylus board game. However, there is no board or score track and the tactical nuts and bolts of the game are somewhat different. In terms of components, the game consists of cards, money, worker pawns, resource markers, the provost, and castle building stones. Each player has a set of identical cards, which are shuffled and used as a face-down draw deck. Players start with an opening random draw of cards, and on his turn a player can either:&amp;#10;&amp;#10;&amp;#10;    extend the road by building a new building &amp;#10;    pay 1 to draw a new building card &amp;#10;    pay 1 to discard his hand and draw a fresh hand (with the discard deck being shuffled for a new draw deck once the draw deck is exhausted) &amp;#10;    pay 1 to place a worker on one of the existing building cards &amp;#10;    build one of the common prestige building cards (some of which are placed at the beginning of the game as part of the setup) or &amp;#10;    pass&amp;#10;&amp;#10;&amp;#10;Once everyone has passed, the cards are resolved up to the provost (which can be moved in passing order by paying money).&amp;#10;&amp;#10;Ownership of the non-common buildings is shown by the card color. When a worker is placed on a card, the owner earns either resources or money as a reward instead of victory points. Players may also choose to help build the castle. Starting with the first player to have passed, players can pay resources to obtain castle stones. The stones are worth three different values (2-4 points). Players collect the most valuable ones first. In addition, the player who collects the most building stones each round is rewarded with a gold resource marker.&amp;#10;&amp;#10;From round to round, 1st player privileges rotate to the left, and the provost starts two cards further down the path from the castle.&amp;#10;&amp;#10;The winner of the game is the player who has accumulated the most victory points once the game end has been triggered the turn the castle is finished. Victory points are awarded for castle stones, cards built, and resources and money in hand at the end of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="103">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="49" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="54" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="52" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="75" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="30">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="30" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1115" value="Religious" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70" value="Game: Caylus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="187" value="Series: Ystari originals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150637" value="Caylus Magna Carta: The Favors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39292" value="Caylus Magna Carta: The Library" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="47156" value="Ystari Box" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138359" value="Caylus: King Figure" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="18602" value="Caylus" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5629" value="William Attia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12886" value="Arnaud Demaegd" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="531" value="Esdevium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4696" value="Quined White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4958" />
+			<average value="6.89513" />
+			<bayesaverage value="6.49635" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1174" bayesaverage="6.49635" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="678" bayesaverage="6.58069" />
+												</ranks>
+
+			<stddev value="1.24966" />
+			<median value="0" />
+			<owned value="6642" />
+			<trading value="424" />
+			<wanting value="113" />
+			<wishing value="534" />
+			<numcomments value="1634" />
+			<numweights value="494" />
+			<averageweight value="2.8704" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

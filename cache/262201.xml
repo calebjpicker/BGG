@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="262201">
+         <thumbnail>https://cf.geekdo-images.com/PXC0YrJWddsi7r0z_d3hIw__thumb/img/C0r7SF8FIV0ol6EsqLM2_bkGMG4=/fit-in/200x150/filters:strip_icc()/pic4340969.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PXC0YrJWddsi7r0z_d3hIw__original/img/SQauhUysUv9Vyfh8nvRGyLVGbzA=/0x0/filters:format(jpeg)/pic4340969.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sword &amp; Sorcery: Ancient Chronicles" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Sword &amp; Sorcery: Crónicas Antiguas" />
+			    				
+				<name type="alternate" sortindex="1" value="Sword &amp; Sorcery: Die alten Chroniken" />
+			
+						               													<description>Sword &amp;amp; Sorcery is an epic-fantasy cooperative board game in which 1-5 players fight together against the forces of evil, which are controlled by the game system itself.&amp;#10;&amp;#10;Ancient Chronicles, a new starting point for the game, is fully compatible with the original Immortal Souls campaign in terms of gameplay, allowing players to cross over heroes and monsters from one campaign to another. Gameplay remains familiar, but this new cycle also introduces new elements to the setting, expanding both the narrative engine and the mechanisms, without making the game more complex.&amp;#10;&amp;#10;The Ancient Chronicles campaign is set in the distant past of the events narrated in the Immortal Souls campaign.&amp;#10;&amp;#10;New features in the game:&amp;#10;&amp;#10;&amp;#10;    No Game Master needed. Play alone or with up to 5 players together against the game system itself.&amp;#10;    No player elimination. Dying, becoming a ghost soul and resurrecting your Hero are part of the game engine.&amp;#10;    A real story-driven campaign with multiple outcomes, a main plot and several optional Quests.&amp;#10;    World and city exploration, with different paths and ventures to discover.&amp;#10;    Multiple development paths for your Heroes.&amp;#10;    A sophisticated tactical combat system, based on custom ten-sided dice.&amp;#10;    An advanced artificial intelligence engine for Enemies and Master Enemies.&amp;#10;    Customizable difficulty level, thanks to the different options provided with the game rules and granted by the Challenge set.&amp;#10;    Full backward compatibility with Sword &amp;amp; Sorcery: Immortal Souls heroes and enemies.&amp;#10;    Crafting, Loots, Treasures, Traps and many other aspects of a true fantasy legendary adventure are a part of the game!&amp;#10;    Familiars, a new type of faithful companions for all your Heroes.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="180" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44074" value="Game: Sword &amp; Sorcery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388091" value="Sword &amp; Sorcery: Abyssal Legends" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270700" value="Sword &amp; Sorcery: Ancient Chronicles – Alternate Hero Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338705" value="Sword &amp; Sorcery: Ancient Chronicles – Challenge Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266013" value="Sword &amp; Sorcery: Ancient Chronicles – Chaotic Familiars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266012" value="Sword &amp; Sorcery: Ancient Chronicles – Genryu/Shakiko Hero Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338793" value="Sword &amp; Sorcery: Ancient Chronicles – Ghost Soul Form Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338706" value="Sword &amp; Sorcery: Ancient Chronicles – Kickstarter Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266014" value="Sword &amp; Sorcery: Ancient Chronicles – Lawful Familiars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338704" value="Sword &amp; Sorcery: Ancient Chronicles – Nemeses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362393" value="Sword &amp; Sorcery: Ancient Chronicles – Northwind Tales" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266011" value="Sword &amp; Sorcery: Ancient Chronicles – Shakiko White/Black Monk Hero Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338701" value="Sword &amp; Sorcery: Ancient Chronicles – Sigrid/Sigurd Hero Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338648" value="Sword &amp; Sorcery: Ancient Chronicles – Spawn Gates and Gods' Altars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270359" value="Sword &amp; Sorcery: Galaxy Defenders Aliens Miniature Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266010" value="Sword &amp; Sorcery: Hero Pack – Sigrid Thane/Skald" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266009" value="Sword &amp; Sorcery: Hero Pack – Sigurd Thane/Skald" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270357" value="Sword &amp; Sorcery: Hero Pack – Skeld Slayer/Berserker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270358" value="Sword &amp; Sorcery: Hero Pack – Tristan Standard Bearer/Warlord" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270356" value="Sword &amp; Sorcery: Hero Pack – Volkor Dragonheart/Dragonflame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265106" value="Sword &amp; Sorcery: Myths of the Arena" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270701" value="Sword &amp; Sorcery: Ancient Chronicles – Alternate Ghost Soul Forms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="340209" value="Sword &amp; Sorcery: Ancient Chronicles – Ghost Soul Form Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="338703" value="Sword &amp; Sorcery: Ancient Chronicles – Minions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="379798" value="Sword &amp; Sorcery: Ancient Chronicles – Spawn Gates and Gods' Altars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270355" value="Sword &amp; Sorcery: Cloth Bag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="242114" value="Sword &amp; Sorcery: Dice Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271509" value="Sword &amp; Sorcery: Doors and Chests" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270354" value="Sword &amp; Sorcery: Metal Crowns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="270360" value="Sword &amp; Sorcery: Set of 6 Tuck Boxes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="170771" value="Sword &amp; Sorcery" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="67159" value="Simone Romano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="67160" value="Nunzio Surace" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4352" value="Mario Barbati" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46213" value="Fabrizio Fiorentino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="84289" value="Phroilan Gardner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="84290" value="Fausto Gutierrez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17374" value="Francesco Mattioli" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17917" value="Ares Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24589" value="Gremlin Project" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="520" />
+			<average value="8.40101" />
+			<bayesaverage value="5.95636" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3000" bayesaverage="5.95636" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="481" bayesaverage="6.2888" />
+												</ranks>
+
+			<stddev value="1.72257" />
+			<median value="0" />
+			<owned value="2355" />
+			<trading value="42" />
+			<wanting value="70" />
+			<wishing value="622" />
+			<numcomments value="224" />
+			<numweights value="42" />
+			<averageweight value="4.4286" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="152053">
+         <thumbnail>https://cf.geekdo-images.com/LRFppt4rRDl8fW5mi8DclA__thumb/img/za72ZEVOTHQoHFmTIKNoZN6PG2A=/fit-in/200x150/filters:strip_icc()/pic2260225.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LRFppt4rRDl8fW5mi8DclA__original/img/lpsreUhRiaGQJSfPB7AdWteVIuQ=/0x0/filters:format(jpeg)/pic2260225.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lagoon: Land of Druids" />
+			
+						                           
+						               													<description>Lagoon is a game in which 1-4 players (4 play as opposing teams of 2) each lead a circle of druids to shape the fantastical world of Lagoon by harnessing the power of its magical lands to bend destiny. The landscape bristles with three divine energies. Every player action alters the balance of power among those energies, and thus the players collectively determine Lagoon&amp;rsquo;s destiny. One divine energy shall inherit Lagoon, and the player who best served it wins!&amp;#10;&amp;#10;The world is built using hexagonal tiles, and a new tile is drawn from a bag each time a druid explores a site. Site tiles are double-sided, and each side represents a different mystical site offering a unique magical power to the druids. Each site is also enchanted with one of three divine energies: Elemeen, Vowelon and Deonin. Since the two sides of a site tile are always linked to different energies, every site explored presents a choice of which energy to advance over the other two, as well as what magic will be put into the world for use by the druids. Players also strategically deploy their druids to unravel sites aligned with an energy they choose to oppose, removing such sites from the world and tipping the balance of power towards the other two energies.&amp;#10;&amp;#10;The energy with the most sites in play at the end of the game becomes Lagoon's destiny, and the player who most supported that dominant energy is the winner. Support is tracked in two ways. First, whenever exploring a site and expanding an energy's reach in Lagoon, the exploring player gains a divine seed token matching the explored site's energy. These seeds can be spent in various ways over the course of the game, but any seeds of the dominant energy remaining in a player's supply at the end of the game are worth 1 point each. Secondly, whenever a player unravels a site, it is removed from play and placed in front of that player. At the end of the game, unraveled sites not matching the dominant energy are worth 2 points each.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="47">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64793" value="Theme: Druids" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174773" value="Lagoon: Land of Druids – Forest Sentinel / Ancient Sentinel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="174836" value="Lagoon: Land of Druids – Mytreia's Glory / Cosmic Vault" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="205135" value="Lagoon: Land of Druids - Druid Faction: Bear" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72591" value="David Chott" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73067" value="Eduardo Garcia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73068" value="Chase Velarde" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39902" value="Peter Wocken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26367" value="Three Hares Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1373" />
+			<average value="6.22128" />
+			<bayesaverage value="5.7753" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4404" bayesaverage="5.7753" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="354" bayesaverage="5.86563" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1760" bayesaverage="5.81874" />
+												</ranks>
+
+			<stddev value="1.56332" />
+			<median value="0" />
+			<owned value="3387" />
+			<trading value="342" />
+			<wanting value="35" />
+			<wishing value="292" />
+			<numcomments value="538" />
+			<numweights value="77" />
+			<averageweight value="2.7273" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="21441">
+         <thumbnail>https://cf.geekdo-images.com/iYUBF-jUj7rWVJ9iNng6lA__thumb/img/1IMoepmcxWVE5x0jxht1oSek8h8=/fit-in/200x150/filters:strip_icc()/pic171450.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/iYUBF-jUj7rWVJ9iNng6lA__original/img/EbqSWqgP0PCK_oiRvAHBevvGx9M=/0x0/filters:format(jpeg)/pic171450.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mykerinos" />
+			
+						                           
+						               													<description>1899. For more than a century, the European public has been fascinated by Egyptology and the discoveries of Denon, Champollion, Petrie and others. Seeking adventure and glory, teams of archaeologists search the sands of Egypt for hidden treasures.&amp;#10;&amp;#10;Mykerinos. Embody archaeologists seeking relics from ancient Egypt for powerful benefactors. Will you be convincing at the museum's final exhibition?&amp;#10;&amp;#10;The game takes place over four rounds. The game board is composed of four (or six in the last round) areas of two cards. These cards have 6 squares, possibly occupied by an obstacle (pyramid), and belonging to one of five benefactors (with their own color and symbol): Sir Brown, Lady Violet, Miss Blackmore, Lord Lemon and Colonel Tangerine.&amp;#10;&amp;#10;Each player has their own personal pool of archaeologists that can be used to:&amp;#10;- Start an excavation (requiring one archaeologist)&amp;#10;- Expand an excavation (requiring two archaeologists in addition to one archaeologist already on the board)&amp;#10;- Play a benefactor previously earned&amp;#10;- Pass&amp;#10;&amp;#10;Benefactors give special benefits like moving over an obstacle or retrieving archaeologists faster, etc ...&amp;#10;&amp;#10;Once all players have passed, we resolve the board according to area control. The player in the first position can either take a card available or go to the museum. Other players can then do the same. Ties are resolved according to player order.&amp;#10;&amp;#10;Going to the Museum adds value for a colour at endgame to the cards collected (x2, x3 or x5).&amp;#10;&amp;#10;At the end of the 4th round, the final exhibition is resolved and the winning player will be whoever collected the most prestige between:&amp;#10;- Points on the cards collected during game&amp;#10;- Points by colour benefactors (according to position in the museum)&amp;#10;- Bonus points for sets of cards (1 in every colour of benefactors).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="80">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="24">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="23" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70705" value="Digital Implementations: MaBiWeb" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="187" value="Series: Ystari originals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30762" value="Mykerinos: The Nile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="47156" value="Ystari Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6475" value="Nicolas Oury" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12886" value="Arnaud Demaegd" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2861" value="Ystari Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3364" value="Millenium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3945" />
+			<average value="6.84361" />
+			<bayesaverage value="6.40361" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1361" bayesaverage="6.40361" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="758" bayesaverage="6.50416" />
+												</ranks>
+
+			<stddev value="1.15937" />
+			<median value="0" />
+			<owned value="4017" />
+			<trading value="208" />
+			<wanting value="120" />
+			<wishing value="619" />
+			<numcomments value="1314" />
+			<numweights value="518" />
+			<averageweight value="2.5598" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="236217">
+         <thumbnail>https://cf.geekdo-images.com/bWnkPpdiF7Eixx0ocxG8Ag__thumb/img/Lv1wKMbhK0AsczCqXBETMj4abqs=/fit-in/200x150/filters:strip_icc()/pic3132516.png</thumbnail>
+      <image>https://cf.geekdo-images.com/bWnkPpdiF7Eixx0ocxG8Ag__original/img/EHaOyEHQn0NlI_jePBtJpOvUj_0=/0x0/filters:format(png)/pic3132516.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Timebomb" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Időzített bomba" />
+			    				
+				<name type="alternate" sortindex="1" value="Pekelný stroj: Moriarty vs. Sherlock" />
+			    				
+				<name type="alternate" sortindex="1" value="Timebomb: Moriarty vs. Sherlock" />
+			    				
+				<name type="alternate" sortindex="1" value="驚爆倫敦" />
+			
+						               													<description>Each player will be assigned a secret identity, Agent or Terrorist.&amp;#10;The game will unroll in a maximum of four rounds in which the agents want to defuse the bomb and the terrorists want it to explode.&amp;#10;Each player will be dealt wire cards, which he will see and then will shuffle. Starting with the first player, he will be choosing a secret card and play it. Each card will have an action. Players will follow this way doing actions to try and defuse or explode the bomb.&amp;#10;The game ends if all the success cards are revealed (agents win), the explosion card is revealed (terrorists win), or the 4th round ends without the bomb being defused (terrorists win).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="35">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="1" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="151" value="No necessary in-game text" numvotes="11" />
+					<result level="152" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="153" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="154" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="155" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7510" value="Books: Sherlock Holmes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28174" value="Series: Mini Games (IELLO)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5610" value="Theme: Steampunk" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="206915" value="Tempel des Schreckens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="231748" value="Time Bomb Evolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="369496" value="TimeBomb Legacy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="170587" value="Don't Mess with Cthulhu" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="82544" value="佐藤 雄介 (Yusuke Sato)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="112767" value="326" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="79489" value="David Arenas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66148" value="Biboun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77080" value="Paco Dana" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Primigenio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27515" value="Switch Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1533" />
+			<average value="7.14281" />
+			<bayesaverage value="6.18291" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1991" bayesaverage="6.18291" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="94" bayesaverage="6.53536" />
+												</ranks>
+
+			<stddev value="1.4851" />
+			<median value="0" />
+			<owned value="2518" />
+			<trading value="21" />
+			<wanting value="33" />
+			<wishing value="302" />
+			<numcomments value="207" />
+			<numweights value="40" />
+			<averageweight value="1.05" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

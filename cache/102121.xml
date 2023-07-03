@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="102121">
+         <thumbnail>https://cf.geekdo-images.com/TuZziDA4mJmWdA8EnVvsLw__thumb/img/ZRE-IiLGDpCtNkTIU31klo4pu-Y=/fit-in/200x150/filters:strip_icc()/pic1029558.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TuZziDA4mJmWdA8EnVvsLw__original/img/mvBR_Beg98X1Py-JN-2mcGGqMAs=/0x0/filters:format(jpeg)/pic1029558.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="One Six" />
+			
+						                           
+						               													<description>This is Game #26 in the Games on Half a Checkerboard Series&amp;#10;&amp;#10;This is a solitaire puzzle game, with variant rules to enable it to be played as a party puzzle game.  In it, players attempt to reduce 6 dice that are rolled to a single die on the board, with value of 6 on top.  As players move dice, they reduce in value.  As players merge dice, the new dice on the space merged equals the sum of the two dice merging.  Players are not permitted to combine dice to a value greater than six, and each die is permitted to only move in a line, one or more spaces.&amp;#10;&amp;#10;Quick rules:&amp;#10;&amp;#10;     Roll the six dice, and then place them on the board so they get reduced to a single die with a six on it.&amp;#10;     As a die moves into another die, the value of the die moved into is increased by the current value of the die moving, and the die moving is removed from the board.&amp;#10;     A single move for a die consists of moving in a straight line vertically, horizontally or diagonally, like a queen in chess.  For each empty space a die moves into, it decreases its value by 1.  A die may not be reduced to less than one doing this.&amp;#10;     Each die can perform, at most, one move per puzzle.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78583" value="Components: 4 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8933" value="Richard Hutnik" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

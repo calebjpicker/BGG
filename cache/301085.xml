@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="301085">
+         <thumbnail>https://cf.geekdo-images.com/d0h_Zs3zp2dVw6eFYBBGVQ__thumb/img/-SGGBYaCd8jDdEmx3y8P_obXYkM=/fit-in/200x150/filters:strip_icc()/pic5235254.png</thumbnail>
+      <image>https://cf.geekdo-images.com/d0h_Zs3zp2dVw6eFYBBGVQ__original/img/Y_xXUCyXI6lVS5_vxQGSyt9ZiPo=/0x0/filters:format(png)/pic5235254.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rebis" />
+			
+						                           
+						               													<description>In Rebis, players will take turns by drawing a card from the Library deck and play cards either to their own shelf or to the shelf of another player, by piling up Library cards up to 13 to accumulate victory points.&amp;#10;&amp;#10;On your turn, you can play either 1 card to your active shelf or 2 cards of the same number. You can do this as long as the sum of the book weight shown in the cards of the Active Shelf does not exceed 13 after placing the card. In Rebis there is no hand limit.&amp;#10;&amp;#10;Alternatively, you can play 1 card to another player&amp;rsquo;s Active Shelf. You may choose to play your card with the positive or the negative value by considering that the sum of the book victory points in a shelf must never be negative. Whenever you play a card with a negative point value to another player&amp;rsquo;s Shelf, you take 1 card from the Library deck.&amp;#10;&amp;#10;If your card causes the sum to exceed 13 points, you close the shelf by playing your card face down to create a new Active Shelf for the player. If you close another player&amp;rsquo;s Active Shelf, you receive 1 Mixture token and the other player takes 1 card from the Library deck.&amp;#10;&amp;#10;At the beginning of your turn, after drawing a card, you may place as many golden dust mixture tokens as you want exclusively on your active shelf. Mixture tokens act as multipliers of the victory point value on the shelf where they are placed.&amp;#10;&amp;#10;When there are no more golden dust mixture tokens left, the players will take a golden mixture token instead, which can be placed immediately after, in any shelf of your preference.&amp;#10;&amp;#10;The game ends when the deck runs out or as soon as all mixture tokens have been taken, excluding the red mixture token. Count the total negative book value visible in all of your shelves and sum it to the amount of cards in your hand. The player with the higher result will receive the red mixture token, which will be placed in any shelf of the player&amp;rsquo;s preference.&amp;#10;&amp;#10;When the game ends, count the total book value of each shelf and multiply it if there are any mixture tokens on the shelf. The player who has the highest total book value is the winner.&amp;#10;&amp;#10;A mini-expansion, Rebis: Zero, is included inside the base game's box. It introduces 9 new &amp;quot;0&amp;quot; book weight library cards that will completely change the game flow.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="4" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59656" value="Series: The Matchbox Collection (Thundergryph)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335134" value="Rebis: Elixir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335527" value="Rebis: Golden Book" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="124529" value="Gaetano Cavallaro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="118464" value="Paolo Voto" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32922" value="ThunderGryph Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="220" />
+			<average value="6.13916" />
+			<bayesaverage value="5.55613" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10658" bayesaverage="5.55613" />
+												</ranks>
+
+			<stddev value="1.54811" />
+			<median value="0" />
+			<owned value="1492" />
+			<trading value="46" />
+			<wanting value="2" />
+			<wishing value="35" />
+			<numcomments value="108" />
+			<numweights value="11" />
+			<averageweight value="1.6364" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

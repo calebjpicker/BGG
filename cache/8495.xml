@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8495">
+         <thumbnail>https://cf.geekdo-images.com/tKNiq3i4UjGtZUEpX2VRzw__thumb/img/xfy-0o-Fgk0VLpswBffF43T3dEQ=/fit-in/200x150/filters:strip_icc()/pic152923.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tKNiq3i4UjGtZUEpX2VRzw__original/img/USrbDUNYCbpO11iq-6bSGsrL6IU=/0x0/filters:format(jpeg)/pic152923.jpg</image>
+                                     				
+				<name type="primary" sortindex="4" value="De Bellis Multitudinis: Wargames Rules for Ancient and Medieval Battles – 3000 BC to 1500 AD" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="DBM" />
+			
+						               													<description>A moderately abstract set of Ancient and Medieval miniatures rules.  This ruleset is the bigger brother of De Bellis Antiquitatis: Quick Play Wargame Rules with Army Lists for Ancient and Medieval Battles.  It covers the same time period (3000 BC - 1500 AD) through four volumes of army list books.&amp;#10;&amp;#10;Armies are typically built to 300-500 points, and can encompass anywhere between 150 and 400 figures grouped onto individual elements.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1993" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="180" />
+						               				<maxplaytime value="180" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="1" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1117" value="Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6324" value="Game: DBx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="70092" value="Ancient Historical Battles, Volume 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="28317" value="De Bellis Fantasticus: Here There Be Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26862" value="DBM Army Lists Book 1: 3000 BC to 500 BC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26863" value="DBM Army Lists Book 2: 500 BC to 476 AD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26864" value="DBM Army Lists Book 3: 476 AD to 1071 AD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26865" value="DBM Army Lists Book 4: 1071 AD to 1500 AD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310550" value="DBM Naval Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="28096" value="De Bellis Magistrorum Militum: Wargame Rules for Ancient and Medieval Battle from 3000 BC to 1525 AD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="12715" value="De Bellis Renationis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5369" value="Hordes of the Things" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="31167" value="Horse, Foot and Guns" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="299" value="De Bellis Antiquitatis: Quick Play Wargame Rules with Army Lists for Ancient and Medieval Battles" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1668" value="Philip C. Barker" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1669" value="Richard Bodley Scott" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="938" value="Wargames Research Group" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="262" />
+			<average value="6.67118" />
+			<bayesaverage value="5.63517" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6738" bayesaverage="5.63517" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1195" bayesaverage="6.04575" />
+												</ranks>
+
+			<stddev value="1.98302" />
+			<median value="0" />
+			<owned value="491" />
+			<trading value="12" />
+			<wanting value="3" />
+			<wishing value="13" />
+			<numcomments value="101" />
+			<numweights value="36" />
+			<averageweight value="3.9722" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

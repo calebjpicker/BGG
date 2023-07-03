@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166226">
+         <thumbnail>https://cf.geekdo-images.com/QanIzMjUIPQH9nitjnWALg__thumb/img/bA_n_9iVmWngianR-cu5bcUhnMk=/fit-in/200x150/filters:strip_icc()/pic2256945.png</thumbnail>
+      <image>https://cf.geekdo-images.com/QanIzMjUIPQH9nitjnWALg__original/img/DXiMOY2irO5Rmzf3Aq1IopOLPDU=/0x0/filters:format(png)/pic2256945.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Staufer Dynasty" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Die Staufer" />
+			    				
+				<name type="alternate" sortindex="1" value="シュタウファー" />
+			
+						               													<description>In The Staufer Dynasty, the players are nobles in the 12th century, accompanying Henry VI on his tour of the areas of Europe brought under control by the Staufer family, an area that included much of modern-day Germany, from the Baltic Sea in the north to Sicily in the south. You're eager to improve your own lot in the land by placing envoys and nobles in positions of power in the six regions represented in this game.&amp;#10;&amp;#10;The game lasts five rounds with each player having three actions per round. Players take actions in order of their family members on the action board from top to bottom; on a turn you either take a supply action (moving to one side of the action board) or a move/deploy action (moving to the other side).&amp;#10;&amp;#10;For a supply action, you pick one of the spaces on the supply table, move the indicated number of envoys and nobles from the province to your personal court, then claim any chests underneath that space. The treasure chests come in different colors, with each color having a different function in the game: the brown treasure chests score points based on how many you collect, the orange ones provide immediate points or figures, the blue ones provide a one-shot bonus, and the purple ones let you collect one of the privilege cards on display. The privilege cards often modify other actions or give you a bonus for doing a particular thing.&amp;#10;&amp;#10;For a move/deploy action, you decide which office seat you want to occupy in a particular region. If this seat isn't in the region where the king is located, you need to spend one envoy as you move clockwise away from the king, placing each envoy in the top part of those regions, until you reach the region that you want to occupy. You then pay the cost of the office seat, placing one figure &amp;mdash; possibly a noble if the seat demands it &amp;mdash; in that seat and all the other figures in clockwise order, one per region. When you occupy a seat, you claim the chest underneath it.&amp;#10;&amp;#10;After everyone has finished their actions, you score for the round &amp;mdash; but you score only in the region indicated in the current row of scoring tiles (Aachen, Nijmegen, Palermo, etc.) and the region that best meets the condition laid out in a separate part of the current row of scoring tiles (fewest chests, most occupants, where the king is located, etc.) If these two regions turn out to be the same one, you score that region only once. Players score points for having the most office seats in a region (or the second- or thirdmost most office seats) based on the point tile placed in the region at the start of the game. Each region also has a printed bonus that players receive, such as bonus chests or additional envoys.&amp;#10;&amp;#10;To end the round, you remove all of the office occupants of the region that scored, add new chests under each office seat in those scoring regions and each space on the supply table, then sweep the king clockwise 1-3 regions. As the king moves, he returns all of the envoys that he encounters in the regions that he enters to their owners. After five rounds, players score for their treasure chests as well as for how well they completed their secret job cards, and the player with the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="58">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="326" value="No necessary in-game text" numvotes="13" />
+					<result level="327" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="328" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="329" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="330" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19019" value="History: Holy Roman Empire" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1018" value="Andreas Steding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2322" />
+			<average value="7.15273" />
+			<bayesaverage value="6.40134" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1373" bayesaverage="6.40134" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="716" bayesaverage="6.5447" />
+												</ranks>
+
+			<stddev value="1.16508" />
+			<median value="0" />
+			<owned value="3436" />
+			<trading value="157" />
+			<wanting value="91" />
+			<wishing value="435" />
+			<numcomments value="533" />
+			<numweights value="119" />
+			<averageweight value="2.9748" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

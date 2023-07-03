@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="58421">
+         <thumbnail>https://cf.geekdo-images.com/lt07T2HIr_r7JerYdW0iyA__thumb/img/sfnHUziRZl-kItnnr-QFfocySck=/fit-in/200x150/filters:strip_icc()/pic1651950.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lt07T2HIr_r7JerYdW0iyA__original/img/d8zivAydrkxYBwwXi1XeM73XlIU=/0x0/filters:format(jpeg)/pic1651950.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Egizia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dolina Królów" />
+			    				
+				<name type="alternate" sortindex="1" value="Údolí králů" />
+			
+						               													<description>The players are builders in Ancient Egypt, competing to get the most fame building different monuments requested by the Pharaoh (the Sphinx, the Obelisk, the Temple, and the Pyramid).&amp;#10;&amp;#10;The game lasts 5 turns. In each turn, the players place their pawns on the board, along the banks of the Nile, getting the advantages shown on each square. On the right bank there are fixed squares where the players may get workers, improve their mercantile capabilities, influence the floods (and thus the fertility of the fields) and reserve the right to build the monuments (that are built only after all the placements are done). On the left bank the players may take cards that are deployed randomly on the 10 squares at the start of each turn; some of these cards are kept until the end of the game (cultivable fields, stone quarries, deities granting special advantages), while others are discarded after the use and offer multiple immediate advantages.&amp;#10;&amp;#10;In Egizia, the twist on the worker placement mechanic is that the players must place their pawns following the course of the Nile, moving northwards (from the top to the bottom of the board, that is seen from the Mediterranean Sea). In this way, each placement not only blocks the opponents from choosing the same square (except monuments, where multiple players are always allowed), but also forces the player to place his remaining pawns only on the squares below the one he just occupied (note that &amp;quot;pawns&amp;quot; are placed, since &amp;quot;workers&amp;quot; are one of the resources of the game, like grain and stones).&amp;#10;&amp;#10;When the placement phase is over, the workers of the players must be fed with the grain produced in the fields. The production of each field is based on the floods of the Nile, so some fields may not give grain each turn. If a player has not enough grain for all his workers, he has to buy it with Victory Points (the ratio is better for players with improved mercantile capabilities, recorded on a specific track on the board).&amp;#10;&amp;#10;After that, stones are received from the owned quarries and used to build the monuments (if the right to do was reserved earlier) along with the workers.&amp;#10;&amp;#10;When the game ends, the points scored during the game (mainly building the monuments) are added to the bonuses obtained fulfilling certain conditions on the Sphinx cards. Whoever has the highest total is the winner.&amp;#10;&amp;#10;Online Play&amp;#10;&amp;#10;&amp;#10;     Yucata (turn-based)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="138">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="63" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="80" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="90" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="51" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="23">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="11" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="38">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="14" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="23" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2957" value="Bias" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72535" value="Ancient: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77012" value="Constructions: Pyramids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69032" value="Theme: Temple" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="267271" value="Egizia: Shifting Sands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="308388" value="Egizia: Shifting Sands – Kickstarter Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6601" value="Acchittocca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6818" value="Flaminia Brasini" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6817" value="Virginio Gigli" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2729" value="Stefano Luperto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6816" value="Antonio Tinto" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9235" value="Stupor Mundi" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5402" />
+			<average value="7.39558" />
+			<bayesaverage value="6.89715" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="557" bayesaverage="6.89715" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="328" bayesaverage="7.01729" />
+												</ranks>
+
+			<stddev value="1.19503" />
+			<median value="0" />
+			<owned value="4399" />
+			<trading value="93" />
+			<wanting value="361" />
+			<wishing value="1201" />
+			<numcomments value="1137" />
+			<numweights value="384" />
+			<averageweight value="2.8359" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

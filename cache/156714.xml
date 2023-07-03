@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="156714">
+         <thumbnail>https://cf.geekdo-images.com/0RRXX6up8XWKoG-r83typg__thumb/img/hc0vcSd7noejoF339K-DDFunvGg=/fit-in/200x150/filters:strip_icc()/pic1963882.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0RRXX6up8XWKoG-r83typg__original/img/-alPVo_JNDGCpHpxpSxZk5Rai1g=/0x0/filters:format(jpeg)/pic1963882.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Doomtown: Reloaded" />
+			
+						                           
+						               													<description>The classic collectible card game Deadlands: Doomtown returns as an Expandable Card Game in Doomtown: Reloaded. Featuring four factions fighting for control of Gomorra, California. Doomtown: Reloaded allows you to build your own deck from a fixed set of cards in the box. Play your dudes to control deeds in the town, and use actions, hexes, and more to thwart your opponents.&amp;#10;&amp;#10;Shootouts are resolved via a poker mechanism as every card has a suit and value. Preparing for the hands you want to draw is as much a part of deck building as choosing the actions and dudes you'll want to play. Your deck is built around an Outfit, one of the four main groups attempting to control Gomorra, California, and these outfits are:&amp;#10;&amp;#10;&amp;#10;    The Law Dogs: The Sheriff and his deputies, tasked with enforcing law and order in an extremely chaotic town.&amp;#10;&amp;#10;&amp;#10;&amp;#10;    The Sloane Gang: The main cause of a lot of the chaos, the Sloane Gang takes what they want, no matter who it costs.&amp;#10;&amp;#10;&amp;#10;&amp;#10;    The Morgan Cattle Company: Progress and investment, Morgan Cattle has moved into the surrounding ranch lands and uses its deep pockets to influence the town.&amp;#10;&amp;#10;&amp;#10;&amp;#10;    The Fourth Ring: It's that circus that's been here for months, but I swear it just arrived...&amp;#10;&amp;#10;&amp;#10;The base set of Doomtown: Reloaded will be followed by Saddlebag expansions, in-store OP events, and the Badge Series of tournaments.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="49">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="7" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="28">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="0" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="25" />
+					<result level="65" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43572" value="Game: Doomtown – Reloaded" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27286" value="Setting: The Weird West (Pinnacle Entertainment)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298533" value="Doomtown: Hell's Comin' With Me" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282338" value="Doomtown: Out For Blood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="200503" value="Doomtown: Reloaded – A Grand Entrance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189905" value="Doomtown: Reloaded – Bad Medicine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207978" value="Doomtown: Reloaded – Blood Moon Rising" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187810" value="Doomtown: Reloaded – Dirty Deeds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171009" value="Doomtown: Reloaded – Double Dealin'" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171008" value="Doomtown: Reloaded – Election Day Slaughter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="173318" value="Doomtown: Reloaded – Faith and Fear" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189904" value="Doomtown: Reloaded – Foul Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175119" value="Doomtown: Reloaded – Frontier Justice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195769" value="Doomtown: Reloaded – Ghost Town" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180468" value="Doomtown: Reloaded – Immovable Object, Unstoppable Force" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="163617" value="Doomtown: Reloaded – New Town, New Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="180446" value="Doomtown: Reloaded – Nightmare at Noon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175034" value="Doomtown: Reloaded – No Turning Back" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195389" value="Doomtown: Reloaded – The Curtain Rises" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182367" value="Doomtown: Reloaded – The Light Shineth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205693" value="Doomtown: Reloaded – The Showstopper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="229448" value="Doomtown: There Comes a Reckoning" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235889" value="Doomtown: Too Tough To Die" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="319086" value="Doomtown: Welcome to Deadwood" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="255892" value="Doomtown: Reloaded – Full Art Servitor Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="174636" value="Doomtown: Reloaded – Ghost Rock Tokens" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="353782" value="Doomtown: Weird West Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1037" value="Deadlands: Doomtown" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41844" value="Dave Williams (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="46012" value="Mark Wootton" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13997" value="Abrar Ajmal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14141" value="Chris Appel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="56728" value="Bruno Balixa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19685" value="Mark Behm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61667" value="Chris Bivins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104747" value="Gabriel Blain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77570" value="Grzegorz Bobrowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12213" value="Alberto Bontempi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="67723" value="Jeff Brown (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104767" value="Buzz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98320" value="Von Caberte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104744" value="Brian Caleffi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73941" value="Cristian Chihaia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13112" value="Brent Chumley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81094" value="Miguel Coronado" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14958" value="Ed Cox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60432" value="Biagio D'Alessandro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13784" value="Paul Daly" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77745" value="Marjorie Davis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="82121" value="Sebastien Ecosse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9234" value="Steve Ellis (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="87333" value="Álvaro Calvo Escudero" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17163" value="Edward Fetterman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104742" value="Andy Fisher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14049" value="Carl Frank" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86045" value="Michele Frigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86685" value="Andrew Gaia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76784" value="Ross Grams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15194" value="Friedrich A. Haas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24266" value="David Hammond" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12013" value="Paul Herbert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92103" value="Jesse Hibbs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88003" value="Jonny Hinkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68021" value="Ambrose H. Hoilman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="65001" value="David Robert Hovey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69506" value="David Hueso" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68381" value="Setiawan Lee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13452" value="Todd Lockwood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="16924" value="M. Wayne Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104743" value="B. A. Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4141" value="Jonathan Moore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24122" value="John Morrow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86151" value="Stephen Najarian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13976" value="William O'Connor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81856" value="Mirco Paganessi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="10548" value="Paolo Parente" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="87368" value="Tamires Pedroso" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104745" value="Brittany Pezzillo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18994" value="German Ponce" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77579" value="Ramon Puasa, Jr." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72739" value="Kristel Raymundo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="33210" value="Char Reed" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104761" value="Vlad Ricean" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104750" value="Lance Ridenoure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14038" value="Daniel Rudnicki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80348" value="Riccardo Rullo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34353" value="Bart Sears" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50224" value="C. Edward Sellner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="62417" value="Bryan Sevilla" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13234" value="Doug Shuler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104748" value="Raciel Avila Silva" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76378" value="Carmen Sinek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="280" value="Brian Snoddy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85093" value="Unique Litani Soparie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12651" value="Ron Spencer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15921" value="Lorenzo Sperlonga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73518" value="James Starr-King" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51581" value="J. Edwin Stevens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104752" value="Marcel Stobinski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104746" value="David Su" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104751" value="Lucas Svedberg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74926" value="Matthew Sweeney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="96231" value="Kamila Szutenburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75801" value="Jonathan Taylor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77254" value="Jose Vega" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13610" value="Pete Venters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104762" value="Teejay Ralph Villahermosa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="93997" value="Daniel Jiménez Villalba" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81915" value="Inna Vjuzhanina" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14978" value="Bryon Wackwitz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104044" value="Elliot Whiting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40841" value="Mario Wibisono" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53178" value="Chris Wilson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104749" value="Larry Wilson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="56874" value="Michael Wolmarans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="104764" value="Robin Wouters" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2316" />
+			<average value="7.11092" />
+			<bayesaverage value="6.31634" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1569" bayesaverage="6.31634" />
+																				<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="48" bayesaverage="6.88947" />
+												</ranks>
+
+			<stddev value="1.7823" />
+			<median value="0" />
+			<owned value="6199" />
+			<trading value="511" />
+			<wanting value="70" />
+			<wishing value="613" />
+			<numcomments value="796" />
+			<numweights value="133" />
+			<averageweight value="3.6015" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

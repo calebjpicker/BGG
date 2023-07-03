@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="155969">
+         <thumbnail>https://cf.geekdo-images.com/ECislQBZPHzEiCHOb1H3Bg__thumb/img/f_JxFu1OVK5g_bmzw4PXb8imjJY=/fit-in/200x150/filters:strip_icc()/pic2726915.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ECislQBZPHzEiCHOb1H3Bg__original/img/AzWc6JVdCn9CgDtMn35PEZgc0s0=/0x0/filters:format(jpeg)/pic2726915.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Harbour" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Harbor" />
+			    				
+				<name type="alternate" sortindex="4" value="El Puerto" />
+			    				
+				<name type="alternate" sortindex="1" value="ボードゲーム ハーバー" />
+			
+						               													<description>Dockmaster Schlibble and Constable O'Brady cordially invite you to visit their bustling Harbour town! Attend to business at the Trader's Guild or the Masoner's Hall. Break for lunch at the Sushi Shop, or stop off for a drink at the Pub. Don't forget to check out the Wizard's Traveling Imaginarium before you go! But no matter where you go, keep on the lookout for a bargain... the denizens of this town are always wheeling and dealing! Collect and trade resources as you visit the various buildings of Harbour, and cash them in to buy your way into the town. Whoever has the most points worth of buildings when the game ends, wins!&amp;#10;&amp;#10;Harbour is a worker placement game where players move their worker from building to building, collecting and trading Fish, Livestock, Wood, and Stone; and cashing those resources in to purchase buildings (which are the worker placement spots) from the central pool. Once a building is purchased, it is replaced from the deck, and the central pool is a small subset of the deck, and is therefore different every game.&amp;#10;&amp;#10;The game ends when a player has purchased his fourth building. After that round finishes, the player with the most points worth of buildings is the winner!&amp;#10;&amp;#10;At the heart of Harbour is a dynamic market mechanism. Each time a player purchases a building, the value of the resources they used drops, while the value of the other resources rise. You'll have to carefully time your purchases to take advantage of the ebb and flow of market prices, or be prepared to waste some resources!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="75">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="176" value="No necessary in-game text" numvotes="0" />
+					<result level="177" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+					<result level="178" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="179" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="180" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2911" value="Ownership" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17927" value="Series: TMG Originals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58582" value="Setting: Gullsbottom" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269281" value="Harbour: High Tide Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="188410" value="Harbour: Ice Viking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="211153" value="Harbour: Klaus – Saint of the North" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="161771" value="Harbour: Launch Promo Characters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182667" value="Harbour: Market Owner" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="43431" value="Scott Almes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39312" value="Max Holliday" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="67288" value="Rob Lundy" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5118" />
+			<average value="6.49569" />
+			<bayesaverage value="6.20005" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1926" bayesaverage="6.20005" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1072" bayesaverage="6.23944" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="633" bayesaverage="6.25175" />
+												</ranks>
+
+			<stddev value="1.30648" />
+			<median value="0" />
+			<owned value="10148" />
+			<trading value="553" />
+			<wanting value="81" />
+			<wishing value="753" />
+			<numcomments value="1328" />
+			<numweights value="175" />
+			<averageweight value="2.0743" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

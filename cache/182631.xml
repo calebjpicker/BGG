@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="182631">
+         <thumbnail>https://cf.geekdo-images.com/FKEjArvFzBTpPJRvU34t8A__thumb/img/v4xPFJ7qUbkc6f7Dpgsn21ZM5YQ=/fit-in/200x150/filters:strip_icc()/pic4324043.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FKEjArvFzBTpPJRvU34t8A__original/img/Ixujer_N-Ro0jFErjGdmCdo152k=/0x0/filters:format(jpeg)/pic4324043.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Star Realms: Colony Wars" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Звёздные империи: Колониальные войны" />
+			    				
+				<name type="alternate" sortindex="1" value="星域奇航: 殖民戰爭" />
+			
+						               													<description>Colony Wars is a deckbuilding game in the Star Realms series which is both a standalone box set for two players (featuring an 80-card trade deck, as in the original) and an expansion for the base Star Realms set that allows it to be played as a four-player game.&amp;#10;&amp;#10;In Colony Wars, as in Star Realms, players will start with a fleet (deck) of 10 basic ships, and can spend Trade to acquire more powerful ships and bases from a central trade row of 5 cards. This row is continuously replenished by random draws from the trade deck. Many ships and bases deal Combat damage which you can use to attack your opponent and/or destroy their bases. When you reduce your opponent's Authority to zero, you win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="49">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2901" value="Delayed Purchase" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25246" value="Game: Star Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="200427" value="Star Realms: Admiral's Tabletop Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282955" value="Star Realms: Assault Shuttle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198025" value="Star Realms: Battle Barge Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255243" value="Star Realms: Battle Screecher Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156755" value="Star Realms: BGG Store Promo Set One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198027" value="Star Realms: Breeding Site Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231374" value="Star Realms: Command Deck – Lost Fleet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231376" value="Star Realms: Command Deck – The Alignment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231369" value="Star Realms: Command Deck – The Alliance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231370" value="Star Realms: Command Deck – The Coalition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231371" value="Star Realms: Command Deck – The Pact" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231372" value="Star Realms: Command Deck – The Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231373" value="Star Realms: Command Deck – The Unity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="179025" value="Star Realms: Cosmic Gambit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166702" value="Star Realms: Crisis – Bases &amp; Battleships" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166707" value="Star Realms: Crisis – Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166704" value="Star Realms: Crisis – Fleets &amp; Fortresses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="166708" value="Star Realms: Crisis – Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="326885" value="Star Realms: Disposal Bot Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255240" value="Star Realms: Federal Transport" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255245" value="Star Realms: Fortress Oblivion Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257613" value="Star Realms: Frontiers – Kickstarter Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158957" value="Star Realms: Gambit Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="167549" value="Star Realms: Game Day Pack (May – July)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="168401" value="Star Realms: Game Day Pack (Season 2)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287290" value="Star Realms: High Alert – First Strike" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287286" value="Star Realms: High Alert – Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287284" value="Star Realms: High Alert – Invasion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287289" value="Star Realms: High Alert – Requisition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287287" value="Star Realms: High Alert – Tech" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231021" value="Star Realms: Merc Battlecruiser Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355648" value="Star Realms: Merc Captain Garcia Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172403" value="Star Realms: Mercenary Garrison Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258592" value="Star Realms: Pact Cutter Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203074" value="Star Realms: Promo Pack I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160970" value="Star Realms: Promo Set Two" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224182" value="Star Realms: Scenarios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195557" value="Star Realms: Security Craft Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255244" value="Star Realms: Starbase Omega Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164343" value="Star Realms: Starmarket Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231375" value="Star Realms: Stellar Allies Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255241" value="Star Realms: Stellar Ray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363017" value="Star Realms: Stingray Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="182075" value="Star Realms: The Ark Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369151" value="Star Realms: Tournament Kit Season 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369150" value="Star Realms: Tournament Kit Season 5" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="229721" value="Star Realms: Union Drone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="208503" value="Star Realms: United – Assault" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="208501" value="Star Realms: United – Command" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202247" value="Star Realms: United – Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="208502" value="Star Realms: United – Missions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258810" value="Star Realms: Universal Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202862" value="Star Realms: Year Two Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339751" value="Звёздные империи: Альянс" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="352237" value="Звёздные империи: Гамбит (Star Realms: Gambit)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="252676" value="Star Realms: Colony Wars – Aging Battleship Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="210915" value="Star Realms: Convoy Bot Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326031" value="Star Realms: D10 Faction Spindown Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="207648" value="Star Realms: Frontier Ferry Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="207649" value="Star Realms: Lancer Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="202531" value="Star Realms: Patrol Cutter Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313525" value="Star Realms: Sleeves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="250312" value="Star Realms: Stealth Tower Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="250305" value="Star Realms: Stellar Reef Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="250311" value="Star Realms: Swarmer Alternate Art Promo Card" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="147020" value="Star Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="355199" value="Star Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="298628" value="Star Realms: Deluxe Nova Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="230253" value="Star Realms: Frontiers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="360676" value="Star Realms: Rise of Empire" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4113" value="Robert Dougherty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4059" value="Darwin Kastle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92581" value="Vito Gesualdi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26542" value="Wise Wizard Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29087" value="ADC Blackfire Entertainment GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35960" value="Games Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7719" />
+			<average value="7.80855" />
+			<bayesaverage value="7.30406" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="202" bayesaverage="7.30406" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="138" bayesaverage="7.37445" />
+												</ranks>
+
+			<stddev value="1.20485" />
+			<median value="0" />
+			<owned value="17283" />
+			<trading value="173" />
+			<wanting value="107" />
+			<wishing value="828" />
+			<numcomments value="1076" />
+			<numweights value="135" />
+			<averageweight value="1.8963" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

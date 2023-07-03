@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="61389">
+         <thumbnail>https://cf.geekdo-images.com/OO9XlmR-UA0_5okgGDNshQ__thumb/img/P-EtmB_ay0qGzhCddXKDRcv_IEg=/fit-in/200x150/filters:strip_icc()/pic603916.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/OO9XlmR-UA0_5okgGDNshQ__original/img/Ih14UOZanIZ1b5tZ6jVHT10GiD0=/0x0/filters:format(jpeg)/pic603916.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="One-Time Path" />
+			
+						                           
+						               													<description>One-Time Path is a really simple 2-players dice game.&amp;#10;&amp;#10;You just need a die, 5 coasters, 12 coins (or chips or counters...) and a glass.&amp;#10;&amp;#10;Put the 5 coasters forming a path between both players and the glass over the middle coaster.&amp;#10;&amp;#10;In every turn, the two players (Up and Down) show at the same time several coins (from 1 to 6) and add them to obtain the 'threshold' (the 'threshold' should be a number between 1 and 6 so if the 'threshold' is greater than 6 you must subtract 6).&amp;#10;&amp;#10;Then, one of the players rolls a die and moves the glass following this instructions:&amp;#10;&amp;#10;&amp;#10;     If the die punctuation is greater than the 'threshold' the glass is moved one position towards the Up player.&amp;#10;     If the die punctuation is less than the 'threshold' the glass is moved one position towards the Down player.&amp;#10;     Is the die punctuation is equal to the 'threshold' the glass is not moved at all.&amp;#10;&amp;#10;&amp;#10;When the glass reaches one of the players the game is over and this player has lost.&amp;#10;&amp;#10;Obviously the Down player wants to have a 'threshold' of 1 or 2 and the Up players prefers a 'threshold' of 5 or 6 so both players are trying to guess what the other thinks to adjust their coins in consequence.&amp;#10;&amp;#10;If you can guess how many coins the adversary is going to show you can have better chances to win the game.&amp;#10;&amp;#10;One-Time Path it's a interesting drinking game. Just fill the glass with some liquor and force the loser to drink it ;-)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="31541" value="Carlos Luna Mota" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="15832">
+         <thumbnail>https://cf.geekdo-images.com/Ul2GRkjbX6kZ4VeSAD4pIA__thumb/img/KyY240GQnSZqtYWP1N6LUJBOgkM=/fit-in/200x150/filters:strip_icc()/pic222244.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Ul2GRkjbX6kZ4VeSAD4pIA__original/img/dbHGafrPNzYfo-K-dEw_uY2Fa1A=/0x0/filters:format(jpeg)/pic222244.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cheat" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Blef" />
+			    				
+				<name type="alternate" sortindex="1" value="Bluff" />
+			    				
+				<name type="alternate" sortindex="1" value="Bullshit" />
+			    				
+				<name type="alternate" sortindex="1" value="Dubito" />
+			    				
+				<name type="alternate" sortindex="1" value="I Doubt It" />
+			    				
+				<name type="alternate" sortindex="1" value="Liegen" />
+			    				
+				<name type="alternate" sortindex="1" value="Mogeln" />
+			    				
+				<name type="alternate" sortindex="1" value="Mr Mischief&#039;s Game of Cheat" />
+			    				
+				<name type="alternate" sortindex="1" value="Oszukaniec" />
+			    				
+				<name type="alternate" sortindex="1" value="Oszust" />
+			    				
+				<name type="alternate" sortindex="1" value="schummellieschen" />
+			    				
+				<name type="alternate" sortindex="1" value="Schummeln" />
+			    				
+				<name type="alternate" sortindex="1" value="Schwindeln" />
+			    				
+				<name type="alternate" sortindex="1" value="Svindli" />
+			
+						               													<description>Cheat is a standard deck playing card game; it is a simple game of bluffing and deduction for 3-10 players.&amp;#10;&amp;#10;A regular deck of 52 playing cards is dealt in its entirety to all players. Players take it in turn to play 1-4 cards onto the stack of cards. When a player plays, they must declare the number of cards played and give the value of a card (ace - king): for example &amp;quot;three queens&amp;quot;. The value given must be either one above, one below or the same as the value given by the previous player. Any player may call &amp;quot;cheat&amp;quot; before the next player plays. When a player calls &amp;quot;cheat&amp;quot;, the number of cards declared is then revealed. If the cards are all of the value given, the player who called &amp;quot;cheat&amp;quot; must take the whole stack of cards into their hand and the falsely accused cheater may start a new stack. However, if the cards are not all of the value declared, the cheater takes the stack into his hand and the first accuser starts a new stack. A player wins by emptying their hand. The game ends when there are only three players remaining.&amp;#10;&amp;#10;This game is also known as Bullshit.  In Hoyle's Rules of Games it is referred to as I Doubt It.&amp;#10;&amp;#10;Similar games include MammuZ, Verish' Ne Verish' and &amp;#208;&amp;#154;&amp;#209;&amp;#131;&amp;#208;&amp;#191;&amp;#208;&amp;#184; &amp;#208;&amp;#161;&amp;#208;&amp;#187;&amp;#208;&amp;#190;&amp;#208;&amp;#189;&amp;#208;&amp;#176;.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24430" value="Card Games: Beating" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="326906" value="Gra w Pana" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6710" value="Roger Hargreaves" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8565" value="King International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23741" value="roominteriorproducts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="364" />
+			<average value="5.15873" />
+			<bayesaverage value="5.42846" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24156" bayesaverage="5.42846" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="795" bayesaverage="5.32478" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2911" bayesaverage="5.39836" />
+												</ranks>
+
+			<stddev value="1.70967" />
+			<median value="0" />
+			<owned value="170" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="9" />
+			<numcomments value="140" />
+			<numweights value="31" />
+			<averageweight value="1.0968" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

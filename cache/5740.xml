@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5740">
+         <thumbnail>https://cf.geekdo-images.com/0fbS0yO1ObqBe4dfsgvAPA__thumb/img/1DCZMq2RNfg9HmponV6W3clHz94=/fit-in/200x150/filters:strip_icc()/pic1087425.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0fbS0yO1ObqBe4dfsgvAPA__original/img/Lds3ioVoucqqtZeHrQSH7q312hM=/0x0/filters:format(jpeg)/pic1087425.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Strat-O-Matic Pro Football" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Strat-o-Matic Football" />
+			
+						               													<description>One of the several statistically-based sports simulations produced by the Strat-O-Matic Game Company.  The game consists of player cards and team defensive cards that accurately reproduce play outcomes and player, team, and league statistics of the National Football League for the season on which the cards are based.  Play progresses with the gamer on offense calling his play (run or pass, where the play is directed, the ball carrier or primary receiver, etc.) and the gamer on defense setting a defensive configuration (blitzes, double coverage of receivers, stacking the line, etc.).  In the cards and dice version, three dice are then rolled, with one die determining whether the play result comes from the offensive or defensive cards and the other two determining the result from the speciifed card.  Play takes place on a game board that resembles a football field, and the gamers keep track of the ball position, the down, and the time remaining in the quarter being played.  Penalties and injuries are part of the game.  Gamers play from the perspective of a head coach and/or general manager.&amp;#10;&amp;#10;The game also comes in a computer version that automatically determines play outcomes and compiles and reports player, team and league statistics.  The computer version grapically portrays the plays using X's and O's to depict player movement.  The computer version also features a sophisticated computer coach that faciltates solitaire play.&amp;#10;&amp;#10;Each year the Strat-O-Matic Game Company issues a new set of player and team cards (or computer disk) based upon the most recent NFL season.  The company also issues from time to time sets of players and teams from past seasons.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1968" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="11" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46219" value="Series: Strat-O-Matic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5640" value="Sports: American Football / Gridiron" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1649" value="Hal Richman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="488" value="Strat-O-Matic Game Company" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="419" />
+			<average value="7.29915" />
+			<bayesaverage value="5.77264" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4434" bayesaverage="5.77264" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="779" bayesaverage="5.90695" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1844" bayesaverage="5.77225" />
+												</ranks>
+
+			<stddev value="1.82373" />
+			<median value="0" />
+			<owned value="724" />
+			<trading value="35" />
+			<wanting value="22" />
+			<wishing value="47" />
+			<numcomments value="186" />
+			<numweights value="40" />
+			<averageweight value="2.85" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="33699">
+         <thumbnail>https://cf.geekdo-images.com/bvcs_P2OKPUrt56jxfPisQ__thumb/img/0OoT6hzxNdjA3HInBBC-KvKaEz4=/fit-in/200x150/filters:strip_icc()/pic288591.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bvcs_P2OKPUrt56jxfPisQ__original/img/O7ab_idvZpIYMk80COrz5Ggq6zc=/0x0/filters:format(jpeg)/pic288591.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Trid" />
+			
+						                           
+						               													<description>EN&amp;#10;It's an abstract strategy game without random elements. The player's goal is either to reach the opposite side of the board or to capture the enemy's master pawn, without losing his own master pawn.&amp;#10;There are 3 types of pawns and each one moves differently. There are two gliding pawns, two jumper pawns and one master pawn which moves only one field, but can jump over his own pawns.&amp;#10;The game is played on a grid made out of triangles. Approximate game duration is 30-45 minutes.&amp;#10;Instruction EN: http://tecbug.pl/gry/trid_instruction.pdf (if anyone finds language-related mistakes please let me know: tecbug@o2.pl)&amp;#10;Big boards for 2 and 4 players (printable): http://tecbug.pl/gry/trid_plansze2-4pl.pdf&amp;#10;Big boards for 3 players (printable): http://tecbug.pl/gry/trid_plansze3pl.pdf&amp;#10;Small boards for 2 and 4 players (printable): http://tecbug.pl/gry/trid_plansze_male2pl.pdf&amp;#10;&amp;#10;PL&amp;#10;To abstrakcyjna gra logiczno-strategiczna bez elementow losowych. Celem kazdego z graczy jest dotarcie pionem glownym do przeciwleglego boku planszy, lub zbicie szefa przeciwnika, zachowujac swojego piona glownego.&amp;#10;W grze sa trzy typy pionkow, kazdy o innym sposobie poruszania sie. Dwa piony suna, jak po lodzie, dwa skacza na pola po skosie, a jeden szef rusza sia o jedno pole, ale moze przeskakiwac swoje pionki.&amp;#10;Gra rozgrywa sia na planszy zlozonej z siatki trojkatow. Rozgrywka jest dosyc szybka, ale przy wyrownanej walce moze trwac 30-45 minut.&amp;#10;Instrukcja PL: http://tecbug.pl/gry/trid_instrukcja.pdf&amp;#10;Duze plansze dla 2 lub 4 graczy (do druku): http://tecbug.pl/gry/trid_plansze2-4pl.pdf&amp;#10;Duze plansze dla 3 graczy (do druku): http://tecbug.pl/gry/trid_plansze3pl.pdf&amp;#10;Male plansze dla 2 lub 4 graczy (do druku): http://tecbug.pl/gry/trid_plansze_male2pl.pdf&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9899" value="Rafal Kowalski" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.707107" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="6" />
+			<numcomments value="4" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

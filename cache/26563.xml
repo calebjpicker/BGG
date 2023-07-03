@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="26563">
+         <thumbnail>https://cf.geekdo-images.com/ucBRid-ohlIQosztyxjP6w__thumb/img/3s7xjEsQtxj82lnyw-9hXJf48Ms=/fit-in/200x150/filters:strip_icc()/pic171400.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ucBRid-ohlIQosztyxjP6w__original/img/woym-VPMmoZ1Xr-lo1xE7kaOhUE=/0x0/filters:format(jpeg)/pic171400.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Upturn" />
+			
+						                           
+						               													<description>You win if you played all your tiles on the table. On your turn you can place a number tile on the table in order to continue the numerical series. &amp;#10;Action tiles can change the direction or enable other special actions.&amp;#10;&amp;#10;Each player has a number of tiles (7 at start). Most of them have numbers (1-99), some additional special effects, some are real special tiles. Goal is to be the first player to get rid off them.&amp;#10;&amp;#10;Played tiles form a row on the table, with the numbers either descending or ascending. A player in turn usually plays one of his tiles; if he is unable to do so, he draws a new tile.&amp;#10;&amp;#10;Special tiles include: Draw one or more tiles and give them to other players; end the current row and start a new one; let other players lose their next turn; change the direction of play; and some more.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="2" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="454" value="Goliath Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="47" />
+			<average value="5.11277" />
+			<bayesaverage value="5.49117" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21714" bayesaverage="5.49117" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1192" bayesaverage="5.44887" />
+												</ranks>
+
+			<stddev value="1.58914" />
+			<median value="0" />
+			<owned value="126" />
+			<trading value="6" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="16" />
+			<numweights value="9" />
+			<averageweight value="1.4444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

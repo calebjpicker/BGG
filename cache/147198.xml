@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="147198">
+                                     				
+				<name type="primary" sortindex="1" value="Piles" />
+			
+						                           
+						               													<description>Piles is played using a standard 52 card deck, by four players in teams of two. Team members are opposite each other. The dealer deals out 10 cards for each player, one by one; the remaining 12 cards are placed in the middle of the desk, arranged in a 4x3 rectangle called &amp;ldquo;Castle&amp;rdquo;. The player left to the dealer starts play placing one card on the Castle; the others will follow in clockwise order. The color (red or black) of the first card played by the opener assigns the color of each team for that game: e.g., if the opener chooses to play a 3 of Hearts, he and his partner will be the Reds, and the other team the Blacks. Goal of the Reds is to score points by capturing black cards, and vice versa for the Blacks. Cards are to be placed on the Castle, on top of those already on the desk, forming piles controlled by the card on top of it. Each card has an intrinsic value that follows the natural order, starting from the Ace (1) up to the King (13). In the Castle, each card can have from 2 up to 4 neighbors, i.e. cards adjacent either horizontally or vertically. The total value of a card on the Castle is equal to its intrinsic value increased by 1 for each neighbor of the same color and decreased by 1 for each of the opposite: e.g. a red 10 having 3 red and 1 black neighbors, will have a total value equal to the intrinsic value of a Queen.&amp;#10;&amp;#10;Rules of the game:&amp;#10;1 - it's alway allowed to place on top of a card another card of the same color&amp;#10;2- a card of the opposite color can be placed, changing the control of the pile, if the card to be placed has an intrinsic value higher than the total value of the card on top of that pile&amp;#10;3- a player can pass the turn. In that case, the opponent at his left will pick at random one of his cards. That card will be added to the piles picked up at the end of the game, possibly contributing to the score.&amp;#10;&amp;#10;End of the game and scoring:&amp;#10;A game is over after 10 turns, when the players run out of cards. Each team picks up the piles topped by the cards of their color: all the cards of the opposite color inside the controlled piles are captured and used for the final score. In the final scoring, an Ace is worth 9 points, a King 4, a Queen 3, a Jack 2 and the remaing cards 1 point each. The Red team will sum up the values of the captured black cards, and the other way around for the Blacks.&amp;#10;&amp;#10;Two players game:&amp;#10;The game can also be played by two players, under the same rules. In that case, when the two players run out of the first 10 cards, the dealer will deal out the remaing and the game will go on as usual.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

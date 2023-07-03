@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="43022">
+         <thumbnail>https://cf.geekdo-images.com/NGxZknC3YvP4Xjn6ro38tQ__thumb/img/0jN0d9qt3YM2DN9MnG1-v6qI2VM=/fit-in/200x150/filters:strip_icc()/pic885442.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/NGxZknC3YvP4Xjn6ro38tQ__original/img/4kedY8ll9nTta_2r3_DZBEOndiY=/0x0/filters:format(jpeg)/pic885442.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Yomi" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Yomi: Fighting Card Game" />
+			
+						               													<description>Yomi is a card game that simulates a fighting game. It tests your ability to predict how your opponents will act and your ability to judge the relative value of cards from one situation to the next. Also, it lets you do fun combos and be a panda. There are 10 characters to choose from, each with their own deck, abilities, and style. Each deck also doubles as a regular deck of playing cards with beautiful artwork (the complete game features a whopping 120 different character illustrations).&amp;#10;&amp;#10;Yomi is the Japanese word for &amp;ldquo;reading&amp;rdquo;, in this case as in reading the mind of your opponent. Yomi: Fighting Card Game is a simple competitive card game that simulates a fight between two characters. Each deck in Yomi represents one character, with 10 decks in the first release.&amp;#10;&amp;#10;Champion fighting game tournament player and tournament organizer David Sirlin designed the game to test the skills of Valuation and Yomi. Valuation refers to your ability to judge the relative value of moves (or cards) as they change over the course of the game. Yomi, the game's title, refers to your ability to guess which moves your opponent will make. There is more to it than guessing, though: some players have the uncanny ability to &amp;ldquo;guess&amp;rdquo; right almost every time, no matter the game.&amp;#10;&amp;#10;The core mechanic is a paper-rock-scissors guessing game between attack, throw, and block/dodge (sometimes modified by special ability cards). Attacks and throws usually let you follow up with combo cards from your hand, while blocks let you draw a card. While it first seems &amp;quot;just random,&amp;quot; you soon discover that the unequal and uncertain payoffs in this guessing game allow you really read what the opponent will do. Yomi captures the kind of mind games that occur during the high level in fighting game tournaments.&amp;#10;&amp;#10;Reimplemented by:&amp;#10;&amp;#10;     Yomi (Second Edition)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="40">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="31">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="0" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="24" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2003" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61206" value="Category: Two players fighting games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5589" value="Series: Fantasy Strike (Sirlin)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="96721" value="Yomi: Cursed Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="177368" value="Yomi: v1 gameplay-changed cards" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="170482" value="Yomi: Panda vs G.Panda" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="84838" value="Yomi (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="274080" value="Yomi Starter Set: Midori versus Setsuki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="163047" value="Yomi: Round 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="163048" value="Yomi: Round 2" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12842" value="David Sirlin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20318" value="Concept Art House" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17894" value="Genzoman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="45181" value="Udon Crew" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18286" value="Long Vo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11738" value="Sirlin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2952" />
+			<average value="6.9439" />
+			<bayesaverage value="6.33068" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1529" bayesaverage="6.33068" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="851" bayesaverage="6.42127" />
+												</ranks>
+
+			<stddev value="1.68365" />
+			<median value="0" />
+			<owned value="3060" />
+			<trading value="159" />
+			<wanting value="154" />
+			<wishing value="826" />
+			<numcomments value="841" />
+			<numweights value="195" />
+			<averageweight value="2.359" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="313730">
+         <thumbnail>https://cf.geekdo-images.com/jC62vv2x6mk4yG_CYUU5xg__thumb/img/kvx4MYoAFzdWD8jpMnjhBcFFmi8=/fit-in/200x150/filters:strip_icc()/pic6279206.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jC62vv2x6mk4yG_CYUU5xg__original/img/qGSlo346EbW9jy5PpfSGXICFQEA=/0x0/filters:format(jpeg)/pic6279206.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Harsh Shadows" />
+			
+						                           
+						               													<description>When you saw the code words Project Nightshade come across your desk, you insisted on the assignment... You were instantly reminded of the shadow operative who had slipped through the fingers of some of The Rigel Group's best agents. Now it's your chance to catch this criminal before it&amp;rsquo;s too late.&amp;#10;&amp;#10;As a master agent of the elite global task force, The Rigel Group, you expertly hunt down cunning spies and deadly double agents. You&amp;rsquo;ll need to use your wits, local intel and tools of the trade to lure the spy into your trap. Just be sure you&amp;rsquo;re the predator, and not the prey! This isn't just any spy; one false move could end your mission... permanently.&amp;#10;&amp;#10;Harsh Shadows is a solitaire game of espionage. To set up, place nine location cards in a 3x3 grid, then place discovery cards under each location. Place three file cards near the locations, then place case cards under each file. Place decks for arrow cards and additional discovery cards nearby, along with two agent tool cards. The spy and agent cards start in different locations.&amp;#10;&amp;#10;You are the agent and go first, moving to an adjacent location and revealing a discovery card, which could be an item, clue, or bomb; item and clue cards go in hand, while bombs force you to discard. You can use a location's special ability and clues to reveal case cards under files. You might be able to place a tracking bug on the spy.&amp;#10;&amp;#10;For the spy's turn, the arrow cards move the spy to an adjacent location, where a new discovery card is placed at random. If the spy moves to your location, discard a card. If you can't discard a card or discover you've discarded an item matching a case card, you lose immediately.&amp;#10;&amp;#10;When the discovery deck is empty, the spy attempts to escape. You must have placed a tracking bug on the spy, have the three item cards in hand matching the case cards, and make it to the spy's current location before the spy escapes.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2964" value="Pieces as Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73392" value="Players: Solitaire Only Card Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="303727" value="To Catch a Spy" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="107817" value="Rachel Bruner" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88600" value="Ben Flores" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46021" value="Wonderspell" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="176" />
+			<average value="7.22269" />
+			<bayesaverage value="5.63854" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6662" bayesaverage="5.63854" />
+												</ranks>
+
+			<stddev value="1.2673" />
+			<median value="0" />
+			<owned value="543" />
+			<trading value="13" />
+			<wanting value="14" />
+			<wishing value="126" />
+			<numcomments value="90" />
+			<numweights value="15" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

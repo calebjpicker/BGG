@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="332290">
+         <thumbnail>https://cf.geekdo-images.com/X1oNtZV5H5BxtxlsTGIsHA__thumb/img/wvQPqF45KlfnRB-Z4ESK9VXzZMM=/fit-in/200x150/filters:strip_icc()/pic6037615.png</thumbnail>
+      <image>https://cf.geekdo-images.com/X1oNtZV5H5BxtxlsTGIsHA__original/img/xkYA7A3vJLA2wqkaRorXcHgjQDk=/0x0/filters:format(png)/pic6037615.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stardew Valley: The Board Game" />
+			
+						                           
+						               													<description>A cooperative board game of farming and friendship based on the Stardew Valley video game by Eric Barone. Work together with your fellow farmers to save the Valley from the nefarious JojaMart Corporation! To do this, you'll need to farm, fish, friend and find all kinds of different resources to fulfill your Grandpa's Goals and restore the Community Center. Collect all kinds of items, raise animals, and explore the Mine. Gain powerful upgrades and skills and as the seasons pass see if you're able to protect the magic of Stardew Valley!&amp;#10;&amp;#10;The goal of the game is to complete Grandpa's Goals and restore the Community Center, which requires you to gather different types of resources represented by tiles. You have a fixed amount of turns to accomplish this. This is driven by the Season Deck of 20 cards, one of which is drawn each turn to trigger certain events. Cooperatively the players decide each turn where they will focus their individual actions and place their pawn in that part of the Valley. Using their actions, they visit specific locations, trying to gather resources to complete their collective goals. Actions include things like: watering crops, trying to catch fish, rolling dice to explore the mines, and many more. When the Season Deck is exhausted, the game ends.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="72">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+	</poll> 			               				<playingtime value="200" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="200" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2909" value="Random Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle / Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7535" value="Animals: Chickens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7306" value="Animals: Ducks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7975" value="Animals: Fish / Fishes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7759" value="Animals: Goats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6507" value="Animals: Rabbits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69363" value="Occupation: Farmer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66113" value="Theme: Construction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21425" value="Theme: Mining" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="381786" value="Stardew Valley: The Board Game – Feldherr Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="134477" value="Eric Barone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9371" value="Cole Medeiros" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134626" value="Alex Van Der Aa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134483" value="Luke Aiello" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134478" value="Gustavo &quot;Goose&quot; Gutierrez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113609" value="Rachel Lapidow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="21100" value="Christine MacTernan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134481" value="Ed Puella" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134479" value="Gina Salvador" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="134480" value="Justin Williams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31908" value="ConcernedApe" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2326" />
+			<average value="7.37651" />
+			<bayesaverage value="6.41532" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1332" bayesaverage="6.41532" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="327" bayesaverage="6.56421" />
+												</ranks>
+
+			<stddev value="1.55264" />
+			<median value="0" />
+			<owned value="5943" />
+			<trading value="64" />
+			<wanting value="246" />
+			<wishing value="2366" />
+			<numcomments value="478" />
+			<numweights value="75" />
+			<averageweight value="2.7067" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

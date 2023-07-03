@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1819">
+         <thumbnail>https://cf.geekdo-images.com/_Vvp2rGVYXP0GsvN_MIvpA__thumb/img/ArID13SKH1hgdkfHkf6nynKXbhQ=/fit-in/200x150/filters:strip_icc()/pic1195055.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_Vvp2rGVYXP0GsvN_MIvpA__original/img/HJShCxRIyUT1juHZBTufwH8Thps=/0x0/filters:format(jpeg)/pic1195055.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Proton" />
+			
+						                           
+						               													<description>Proton is, at its basic level, a sliding tile puzzle no different than any number of sliding tile puzzles (like those annoying little things you can get at Stuckey's with numbers from 1 to 15).  However, instead of the traditional numbers, Proton has several tiles depicting two lines - one red and one white - going in various directions.  The idea is that one player tries to connect one of his own colored endpoints to the other of his colored endpoints before the other player does.  To do this, the players take turns moving one tile each, but not being able to take back their opponent's move.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1998" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="1" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="122" value="Andrew Looney" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="76" value="Looney Labs" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="56" />
+			<average value="4.96536" />
+			<bayesaverage value="5.48502" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22394" bayesaverage="5.48502" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1223" bayesaverage="5.42974" />
+												</ranks>
+
+			<stddev value="1.65383" />
+			<median value="0" />
+			<owned value="162" />
+			<trading value="7" />
+			<wanting value="4" />
+			<wishing value="19" />
+			<numcomments value="34" />
+			<numweights value="4" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

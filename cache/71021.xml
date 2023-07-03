@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="71021">
+         <thumbnail>https://cf.geekdo-images.com/uTx4IxFHBHWHd5E7UU3cww__thumb/img/h5MkeNzN-BmqM6HGJr_goeZTHcs=/fit-in/200x150/filters:strip_icc()/pic1048340.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uTx4IxFHBHWHd5E7UU3cww__original/img/ovdRa9Tt9kKBe6GcLZ1-TcAHFhE=/0x0/filters:format(jpeg)/pic1048340.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Evolution: The Origin of Species" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Evoluce: O původu druhů" />
+			    				
+				<name type="alternate" sortindex="1" value="Ewolucja: Pochodzenie gatunków" />
+			    				
+				<name type="alternate" sortindex="1" value="Еволюція" />
+			    				
+				<name type="alternate" sortindex="1" value="Эволюция" />
+			    				
+				<name type="alternate" sortindex="1" value="演化論: 物種起源" />
+			    				
+				<name type="alternate" sortindex="1" value="进化：物种起源" />
+			
+						               													<description>In Evolution: The Origin of Species, players do the work of nature, putting animals into play and evolving them trait by trait to help them survive and thrive. Each player starts with a hand of six cards that feature an animal on the back and one or two traits on the front.&amp;#10;&amp;#10;Each round consists of four phases. During Development, players take turns playing one card from their hand either as an animal (face-down) or as a trait on one of their existing animals (face-up and tucked under the animal). Traits include Carnivorous, Camouflage, Sharp Vision, Swimming, Poisonous and Communication; if a card has two traits, the player chooses which trait the animal acquires, hiding the other trait under the animal. Once a player passes during this phase, he can no longer play cards.&amp;#10;&amp;#10;During Food Bank Determination, a player rolls 1-2 dice (possibly adding two to the total) to determine the amount of food available for the round.&amp;#10;&amp;#10;During Feeding, players take turns acquiring one food cube and &amp;quot;feeding&amp;quot; one of their animals. Some traits give animals special abilities that can be used during Feeding or at other points during the game. Animals can also be carnivorous, allowing them to attack one other animal to feed &amp;ndash; although that animal might have a defense like High Body Weight or Tail Loss that allows it to survive. An animal can't take more food than it needs unless it has fat tissue, which allows it to store food for future rounds.&amp;#10;&amp;#10;During Extinction and Draw, any animal not fully fed dies; the owner takes that animal and all traits and stacks them in his personal discard pile. Each player then receives new cards in hand equal to one plus the number of live animals that player has.&amp;#10;&amp;#10;When the deck runs out, the players conduct one final round, then score points. Each live animal is worth 2 VP, and each trait on a live animal worth 1 VP; some traits (Carnivorous and Parasite) provide bonus VPs, but make it tougher to keep an animal alive. The player with the most VPs wins.&amp;#10;&amp;#10;By combining two sets of Evolution, you can have up to eight players in a game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="45">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="30">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="23">
+			
+		<results>		
+					<result level="246" value="No necessary in-game text" numvotes="0" />
+					<result level="247" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+					<result level="248" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="13" />
+					<result level="249" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="250" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59442" value="Theme: Biology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="16886" value="Theme: Evolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="130196" value="Evolution: Continents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="345153" value="Evolution: Expansion – Time To Fly and Continents" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="282009" value="Evolution: Herbs and Mushrooms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="207448" value="Evolution: Plantarum" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="97277" value="Evolution: Time to Fly" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184699" value="Evolution: Variation Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="169092" value="Ewolucja: Pochodzenie gatunków – Rozszerzenie" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="155703" value="Evolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="344992" value="Evolution: New World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="151985" value="Evolution: Random Mutations" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39262" value="Dmitry Knorre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9247" value="Sergey Machin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39262" value="Dmitry Knorre" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17748" value="Rightgames RBG SIA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22973" value="More Fun Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23368" value="RBG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7425" value="Stolitsa Design Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9215" value="TWOPLUS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26784" value="ТРЕТЯ ПЛАНЕТА" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2201" />
+			<average value="6.23461" />
+			<bayesaverage value="5.83506" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3825" bayesaverage="5.83506" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1275" bayesaverage="5.85775" />
+												</ranks>
+
+			<stddev value="1.55099" />
+			<median value="0" />
+			<owned value="2896" />
+			<trading value="75" />
+			<wanting value="32" />
+			<wishing value="229" />
+			<numcomments value="401" />
+			<numweights value="117" />
+			<averageweight value="2.0855" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

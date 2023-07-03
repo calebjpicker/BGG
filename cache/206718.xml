@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="206718">
+         <thumbnail>https://cf.geekdo-images.com/UIKUXkcnH3Bd4fjcPGINcA__thumb/img/oNhw2e_wcBc37ItkTRZVio2gMGQ=/fit-in/200x150/filters:strip_icc()/pic3304124.png</thumbnail>
+      <image>https://cf.geekdo-images.com/UIKUXkcnH3Bd4fjcPGINcA__original/img/IrqDqjjm1LY66Zkw7l4RwppaBBI=/0x0/filters:format(png)/pic3304124.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ethnos" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Этнос" />
+			    				
+				<name type="alternate" sortindex="1" value="エスノス" />
+			    				
+				<name type="alternate" sortindex="1" value="에스노스" />
+			
+						               													<description>In Ethnos, players call upon the support of giants, merfolk, halflings, minotaurs, and other fantasy tribes to help them gain control of the land. After three ages of play, whoever has collected the most glory wins!&amp;#10;&amp;#10;In more detail, the land of Ethnos contains twelve tribes of fantasy creatures, and in each game you choose six of them (five in a 2/3-player game), then create a deck with only the creatures in those tribes. The cards come in six colors, which match the six regions of Ethnos. Place three glory tokens in each region at random, arranging them from low to high.&amp;#10;&amp;#10;Each player starts the game with one card in hand, then 4-12 cards (double the number of players) are placed face up on the table. On a turn, a player either recruits an ally or plays a band of allies. In the former case, you take a face-up card (without replacing it from the deck) or the top card of the deck and add it to your hand. In the latter case, you choose a set of cards in your hand that match either in tribe or in color, play them in front of you on the table, then discard all other cards in hand. You then place one token in the region that matches the color of the top card just played, and you use the power of the tribe member on the top card just played.&amp;#10;&amp;#10;At the end of the first age, whoever has the most tokens in a region scores the glory shown on the first token. After the second age, the players with the most and second most tokens score glory equal to the values shown on the first and second tokens respectively. Players score similarly after the third age, then whoever has the most glory wins. (Games with two and three players last only two ages.)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="201">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="106" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="107" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="110" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="60" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="82" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="65" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="27">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27565" value="Creatures: Minotaurs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68281" value="Creatures: Trolls" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226318" value="Ethnos: Promo Tribe – Fairies" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291059" value="Ethnos: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308334" value="Ethnos: Meeple Realty Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365878" value="Ethnos: Tower Rex Organizer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="380938" value="Archeos Society" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7640" value="Paolo Mori" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11884" value="John Howe" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11043" value="Conclave Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26720" value="Spaghetti Western Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28082" value="Нескучные игры" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37975" value="株式会社ケンビル (KenBill)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12729" />
+			<average value="7.46573" />
+			<bayesaverage value="7.18644" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="275" bayesaverage="7.18644" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="198" bayesaverage="7.24016" />
+												</ranks>
+
+			<stddev value="1.21575" />
+			<median value="0" />
+			<owned value="15328" />
+			<trading value="283" />
+			<wanting value="596" />
+			<wishing value="3352" />
+			<numcomments value="2216" />
+			<numweights value="251" />
+			<averageweight value="2.0239" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

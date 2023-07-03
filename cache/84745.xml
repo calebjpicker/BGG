@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="84745">
+         <thumbnail>https://cf.geekdo-images.com/okmcHpljbZl7E04k5vObOg__thumb/img/gsdcAL-LPtXaoNHB96mxCyJqyZU=/fit-in/200x150/filters:strip_icc()/pic848090.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/okmcHpljbZl7E04k5vObOg__original/img/r_oORiYEghFT17Qx3wKKfFGjwxM=/0x0/filters:format(jpeg)/pic848090.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Temple" />
+			
+						                           
+						               													<description>This is a game for 2 players. You need 1 set of Nestortiles.&amp;#10;&amp;#10;Each player chooses 5 colours and takes the corresponding tiles.&amp;#10;One player begins by placing a tile valued 1 on to the table. Then the players continue alternately.&amp;#10;&amp;#10;On his turn a player puts 1 to 3 (dependent on the move type) tiles onto the table. There are 6 possibilities to extend the building:&amp;#10;&amp;#10;(Floor tiles are tiles directly on the table, wall tiles are vertical tiles and top tiles are horizontal tiles not touching the table)&amp;#10;&amp;#10;&amp;#10;    Floor - A tile directly on the table touching at least one other tile.&amp;#10;    Corner Wall - Two adjacent vertical tiles with an inbetween angle of 90&amp;deg;, both touching a floor tile.&amp;#10;    Single Wall - A vertical tile touching at least one other wall tile. It also has to touch a floor or top tile.&amp;#10;    Tunnel - The top tile has to touch exactly one wall tile, and may additionally touch one or more top tiles. On the opposite side of the touching wall side another wall is placed.&amp;#10;    Single Top - A top tile touching at least 2 wall tiles.&amp;#10;    Corner Top - A top tile touching at least 2 other top tiles but no wall tile. On every side not touching another top tile a wall tile is added.&amp;#10;&amp;#10;&amp;#10;There are some additional restrictions for the moves:&amp;#10;&amp;#10;The players have to use the tiles colour by colour. Only if the first used colour is completely placed on the table, the next colour may be used. So if there is only one tile remaining in a colour the player can only place one tile in his next turn.  The colour by colour rule is meant to be for the tiles of one player. Example: Player A starts with a yellow tile. Player B continues with two green tiles. Now player A has to continue with yellow until all yellow is used. Only then player A may choose his next colour. (Same for player B with green)&amp;#10;&amp;#10;Each placed tile has to touch at least one tile with the same or a smaller value.  The dots of the top tiles always must be on the top side. So it is not possible to have a top directly above a floor.&amp;#10;&amp;#10;A player wins if he places all 30 tiles on the table.&amp;#10;A player loses if he has no legal move (Beware of tiles with small value).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6901" value="Components: Nestortiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12686" value="Martin Windischer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

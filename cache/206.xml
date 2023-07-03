@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="206">
+         <thumbnail>https://cf.geekdo-images.com/_ysCHgcIA3319_0VeNy0bA__thumb/img/iLhwmATwpuBGC1hzVbD0TvE-HSM=/fit-in/200x150/filters:strip_icc()/pic6685640.png</thumbnail>
+      <image>https://cf.geekdo-images.com/_ysCHgcIA3319_0VeNy0bA__original/img/VW0c34B_sT0TjvsVBp7CkA2s5Xc=/0x0/filters:format(png)/pic6685640.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Jalape-NO!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pepper" />
+			    				
+				<name type="alternate" sortindex="7" value="ペッパー (Pepper)" />
+			    				
+				<name type="alternate" sortindex="1" value="할라피-노!" />
+			
+						               													<description>Jalape-NO!, first released as Pepper, is a trick-taking game in which you want to dodge the spiciness to end up with the lowest score possible.&amp;#10;&amp;#10;The deck consists of 108 cards (102 number cards and 6 pepper cards), with cards being numbered 1-18 in six colors and with the 1s being peppers. Based on the player count, you use 4-6 colors of cards ranging from 1-9 to 1-18.&amp;#10;&amp;#10;At the start of each round, you receive 12 cards in hand, and you must place any peppers on the table in front of you. The lead player in a trick plays any card from their hand or one of their peppers. Each other player must follow suit, if possible, except that you are not forced to play the matching pepper card, should you have it. (However, if you do have it, you cannot play a pepper of another color to this trick.) Whoever plays the highest card in the suit led wins the trick and leads the next trick. If you win a pepper in a trick, place it on the table in front of you; you can play this pepper on a future trick, whether to lead off the trick or to play it on a trick that's already in progress.&amp;#10;&amp;#10;As soon as a player has no cards in hand, the round ends. All players add any cards in hand to the cards in front of them, whether peppers or cards claimed in tricks. Each pepper you have is worth 2 points, and each card in the same suit as a pepper you have is worth 1 point. After five rounds, the player with the lowest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1998" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="9" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="9+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="1" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42" value="Michael Kiesling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7" value="Wolfgang Kramer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="144011" value="Danny Aldana" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12652" value="Götz Wiedenroth" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50209" value="Playte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="209" />
+			<average value="6.0544" />
+			<bayesaverage value="5.55098" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11089" bayesaverage="5.55098" />
+												</ranks>
+
+			<stddev value="1.42797" />
+			<median value="0" />
+			<owned value="382" />
+			<trading value="14" />
+			<wanting value="10" />
+			<wishing value="42" />
+			<numcomments value="57" />
+			<numweights value="17" />
+			<averageweight value="1.4118" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

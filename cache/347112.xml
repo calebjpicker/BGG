@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="347112">
+         <thumbnail>https://cf.geekdo-images.com/XyRiGDpXVhJ1pL24Q8-RjQ__thumb/img/2gCTseLhRRxGeSc3UUTwXbChZss=/fit-in/200x150/filters:strip_icc()/pic6399204.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/XyRiGDpXVhJ1pL24Q8-RjQ__original/img/CAe3ydh8u2eG02t2Ew0wEh2maqo=/0x0/filters:format(jpeg)/pic6399204.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Secret Identity" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Identidad secreta" />
+			    				
+				<name type="alternate" sortindex="1" value="Identitate Secreta" />
+			    				
+				<name type="alternate" sortindex="1" value="Kulcskérdés" />
+			    				
+				<name type="alternate" sortindex="1" value="Ukryta tożsamość" />
+			
+						               													<description>ln Secret Identity, you must guess the hidden identity of your opponents while trying to make them guess yours.&amp;#10;&amp;#10;At the start of a round, you receive a key card that indicates your identity among the eight characters on the table. Using double-sided &amp;quot;picto&amp;quot; cards, you try to give clues to your character so that others can guess who you are, while simultaneously guessing their character &amp;mdash; earning points for each success. Each round, new characters appear on the table, giving you and everyone else a fresh face to guess, but your supply of picto cards is never replenished, so you must be judicious when using them in order not to run out by game's end.&amp;#10;&amp;#10;After the fourth round, whoever has scored the most points wins. Will you be able to act both as a skilled informant and a sharp observer?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="151" value="No necessary in-game text" numvotes="1" />
+					<result level="152" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="153" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="154" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="155" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359115" value="Secret Identity: Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="95323" value="Johan Benvenuto" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50351" value="Alexandre Droit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="143102" value="Kévin Jost" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109143" value="Bertrand Roux" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="124560" value="Alain Boyer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42616" value="Funnyfox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47851" value="Gameology (Gameology Romania)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50993" value="Hachette Board Games UK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44898" value="Little Rocket Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45845" value="Strohmann Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30091" value="Tranjis Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="311" />
+			<average value="7.24639" />
+			<bayesaverage value="5.73814" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4851" bayesaverage="5.73814" />
+												</ranks>
+
+			<stddev value="1.29596" />
+			<median value="0" />
+			<owned value="556" />
+			<trading value="1" />
+			<wanting value="22" />
+			<wishing value="218" />
+			<numcomments value="37" />
+			<numweights value="8" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="103">
+         <thumbnail>https://cf.geekdo-images.com/MxQroqFDoQAV4s2oyYnyWQ__thumb/img/dUjeyKSqzgcRd2NaU1Fy8lnEjlw=/fit-in/200x150/filters:strip_icc()/pic1083237.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/MxQroqFDoQAV4s2oyYnyWQ__original/img/prIQozvI371DWiib_dN9WWqLcCk=/0x0/filters:format(jpeg)/pic1083237.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Titan" />
+			
+						                           
+						               													<description>This classic game of the Fantasy Monster Slug-a-thon is a standby from the The Avalon Hill Game Co of yore.  The game still has a very devoted following, which is a tribute to the depth of the various strategies and approaches.  The game is divided into two realms, the masterboard and the battleboards.  On the masterboard, legions of mythical creatures roam about trying to recruit bigger and badder monsters and kill opposing legions in the process.  When a combat occurs, the action moves to the corresponding battleboard type corresponding to the area the fight is taking place in.  After lots of dice are tossed, the army that remains standing is returned to the masterboard with the spoils of war: points.&amp;#10;&amp;#10;The points are used to recruit Angels and Archangels and to augment the leader character of the player's army: The Titan.  As the points increase, the Titans become ever more powerful; at game end, the titan is able to kill most other character with a single blow. But be careful: If the Titan dies, the player is out of the game.&amp;#10;&amp;#10;The last Titan standing is the ruler of all, and winner of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1980" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="128">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="71" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="59" />
+					<result value="Recommended" numvotes="47" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="29" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="55" />
+					<result value="Recommended" numvotes="43" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="43" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="4" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="24">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="15" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2863" value="Minimap Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="91" value="Series: Classic Line (Valley Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36753" value="Titan: Battlelands of Titan" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="154333" value="Titan: Figures" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="97" value="Jason B. McAllister" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="98" value="David A. Trampier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11858" value="Mike Doyle (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34577" value="Kenn Nishiuye" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98" value="David A. Trampier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1158" value="Chris White (I)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2486" value="Gorgonstar Publications" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5382" value="Valley Games, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3980" />
+			<average value="6.96261" />
+			<bayesaverage value="6.40857" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1348" bayesaverage="6.40857" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="344" bayesaverage="6.67758" />
+											<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="350" bayesaverage="6.51816" />
+												</ranks>
+
+			<stddev value="1.78358" />
+			<median value="0" />
+			<owned value="5770" />
+			<trading value="263" />
+			<wanting value="234" />
+			<wishing value="790" />
+			<numcomments value="1595" />
+			<numweights value="427" />
+			<averageweight value="3.4614" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

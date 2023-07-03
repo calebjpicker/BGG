@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="294955">
+         <thumbnail>https://cf.geekdo-images.com/LyOEkXiZdZqWCNIT4X2o3Q__thumb/img/ykES1vPiCaotPJVsdLDuuGkzS6k=/fit-in/200x150/filters:strip_icc()/pic6023051.png</thumbnail>
+      <image>https://cf.geekdo-images.com/LyOEkXiZdZqWCNIT4X2o3Q__original/img/TFqCO-yyI-BKfAJcyndpNOrHrQw=/0x0/filters:format(png)/pic6023051.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Moonshell" />
+			
+						                           
+						               													<description>In the strategy puzzle game Moonshell, you play as a mermaid who is shifting tides in your direction to collect valuable seashells and create a stunning collection.&amp;#10;&amp;#10;In more detail, the game board features a 5x5 array of colorful seashells of different types. Five public objectives are revealed, showing players the seashells they want to collect &amp;mdash; whether by type, color, or overall pattern &amp;mdash; on their 3x4 treasure chest board. You receive two secret objectives, keeping one and discarding the other. If you wish, you can play with each player taking a mermaid character (each of which has a unique power) and a moonshell, which serves as a wild seashell.&amp;#10;&amp;#10;On a turn, you take three actions, repeating actions if you like. The actions are:&amp;#10;&amp;#10;&amp;#10;    Rotate: Turn the game board 90&amp;ordm; in the direction of the tide. &amp;#10;    Pull 2: If the two rock spaces on the side of the game board next to you don't have any seashells on them, choose a column, place the first two seashells in this column on these rocks, slide the remaining seashells toward you, then draw from the supply bag to fill the empty spaces.&amp;#10;    Collect: Take a seashell from a rock in front of you, and add it to your treasure chest, sliding the seashell to the bottom of the column in which you place it.&amp;#10;&amp;#10;&amp;#10;If the bag runs out of seashell tiles, add the sea urchin tiles to the bag and continue playing. When someone has filled their treasure chest with twelve tiles, finish the round, then score. The &amp;quot;trove&amp;quot; objective scores only for the player who has the most seashells of that type or color, whereas the other four types of objectives &amp;mdash; collector, array, pairs, composition &amp;mdash; can be scored by each player, sometimes multiple times. You also score 1 point for each sea urchin and if you achieved your secret objective, you score for that, too. Whoever scores the most points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="122958" value="Calli Wright" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="128017" value="Nikkie Stinchcombe" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44223" value="Unfiltered Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="47" />
+			<average value="7.09362" />
+			<bayesaverage value="5.52461" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15067" bayesaverage="5.52461" />
+												</ranks>
+
+			<stddev value="1.71258" />
+			<median value="0" />
+			<owned value="122" />
+			<trading value="3" />
+			<wanting value="6" />
+			<wishing value="54" />
+			<numcomments value="17" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

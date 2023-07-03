@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="239942">
+         <thumbnail>https://cf.geekdo-images.com/Nam2TVpVSvHIuAsbocL9cw__thumb/img/hyQNAZKGjQ1Hc2-WzwAAZICBMA4=/fit-in/200x150/filters:strip_icc()/pic6892325.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Nam2TVpVSvHIuAsbocL9cw__original/img/mwtQpefJ_U7pjNguijLo7o7bIpc=/0x0/filters:format(jpeg)/pic6892325.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Black Rose Wars" />
+			
+						                               				
+				<name type="alternate" sortindex="3" value="A Fekete Rózsa háborúi" />
+			    				
+				<name type="alternate" sortindex="1" value="Войны Чёрной Розы" />
+			    				
+				<name type="alternate" sortindex="1" value="黑玫瑰战争" />
+			
+						               													<description>Black Rose Wars is a competitive fantasy game of deck-building, strategy, and combat set in the hectic universe of Nova Aetas in Italy. Each player is one of powerful mages of the Black Rose Order who aspires to become the new Supreme Magister in order to acquire the mighty power of the Black Rose Artifact and the Forgotten Magic. Mages must fight, fulfill Black Rose desires, and gain strength with their spells until their power reaches the containment threshold of the prison where they are exiled, finally freeing themselves. Each mage has at their disposal six schools of magic, each one with its own strategy to annihilate their opponents and increase their power.&amp;#10;&amp;#10;At the start of the battle, mages start with a grimoire of six cards; as mages study more spells during play, their grimoire will increase. Every spell in Black Rose Wars has two different effects, increasing a player's adaptability during a fight.&amp;#10;&amp;#10;Mages fight each other in a modular arena of hexagons called &amp;quot;rooms&amp;quot;. They summon powerful creatures, cast destructive spells, or devise dark deceptions with their enchantments. The game system is divided into different phases. Each turn, after choosing new spells from the six schools of magic, players plan their strategy in advance, placing cards face down. Later, they reveal the played cards to kill each other, solve missions, summon creatures, or destroy the prison rooms, one against each other and against the Black Rose (the playing system).  &amp;#10;After being killed, mages are reborn immediately, allowing them to re-enter the fight without delay &amp;mdash; although their death still fed energy to those mages who caused it.&amp;#10;The mage with the most power at the end of the battle will be crowned Supreme Magister of the Order by the Black Rose itself.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="116">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="41" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="67" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="10" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="426" value="No necessary in-game text" numvotes="0" />
+					<result level="427" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="428" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="429" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="430" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56199" value="Setting: Nova Aetas Chronicles" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="328888" value="Black Rose Wars: Alma Mater Studiorum Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="270955" value="Black Rose Wars: Armageddon Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="327628" value="Black Rose Wars: Black Lymph Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="267919" value="Black Rose Wars: Crono Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269412" value="Black Rose Wars: Familiar Cerberus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269413" value="Black Rose Wars: Familiar Draco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269410" value="Black Rose Wars: Familiar Griffin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269411" value="Black Rose Wars: Familiar Hydrae" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269414" value="Black Rose Wars: Hidden Thorns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="268797" value="Black Rose Wars: Inferno" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="347343" value="Black Rose Wars: Ordalia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336090" value="Black Rose Wars: Ordeal Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350052" value="Black Rose Wars: Promo Forgotten Evocation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312230" value="Black Rose Wars: Sator Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="290569" value="Black Rose Wars: Supreme Invocation Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346147" value="Nova Aetas Renaissance: Draco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324538" value="Nova Aetas Renaissance: Hyperion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324545" value="Nova Aetas Renaissance: Minotaur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="324537" value="Nova Aetas Renaissance: The Mediceo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371534" value="Runar: Helblindi Promo Miniature" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="338415" value="Black Rose Wars: Saim Lab Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380926" value="Black Rose Wars: Brute Force" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="392090" value="Black Rose Wars: Card Holders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="345454" value="Black Rose Wars: Carved Wooden Bowls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="365312" value="Black Rose Wars: e-Raptor UV Print Card holder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373386" value="Black Rose Wars: Feldherr Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="345453" value="Black Rose Wars: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312487" value="Black Rose Wars: Summonings – Constructs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312488" value="Black Rose Wars: Summonings – Demons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312468" value="Black Rose Wars: Summonings – Undead" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="342444" value="Black Rose Wars: Rebirth" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="342444" value="Black Rose Wars: Rebirth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="350054" value="Black Rose Wars: Rebirth – The Rose Duel" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="107031" value="Marco Montanaro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="100759" value="Fernando Armentano" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115903" value="Tommaso Incecchi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="101219" value="Giovanni Pirrotta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114952" value="Paolo Scippo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26484" value="Ludus Magnus Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17917" value="Ares Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34778" value="Last Level" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3244" />
+			<average value="7.97958" />
+			<bayesaverage value="6.91909" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="521" bayesaverage="6.91909" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="294" bayesaverage="7.06713" />
+												</ranks>
+
+			<stddev value="1.56008" />
+			<median value="0" />
+			<owned value="6057" />
+			<trading value="92" />
+			<wanting value="150" />
+			<wishing value="1589" />
+			<numcomments value="621" />
+			<numweights value="141" />
+			<averageweight value="3.4397" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

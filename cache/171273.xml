@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="171273">
+         <thumbnail>https://cf.geekdo-images.com/e0gGDOnCd80fv_bp_P1Rnw__thumb/img/f75LCXDR0AXLyom-weF48Yj0OHs=/fit-in/200x150/filters:strip_icc()/pic2884287.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/e0gGDOnCd80fv_bp_P1Rnw__original/img/t66yGw5BzcunTEsLgfnSnfcB__o=/0x0/filters:format(jpeg)/pic2884287.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="FUSE" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mission Pas Possible" />
+			    				
+				<name type="alternate" sortindex="1" value="导火线" />
+			
+						               													<description>Intruders have made their way onto your ship, and their goal is total destruction! More than twenty bombs have been detected onboard, and the countdown has begun. Your elite Bomb Defusal Team (BDT) has been called upon to neutralize the threat. Does your team have what it takes to work through the intricacies of the bombs and defuse them all in time?&amp;#10;&amp;#10;FUSE is a real-time co-operative game that employs 25 dice and 65 cards. Each game is set to a ten-minute timer, and players must work together in that ten minutes to defuse all of the bombs. Each bomb is represented by a card which needs a certain combination of dice in order to defuse it. A player will draw a number of dice equal to the number of players out of a bag and roll them. Players must then decide who will get which dice, but each player must take one and only one.&amp;#10;&amp;#10;It's a simple task: maximize the potential of your dice among all of the players. The problem is that you have only ten minutes, and there are more than twenty bombs on your ship. You don't have time to think through every option. You barely have time to yell at Grandma as she reaches for that red die you need. This game will self-destruct in ten minutes...&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="120">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="26">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="17" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="131" value="No necessary in-game text" numvotes="15" />
+					<result level="132" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="133" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="134" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="135" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2856" value="Die Icon Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2882" value="Elapsed Real Time Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44244" value="Series: Madison Game Design Cabal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46460" value="Setting: FUSE" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="231169" value="FUSE: Flatline Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="238051" value="FUSE: Game Boy Geek Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223118" value="FUSE: International Tabletop Day 2017 Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283287" value="FUSE: Tool Box Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="216978" value="FUSE: Wild Die" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283282" value="Level Up Loot: One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="215186" value="Santa's Renegades" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="260843" value="FUSE: Translucent Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="369993" value="FUSE Countdown" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="216597" value="Flatline" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="280789" value="Pandemic: Rapid Response" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68139" value="Kane Klenko" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="48450" value="Hokunin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69028" value="Chris Ostrowski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71550" value="Sean Thurlow" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28072" value="Renegade Game Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40920" value="2 Pionki" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8413" />
+			<average value="7.01368" />
+			<bayesaverage value="6.7101" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="799" bayesaverage="6.7101" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="213" bayesaverage="6.77911" />
+												</ranks>
+
+			<stddev value="1.23214" />
+			<median value="0" />
+			<owned value="12586" />
+			<trading value="328" />
+			<wanting value="231" />
+			<wishing value="1724" />
+			<numcomments value="1626" />
+			<numweights value="163" />
+			<averageweight value="1.6564" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="149618">
+         <thumbnail>https://cf.geekdo-images.com/eHBbL1E9nLOaTpucS44Vmw__thumb/img/TRDVUsZPktBC6HhYVhrqT6TZ6q8=/fit-in/200x150/filters:strip_icc()/pic2246566.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/eHBbL1E9nLOaTpucS44Vmw__original/img/Wfh7WT4GWCxx4hfaWGvK9DFdcmU=/0x0/filters:format(jpeg)/pic2246566.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rock&#039;n Rodeo: Der Festivalmanager" />
+			
+						                           
+						               													<description>Werde Manager eines Rockfestivals !&amp;#10;In Rock`n Rodeo &amp;uuml;bernehmt ihr die Aufgabe, ein legend&amp;auml;res Open-Air-Festival aus dem Boden zu stampfen.&amp;#10;Es gilt, Bands zu buchen, das Festivalgel&amp;auml;nde vorzubereiten und St&amp;auml;nde aufzustellen.&amp;#10;Sobald das Festival beginnt, wird einem der undankbare Job zuteil, die anreisenden Fans zufrieden zu stellen und die Lage&amp;#10;auf dem Campingplatz nicht vollkommen eskalieren zu lassen.&amp;#10;&amp;#10;- Die Spieler buchen verschiedene Bands und erhalten Fans abh&amp;auml;nigig von der Musikrichtung der Band (Metal, Punkrock, Reggae, Indie)&amp;#10;&amp;#10;- Die Fans werden auf dem Campingplatz gelegt (jeder Fan hat individuelle Anforderung neben wem und neben wem er nicht sitzen will) so werden die Fans entweder zufrieden oder unzufrieden.&amp;#10;&amp;#10;- Zuletzt werden die Fans Workerplacement m&amp;auml;&amp;szlig;ig auf Bands, Dixies und Shops verteilt.&amp;#10;&amp;#10;&amp;#10;In Rock'n Rodeo you get to manage a legendary Rock festival. You have to book Bands, prepare the camping site, and bring some shops to your Festival.&amp;#10;&amp;#10;As the Festival starts, you have to please the arriving fans. And don`t let the situation escalate on the camping site!!&amp;#10;&amp;#10;There are three special mechanics in the gameplay:&amp;#10;&amp;#10;- The Players have to buy Band cards, and depending on the music genre of the booked band they get Fans and Fan cards.&amp;#10;&amp;#10;- The Fans have to be placed on the Camping grounds (Everyone has individual requirements to be happy, depending on neighboring fans). So you get happy and unhappy fans.&amp;#10;&amp;#10;- All the Fans are placed on Bands, Shops, Toilets or something like that. (Classic Worker Placement)&amp;#10;&amp;#10;After every year of the Festival, the players get victory points for fans, happiness, and success of the Festival.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1054" value="Music" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="198535" value="Rock'n Rodeo: Spiele-Messen-Metaller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="242042" value="Rock'n Rodeo: The Shufflettes" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="71107" value="Matthias Stark" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71108" value="Benedikt Rietzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26037" value="Boardgame Guerilla" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12845" value="Mantikore-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="86" />
+			<average value="6.68198" />
+			<bayesaverage value="5.54824" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11372" bayesaverage="5.54824" />
+												</ranks>
+
+			<stddev value="1.75328" />
+			<median value="0" />
+			<owned value="192" />
+			<trading value="3" />
+			<wanting value="2" />
+			<wishing value="7" />
+			<numcomments value="18" />
+			<numweights value="13" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

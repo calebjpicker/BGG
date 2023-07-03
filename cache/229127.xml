@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="229127">
+                                     				
+				<name type="primary" sortindex="5" value="The Byzantines" />
+			
+						                           
+						               													<description>A card game for 2 players in which players take turns controlling the Byzantine Empire. On a player&amp;rsquo;s off-turn he represents the many foes of the Byzantines. The game is divided into 3 ages - the first 4 turns are the Early Age, turns 5-8 are the Middle Age, turns 9-12 are the Late Age. Each player will get to be the Byzantines for 6 out of the 12 turns.&amp;#10;&amp;#10;Each player starts with 10 Legacy Tokens. The Byzantine Empire starts with 10 Territory Tokens (TT). The most TT it can have is 20. If at any time the Byzantine Empire is reduced to zero or less Territory Tokens the game ends immediately and the current Byzantine player loses 3 Legacy Tokens.&amp;#10;&amp;#10;There are 2 decks: The Byzantine Deck and the Foes Deck. Cards are of certain types and have a force value. Some cards are only useable during specific Ages. At the start of the game all Middle and Late Age cards are removed from the decks and set aside. When the Middle Age starts the Middle Age cards are shuffled into the decks. When the Late Age starts the Late Age cards are shuffled into the deck.&amp;#10;&amp;#10;Each turn has 6 Phases: &amp;#10;1.  Draw Phase&amp;#10;-   The Foe player fills their hand to 8 cards. &amp;#10;-   The Byzantine player fills his hand to 9 cards in the Early Age, 8 cards in the Middle Age, or 7 cards in the Late Age.&amp;#10;&amp;#10;2.  Age Phase&amp;#10;-   Discard any cards in your hand that are not useable in the current Age and draw replacements. If the discarded cards are from an earlier age, remove them from the game.&amp;#10;&amp;#10;3.  Redraw Phase&amp;#10;-   Each player may discard up to 4 cards and draw replacements.&amp;#10;&amp;#10;4.  Meld Phase&amp;#10;-   Each player makes a Meld. &amp;#10;-   A Byzantine meld may have up to 1 leader card, 2 recovery cards, 4 troop cards, 1 negotiation card and 2 legacy cards&amp;#10;-   A Foe meld may have up to 1 Northern foe card, 1 Southern foe card, 2 disaster cards (Max 1 Natural Disaster) and 4 troop cards&amp;#10;-   If a negotiation card is played, the Byzantine player may discard 1 target Foe card. The Foe player may replace it immediately with another Foe card if he has one in hand. &amp;#10;-   Each player totals the force of the cards in his meld. The side with the higher force total wins. If tied the Foe player wins. &amp;#10;-   The Byzantine Empire gains or loses Territory Tokens equal to the difference in the Force Point Totals.  &amp;#10;-   All Meld cards are discarded. Unique Meld cards are removed from play.&amp;#10;&amp;#10;5.  Legacy Phase&amp;#10;-   The Byzantine Player (BP) potentially earns Legacy Tokens (LT). If the Empire lost TT this turn the BP loses 1 LT. If the Empire gained TT this turn the BP gains 1 LT. &amp;#10;-   The BP gains LT equal to the legacy value of the legacy cards he played in Meld Phase.&amp;#10;&amp;#10;6.  End Phase&amp;#10;-   If you have cards left in your hand, discard down to 1 card and pass it to your opponent. &amp;#10;-   Players switch control of the Emperor Token.&amp;#10;&amp;#10;The game ends after 12 turns. The player with the most Legacy Tokens at the end of the game wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18702" value="Cities: Istanbul (Turkey)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21990" value="History: Byzantium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="810" value="Lloyd Krassner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="873" value="Warp Spawn Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

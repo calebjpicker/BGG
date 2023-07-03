@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="257836">
+         <thumbnail>https://cf.geekdo-images.com/f42rIUuXMELZpkmVlZuzPQ__thumb/img/fNYaMa627SQD7UFYdWovDP8P38c=/fit-in/200x150/filters:strip_icc()/pic4389749.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/f42rIUuXMELZpkmVlZuzPQ__original/img/_OuhC2tkF6OUOAnZ5upl-kSVbrs=/0x0/filters:format(jpeg)/pic4389749.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Narabi" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="NARABI / 並び" />
+			    				
+				<name type="alternate" sortindex="1" value="나라비" />
+			
+						               													<description>In Narabi, players are dealt 3-4 cards at the start of the round, with those cards bearing either a blank or a number from 0 to 9. Each card is sleeved, and within the sleeve on its back is a rule explaining how this card can be swapped with another card: swap it with a red card, a card with an even number, a card with a higher number, and so on. You can look at all the rules on cards in front of you, but you cannot communicate to others what those rules are. You cannot change the order of cards in front of you.&amp;#10;&amp;#10;On a turn, a player must swap one of their cards (following that card's rule) with another player's card, then someone records that move on a chart. Blanks are considered to be 0 and an even number for the purpose of swaps. When one of your cards is swapped, you can look at the rule on the card you receive. You can suggest moves to others or ask questions of them, and they can respond with &amp;quot;yes&amp;quot; or &amp;quot;no&amp;quot; answers as long as they don't identify the rule on any of their cards.&amp;#10;&amp;#10;If you place all the numbers in numerical order (disregarding blanks) in either clockwise or counterclockwise order before you would need to make a 25th move, you all win the game. Your team's score is &amp;quot;Great&amp;quot;, &amp;quot;Good&amp;quot;, &amp;quot;Horrible&amp;quot;, etc. based on how many moves it took you to win. If you don't win, then you must all be worse than horrible, which is very bad indeed.&amp;#10;&amp;#10;In the game's expert mode, you cannot speak at all and you cannot undo a player's swap on your next turn.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="90042" value="Daniel Fehr" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="111586" value="Konstantin Zheludev" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="FoxGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35035" value="Mandala Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="415" />
+			<average value="5.9653" />
+			<bayesaverage value="5.57687" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9172" bayesaverage="5.57687" />
+												</ranks>
+
+			<stddev value="1.31029" />
+			<median value="0" />
+			<owned value="958" />
+			<trading value="45" />
+			<wanting value="12" />
+			<wishing value="113" />
+			<numcomments value="110" />
+			<numweights value="6" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="87732">
+         <thumbnail>https://cf.geekdo-images.com/zG193efab1lZQ3518DRTmw__thumb/img/UIx6ujFUv1JNsdcScHmAZlekTG4=/fit-in/200x150/filters:strip_icc()/pic908908.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zG193efab1lZQ3518DRTmw__original/img/k09DDUURO18Ycgm67TiAeRJ8GbI=/0x0/filters:format(jpeg)/pic908908.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Big Three" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Big 3" />
+			    				
+				<name type="alternate" sortindex="1" value="Da San" />
+			    				
+				<name type="alternate" sortindex="1" value="大三" />
+			
+						               													<description>A climbing game played with a standard 52 card deck primarily meant for three players, (though there is a four player variant).  It is similar to &amp;quot;Fight the Landlord&amp;quot; (Dou Di Zhu) but with some noticeable differences - the biggest being that the 3 (not the 2) is the high card, but also in the number of cards in the pot and allowable plays.  Because the runs are relatively limited (4 through K only) and because there are no &amp;quot;bombs&amp;quot; it is a bit more predictable in its gameplay than Dou Di Zhu.&amp;#10;&amp;#10;Each round starts with dealing the cards (except for four of them) and an auction for the remaining cards.  The winner of the auction then picks up the cards and plays against the other two opponents who are now in a temporary partnership.&amp;#10;&amp;#10;The goal for each round is to shed your cards.  The winning bidder needs to shed all his cards first before one of the opposing players sheds all of their cards.  Allowable plays are singles, pairs, triplets, quads and runs of three+ cards and staircases of three+ sets (note that runs/staircases may only involve 4's through K's).  There are no &amp;quot;bombs&amp;quot;.&amp;#10;&amp;#10;If the high bidder wins, then the other players pay him the amount of points bid, and if the high bidder loses, then the each of the other players are paid the amount of points bid.  Online implementations of the game generally play for a predetermined number of rounds and the individual player with the most points at the end of the last round is considered the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="131" value="Card Games: Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="6.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.661438" />
+			<median value="0" />
+			<owned value="11" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="5" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

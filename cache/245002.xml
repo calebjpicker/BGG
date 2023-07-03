@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="245002">
+                                     				
+				<name type="primary" sortindex="1" value="Bleaktrick" />
+			
+						                           
+						               													<description>Bleaktrick is a trick-taking game for 3 or 4 players that can be played with a standard deck of playing cards. 40 cards are used: Aces to 10's in each of the four suits. At the start of each round, 36 of the 40 cards are dealt equally to the players and each player exchange one card face-down with both of its neighbors. In a 3-player game, each player also discards a card from his hand.&amp;#10;&amp;#10;The dealer leads the first trick and play proceed clockwise until all cards are played. Normal rules for trick-taking games apply: players must follow suit, otherwise they can play any card and the highest card of the leading suit wins the trick (there is no trump suit). When a player wins a trick,&amp;#10;he takes only the card that won the trick (the rest of the trick is discarded), puts it in his winning pile and leads the next trick.&amp;#10;&amp;#10;The twist in Bleacktrick game is this: Every time a player takes a trick with a card of equal or lower value than a certain threshold, then this card becomes the &amp;quot;bleak&amp;quot; card. The starting value of the threshold is 7 but it changes each time to match the value of the last &amp;quot;bleak&amp;quot; card. There's an exception though: if you are already the &amp;quot;bleak&amp;quot; card owner, you can win tricks with cards of smaller value without lowering the threshold. The goal of the game is to score the most points without ending up with the &amp;quot;bleak&amp;quot; card in your possession.&amp;#10;&amp;#10;At the end of the round, each player scores points according to the cards in his winning pile, except from the &amp;quot;bleak&amp;quot; card owner who scores negative points. The lower the numerical value of a card, the more points it scores (for both the positive and the negative case). So, it's preferable to win tricks with low value cards but also more risky as you may end up with the &amp;quot;bleak&amp;quot; card. The player who won the last trick is the dealer for the next round, while the owner of the &amp;quot;bleak&amp;quot; card can have a peek at 2 of the 4 unused cards of the next round. The game ends after a prearranged number of rounds or when a player reaches a prearranged number of points.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

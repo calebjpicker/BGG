@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="29371">
+         <thumbnail>https://cf.geekdo-images.com/Q4E4QXsiyKhUfH1A331ZZw__thumb/img/BU-kWpCsJzmF2RtZJvTIhUaqJkI=/fit-in/200x150/filters:strip_icc()/pic2071876.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Q4E4QXsiyKhUfH1A331ZZw__original/img/bTYRgF4oMDr44qD9BY9vqNynwAY=/0x0/filters:format(jpeg)/pic2071876.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mini Bridge" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Minibridge" />
+			
+						               													<description>Minibridge&amp;#10;&amp;#10;From wikipedia.org, the free encyclopedia.&amp;#10;&amp;#10;Minibridge is a simplified form of the complex card game contract bridge designed to help newcomers and children learn the game.&amp;#10;&amp;#10;Like Bridge, Minibridge consists of four players, who play opposite and with their partner. Each player is dealt thirteen cards.&amp;#10;&amp;#10;The auction process is more simple than bridge. Each player counts the number of high card points he has (4 for an Ace, 3 for a King, 2 for a Queen and 1 for a Jack) and states the number of high card points. The partnership with the more high card points then has to play the hand. (If both partnerships have the same number of high card points, the hand is thrown in.) Of this partnership, the partner with the more high card points becomes the declarer. The partner with the fewer high card points becomes the dummy and lays out his hand. (If both partners have the same number of high card points, the one who states his high card point count first is the declarer.)&amp;#10;&amp;#10;The declarer then looks at his partner's hand and decides what suit he wants to be trumps (if any), and whether to be in game or to take part score. In part score he must make 7 tricks, and in game he must make 6 tricks (assumed) plus 3 for no trumps, 4 for a major suit or 5 for a minor suit.&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;    &amp;#10;         Trumps&amp;#10;&amp;#10;         Partscore&amp;#10;&amp;#10;         Game&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         Clubs&amp;#10;&amp;#10;         1&amp;#10;&amp;#10;         5&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         Diamonds&amp;#10;&amp;#10;         1&amp;#10;&amp;#10;         5&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         Hearts&amp;#10;&amp;#10;         1&amp;#10;&amp;#10;         4&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         Spades&amp;#10;&amp;#10;         1&amp;#10;&amp;#10;         4&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;         No trumps&amp;#10;&amp;#10;         1&amp;#10;&amp;#10;         3&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;The game then continues per bridge with 13 rounds of cards.&amp;#10;&amp;#10;The scoring system is also simplified.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1990" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="0" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10438" value="Traditional Card Games: Bridge" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27785" value="The English Bridge Union" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="5.9375" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.81034" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="4" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

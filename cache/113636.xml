@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="113636">
+         <thumbnail>https://cf.geekdo-images.com/wwgXfmp8X1ZaE7P85xpsuA__thumb/img/b5IEFMsv0yGL46BHiEUvj6crjME=/fit-in/200x150/filters:strip_icc()/pic7285666.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wwgXfmp8X1ZaE7P85xpsuA__original/img/RwC79gZBGkuTWyvfBVToM6yRlI8=/0x0/filters:format(jpeg)/pic7285666.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Edo" />
+			
+						                           
+						               													<description>In Edo, players represent daimyo in mid-second millennium Japan who are trying to serve their shogun by using their samurai to construct castles, markets and houses in Tokyo and surrounding areas.&amp;#10;&amp;#10;At the start of Edo &amp;ndash; which won &amp;quot;best evening-length game&amp;quot; in the 2010 Hippodice Game Design competition under the name Altiplano &amp;ndash; each player has five samurai tokens, seven houses, one market and three square action cards, each of which has four possible actions on it. One card, for example, allows a player to:&amp;#10;&amp;#10;&amp;#10;    Collect rice (up to four bundles depending on the number of samurai applied to the action),&amp;#10;    Collect $5 (per samurai),&amp;#10;    Collect wood (up to four, with one samurai on the action and one in the forest for each wood you want), or&amp;#10;    Build (up to two buildings, with two samurai on the card and one in the desired city, along with the required resources)&amp;#10;&amp;#10;&amp;#10;Each turn, the players simultaneously choose which actions they want to take with their three cards and in which order, programming those actions on their player cards, similar to the planning phase in Dirk Henn's Wallenstein and Shogun. Players then take actions in turn order, moving samurai on the board as needed (paying $1 per space moved) in order to complete actions (to the forest for wood, the rice fields for rice, cities to build, and so on). Before a player can move samurai, however, he must use an action to place them on the game board; some actions allow free movement, and others allow a player to recruit additional samurai beyond the initial five.&amp;#10;&amp;#10;One other action allows you to recruit additional action cards from an array on the side of the game board, thereby giving you four (or more) cards from which to choose for the rest of the game.&amp;#10;&amp;#10;Building in cities costs resources and gives you points as well as money; as more players build in a city, the funds are split among all present, with those first in the city receiving a larger share. Players can also receive points or buy stone by dealing with a traveling merchant.&amp;#10;&amp;#10;Once at least one player has twelve points, the game finishes at the end of the round, with players scoring endgame bonuses for money in hand and other things. The player with the most points wins.&amp;#10;&amp;#10;Edo includes separate game boards for 2-3 players and for 4 players.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="12" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24255" value="Series: Yellow Wave Box (Queen)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125950" value="Edo Promo #1: Special Authorization Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125951" value="Edo Promo #2: Profit Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125971" value="Edo Promo #3: Special Authorization Cards 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="137104" value="Edo: Expansion #1" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="54146" value="Louis Malz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="54147" value="Stefan Malz" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="52259" value="Marko Fiedler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47" value="Queen Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1707" />
+			<average value="7.0519" />
+			<bayesaverage value="6.23038" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1835" bayesaverage="6.23038" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="931" bayesaverage="6.36211" />
+												</ranks>
+
+			<stddev value="1.16154" />
+			<median value="0" />
+			<owned value="2770" />
+			<trading value="146" />
+			<wanting value="82" />
+			<wishing value="470" />
+			<numcomments value="481" />
+			<numweights value="112" />
+			<averageweight value="2.9643" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

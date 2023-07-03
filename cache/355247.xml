@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="355247">
+         <thumbnail>https://cf.geekdo-images.com/WQi18OJ5vroaWbXZbiARbA__thumb/img/AT4W7K1pcNbsPx0527x2_ScjMNg=/fit-in/200x150/filters:strip_icc()/pic6640443.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WQi18OJ5vroaWbXZbiARbA__original/img/xgKafiz-bM8os7itd1AZjrvgSCc=/0x0/filters:format(jpeg)/pic6640443.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Echt Spitze" />
+			
+						                           
+						               													<description>In Echt Spitze, you want to fill the spaces on your player sheet &amp;mdash; both sides of it! &amp;mdash; to score more points than anyone else.&amp;#10;&amp;#10;To play, each player takes a sheet from the score pad of the same level (1-3). The sheet has a 5x5 grid of squares on each side, with the rows and columns being numbered 1-5. Many of the spaces feature an icon (fruit, flower, gem, etc.) surrounded by a soap bubble.&amp;#10;&amp;#10;The active player rolls 4-6 dice, two more than the player count, then all players in turn choose one of the dice and place it on the matching number in either the row or column of their sheet. (Dice show 1-5 and a ?, which is a joker.) The active player then either keeps the remaining two dice or re-rolls them. Each player can then use one of the two common dice to target a particular space on their score sheet, e.g., if you placed a 4 on the 4 column and the two dice show 1 and 3, you then mark off either the 1-4 space or the 3-4 space on your sheet.&amp;#10;&amp;#10;If this space has a soap bubble, you mark off this space, poke a hole in it with your pencil, then flip the sheet over and mark off the newly poked space. Now you'll continue play on the back of your sheet, flipping it over again only when you &amp;quot;pop&amp;quot; another soap bubble.&amp;#10;&amp;#10;When you mark off an icon, no matter which side of the paper, track this in your score column. The first player to mark off all icons of a type receives the large bonus, then everyone else can score only the small bonus for this icon.&amp;#10;&amp;#10;One or both of your chosen dice might have an X on them. If this is the case and you don't pop a bubble this turn, you can mark off one or two extra spaces adjacent to the originally marked space for that turn. With two Xs, if you marked 1-4, for example, then you could mark 1-5 and 2-5. If you mark all squares in a row or column, circle the star next to that line.&amp;#10;&amp;#10;When someone scores their third type of icon, the game ends. Players tally their icon bonuses, points for each star (which vary per level), and 1 point for each collected icon that didn't receive a bonus. Whoever has the highest score wins.&amp;#10;&amp;#10;Level 2 sheets have beehives, and when you mark off a beehive, the bees attack everyone else and they can no longer mark off this space, which means they can't complete this row and column. Level 3 sheets challenge you to create polyominoes with marked-out spaces, in addition to collecting icons.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="0" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50841" value="Series: Klein &amp; Fein (Schmidt Spiele)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50774" value="Ralph Querfurth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="398" value="Klaus-Jürgen Wrede" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66149" value="Olga Cress" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110338" value="Leon Schiffer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="47" />
+			<average value="6.08511" />
+			<bayesaverage value="5.51288" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17606" bayesaverage="5.51288" />
+												</ranks>
+
+			<stddev value="1.11508" />
+			<median value="0" />
+			<owned value="118" />
+			<trading value="6" />
+			<wanting value="4" />
+			<wishing value="32" />
+			<numcomments value="12" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

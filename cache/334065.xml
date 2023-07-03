@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="334065">
+         <thumbnail>https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__thumb/img/QJq-vJsWq6D0DMrDFVno-0Lu00o=/fit-in/200x150/filters:strip_icc()/pic6094080.png</thumbnail>
+      <image>https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__original/img/RWppBKjLU5v6Pl-uW6IIxkCD4U4=/0x0/filters:format(png)/pic6094080.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Verdant" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Doniczki" />
+			    				
+				<name type="alternate" sortindex="1" value="Kaspó" />
+			    				
+				<name type="alternate" sortindex="1" value="Pokojovky" />
+			    				
+				<name type="alternate" sortindex="1" value="Sattgrün" />
+			    				
+				<name type="alternate" sortindex="1" value="보타닉 가든" />
+			
+						               													<description>Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.&amp;#10;&amp;#10;Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your &amp;quot;green thumb&amp;quot; skills, which allows you to take additional actions to care for your plants and create the coziest space!&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="56">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="1" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368115" value="Verdant: Multiple Choice Tantrum House Season 8 Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355419" value="Verdant: Potless Plants Mini-Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116182" value="Molly Johnson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116181" value="Robert Melvin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="127359" value="Aaron Mesburne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="117880" value="Kevin Russ" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116180" value="Shawn Stankewich" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42733" value="Flatout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29242" value="Ludofy Creative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44241" value="Regatul Jocurilor" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2907" />
+			<average value="7.44752" />
+			<bayesaverage value="6.63019" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="942" bayesaverage="6.63019" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="206" bayesaverage="6.79112" />
+												</ranks>
+
+			<stddev value="1.15757" />
+			<median value="0" />
+			<owned value="7728" />
+			<trading value="111" />
+			<wanting value="131" />
+			<wishing value="1734" />
+			<numcomments value="697" />
+			<numweights value="70" />
+			<averageweight value="2.0714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

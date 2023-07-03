@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="300367">
+         <thumbnail>https://cf.geekdo-images.com/3NPm2eKrGWfwe62QSgjCbQ__thumb/img/P_CgWFv76xMr6PRwRsf8_5tmK9U=/fit-in/200x150/filters:strip_icc()/pic5221428.png</thumbnail>
+      <image>https://cf.geekdo-images.com/3NPm2eKrGWfwe62QSgjCbQ__original/img/flpKL7FiJQj3mvRNNSp0SN_TvIE=/0x0/filters:format(png)/pic5221428.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Boomerang: Europe" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Boomerang Europa" />
+			    				
+				<name type="alternate" sortindex="1" value="Road Trip: Europa" />
+			    				
+				<name type="alternate" sortindex="1" value="Бумеранг. Європа" />
+			
+						               													<description>Boomerang: Europe, like its sister games Boomerang: Australia and Boomerang: USA is a &amp;quot;draft-and-write&amp;quot; game. It features a unique blend of set collection and card drafting with the approachable feel of a roll-and-write game. Draft locations from across the European continent as you collect sets of activities and try delicious food to gain the most points.&amp;#10;&amp;#10;Boomerang: Europe is a stand-alone game in the Boomerang family that plays similarly to the original Boomerang, but has some rules differences and new ways to score.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="291" value="No necessary in-game text" numvotes="3" />
+					<result level="292" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="293" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="294" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="295" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50153" value="Continents: Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59868" value="Game: Boomerang (Grail Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308516" value="Boomerang: Around the World" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="254213" value="Boomerang" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="43431" value="Scott Almes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="107085" value="Kerri Aitken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27311" value="Grail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="632" />
+			<average value="6.89276" />
+			<bayesaverage value="5.83502" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3828" bayesaverage="5.83502" />
+												</ranks>
+
+			<stddev value="1.12927" />
+			<median value="0" />
+			<owned value="991" />
+			<trading value="21" />
+			<wanting value="18" />
+			<wishing value="151" />
+			<numcomments value="122" />
+			<numweights value="13" />
+			<averageweight value="1.7692" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

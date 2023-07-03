@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="359764">
+         <thumbnail>https://cf.geekdo-images.com/HJTx3HjuW0acQISomdQ7QA__thumb/img/V5Jf9iL3eZkgvvfiaDvoD6HRhPM=/fit-in/200x150/filters:strip_icc()/pic6776267.png</thumbnail>
+      <image>https://cf.geekdo-images.com/HJTx3HjuW0acQISomdQ7QA__original/img/3gj0-q0nPa4RVDpDk4oOYAw9EPY=/0x0/filters:format(png)/pic6776267.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Shake That City" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Струси це місто" />
+			
+						               													<description>Welcome, city planners! Design the best city block using patterns from the new and exciting &amp;quot;Cube Shaker&amp;quot;. You'll place a mix of tiles to help grow the thriving city. The best design wins the game!&amp;#10;&amp;#10;Shake That City is a family puzzly tile-laying game for 1-4 players, that plays under an hour! The game is played over a series of rounds. The active player shakes the Cube Shaker and presses its slider to reveal a 3x3 pattern, based on which they need to place the corresponding building tiles of a single color of their choice on their board. The building tiles correspond to roads, factories, shops, parks and of course, homes. The other players then pick any building color other than the one the active player picked, then place matching colored tiles in the matching pattern on their board. Players earn points for tile-placement combinations and for the completed bonus point tiles around the edge of their board.&amp;#10;&amp;#10;&amp;bull; Roads wants to connect to an edge of the board.&amp;#10;&amp;bull; Factories wants to be next to other factories and roads.&amp;#10;&amp;bull; Homes want to be placed in clusters that are as small as possible &amp;mdash; the smallest being a single tile &amp;mdash; so long as they're not next to a factory.&amp;#10;&amp;bull; Parks wants to be next to homes and factories.&amp;#10;&amp;bull; Shops score increasingly more the closer they are placed to the city center, but if they're not placed on an edge, they need to be adjacent to a road connected to the board's edge in order to score. Without road access, you'll have no products to sell!&amp;#10;&amp;#10;At game's end, players earn points for tile-placement combinations and for the completed bonus point tiles around the edge of their board.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="2" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="391694" value="Shake That City: Wild Nights Micro-Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="120236" value="Mads Fløe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="144744" value="Kåre Torndahl Kjær" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="144745" value="Olga Kim" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53490" value="Rozum" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="221" />
+			<average value="7.46785" />
+			<bayesaverage value="5.67747" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5779" bayesaverage="5.67747" />
+												</ranks>
+
+			<stddev value="1.27219" />
+			<median value="0" />
+			<owned value="690" />
+			<trading value="7" />
+			<wanting value="30" />
+			<wishing value="242" />
+			<numcomments value="72" />
+			<numweights value="10" />
+			<averageweight value="1.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

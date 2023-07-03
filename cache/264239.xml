@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="264239">
+         <thumbnail>https://cf.geekdo-images.com/8nSMDhVg9QsyesfLBwIxCA__thumb/img/scutbWwsWG69Ba-T5Rllyr-Xp3o=/fit-in/200x150/filters:strip_icc()/pic4682702.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8nSMDhVg9QsyesfLBwIxCA__original/img/SLn-yrpjoQXEgzAE8HamdJ0YSvg=/0x0/filters:format(jpeg)/pic4682702.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Patchwork Doodle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="パッチワーク：ドゥードゥル" />
+			
+						               													<description>Patchwork Doodle is a roll-and-write version of Patchwork, with each player having their own 9x9 grid to fill in over the course of the game. Each player sets up by drawing a unique polyomino card from the starting deck, then drawing that on their sheet.&amp;#10;&amp;#10;In each round, players lay out a number of polyomino cards in a circle, then place the rabbit between two cards. On a turn, someone rolls the die, moves the rabbit forward, then removes the card indicated by the rabbit. Each player must draw the polyomino indicated on this card in their grid. Once a certain number of cards have been played, the round ends, players score points, then you lay out more cards for the next round.&amp;#10;&amp;#10;Each player has four special actions available to them during the game: You can choose to draw the card before or after the chosen card, you can cut a polyomino into two pieces before adding one piece to your grid, you can fill in a 1x1 space in your grid, and you can do one of the above actions a second time. When you take one of these actions, you mark it off as each can be used only once (except for the one you use a second time, if you know what I mean).&amp;#10;&amp;#10;You lose a point for each space that you don't cover, so try to pack everything in as tightly as possible!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="181" value="No necessary in-game text" numvotes="3" />
+					<result level="182" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="183" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="184" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="185" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="54158" value="Game: Patchwork" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57182" value="Theme: Sewing / Knitting / Cloth-Making" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63122" value="Versions &amp; Editions: Roll- or Flip-and-Write Versions of Non-Writing Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292906" value="Patchwork Doodle: Plus" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373293" value="Patchwork Doodle: Scoresheets" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="163412" value="Patchwork" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8832" value="Funforge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1883" />
+			<average value="6.61435" />
+			<bayesaverage value="6.02807" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2606" bayesaverage="6.02807" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="799" bayesaverage="6.13188" />
+												</ranks>
+
+			<stddev value="1.26" />
+			<median value="0" />
+			<owned value="4220" />
+			<trading value="69" />
+			<wanting value="38" />
+			<wishing value="354" />
+			<numcomments value="358" />
+			<numweights value="29" />
+			<averageweight value="1.2414" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

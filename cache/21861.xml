@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="21861">
+         <thumbnail>https://cf.geekdo-images.com/aKkL1aEnc4O4LvgvMbj9DQ__thumb/img/YKKKKKf8wqDGx7oFdEiKxBQoawc=/fit-in/200x150/filters:strip_icc()/pic129785.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/aKkL1aEnc4O4LvgvMbj9DQ__original/img/1imcmWP6aEIY6OtMyQmi3yFyF00=/0x0/filters:format(jpeg)/pic129785.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Three Musketeers" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Drei Musketiere" />
+			
+						               													<description>Three Musketeers was first published in Sid Sackson&amp;acute;s A Gamut of Games.&amp;#10;&amp;#10;Three Musketeers is played on a 5 x 5 square grid board. The bottom left corner, the center and the top right corner are starting spaces for the three musketeers. All other spaces are initially occupied by &amp;quot;enemies.&amp;quot; Musketeers can only move to adjacent spaces with an enemy piece, which is captured by this move. Enemies can only move to empty adjacent spaces. Enemies win if all three musketeers are ever on the same line or column. Musketeers win as soon as they run out of legal moves.&amp;#10;&amp;#10;Musketeers will start the game. According to Wikipedia the game was strongly solved in 2009 by Johannes Laire. The enemies (that could be called Cardinal Richelieu's men) can always force a own win. References are missing but due to the restricted amount of available moves for the Musketeers and the strict, clear, and simple rule set proof is possible with acceptable effort with same result.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1969" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="6" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63159" value="Authors: Alexandre Dumas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76673" value="Books: The Three Musketeers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4053" value="Mechanism: Hunt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8842" value="Series: Gamut of Games (Sid Sackson)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="4385" value="A Gamut of Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5484" value="Haar Hoolim" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="660" value="Dover Publications" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5855" value="dtv (Deutscher Taschenbuch Verlag)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="595" value="Hugendubel Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="621" value="Hutchinson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5353" value="Let's Play Games! LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="823" value="Random House, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7474" value="RBA Libros S.A." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="37" />
+			<average value="5.87673" />
+			<bayesaverage value="5.5078" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="18742" bayesaverage="5.5078" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="976" bayesaverage="5.53596" />
+												</ranks>
+
+			<stddev value="1.36314" />
+			<median value="0" />
+			<owned value="35" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="10" />
+			<numcomments value="26" />
+			<numweights value="3" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

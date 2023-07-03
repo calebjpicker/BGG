@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="24508">
+         <thumbnail>https://cf.geekdo-images.com/bkRKeMDARVQnz0cW5l6f5Q__thumb/img/L8SqTfrAi4H6NI-L4Sjfj_JWsw0=/fit-in/200x150/filters:strip_icc()/pic6973752.png</thumbnail>
+      <image>https://cf.geekdo-images.com/bkRKeMDARVQnz0cW5l6f5Q__original/img/DpXcbWpHJLvH7ug7NruCdVlkS20=/0x0/filters:format(png)/pic6973752.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Taluva" />
+			
+						                           
+						               													<description>In Taluva, players attempt to successfully settle a South Sea island slowly emerging from the ocean waters as volcano after volcano erupts.&amp;#10;&amp;#10;Each turn, players decide to either have a new volcano erupt along the shore, increasing the size of the island, or to have an existing volcano erupt again, increasing the height of the land around it (and possibly destroying parts of existing settlements). They do this by placing a new tile, consisting of one volcano and two other types of landscape. A tile must always touch at least one other tile, when placed at sea level, or be placed on top of at least two other tiles (without any gaps under the land being created), with the volcano being placed on top of an existing volcano.&amp;#10;Next, the player will place one or more wooden buildings; huts, temples or towers. Settlements must always start at the lowest level, by placing a single hut. From there on, existing settlements may expand by placing huts on all hexes of a single type of terrain around the settlement, with temples once the settlement takes up at least three hexes, or with towers, placed at level three or above.&amp;#10;&amp;#10;The game ends when all tiles have been placed. At that point, the player who's placed most temples wins. Ties are broken by towers, then huts. Ultimate victory - and an immediate end to the game - waits for the player who manages to place all their buildings of two types. Immediate defeat is also possible, when no buildings can legally be played during a player's turn.&amp;#10;&amp;#10;A lot of strategy results from the various placement rules. Volcanoes may never fully destroy a settlement, so single huts can block volcano placement, protecting other settlements. Alternatively, a well placed volcano can split a large settlement in two, creating the opportunity for both to expand more rapidly than a new settlement would. Limiting your opponent's growth potential is at least as important as preparing the terrain for you to expand upon...&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2006" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="199">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="96" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="106" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="63" />
+					<result value="Recommended" numvotes="98" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="48" />
+					<result value="Recommended" numvotes="93" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="76" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="29">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="53">
+			
+		<results>		
+					<result level="1271" value="No necessary in-game text" numvotes="53" />
+					<result level="1272" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="1273" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="1274" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="1275" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2861" value="Static Capture" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2884" value="Sudden Death Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21418" value="Region: Oceania" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51732" value="Theme: Tropical Islands" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235255" value="Taluva: Extension" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="188076" value="Taluva Deluxe" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11869" value="Manuel Casasola Merkle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36093" value="Xavier Gueniffey Durin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73817" value="Julien Le Faucheur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59" value="Marcel-André Casasola Merkle" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1562" value="Ferti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8496" />
+			<average value="7.14853" />
+			<bayesaverage value="6.82093" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="643" bayesaverage="6.82093" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="31" bayesaverage="6.97251" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="419" bayesaverage="6.88288" />
+												</ranks>
+
+			<stddev value="1.2831" />
+			<median value="0" />
+			<owned value="8521" />
+			<trading value="189" />
+			<wanting value="518" />
+			<wishing value="2239" />
+			<numcomments value="2159" />
+			<numweights value="700" />
+			<averageweight value="2.26" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

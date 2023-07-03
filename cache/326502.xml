@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="326502">
+                                     				
+				<name type="primary" sortindex="1" value="Quick Play Pro Hockey" />
+			
+						                           
+						               													<description>Quick Play Pro Hockey was designed by Michael Owens to quickly and accurately replay N.H.L. seasons, playoffs and any kind of tournaments the gamer wishes.  Each game takes a few minutes to play, which allows for many games to be played in a short period of time.&amp;#10;&amp;#10;Game play is activated by two standard dice (of different colors or sizes) read separately.  For instance if the red die is 4 and the white die is 2, it is to be read as &amp;quot;42&amp;quot;, or if the red die is 2 and the white die is 1 to be read as &amp;quot;21&amp;quot;.  This gives thirty-six different possibilities from 11 to 66.  If you are familiar with APBA games, it is read in the same fashion.&amp;#10;&amp;#10;The basic steps are:&amp;#10;&amp;#10;     Select Visiting and Home teams&amp;#10;     Determine &amp;quot;Base Score&amp;quot; (including normalization) for each team&amp;#10;     Determine Scoring Chance range and Home/Visitor Chance ranges and enter them on your scoresheet&amp;#10;     Determine Close Game Factor difference and select the applicable CGF range&amp;#10;     Record CGF details on scoresheet&amp;#10;     Start game&amp;#10;&amp;#10;&amp;#10;When playing the game, you roll two dice. The first dice will be used for time management based on a timing chart. The combination of the two dice will then be used to determine if a scoring chance takes place. If a scoring chance takes place, then another roll of the dice will determine which team has the scoring chance. Once a team is determined, a third roll will be matched against a scoring table to determine the outcome of the scoring chance.&amp;#10;&amp;#10;The game consists of three periods and the team with the higher score at the end of the game wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17516" value="Sports Teams: National Hockey League (NHL)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5628" value="Sports: Ice Hockey" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="143235" value="Michael Owens" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

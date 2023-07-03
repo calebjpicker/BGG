@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="247643">
+         <thumbnail>https://cf.geekdo-images.com/8bNfpiAH3iY0EJ9NySuXHg__thumb/img/MnpgEXWC7GvD8ZvO6DnY-5LXhQk=/fit-in/200x150/filters:strip_icc()/pic4077410.png</thumbnail>
+      <image>https://cf.geekdo-images.com/8bNfpiAH3iY0EJ9NySuXHg__original/img/6xCLWoIOjlX6r9EBGQGKyIWrwlY=/0x0/filters:format(png)/pic4077410.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Doodle Islands" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Doodle Islands: Print &amp; Play Time" />
+			
+						               													<description>First in the Doodle Games line from Superlude, Doodle Islands is a &amp;quot;Roll and Write&amp;quot; game from the same author duo as Avenue.&amp;#10;&amp;#10;You'll take the role of ambitious ship captains who will roam the sea questing for gold and adventures.&amp;#10;You'll trace your path with the tip of your pen through archipelagos, treasure islands, monsters, ships, rocks and taverns scattered seas! All of this to try and become the richest and receive the title of the Pirate Queen or King at the end of your journey!&amp;#10;&amp;#10;The adventure map is broken down in a grid where columns are associated with a face of a black die and the rows with a face of a white die.&amp;#10;Each grid cell holds either a sea monster, an island, a pirate ship or &amp;quot;towers&amp;quot;.&amp;#10;&amp;#10;Each turn a player will roll a black die and white dice. The player then selects one white die and has to draw a line in the cell corresponding to the black die and the selected white die.&amp;#10;You have to connect two sides of the cell (e.g. top  left, right  left, etc.) but you can choose which sides you want to connect. &amp;#10;You get points whenever you:&amp;#10;&amp;#10;     connect a sea monster to an already existing line.&amp;#10;      connect an island to towers.&amp;#10;&amp;#10;&amp;#10;If there's already a line where you are required to draw, you have to cross a rum bottle instead.&amp;#10;After that the next player picks a white die, and so on, until all players have done the same.&amp;#10;Then a new turn begins where the player rolling dice is the next one in the turn order.&amp;#10;&amp;#10;You continue playing rounds until one player scores 15+ points on a single monster, one player scores 10+ points on a single island or a player has crossed out all of their rum bottles.&amp;#10;You then add up your points earned with monsters and islands.&amp;#10;And you have to add 4 points per connected pirate ships.&amp;#10;The person who crossed the most rum bottles loses some points and the person who crossed the least earns that amount.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="1" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="162107" value="Doodle City" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9637" value="Eilif Svensson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4063" value="Kristian Amundsen Østby" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36093" value="Xavier Gueniffey Durin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26568" value="Superlude Éditions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="102" />
+			<average value="6.44644" />
+			<bayesaverage value="5.54445" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11800" bayesaverage="5.54445" />
+												</ranks>
+
+			<stddev value="1.32912" />
+			<median value="0" />
+			<owned value="220" />
+			<trading value="2" />
+			<wanting value="13" />
+			<wishing value="57" />
+			<numcomments value="30" />
+			<numweights value="4" />
+			<averageweight value="1.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

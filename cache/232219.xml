@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="232219">
+         <thumbnail>https://cf.geekdo-images.com/LvBG5jXW8ZFyllrbyJme-A__thumb/img/rmPTY8XdFru_9M_Ty68j4LpK10A=/fit-in/200x150/filters:strip_icc()/pic3683059.png</thumbnail>
+      <image>https://cf.geekdo-images.com/LvBG5jXW8ZFyllrbyJme-A__original/img/u8VQUhndzJDGh1EWdLx4FdsAnWE=/0x0/filters:format(png)/pic3683059.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dragon Castle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dračí palác" />
+			    				
+				<name type="alternate" sortindex="1" value="Sárkány Palota" />
+			    				
+				<name type="alternate" sortindex="1" value="Zamek Smoków" />
+			    				
+				<name type="alternate" sortindex="1" value="Крепость Маджонг" />
+			    				
+				<name type="alternate" sortindex="1" value="ศึกวังมังกร" />
+			    				
+				<name type="alternate" sortindex="1" value="覇王龍城" />
+			    				
+				<name type="alternate" sortindex="1" value="龍城對疊" />
+			    				
+				<name type="alternate" sortindex="1" value="드래곤 캐슬" />
+			
+						               													<description>Dragon Castle is a game freely inspired by Mahjong Solitaire. During your turn, you take a pair of identical tiles from the central &amp;quot;castle&amp;quot; (known as the Dragon Castle) and place them on your own realm board to build your own castle. From time to time, you may sacrifice these tiles to acquire shrines in their place.&amp;#10;&amp;#10;Every time you create a set of tiles of the same kind, you &amp;quot;consolidate&amp;quot; them, i.e. flip them face down to score points. When you consolidate a set, you may also build shrines on top of the consolidated tiles: Shrines allow you to score more points, but they also limit your building options. You may also take advantage of the available spirit card and its game-changing powers...but this will come at a cost! Finally, don't forget to check the dragon card in play, and to follow the building requirements to score bonus points.&amp;#10;&amp;#10;When the Dragon Castle has been reduced to only one floor, the end of the game is triggered. After one final round, the player with the most points is the lord of the new Dragon Castle&amp;hellip;and the winner of the game!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="93">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="63" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="241" value="No necessary in-game text" numvotes="10" />
+					<result level="242" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="243" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="244" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="245" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11518" value="Country: China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57675" value="Game: Dragon Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13437" value="Traditional Games: Mahjong" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="277608" value="Dragon Castle: La Fortezza di Moongha" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263970" value="Dragon Castle: Single Player Mode" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="253008" value="Dragon Castle: Spielbox 02/18 Promo Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263668" value="Dragon Castle: The Dice Tower Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262402" value="Dragon Castle: The Look-Out / The Glass Fortress Promo" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="320525" value="Dragon Castle: Central Board Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="320526" value="Dragon Castle: Realm Boards Playmats" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91211" value="Hjalmar Hach" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41503" value="Luca Ricci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28238" value="Lorenzo Silva" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="102445" value="Cinyee Chiu" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26623" value="Horrible Guild" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38809" value="Angry Lion Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1765" value="Dino Toys s. r. o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40415" value="Divercentro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27405" value="InterHit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7371" />
+			<average value="7.13049" />
+			<bayesaverage value="6.762" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="726" bayesaverage="6.762" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="35" bayesaverage="6.9194" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="170" bayesaverage="6.85134" />
+												</ranks>
+
+			<stddev value="1.17908" />
+			<median value="0" />
+			<owned value="10834" />
+			<trading value="232" />
+			<wanting value="266" />
+			<wishing value="1930" />
+			<numcomments value="1192" />
+			<numweights value="137" />
+			<averageweight value="1.9708" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

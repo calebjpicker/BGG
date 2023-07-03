@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="30382">
+         <thumbnail>https://cf.geekdo-images.com/t7m3OYGZoErUinNGXdU1Hg__thumb/img/sd4Z1Lvv_y9gBee6xTWV5qKase0=/fit-in/200x150/filters:strip_icc()/pic243794.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/t7m3OYGZoErUinNGXdU1Hg__original/img/NCtaUD8QVvanJPxfS7cxerrfY3A=/0x0/filters:format(jpeg)/pic243794.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rubik&#039;s Brain Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Rubik&#039;s Code" />
+			
+						               													<description>Rubik's Brain Game is more or less a 2-dimensional Mastermind. As in that game, players take turns setting up a pattern which the other player must deduce, with the player making the deduction in the fewest moves winning the game.&amp;#10;&amp;#10;In this game, a pattern is a 3x3 grid with each square being one of 6 colors, looking much like the side of a scrambled Rubik's Cube (the pattern is formed with 9 small cubes). On each turn, the guesser can either ask the setter if a given set of three colors are in a given row or column, or can ask if a given space is a specific color. In the former case the colors present and the colors not present are placed in different sections of the board for tracking purposes.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1983" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="136" value="No necessary in-game text" numvotes="1" />
+					<result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="140" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="142" value="Game: Mastermind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11192" value="Theme: Rubik's Cube" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="153" value="Ideal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="335" value="Jumbo" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="5.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.63299" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="3" />
+			<wanting value="3" />
+			<wishing value="4" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

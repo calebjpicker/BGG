@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="252971">
+         <thumbnail>https://cf.geekdo-images.com/vI7zmh55FDuxEvjiNovD0g__thumb/img/3CKePZHkbCkJczg_5iWxzCMwo6c=/fit-in/200x150/filters:strip_icc()/pic4150374.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/vI7zmh55FDuxEvjiNovD0g__original/img/jii3fX9kAsk40aa-SvV3Rl1KLS8=/0x0/filters:format(jpeg)/pic4150374.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Konkvest" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Atharon Chess" />
+			
+						               													<description>Konkvest is a chess-type board game specifically made to be played by two players. It is played on a hexagonal board with 142 tiles, as players alternate taking  their turns  to move  their pieces.  The tiles  are  distributed  in  13  rows,  the  middle  row  has  12  tiles  in  total  and  each subsequent row on the higher and the lower level has one tile less, ending with 6 tiles in the final rows. There are additional 28 tiles with specific use defined in the manual.&amp;#10;&amp;#10;The game is intended to serve as an official chess in the fantasy world of Atharon. After its conception, the game took on a life of its own and, rather than remaining just a footnote and a mere mention in the world of Atharon, it became a fully-realized project.&amp;#10;&amp;#10;Since its intention is to basically be Atharon chess, it's played similarly to the regular game of chess we all know. Players alternate turns moving their pieces across the board in accordance with the rules of movement. The rules of movement are too complicated to be described in text so they are explained in pictorial form in the rulebook.&amp;#10;&amp;#10;The main goal is to win the game by beating the opponent by toppling his Queen. Alternative ways include capturing the opponent's base by placing one's Queen on the specific tile the opponent's Queen started off, which is easier said than done. Another alternative way to win the game is to force the opponent's timer to expire.&amp;#10;&amp;#10;By standard a Konkvest game is timed using a 10 minute hourglass, which is balanced out at the start of the game so each player has 5 minutes at his disposal. Once set, the hourglass is laid horizontally. The player who makes the first move lifts the hourglass vertically and the time measurement begins. At that moment, the top chamber of the hourglass represents the time available to the second player. Once the second player makes his move, he flips the hourglass upside down so his chamber is at the bottom. Then it's the first player's turn again. The more one player spends on thinking, the less time he will have for future moves and the more time he will provide to his opponent, and vice versa. The player who's time runs out loses the game.&amp;#10;&amp;#10;During his turn, a player can do one of the following things:&amp;#10;1.) He can move one of his pieces according to the rules of movement on a different tile. If that piece ends its move within that player's promotional zone and hasn't captured an opponent piece, the player can promote that piece. If that piece ends its move on a tile occupied by an opponent's piece, the player takes that piece and adds it into his reserve pool, effectively capturing it. The only piece that cannot be captured is the Queen, once she's toppled the game is over.&amp;#10;2.) He can pick up one of his pieces from his reserve pool and return it on the board as an active piece, strictly within the territory he currently controls.&amp;#10;&amp;#10;At the end of his turn, the player flips the hourglass and then it's his opponent's turn to do the same procedure.&amp;#10;&amp;#10;Konkvest is an abstract battle simulation, meaning all of its resources are limited. Players have a limited amount of pieces and a limited amount of movement, they have a limited amount of spots in their reserve pool and they have a limited amount of time to spend on making their move.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="600" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="600" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="0" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11305" value="Traditional Games: Shogi" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109780" value="Argent Hellion" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109780" value="Argent Hellion" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="159504">
+         <thumbnail>https://cf.geekdo-images.com/7GPc68Crw-MqJHEL9k0kAA__thumb/img/n8OEm_mmZLhEgtZzjr6n25x63HE=/fit-in/200x150/filters:strip_icc()/pic3647804.png</thumbnail>
+      <image>https://cf.geekdo-images.com/7GPc68Crw-MqJHEL9k0kAA__original/img/MSkVie5A15f951nZ_04vahVZvcI=/0x0/filters:format(png)/pic3647804.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Folklore: The Affliction" />
+			
+						                           
+						               													<description>Embark on a cooperative epic adventure that is Folklore the Affliction. Find and destroy the source of the evil spreading its claws into the heart of the land, decimating its people and resources. Free the denizens from the scourge of vampirism and lycanthropy and expand your power and abilities. Are you a survivor, or will you play as your ghost? Will you fall to the bloodlust or the taint of lycanthropy yourself?&amp;#10;&amp;#10;Folklore: The Affliction is an expandable ongoing horror RPG board game for 1-5 players that focuses on immersive storyline, strategic combat, character development and intense character customization elements. Your successes and failures, encounters and challenges can affect the entire group raising the ante and fueling interaction. Play one of six customizable and unique characters in a quest to gain Lore by conquering the supernatural Afflictions. Travel the land and enter dark locations where the action becomes a miniature based dungeon crawl. Uncover deeper and more intriguing storylines as you go further into darkness in your quest to drive the evil back into the hell it came from.&amp;#10;&amp;#10;Dying in Folklore is not the end for your character... dead characters play on as their ghost with ethereal powers to strike down your foes from beyond the grave. You are never truly out of the action. Customizable abilities even include those that can strengthen your character in the afterlife!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="41">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="8" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="436" value="No necessary in-game text" numvotes="0" />
+					<result level="437" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="438" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="439" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+					<result level="440" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76246" value="Game: Folklore – The Affliction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260509" value="AME: the Corrupted Affliction Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257984" value="Folklore: The Affliction – Acrobat Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204087" value="Folklore: The Affliction – Crafting &amp; Recipes Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225525" value="Folklore: The Affliction – Dark Tales Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="356107" value="Folklore: The Affliction – Dark Tales Expansion: Return to Spice Tower Rumor Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="329574" value="Folklore: The Affliction – Dark Tales Expansion: Wanted Rumor Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204090" value="Folklore: The Affliction – Demons &amp; Dark Artifacts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="248985" value="Folklore: The Affliction – Equipment Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264135" value="Folklore: The Affliction – Faery Wisp Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="274667" value="Folklore: The Affliction – Fall of the Spire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339668" value="Folklore: The Affliction – Farmer Bundle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320458" value="Folklore: The Affliction – Folklore Shadow Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204088" value="Folklore: The Affliction – Ghost Miniatures Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264133" value="Folklore: The Affliction – Giant Scorpion Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257985" value="Folklore: The Affliction – Huntress Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="274729" value="Folklore: The Affliction – Missing Card Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257983" value="Folklore: The Affliction – Shield-Maiden Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="257986" value="Folklore: The Affliction – Soothsayer Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264136" value="Folklore: The Affliction – Spectral Fox Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264137" value="Folklore: The Affliction – Transformed Sage Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269268" value="Folklore: The Affliction – Warrior Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204086" value="Folklore: The Affliction – World Events" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="260499" value="Folklore: The Affliction – Adventure Creation Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="225527" value="Folklore: The Affliction – Colossal Dark Oak Miniature Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="320056" value="Folklore: The Affliction – Folklore Creature Crate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332868" value="Folklore: The Affliction – Grey Mini Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="249061" value="Folklore: The Affliction – Miniatures Box Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="260510" value="Folklore: The Affliction – Oversized World Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="300571" value="Folklore: The Affliction – Player Mat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="274497" value="Folklore: The Affliction – Story Teller Screen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="260498" value="Folklore: The Affliction – Talisman of Kremel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="332874" value="Folklore: The Affliction – Tan Mini Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="204089" value="Folklore: The Affliction – Terrain Miniature Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="260497" value="Folklore: The Affliction – Tracker Card Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="101267" value="Nick Blain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="75450" value="Will Donovan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14611" value="Jason Engle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74467" value="Stephen Gibson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18615" value="Greenbrier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27322" value="Twin Fire Productions, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1993" />
+			<average value="7.72381" />
+			<bayesaverage value="6.46636" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1229" bayesaverage="6.46636" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="198" bayesaverage="6.80328" />
+												</ranks>
+
+			<stddev value="1.64052" />
+			<median value="0" />
+			<owned value="5256" />
+			<trading value="133" />
+			<wanting value="196" />
+			<wishing value="1822" />
+			<numcomments value="629" />
+			<numweights value="76" />
+			<averageweight value="3.7237" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

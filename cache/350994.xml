@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="350994">
+         <thumbnail>https://cf.geekdo-images.com/e2O2T3gjo9To0k0KmGs63g__thumb/img/nMNPHflrq--RW-Fp7wfhVOY_PjY=/fit-in/200x150/filters:strip_icc()/pic7160016.png</thumbnail>
+      <image>https://cf.geekdo-images.com/e2O2T3gjo9To0k0KmGs63g__original/img/1rWlGdTiK-guJwKfaOimoEMY4PA=/0x0/filters:format(png)/pic7160016.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="WarBonds: Battle For Vitoria" />
+			
+						                           
+						               													<description>&amp;quot;WarBonds: Battle For Vitoria&amp;quot; is a strategy war game where players deploy and mobilize a medieval fantasy army in an effort to reign supreme amidst the war torn lands of Vitoria. Players start with a unique warlord that&amp;rsquo;ll serve as the leader of their army, and the first unit deployed onto the Battle Map. Each warlord is vying for control and ideological dominance. All units, warlords included, have an ideological alignment that will be tried by the brutalities of war. Players will make nuanced decisions that will affect the leadership of their warlord, and the loyalty of their units.&amp;#10;&amp;#10;One such decision involves influencing the public to incite revolt or enforce order across the land. Inciting a revolt is looked upon favorably by all chaos alignment units, but unfavorable to all law alignment units. Such a decision will cause these units to gain or lose loyalty. Units without loyalty are susceptible to leaving your army; or worse, be persuaded by the leadership of an opponent's warlord to join their army. There is no randomness; players must out-think their opponents to achieve victory.&amp;#10;&amp;#10;To achieve victory, a player must satisfy any one of the below conditions:&amp;#10;&amp;#10;     Be the last player with a surviving warlord and war camp.&amp;#10;         If your warlord is killed, you lose the game.&amp;#10;         If your war camp is destroyed, you lose the game.&amp;#10;    &amp;#10;     Be the first player to gain a level 3 war camp.&amp;#10;     If the dragon arrives, when it reaches the End of Game event, have the largest army size (IE: victory points).&amp;#10;&amp;#10;&amp;#10;When a game is fully set up and ready to start, the gameplay runs through a cycle of game rounds until one player achieves victory. A game round consists of a series of ordered turn handling for the deployed and enabled units and war camps; followed by the handling of various ordered events. The next game round starts after all aforementioned game objects have completed their respective turns, and each event has been handled. To assist with tracking and management of a game round an Initiative Table is used to indicate which in-game object&amp;rsquo;s turn must be handled next. Players only take their turn when one of their owned and controlled in-game object is designated to take their respective turn. This cycle of starting and ending game rounds proceeds until a player achieves a victory condition, or the game reaches its final round triggering the End of Game event.&amp;#10;&amp;#10;In WarBonds: Battle For Vitoria each player selects a single warlord from a pool of warlords for which to start their war campaign with. Afterwards, in the same order, all players select their starting war camp and warlord location on the battle map. Once war camp and warlord placement is complete, the game can now begin, starting with the player whose warlord has the lowest initiative score indicated on the Initiative Table. As each round progresses, players will select and deploy various units to make up their army.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="180" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2853" value="Stat Check Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="141827" value="Jonny Juste" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28772" value="Jason Badower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="118111" value="Wintis Gibson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="123797" value="Raphael Madureira" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50297" value="Punk This Studios" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="8.3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.8868" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="4" />
+			<numcomments value="3" />
+			<numweights value="4" />
+			<averageweight value="3.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="388515">
+                                     				
+				<name type="primary" sortindex="1" value="Lanquia" />
+			
+						                           
+						               													<description>Lanquia (from Spanish: Flanquea, meaning &amp;quot;flanks&amp;quot;) is an abstract board game for two players who play on an initially empty hexagonal board.&amp;#10;&amp;#10;Objective:&amp;#10;The objective is to capture the most enemy stones and conquer more territory by flanking the empty intersections.&amp;#10;&amp;#10;Components:&amp;#10;&amp;ndash; A hexagonal board with 9 intersections per side.&amp;#10;&amp;ndash; A set of black stones and a set of white stones.&amp;#10;&amp;#10;Definitions:&amp;#10;&amp;ndash; A flank is a configuration in which two friendly stones meet in a straight line from each other along one of the six cardinal directions.&amp;#10;&amp;ndash; A chain is a set of stones of the same color connected in a straight line. A single stone is considered a chain. Also, a chain is alive if it isn't flanked by enemy stones; otherwise, it is dead and is removed from the board.&amp;#10;&amp;ndash; A territory is a set of one or more empty intersections connected in a straight line and flanked by friendly stones. You own a territory if the stones that flank it are your color, not counting empty intersections that are flanked by enemy stones.&amp;#10;&amp;ndash; An incursion is the placement of a stone in an enemy territory.&amp;#10;&amp;#10;Turns:&amp;#10;Black plays first, then alternates. On your turn, you perform these actions in the following order:&amp;#10;&amp;#10;1. Place a stone of your color on an empty intersection that sees at least one friendly stone, via empty intersections in a straight line.&amp;#10;2. Remove all the dead stones.&amp;#10;&amp;#10;It's forbidden to do an incursion even if you're capturing (this rule is useful to avoid suicide placements and possible eternal captures).&amp;#10;&amp;#10;End of the game:&amp;#10;When neither player can place stones on the board, the game is over, so the points will be counted by adding the captured enemy stones plus the friendly territory. The player with the highest score wins the game.&amp;#10;&amp;#10;To make the game fair, before the game starts, the first player places two starting stones, one black and one white, on any empty intersection on the board, the second player chooses the sides. This balancing method is called the two-stone pie rule.&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="90" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="153220" value="Saïd Gadwen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

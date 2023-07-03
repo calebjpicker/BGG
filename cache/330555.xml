@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="330555">
+         <thumbnail>https://cf.geekdo-images.com/r9X_uBGmcGYoTSs1mRn-DA__thumb/img/dBXJgY4dkGJPvAnJmqNLF6vq9RA=/fit-in/200x150/filters:strip_icc()/pic5961171.png</thumbnail>
+      <image>https://cf.geekdo-images.com/r9X_uBGmcGYoTSs1mRn-DA__original/img/FwO0e8wUBEU5-k6Elsi6c99jHwU=/0x0/filters:format(png)/pic5961171.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="5 Minuten Puzzle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="5 Minuten Puzzel" />
+			
+						               													<description>Each player in 5 Minuten Puzzle takes one of the player sheets &amp;mdash; making sure that everyone is using the same side &amp;mdash; and a pen. One side of the sheet shows a roughly hexagonal grid composed of black hexes and blue and red circles (collectively &amp;quot;spaces&amp;quot;), while the other side has these hexes and circles arranged like a bear's head.&amp;#10;&amp;#10;On a turn, any player rolls the die, then you each must draw one of the shapes next to this die result&amp;mdash; e.g., a circle, two hexes, and another circle in a line &amp;mdash; into the grid, then cross it out to indicate that you can't use it again. You can place the first shape anywhere, then all subsequent shapes you add must touch something you've drawn previously. If you've used both shapes for a number, you can choose any available shape, then cross it out. If you can't place a shape or decline to do so, you must still cross one out.&amp;#10;&amp;#10;After twelve die rolls, you will have three or more spaces still open (because the grid has 51 spaces). You then score penalty points for each unfilled space: 3 for red, 2 for blue, and 1 for black. Additionally you score 1 penalty point for each different area of unfilled spaces in your grid. Whoever has the fewest penalty points wins.&amp;#10;&amp;#10;As a variant for experience players, each player can fill in 0-3 spaces in their grid before starting play. This possibly allows you to have a lower score, but only if you can still place all of the shapes in your grid.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="1" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60027" value="Series: MINNYS (Nürnberger-Spielkarten-Verlag)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75022" value="Series: Nature Line (Nürnberger-Spielkarten-Verlag)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11781" value="Steffen Benndorf" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17414" value="Christian Opperer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="61" />
+			<average value="6.03607" />
+			<bayesaverage value="5.51498" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17122" bayesaverage="5.51498" />
+												</ranks>
+
+			<stddev value="1.35901" />
+			<median value="0" />
+			<owned value="187" />
+			<trading value="3" />
+			<wanting value="4" />
+			<wishing value="22" />
+			<numcomments value="19" />
+			<numweights value="3" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

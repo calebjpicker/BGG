@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="147365">
+         <thumbnail>https://cf.geekdo-images.com/7QgFozXA0HUCEZTnUyd09g__thumb/img/IyQq8IkfhXg6M0vrkASc2cjSZdE=/fit-in/200x150/filters:strip_icc()/pic2500580.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7QgFozXA0HUCEZTnUyd09g__original/img/kdvw0qSWu-dE65YqqJ-I4q6EFos=/0x0/filters:format(jpeg)/pic2500580.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="3-D Draughts" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Warcaby 3D" />
+			
+						               													<description>The game is a draughts or checkers game for a 3-D board of the type popularized by the TV and film franchise Star Trek. The rules for that game including how the board works can be found at the following link on Chess Variants:&amp;#10;&amp;#10;http://www.chessvariants.org/3d.dir/startrek.html&amp;#10;&amp;#10;Play begins with black pieces on all dark squares of the lowest fixed board and similarly on the two movable boards which start adjacent to it. To move a movable board, it must be empty at the time but with that proviso one can on a turn either move a movable exactly as in 3-D chess (explained below for clarity) or move a piece. The rules are exactly as in standard draughts (checkers) otherwise.&amp;#10;&amp;#10;A big difference is that the movable board which start with white pieces begin BELOW, not above, the upper fixed board and movable boards start away from the player.&amp;#10;&amp;#10;How the board works:&amp;#10;3 checkered 4x4 boards with a white square on the near right corner for either player are in fixed positions at levels 2, 4 and 6. The lateral edges are aligned but the three fixed boards are staggered so that the nearer two rows of the middle fixed board (at level 4) exactly overlap the farther two rows of the fixed board nearer to either player. The fixed board on which the black player has pieces starting is at level 2 and thus lower than the middle board. Similarly the fixed board on which white pieces start are at level 6 and thus above the middle fixed board.&amp;#10;&amp;#10;4 movable checkered 2x2 boards with a white space in the nearer right corner are also included. Two of these boards start at level 3 with one corner each overlapping either of the two corners of the fixed board at level 2 farther away from the black player so that the other 3 spaces of the movable boards are not over that same fixed board; these two movable boards start filled with black pieces. Similarly 2 movable board start at level 5 filled with white pieces, and these board start with one corner overlapping either of the two corners of the fixed board at level 6 farther away from the white player. The other three squares are not under that same fixed board.&amp;#10;&amp;#10;Levels 1 and 7 start empty. A variant of the game makes all the board fixed in their initial positions. When movement of movable board is allowed, an empty movable board can be moved up or down 2 levels (but not above level 7 or below level 1) in which case it switches between above or below the same corner of a given fixed board. Without changing level, the movable board can be moved to a position above or below the other corner along the same edge of a fixed board as it already occupies. So a movable board at level 7 above the back right corner of the fixed board at level 6 can if empty be moved to above the back left or front right corner of the board at level 6, assuming of course no other movable board is already there.&amp;#10;&amp;#10;Spaces directly above or below each other will have the same color.&amp;#10;&amp;#10;Pieces' moves general conventional draughts moves to 3-D as follows. One looks at the board from above and flattens it. If the piece could move onto a space in this flattened version of the board, it can move onto it so long as a piece does not skip a level. Namely, in a non-capturing move, one cannot move directly from level 4 to level 6 and one can only do so in a capturing move if jumping a piece on a board at level 5.&amp;#10;&amp;#10;What playing is like:&amp;#10;It sounds harder than it is but does take some getting used to. The board geometry makes things interesting.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="0" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="96" value="Traditional Games: Checkers / Draughts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4024" value="Traditional Games: Chess" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11064" value="Moshe Callen" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29653" value="monter P.P.U. &quot;MONTER&quot;" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

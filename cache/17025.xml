@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="17025">
+         <thumbnail>https://cf.geekdo-images.com/2Q2_JKHNHtfEa1nOC0jZnA__thumb/img/ua3BtmXLAriEyv7dqDu4eXRS5dM=/fit-in/200x150/filters:strip_icc()/pic7471211.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2Q2_JKHNHtfEa1nOC0jZnA__original/img/-oPcAIGoUQR7f3_jk_D45nW26UI=/0x0/filters:format(jpeg)/pic7471211.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Poison" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="13" />
+			    				
+				<name type="alternate" sortindex="1" value="13號星期五" />
+			    				
+				<name type="alternate" sortindex="1" value="13일의 금요일" />
+			    				
+				<name type="alternate" sortindex="1" value="Baker&#039;s Dozen" />
+			    				
+				<name type="alternate" sortindex="1" value="Freitag der 13." />
+			    				
+				<name type="alternate" sortindex="1" value="Friday the 13th" />
+			    				
+				<name type="alternate" sortindex="1" value="Martes 13" />
+			    				
+				<name type="alternate" sortindex="1" value="Thirteen" />
+			    				
+				<name type="alternate" sortindex="1" value="Trucizna" />
+			    				
+				<name type="alternate" sortindex="1" value="Vendredi 13" />
+			    				
+				<name type="alternate" sortindex="1" value="Veneno" />
+			    				
+				<name type="alternate" sortindex="1" value="Алхимия" />
+			    				
+				<name type="alternate" sortindex="1" value="ポイズン" />
+			    				
+				<name type="alternate" sortindex="1" value="毒藥" />
+			    				
+				<name type="alternate" sortindex="1" value="甜甜圈" />
+			
+						               													<description>In Poison, also available over the years as Friday the 13th and Baker's Dozen, players try to avoid overflowing cauldrons in the middle of the table, which means you take the cards from the central playing area. The more you take, the worse your score &amp;mdash; unless you manage to take the most of one suit, in which case you get to throw those cards away!&amp;#10;&amp;#10;In a round, each player gets a hand of cards, with the cards coming in three suits that have values from 1 to 7 and a fourth &amp;quot;joker&amp;quot; suit in which all the cards have a value of 4. On a turn, a player discards a card from her hand onto a pile of the appropriate color (with jokers being playable on any pile) and gives the sum of all cards now in that pile. If the sum is higher than 13, then the player must first take all of the cards already in the pile, leaving only her card behind.&amp;#10;&amp;#10;The round ends once all the cards have been played, then players compare how many cards they have in each of the three suits; whoever has the most cards throws them away, while everyone else scores 1 penalty point per card. Each joker is worth 2 penalty points. Whoever has the fewest penalty points after each player has started a round once wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="65">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="20">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="20" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="172483" value="Friday the 13th: Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12039" value="Jessica R. E. Bethke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44835" value="Design Edge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12013" value="Paul Herbert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18509" value="Kugatsuhime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76585" value="Jessica Lindsay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12014" value="Elisa Teague" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12038" value="Markus Wagner" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="244" value="Playroom Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44703" value="O Capturador" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24504" value="cosaic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1902" value="Outset Media" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6352" value="Le Scorpion Masqué" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30091" value="Tranjis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1466" value="Zvezda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4014" />
+			<average value="6.45227" />
+			<bayesaverage value="6.12286" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2227" bayesaverage="6.12286" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="710" bayesaverage="6.19602" />
+												</ranks>
+
+			<stddev value="1.20938" />
+			<median value="0" />
+			<owned value="5208" />
+			<trading value="157" />
+			<wanting value="77" />
+			<wishing value="412" />
+			<numcomments value="1348" />
+			<numweights value="394" />
+			<averageweight value="1.1954" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

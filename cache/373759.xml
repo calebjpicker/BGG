@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="373759">
+         <thumbnail>https://cf.geekdo-images.com/r_VurIdvm1-kIuFjycNOew__thumb/img/ndwvPfD_Tb07PEm7S_BbRI6qljA=/fit-in/200x150/filters:strip_icc()/pic7149843.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/r_VurIdvm1-kIuFjycNOew__original/img/e1gKrdsE8ZIMNxXY1A-JE0IQJbQ=/0x0/filters:format(jpeg)/pic7149843.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Monolyth" />
+			
+						                           
+						               													<description>Every player builds their own block of stones in Monolyth, using 3D polyominoes to create patches of particular colors, complete levels, and a structure that matches a pattern.&amp;#10;&amp;#10;To set up, choose a structure card at random, then place it on the main board, along with the appropriate structure tokens, level tokens, and prophecy tokens based on the number of players. Place the crystal marker next to the main board, then draw twelve random polyominoes from the box and place them in a circle around the main board. The polyominoes come in five colors, and all 1x1 blocks in those colors are placed to the side.&amp;#10;&amp;#10;On a turn, move the crystal 1-4 spaces clockwise, then take the polyomino in that space and add it to your 4x4 player board, with nothing placed outside that grid and no part of the polyomino hanging over an empty space; alternatively, you can remove this polyomino from the game and take a 1x1 block of the same color, then add that to your player board. In either case, draw a random polyomino from the box and place it where the crystal started this turn.&amp;#10;&amp;#10;Instead of moving the crystal, you can choose a prophecy token from the main board and add it to a side of your player board. Each player board has four different colors around the four edges, e.g., blue, orange, black, and teal.&amp;#10;&amp;#10;When you fill all the spaces of a level on your player board, take the largest level token from the main board. If your construction fits the guidelines of the structure card, then you claim the highest available structure token.&amp;#10;&amp;#10;Keep taking turns until someone has completed their 3D monolith, which is 4x4x3 in a 3-4 player game and 4x4x4 in a 1-2 player game, after which you finish the round. If a prophecy has been fulfilled, e.g., if you placed a 12 on the orange side of your player board and you have at least 12 orange blocks on that edge of your player board, then you score points equal to that prophecy token.&amp;#10;&amp;#10;Sum the points of your structure token, level tokens, and valid prophecy tokens to see who has the highest score and wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="1" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8347" value="Phil Walker-Harding" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="94937" value="Davide Tosello" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="164" />
+			<average value="7.08096" />
+			<bayesaverage value="5.62211" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7134" bayesaverage="5.62211" />
+												</ranks>
+
+			<stddev value="1.20064" />
+			<median value="0" />
+			<owned value="255" />
+			<trading value="7" />
+			<wanting value="42" />
+			<wishing value="226" />
+			<numcomments value="31" />
+			<numweights value="8" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

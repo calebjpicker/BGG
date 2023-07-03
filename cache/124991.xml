@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="124991">
+         <thumbnail>https://cf.geekdo-images.com/oddYzVYXydixqg0n01d5og__thumb/img/YqSTLOn1vlaA00R9-epH-B_Zc9c=/fit-in/200x150/filters:strip_icc()/pic1407726.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/oddYzVYXydixqg0n01d5og__original/img/DHJHXgxDP9gI1FuTYgj5upwewsg=/0x0/filters:format(jpeg)/pic1407726.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Legend: History of 1000 Miglia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="1000 Miglia: Dawn of the Myth" />
+			
+						               													<description>Legend: History of 1000 Miglia is the first title of a game series that will cover the history of the legendary car race across Italy from 1927 to 1955, starting from Brescia, then going to Rome and back. In particular, this first chapter covers the first years of the competition, between 1927 and 1933, when the biggest cars brands &amp;ndash; Alfa Romeo, Lancia, Mercedes, etc. &amp;ndash; struggle against all the odds in that tough race of 1000 miles (1000 Miglia, in Italian) in the worst conditions ever in the history of car racing and technology.&amp;#10;&amp;#10;The 15 stages are realized by a combination of large hexagons, which represent the Italian countryside and its typical winding roads.&amp;#10;&amp;#10;Particular attention was paid realizing a &amp;quot;playful simulation&amp;quot; in which all 19 cars featured in the game have their own characteristics, historically and technically recreated, after long research and interviews with the actual drivers of each car. So every car features its handling, engine performance and reliability with the goal of finding the right trade-off between simulation and entertainment.&amp;#10;&amp;#10;The driver prepares his car to the race, acquiring spare parts and abilities that will help him along the way. He plans his speed for the turn and moves along the track dealing with different kind of curves, altitude gradients. He has to manage his car through 1000 miles of race, facing technical issues (14 different mechanical area of the car has been covered to model damage and mechanical wear!), changing weather conditions, daylight and nighttime, racing against the other drivers directly side-by-side and against their timing.&amp;#10;&amp;#10;Who arrives back in Brescia with the fastest time wins the 1000 Miglia.&amp;#10;&amp;#10;Previously known as 1000 Miglia: Dawn of the Myth.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11515" value="Country: Italy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6206" value="Sports: Auto Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="171625" value="Full Throttle!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="141729" value="Legend Easy Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="155028" value="Legend: History of 1000 Miglia – 1928 Chrysler Type 72" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="132533" value="Legend: History of 1000 Miglia – 1933 Alfa Romeo 1750 GS Gasogeno Promo Car" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="195210" value="Legend: Winds of War 1934-1940" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58070" value="Carlo Amaddeo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="58070" value="Carlo Amaddeo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22624" value="WBS Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="73" />
+			<average value="7.57418" />
+			<bayesaverage value="5.56083" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10253" bayesaverage="5.56083" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1195" bayesaverage="5.60534" />
+												</ranks>
+
+			<stddev value="1.42639" />
+			<median value="0" />
+			<owned value="147" />
+			<trading value="3" />
+			<wanting value="18" />
+			<wishing value="76" />
+			<numcomments value="34" />
+			<numweights value="12" />
+			<averageweight value="2.4167" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

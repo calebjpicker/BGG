@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="157526">
+         <thumbnail>https://cf.geekdo-images.com/24x3IUxdpizAPxXPOJsypQ__thumb/img/XFKd1GrAgke9M5wwDilZvyGBfDk=/fit-in/200x150/filters:strip_icc()/pic2254354.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/24x3IUxdpizAPxXPOJsypQ__original/img/g18f-g1MS4ZcpElCGQz4W4HfS_U=/0x0/filters:format(jpeg)/pic2254354.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Viceroy" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Namiestnik" />
+			    				
+				<name type="alternate" sortindex="1" value="Panovník" />
+			    				
+				<name type="alternate" sortindex="1" value="Virrey" />
+			    				
+				<name type="alternate" sortindex="1" value="Наместник" />
+			    				
+				<name type="alternate" sortindex="1" value="總督" />
+			
+						               													<description>Viceroy is a board game of bidding and resource management set in the fantasy universe of the famous Russian CCG Berserk. As the players struggle for control over the world of Laar, they recruit a variety of allies and enact various laws. These cards allow players to develop their state's military and magical might, increase their authority, and get precious gems they need to continue expanding their nation.&amp;#10;&amp;#10;As the game progresses, each player builds their own power pyramid using character and law cards. Each card has its own effect that depends on the level of the pyramid where the card is played. These effects may give more resources, more cards, or victory points. The player who has the most power points at the end of the game becomes the ruler of entire Laar and the winner!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="95">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="48" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="15" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2920" value="Auction: Sealed Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25292" value="Crowdfunding: Giochistarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20081" value="Series: Berserk (Hobby World)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206980" value="Viceroy: Balance of power Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181004" value="Viceroy: Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245061" value="Viceroy: Times of Darkness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354828" value="Viceroy: Times of Darkness Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367869" value="Viceroy: Custom Box Sleeve" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="179681" value="Viceroy: Gems" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273464" value="Viceroy: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="179680" value="Viceroy: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="363279" value="Viceroy: Solo Variant Die" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74489" value="Yuri Zhuravljov" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51423" value="Dmitry Burmak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69037" value="Sergey Dulin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="79447" value="Roman Gunyavy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="35070" value="Pavel Guzenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50790" value="Anna Ignatieva" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69036" value="Ilya Komarov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80834" value="Anton Kvasovarov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="62265" value="Kate Maximovich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="57810" value="Dmitry Prosvirnin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85425" value="Pavel Romanov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="100942" value="Igor Savchenko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="90490" value="Leopard Snow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="128878" value="Ruslan Svobodin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69038" value="Uildrim" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31071" value="Dexker Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8832" value="Funforge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7251" value="Giochix.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9552" value="Mayday Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25973" value="Zacatrus" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5525" />
+			<average value="6.79647" />
+			<bayesaverage value="6.44652" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1274" bayesaverage="6.44652" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="746" bayesaverage="6.51585" />
+												</ranks>
+
+			<stddev value="1.29241" />
+			<median value="0" />
+			<owned value="9627" />
+			<trading value="680" />
+			<wanting value="85" />
+			<wishing value="630" />
+			<numcomments value="1380" />
+			<numweights value="228" />
+			<averageweight value="2.6404" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

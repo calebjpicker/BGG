@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="229641">
+                                     				
+				<name type="primary" sortindex="1" value="Flash Cards" />
+			
+						                           
+						               													<description>A card game based on the TV show The Flash&amp;#10;&amp;#10;There are 3 Decks: &amp;#10;-     The Flash Deck. Cards in the Flash deck have 2 numerical Traits: Speed and Investigation.  Speed is used to overcome the Threat trait of Foe cards. Investigation is used to overcome the Plot Trait of Foe cards. Numerical values of these cards range from +1 to +7. &amp;#10;-     The Foe Deck.  Foe cards need to be overcome using Flash cards. &amp;#10;Cards in the Foe deck have 2 numerical Traits: Threat and Plot.&amp;#10;-     The Mod Deck. Modifier cards are attached to Foe cards and increase their trait values. Cards in the Mod deck have 2 numerical traits: Threat and Plot.&amp;#10;&amp;#10;Flip over the top 2 cards of the Foe deck. Place them face up in the middle of the table.&amp;#10;&amp;#10;Players take turns with each turn comprising 4 phases:&amp;#10;&amp;#10;1.    Foe Phase&amp;#10;-     If there are less than 2 Foe cards face up in the middle of the table, then flip over replacements. &amp;#10;-     Each Foe card gets 1 Mod card attached to it. If a Foe card does not have a Mod then card flip over a Mod card and place it slightly under the Foe card to show they are attached. &amp;#10;-    At the end of Foe Phase there should be 2 face-up Foe cards in the middle of the table with a Mod card attached to each.&amp;#10;&amp;#10;2.    Flash Phase&amp;#10;-    The current player fills his hand to 7 cards from the Flash deck.&amp;#10;&amp;#10;3.    Capture Phase&amp;#10;-    The current player plays Flash cards from his hand to capture one of the face-up Foe cards. The Total Speed value of the Flash cards must exceed the total Threat value of the target Foe card and attached Mod card. The Total Investigation value of the Flash cards must exceed the total Plot value of the target Foe card and attached Mod card. &amp;#10;-   If both these conditions are satisfied, the player puts the Foe card into his victory pile.  The Flash and Mod cards are discarded. &amp;#10;-   The current player may then also capture the second face-up Foe card, if he has the resources to do it.&amp;#10;&amp;#10;4.    Final Phase&amp;#10;-     The current player may discard any number of cards from his hand.&amp;#10;&amp;#10;The game ends when the last Foe card in the Foe deck is captured.  The player with the most Foe cards in his victory pile wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="810" value="Lloyd Krassner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="873" value="Warp Spawn Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

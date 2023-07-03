@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="244882">
+         <thumbnail>https://cf.geekdo-images.com/nMsrmWqTm0tFxeGM6E6L4w__thumb/img/t7aQCArCF7DmWaV304K8aiMOGdo=/fit-in/200x150/filters:strip_icc()/pic4058919.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/nMsrmWqTm0tFxeGM6E6L4w__original/img/1R9dmUA4bdeQ6wqqyZGMIlaVr3Q=/0x0/filters:format(jpeg)/pic4058919.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Not My Fault!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="俺のせいじゃない!" />
+			
+						               													<description>&amp;#228;&amp;#191;&amp;#186;&amp;#227;&amp;#129;&amp;#174;&amp;#227;&amp;#129;&amp;#155;&amp;#227;&amp;#129;&amp;#132;&amp;#227;&amp;#129;&amp;#152;&amp;#227;&amp;#130;&amp;#131;&amp;#227;&amp;#129;&amp;#170;&amp;#227;&amp;#129;&amp;#132;! (&amp;quot;Not My Fault!&amp;quot;) is a press your luck/bluffing game in which players are employees of an IT company. A progress report is due, and nobody wants to take the blame if the project cannot be finished!&amp;#10;&amp;#10;The game consists of a set of 32 cards (generally numbered 0 to 6); it plays in about 10 minutes and supports 2-8 players.&amp;#10;&amp;#10;The game ends either when the work is completed (with the progress level being 30 or more and the player who put it over the top winning) or when one player receives two red cards; in this case, all other players win because they can blame someone for the failure of the project. On their turn, the player either:&amp;#10;&amp;#10;&amp;#10;     Plays a card and declares progress by moving the token to that level of progress on the progress report card. A player can declare only a higher level of progress than the previous player (as the project can only get closer to completion), and can declare only certain levels of progress, i.e., those numbers with a dark background on the progress report card: &amp;quot;5&amp;quot; &amp;quot;8&amp;quot; &amp;quot;12&amp;quot; &amp;quot;17&amp;quot; &amp;quot;23&amp;quot; &amp;quot;30&amp;quot;. Once during play, a player can use their yellow card to declare a level without the dark background.&amp;#10;     Declares an audit. If the player thinks the total value of the cards in the pool is less than the number shown on the progress report, they can declare an audit. If they're right, the previous player receives a red card. If the audit fails and the project is on track, the player who declared the audit gets a red card.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="98921" value="西村裕 (Hiroshi Nishimura)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35514" value="スパ帝国 (SPA Game)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="5.40968" />
+			<bayesaverage value="5.49878" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="20567" bayesaverage="5.49878" />
+												</ranks>
+
+			<stddev value="1.75027" />
+			<median value="0" />
+			<owned value="57" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="4" />
+			<numweights value="4" />
+			<averageweight value="1.25" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

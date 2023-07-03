@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="118325">
+         <thumbnail>https://cf.geekdo-images.com/CZDCpju5XVLnHw4xL8kkOA__thumb/img/E5_QiHioTtVYCKCf3HzB6iFRWQg=/fit-in/200x150/filters:strip_icc()/pic1211414.png</thumbnail>
+      <image>https://cf.geekdo-images.com/CZDCpju5XVLnHw4xL8kkOA__original/img/SHDP8120DaKhev8KC8be0VgBMaQ=/0x0/filters:format(png)/pic1211414.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="RoboTroc" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Robo Troc" />
+			    				
+				<name type="alternate" sortindex="1" value="Роботрок" />
+			    				
+				<name type="alternate" sortindex="1" value="拼裝機器人" />
+			
+						               													<description>In the world of RoboTroc, mad scientists compete to construct the most powerful robots possible out of salvaged spare parts. Naturally you wouldn't want to blow your cover by breaking environmental laws, so all of you will be scrounging for components in the junkyard.&amp;#10;&amp;#10;To set up the game, shuffle the 45 cards and lay them out in a 9x5 grid; each player takes a character card. The first player takes a card from the perimeter of the grid, then lays her character card in its place. Each other player in turn order does the same, then play order reverses for the remainder of the collection phase, with players moving their character cards to adjacent spaces (which includes diagonals) to claim cards. Land on an empty space, and you get nothing &amp;ndash; but are still active in the round. Once all the cards have been claimed, the round ends.&amp;#10;&amp;#10;Players then have the ability to steal cards from opponents (or secure cards they need) based on the number of weapons they've collected. Each player can first secure four cards, though, so not everything is up for grabs. Players then assemble a robot with a head, body and legs, along with one weapon and any number of bonus cards. Each robot is worth the sum of its parts, along with any applicable bonuses; each additional robot a player can construct is worth ten points, no matter the value of its parts. The player with the highest score wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="741" value="No necessary in-game text" numvotes="4" />
+					<result level="742" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="743" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="744" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="745" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22232" value="Theme: Robots" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="57241" value="Cesare Mainardi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="57242" value="Maryline Weyl" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36700" value="Flick Game Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21508" value="Main Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="65" />
+			<average value="6.02154" />
+			<bayesaverage value="5.51541" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17019" bayesaverage="5.51541" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2564" bayesaverage="5.51875" />
+												</ranks>
+
+			<stddev value="1.42346" />
+			<median value="0" />
+			<owned value="231" />
+			<trading value="14" />
+			<wanting value="3" />
+			<wishing value="22" />
+			<numcomments value="22" />
+			<numweights value="7" />
+			<averageweight value="1.8571" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="181687">
+         <thumbnail>https://cf.geekdo-images.com/RpUStaAwneWPT_JQJpAb1Q__thumb/img/ZCZifuP73R52UhXomQKmGQ9OoCU=/fit-in/200x150/filters:strip_icc()/pic2853682.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RpUStaAwneWPT_JQJpAb1Q__original/img/-v7vEfHCJptqJSMPeNOf5ovy5zY=/0x0/filters:format(jpeg)/pic2853682.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Pursuit of Happiness" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="La Búsqueda de la Felicidad" />
+			    				
+				<name type="alternate" sortindex="1" value="Cesta za štěstím" />
+			    				
+				<name type="alternate" sortindex="3" value="W pogoni za szczęściem" />
+			    				
+				<name type="alternate" sortindex="4" value="La Quête du Bonheur" />
+			    				
+				<name type="alternate" sortindex="4" value="La Ricerca della Felicità" />
+			    				
+				<name type="alternate" sortindex="5" value="Das Streben nach Glück" />
+			    				
+				<name type="alternate" sortindex="1" value="В погоне за счастьем" />
+			    				
+				<name type="alternate" sortindex="1" value="행복을 찾아서" />
+			
+						               													<description>We all have one common desire: the desire for happiness. As we build our life, taking steps towards the pursuit of happiness, we come closer to the realization that happiness lies in the pursuit.&amp;#10;&amp;#10;The Pursuit of Happiness&amp;nbsp;is a game in which you take a character from birth and you live the life you always wanted. Using a worker-placement mechanism with time as your workers, you take on projects, you get jobs, you buy items, you establish relationships, you raise families. The possibilities are endless as you live the life you have always wanted.&amp;#10;&amp;#10;How much will you be able to achieve in just one lifetime during The Pursuit of Happiness?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="86">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="34" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="11" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="126" value="No necessary in-game text" numvotes="0" />
+					<result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="130" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50203" value="Crowdfunding: zagramw.to" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57004" value="Game: The Pursuit of Happiness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66169" value="Theme: My Best Life" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56129" value="Theme: Queer / LGBTAIQ" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283936" value="Artipia Games: The Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266147" value="The Pursuit of Happiness: Build Time Machine Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331900" value="The Pursuit of Happiness: Camping Activity Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223456" value="The Pursuit of Happiness: Community" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="241728" value="The Pursuit of Happiness: Community KS Promos 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271732" value="The Pursuit of Happiness: Experiences" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297405" value="The Pursuit of Happiness: Experiences KS Promos 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304363" value="The Pursuit of Happiness: Experiences – Maui" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386331" value="The Pursuit of Happiness: Gratitude Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353780" value="The Pursuit of Happiness: Holiday Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205483" value="The Pursuit of Happiness: KS Promos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353781" value="The Pursuit of Happiness: KS Promos 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="323848" value="The Pursuit of Happiness: Nostalgia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="304215" value="The Pursuit of Happiness: Order From Artipia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="335295" value="The Pursuit of Happiness: Out of this World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264674" value="The Pursuit of Happiness: Perform Magic Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297407" value="The Pursuit of Happiness: Pool Party" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283761" value="The Pursuit of Happiness: Run Fair Booth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="205160" value="The Pursuit of Happiness: Space Trip Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289426" value="The Pursuit of Happiness: Thug Life" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="388222" value="The Pursuit of Happiness: Game Mat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="325293" value="The Pursuit of Happiness: Big Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="84477" value="Adrian Abela" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="73154" value="David Chircop" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38292" value="Panayiotis Lyris" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16755" value="Artipia Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46430" value="GAMEARChive" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42145" value="Kobold Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29786" value="Playagame Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50506" value="Низа Гамс (Niza Gams)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5128" />
+			<average value="7.17537" />
+			<bayesaverage value="6.70543" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="807" bayesaverage="6.70543" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="186" bayesaverage="6.81945" />
+												</ranks>
+
+			<stddev value="1.28575" />
+			<median value="0" />
+			<owned value="8262" />
+			<trading value="206" />
+			<wanting value="300" />
+			<wishing value="1734" />
+			<numcomments value="1068" />
+			<numweights value="133" />
+			<averageweight value="2.4962" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

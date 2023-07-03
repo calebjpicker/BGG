@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="311031">
+         <thumbnail>https://cf.geekdo-images.com/OyT_2pRVNs4w15kQaeHPqw__thumb/img/2OI_RqYsO4dXT2tBYLpXTRg3kNM=/fit-in/200x150/filters:strip_icc()/pic6822638.png</thumbnail>
+      <image>https://cf.geekdo-images.com/OyT_2pRVNs4w15kQaeHPqw__original/img/w_kaK-7WIfcs7bm0676lUyeXy44=/0x0/filters:format(png)/pic6822638.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Five Three Five" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="535" />
+			
+						               													<description>535 is a Climbing/Shedding game for 2 to 6 Players. The game's deck is comprised of cards numbered 1-15, with cards of rank 6 and 10 missing. The deck contains multiple copies of each card, depending on player count (4 each at 2-4 players/5 each at 5+ players). In addition to a rank, each card has a point value, which depends on the rank&amp;rsquo;s strength. The object of the game is for players to be the first to play all of their cards to the table.&amp;#10;&amp;#10;On a turn, a player may play one, two, or three cards to a single, central meld. Playable meld-types are:&amp;#10;&amp;#10;-Single: Any one card. (1 &amp;lt; 7 &amp;lt; 14)&amp;#10;-Set: Any two or more cards of equal rank. (1,1,1 &amp;lt; 14,14,14)&amp;#10;-Run: Any two or more cards of consecutive rank. (1,2,3 &amp;gt; 11,12,13)&amp;#10;&amp;#10;On a turn, a player chooses to do one of the following actions:&amp;#10;&amp;#10;-Overwrite: Play a higher ranked meld, which matches the meld-type and size of the central meld.&amp;#10;-Add: Attach a card or cards to the central meld, making sets/runs longer.&amp;#10;-Pass: A player who can not or chooses not to play into the central meld may pass. Once a player passes, they are out for the trick.&amp;#10;&amp;#10;A trick ends once 1 of 4 things happens:&amp;#10;&amp;#10;-All but one player passes. &amp;#10;-A player adds the fourth card to an active set of a like-numbered meld (or fifth in a 5+ player game).&amp;#10;-A player adds the fifth card of a run.&amp;#10;-A player plays a meld that follows the &amp;ldquo;Rule of 8&amp;rsquo;s&amp;rdquo; (See Below).&amp;#10;&amp;#10;The last player to have played a card to the meld in any of these situations above clears the trick and leads the next. A lead player must always play one, two, or three cards and may never &amp;quot;Pass&amp;quot;.&amp;#10;&amp;#10;Once one player has played their final card(s) to the table, the round ends immediately. The other players then score the points indicated on the cards left in their hands. Rounds are played until one player has 20 or more points, leaving the player(s) with the least points the winner(s).&amp;#10;&amp;#10;Rule of 8&amp;rsquo;s:&amp;#10;All cards of rank 8 in the deck are worth the most points in the game. However, these cards have a special function. When a rank 8 card is played to a trick (ie. A single 8, a set of 8&amp;rsquo;s, a run of either 7,8 or 7,8,9) the trick is immediately cleared and the player who played the &amp;ldquo;Rule of 8&amp;rsquo;s&amp;rdquo; clears the trick and leads the next. The only time the Rule of 8&amp;rsquo;s will not function is when an 8 is included in the opening meld of any trick.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="591" value="No necessary in-game text" numvotes="0" />
+					<result level="592" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="593" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="594" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="595" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24431" value="Card Games: Adding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24430" value="Card Games: Beating" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="131" value="Card Games: Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66890" value="Misc: Lowest Score Wins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28947" value="Theme: Weather" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78720" value="かぶきけんいち (Kenichi Kabuki)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="108040" value="別府さい (Sai Beppu)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28450" value="Game Nowa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48151" value="Portland Game Collective" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="203" />
+			<average value="7.1434" />
+			<bayesaverage value="5.65484" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="6250" bayesaverage="5.65484" />
+												</ranks>
+
+			<stddev value="1.35569" />
+			<median value="0" />
+			<owned value="418" />
+			<trading value="14" />
+			<wanting value="32" />
+			<wishing value="125" />
+			<numcomments value="74" />
+			<numweights value="5" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

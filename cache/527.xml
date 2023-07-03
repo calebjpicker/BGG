@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="527">
+         <thumbnail>https://cf.geekdo-images.com/ZqhrkY3lhZ1ecQqaUovLHw__thumb/img/pdGCkH9cEjvZLbvR2wgooQihTGY=/fit-in/200x150/filters:strip_icc()/pic2844819.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ZqhrkY3lhZ1ecQqaUovLHw__original/img/4JAfZ5lOMoQzwSaIL3dw-_Bt4rQ=/0x0/filters:format(png)/pic2844819.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="GIPF" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="GIPF mini" />
+			
+						               													<description>GIPF is a strategic game for two players based on a classic concept: In turns, players introduce one piece into play until achieving four-in a-row. Players then remove their row and capture any of their opponent's pieces which extend that row. This principle of capturing pieces creates  completely changed situations on the board. The purpose is to form successive rows of at least four pieces, until the opponent has no piece left to bring into play.&amp;#10;&amp;#10;GIPF is not only the name of a game, but of a project as well. This project concerns a group of games and extra pieces that will follow step by step. Each game of the project will be playable either separately, or, by means of extra pieces, in combination with GIPF. It concerns a system that makes winning or losing GIPF-related games a strategic factor of the game GIPF itself.&amp;#10;&amp;#10;This game is part of project GIPF.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1996" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="13" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10" value="Series: GIPF Project" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="5202" value="GIPF Project Set 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="5117" value="GIPF Project Set 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="26003" value="GIPF Project Set 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269482" value="GIPF: Das TAMSK-Potential" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="2346" value="DVONN" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="217083" value="LYNGK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="378284" value="MATRX" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="19764" value="PÜNCT" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="108" value="TAMSK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="31999" value="TZAAR" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="7854" value="YINSH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="528" value="ZÈRTZ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="244" value="Kris Burm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="244" value="Kris Burm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12605" value="lu'cifer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="137" value="Don &amp; Co." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5020" value="Ísöld ehf." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7473" value="Smart Toys and Games, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3222" />
+			<average value="7.09354" />
+			<bayesaverage value="6.47914" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1203" bayesaverage="6.47914" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="36" bayesaverage="6.91871" />
+												</ranks>
+
+			<stddev value="1.33251" />
+			<median value="0" />
+			<owned value="5270" />
+			<trading value="110" />
+			<wanting value="166" />
+			<wishing value="726" />
+			<numcomments value="962" />
+			<numweights value="224" />
+			<averageweight value="2.7812" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

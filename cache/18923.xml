@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="18923">
+         <thumbnail>https://cf.geekdo-images.com/5E1swuEJvm5JlzxkS1osDQ__thumb/img/vj67syRtLhzdXw65dReoNdvEewE=/fit-in/200x150/filters:strip_icc()/pic463315.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5E1swuEJvm5JlzxkS1osDQ__original/img/udlrcoUwEAc8ukjJepFgN57KSLU=/0x0/filters:format(jpeg)/pic463315.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Malaka" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Moloko" />
+			
+						               													<description>Malaka is a cross between Backgammon, Plakoto and Lines of Action.  Players race to move their pieces around the board, delaying their opponent while trying to connect their pieces to the far end of the board marked with their symbol.  Using a familiar (Backgammon type) roll-and-move mechanism, each player attempts to form an orthogonally connected group of their pieces (as in Lines of Action) at the opposite corner of the board from their starting location.  The board is designed with two &amp;quot;walls&amp;quot; that force the players to navigate an &amp;quot;S&amp;quot; type path to reach their goal in the opposite corner.  The board consists of nine subareas, each with a basic direction of forward movement (which is, of course, opposite for the two players).&amp;#10;&amp;#10;On their turn, each player rolls two dice (4-sided dice for the 9x9 board, 6-sided dice for the 12x12 board) and uses the resulting numbers to move their pieces.  Pieces may either step directly forwards, or jump over a wall.  If a piece steps directly forwards, then it must step in a straight line a number of spaces equal to the number of pips shown on one of the dice.  If the piece steps onto a single enemy piece, then that enemy piece is pinned (as in Plakoto) until the player moves off.  Players may stack as many pieces as they like onto any point, but cannot move to any point at which the enemy controls a block (a pile of two or more pieces).  Alternatively, a piece may jump over a wall (ignoring the movement restrictions of the moving piece's current sub-area) if that jump lands on a single enemy piece a number of spaces away equal to the number of pips shown on one of the dice.  The enemy piece is captured and removed from the game.  Players cannot jump backwards and cannot cross both walls with the same jump.  Jumping over a wall to capture an enemy piece is a double-edged sword: it allows the piece to push forward quickly by taking a shortcut, but also makes the opponent's task easier as they have one less piece to connect.&amp;#10;&amp;#10;After making any move, the same piece may take further steps or jumps, possibly changing direction if the first move resulted in a change in sub-area. If a double is rolled, then the player moves four times using the pip value shown (as in Backgammon).  The player must make a move that uses the maximum possible number of pips.&amp;#10;&amp;#10;A player wins by orthogonally connecting all of their remaining pieces to the far end of the board marked with their symbol (not necessarily in a single connected group, but all pieces orthogonally connected to a piece on the goal line).  A player may also win by pinning an opponent's piece on his own starting line.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78568" value="Components: 12 x 12 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78574" value="Components: 9 x 9 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3541" value="Cameron Browne" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="4" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

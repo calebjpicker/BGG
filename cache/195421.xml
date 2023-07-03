@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="195421">
+         <thumbnail>https://cf.geekdo-images.com/lm8OOgJupqd3Q-fZ3DsQhw__thumb/img/mZV5Pve42U5PlK-GkFSDTDXCzdg=/fit-in/200x150/filters:strip_icc()/pic3605785.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/lm8OOgJupqd3Q-fZ3DsQhw__original/img/hTV2P_-UPntaLbQB3Dl17LYz42A=/0x0/filters:format(jpeg)/pic3605785.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Near and Far" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bliżej i Dalej" />
+			    				
+				<name type="alternate" sortindex="1" value="Cerca y Lejos" />
+			    				
+				<name type="alternate" sortindex="1" value="Cestou necestou" />
+			    				
+				<name type="alternate" sortindex="1" value="Nah und Fern" />
+			    				
+				<name type="alternate" sortindex="1" value="Near and Far: Les Royaumes du lointain" />
+			    				
+				<name type="alternate" sortindex="1" value="Дальше и Ближе" />
+			    				
+				<name type="alternate" sortindex="1" value="니어 앤 파" />
+			
+						               													<description>Four wanderers search for the Last Ruin, a city that legends say contains an artifact that will grant the greatest desires of the heart. A lost love, redemption, acceptance, a family rejoined-- these are the fires that fuel the wanderers' journeys, but can they overcome their own greed and inner demons on the way?&amp;#10;&amp;#10;In Near and Far, you and up to three friends explore many different maps in a search for the Last Ruin, recruiting adventurers, hunting for treasure, and competing to be the most storied traveler. You must collect food and equipment at town for long journeys to mysterious locales, making sure not to forget enough weapons to fight off bandits, living statues, and rusty robots! Sometimes in your travels you'll run into something unique and one of your friends will read what happens to you from a book of stories, giving you a choice of how to react, creating a new and memorable tale each time you play.&amp;#10;&amp;#10;Near and Far is a sequel to Above and Below and includes a book of encounters. This time players read over ten game sessions to reach the end of the story. Each chapter is played on a completely new map with unique art and adventures.&amp;#10;&amp;#10;Answer the call of the ruins and begin your journey.&amp;#10;&amp;#10;Errata&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="125">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="70" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="14" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="9" />
+					<result level="5" value="Unplayable in another language" numvotes="3" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62475" value="Components: Book as Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75241" value="Misc: Forteller Audio Narration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39414" value="Setting: World of Arzium" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="236667" value="Near and Far: Amber Mines" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303375" value="Near and Far: Bounty Hunter Character Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="264355" value="Near and Far: Dice Tower Character Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="237908" value="Near and Far: Handy Headwear Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="266922" value="Near and Far: Pandoran Box Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="234361" value="Near And Far: Rodney &amp; Pep Watch It Played Character Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="244304" value="Near and Far: Secret Cabal Character Tiles" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="221007" value="Near and Far: Character Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="267454" value="Near and Far: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="360194" value="Near and Far: Insert Here Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="229082" value="Near and Far: Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="337584" value="Near and Far: Packturtles Meeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271625" value="Near and Far: The Game Doctors Insert" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="172818" value="Above and Below" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="332032" value="Cestou necestou" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11854" value="Ryan Laukat" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11854" value="Ryan Laukat" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18617" value="Red Raven Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24844" value="Schwerkraft-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9817" />
+			<average value="7.70337" />
+			<bayesaverage value="7.3054" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="199" bayesaverage="7.3054" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="47" bayesaverage="7.41616" />
+												</ranks>
+
+			<stddev value="1.33726" />
+			<median value="0" />
+			<owned value="20505" />
+			<trading value="411" />
+			<wanting value="765" />
+			<wishing value="6085" />
+			<numcomments value="1938" />
+			<numweights value="193" />
+			<averageweight value="2.886" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

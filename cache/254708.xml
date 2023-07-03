@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="254708">
+         <thumbnail>https://cf.geekdo-images.com/EDhzPbYK22USJ_zMEOCdSQ__thumb/img/sj5RMAFnmKvauh9rlPkqF-iHBqc=/fit-in/200x150/filters:strip_icc()/pic5153482.png</thumbnail>
+      <image>https://cf.geekdo-images.com/EDhzPbYK22USJ_zMEOCdSQ__original/img/2s0C52ekOIZ05uEawgC0obXvpxc=/0x0/filters:format(png)/pic5153482.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Roll Player Adventures" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Roll Player Adventures: Приключения в Улосе" />
+			    				
+				<name type="alternate" sortindex="1" value="骰谜奇境" />
+			    				
+				<name type="alternate" sortindex="1" value="롤 플레이어 어드벤처" />
+			
+						               													<description>Your Roll Player characters have been called to adventure! In Monsters &amp;amp; Minions, you went to war against Dragul invaders. In Fiends &amp;amp; Familiars, you befriended wild beasts and dispelled cruel spirits. Now your fully formed, battle-hardened heroes must defend the kingdom of Nalos and uncover a mystery that lies at the heart of the Abandoned Lands.&amp;#10;&amp;#10;Navigate your missions with care. It's up to you who to befriend and who to battle. Will you slay the giant troll or attempt to make peace? Will you do the vampire's bidding or defend the mysterious cultists he wants to destroy? Will you remain loyal to king and country &amp;mdash; or side with the enemies of Nalos? Whatever choices you make, someone will remember and respond.&amp;#10;&amp;#10;Roll Player Adventures is a co-operative storybook board game for 1-4 players set in the World of Ulos. Players take the role of fantasy heroes, face challenges, and make decisions that will change the story as they progress through eleven core adventures and a replayable side quest.&amp;#10;&amp;#10;Adventures does not require the Roll Player base game or any of its expansions to play. Pick from one of thirty-six pre-generated characters, or import a favorite Roll Player character you created (including any expansion or promo content) and take them on a heroic journey.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="40">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+	</poll> 			               				<playingtime value="150" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="150" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2851" value="Narrative Choice / Paragraph" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2027" value="Storytelling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52722" value="Setting: World of Ulos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62475" value="Components: Book as Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68438" value="Creatures: Demons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24281" value="Mechanism: Campaign Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372105" value="Roll Player Adventures: Gulpax's Secret" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312235" value="Roll Player Adventures: Nefras's Judgement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="169426" value="Roll Player" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62238" value="Keith Matejka" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="77913" value="James William Ryan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="110445" value="Peter Andrew Ryan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29142" value="JJ Ariosa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="123537" value="Veronika Fedorova" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38179" value="Damien Mammoliti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114839" value="Rainer Petter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="90807" value="Lucas Ribeiro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50005" value="ShenFei" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26107" value="Thunderworks Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1408" />
+			<average value="8.25729" />
+			<bayesaverage value="6.58887" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="995" bayesaverage="6.58887" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="130" bayesaverage="7.05389" />
+												</ranks>
+
+			<stddev value="1.40448" />
+			<median value="0" />
+			<owned value="3962" />
+			<trading value="36" />
+			<wanting value="363" />
+			<wishing value="2448" />
+			<numcomments value="400" />
+			<numweights value="47" />
+			<averageweight value="2.3404" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

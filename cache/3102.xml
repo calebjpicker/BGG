@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3102">
+         <thumbnail>https://cf.geekdo-images.com/HIlRwraM0okN0nnRw1llaw__thumb/img/pC09hfB5KlOhl4S5CTVomEA2dhc=/fit-in/200x150/filters:strip_icc()/pic6433327.png</thumbnail>
+      <image>https://cf.geekdo-images.com/HIlRwraM0okN0nnRw1llaw__original/img/20rCQHEv6tRWsdaFtPhnNVy28qA=/0x0/filters:format(png)/pic6433327.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Banque Fatale" />
+			
+						                           
+						               													<description>In Banque Fatale, players bid with colored chips for cards (called Card Fatales) which show an Ace or Aces in the 5 colors. The value of the colors start at 6 million and rise and fall according to the total chips played. So if 2+ Blue chips are bid, Blue rises by 2 million. But if only one Blue chip was bid, Blue falls by 1 million and if no Blue chips were bid, Blue falls by 2 million. If a color reaches 11 or 12, there is a pay-out for each Ace of that color you own, 5 or 6 million, and it is reset to 6 million.&amp;#10;&amp;#10;Then the bid chips are taken back one by one, starting with the player to the left of the auction winner. So if you didn't bid at all, you'll be taking chips from high bidders.&amp;#10;&amp;#10;Finally, then the starting player can sell a Card Fatale to the bank at its value or values (not one that has just increased). The player clockwise to the starting player is now the starting player. When the deck of 16 cards runs out, cards held are cashed out, chips still held are worth 1 million each (variant suggests they are worth nil) and the most cash wins.&amp;#10;&amp;#10;It isn't clear if players should hide the cards they own, or if it should be an open knowledge game, which would greatly affect the dynamic. An amusing mechanism that draws you to brinkmanship.&amp;#10;&amp;#10;Simple and smart, you'd reckon this was a Knizia game, but it's not!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="3" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2013" value="Commodity Speculation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="13" value="Stefan Dorra" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="57084" value="Silke Bachmann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="33307" value="Torsten Schöps" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="73" value="Blatz" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="94" />
+			<average value="5.94043" />
+			<bayesaverage value="5.51878" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16254" bayesaverage="5.51878" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="2597" bayesaverage="5.52712" />
+												</ranks>
+
+			<stddev value="1.25113" />
+			<median value="0" />
+			<owned value="144" />
+			<trading value="12" />
+			<wanting value="3" />
+			<wishing value="9" />
+			<numcomments value="29" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

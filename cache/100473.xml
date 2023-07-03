@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="100473">
+         <thumbnail>https://cf.geekdo-images.com/cYXC6oI_dtQRqUKXSA7UEQ__thumb/img/0nt4bsnH4EY_9W_o6i59Syy3Ls0=/fit-in/200x150/filters:strip_icc()/pic1017019.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cYXC6oI_dtQRqUKXSA7UEQ__original/img/_9UGGZtk3UGxHTTAMBY864GRxmc=/0x0/filters:format(jpeg)/pic1017019.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="String Railway: Transport" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ひも電 輸送編" />
+			
+						               													<description>String Railway: Transport is a follow-up game to String Railway, a train game in which the play area is created by placing varying lengths of colored string representing different types of terrain. The board is initially seeded with all the stations (unlike in String Railway) placed randomly inside the boundary string and filled with two goods cubes.&amp;#10;&amp;#10;Each turn, players must place one string that connects stations. Then players have a number of action points to use. Players start with a 3 AP locomotive, and can upgrade to better locomotives that provide up to 6 AP per turn. Action points are used to moving goods cubes (1 AP to move from station to station). If a cube reaches a station of the same colour as the cube itself, the cube is then scored.&amp;#10;&amp;#10;White cubes are special long distance cubes. Players have mission cards that show three stations in particular order. In order to fulfill the mission, the player must move a long-distance cube through the stations in right order. The reward depends on how many stations player moves the cube through. Unfulfilled mission is worth -2. Moving the cube through one station gets rid of the penalty. Two stations gets rid of the penalty and gives the player the white cube, which is scored as a wild cube. Three stations scores 5 points on top of that.&amp;#10;&amp;#10;After five rounds, the cubes are scored. Each set of five cubes of different colours is worth 15 points, 4-cube sets are 10 points, 3-cube sets are 6 points, 2-cube sets are 3 points and remaining single cube sets give 1 point each. White wild cubes can be very useful at this point. Unfulfilled missions are -2 points, while perfectly fulfilled missions are +5 points.&amp;#10;&amp;#10;In addition of moving cubes, action points can be used for upgrading locomotives and replenishing goods cubes. Collected goods cubes can be discarded to gain AP. Players can also draw new mission cards and each player has a personal station they can place on board at some point in game.&amp;#10;&amp;#10;String Railway: Transport, with a playing time of approx. 15 minutes per player, differs from the original game by adding cargo delivery and removing the values of stations. Transport is an individual game, not an expansion. The games are not compatible: you can't play String Railway with the components of Transport (the stations are different and there's no river).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="2" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11331" value="Components: String" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="391720" value="The String Railway Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39436" value="Hisashi Hayashi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39437" value="Ryo Nyamo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14104" value="OKAZU Brand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5885" value="Japon Brand" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="136" />
+			<average value="6.8136" />
+			<bayesaverage value="5.58712" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8594" bayesaverage="5.58712" />
+												</ranks>
+
+			<stddev value="1.27793" />
+			<median value="0" />
+			<owned value="198" />
+			<trading value="8" />
+			<wanting value="42" />
+			<wishing value="86" />
+			<numcomments value="46" />
+			<numweights value="12" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="330593">
+         <thumbnail>https://cf.geekdo-images.com/2YfGKSQI-xDIGnYBjdIYZw__thumb/img/Wl5rxVDSRhFQLIFgmSmyriNqtgM=/fit-in/200x150/filters:strip_icc()/pic5962586.png</thumbnail>
+      <image>https://cf.geekdo-images.com/2YfGKSQI-xDIGnYBjdIYZw__original/img/B_ZrxJYZOTMyEHKYil_1tSSSqa0=/0x0/filters:format(png)/pic5962586.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Go for Gold" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Goudzoekers" />
+			
+						               													<description>In Go for Gold, you and others explore an island with temples and treasures, attempting to grab more loot for yourself than anyone else can.&amp;#10;&amp;#10;To set up, each player takes their own double-sided player sheet, making sure that everyone is using the same side. The sheet shows an island of hexes, with various spaces displaying shovels, footprints, treasures, and five colors of temples. Each player starts the game in a different harbor space on the island's perimeter.&amp;#10;&amp;#10;On a turn, the active player rolls a die, then each player moves that many spaces in a contiguous line, marking each space as you go. You can't re-enter spaces you've visited previously. If you pass through or land on shovels or footprints, you circle those icons on your player sheet. By crossing off a footprint, you can ignore the die and move 1-6 spaces.&amp;#10;&amp;#10;If you end your movement on a treasure, roll the die, and if the die result equals or exceeds the treasure value (4-6), you collect these points in one of your six scoring spaces. For each shovel you cross off, you can add 1 to the result of the die.&amp;#10;&amp;#10;If you end your movement on a temple, roll the die; if you have at least as many shovels as the number rolled, you score 9 points, and if you don't, you lose 1 point. If you succeed in exploring a temple, all other players mark it out since you've looted that location.&amp;#10;&amp;#10;As soon as a player has filled their six scoring spaces or no one can score any more points, the game ends, and whoever has the highest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60027" value="Series: MINNYS (Nürnberger-Spielkarten-Verlag)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75022" value="Series: Nature Line (Nürnberger-Spielkarten-Verlag)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="133853" value="Kaddy Arendt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11781" value="Steffen Benndorf" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17414" value="Christian Opperer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="66" />
+			<average value="5.98561" />
+			<bayesaverage value="5.51356" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="17461" bayesaverage="5.51356" />
+												</ranks>
+
+			<stddev value="1.60416" />
+			<median value="0" />
+			<owned value="223" />
+			<trading value="5" />
+			<wanting value="4" />
+			<wishing value="22" />
+			<numcomments value="18" />
+			<numweights value="4" />
+			<averageweight value="1.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

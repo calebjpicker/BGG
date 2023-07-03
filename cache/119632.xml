@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="119632">
+         <thumbnail>https://cf.geekdo-images.com/CKh-OlKYubIAq7SbOmkd8A__thumb/img/hwPx3K4b07M4VgPTuqG0FGMoHoo=/fit-in/200x150/filters:strip_icc()/pic1337203.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/CKh-OlKYubIAq7SbOmkd8A__original/img/u3aGj4nVLurQ6F2-ePkh462xvFY=/0x0/filters:format(jpeg)/pic1337203.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="IOTA" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="IOTA: The great big game in the teeny-weeny box" />
+			    				
+				<name type="alternate" sortindex="1" value="Kwatro" />
+			    				
+				<name type="alternate" sortindex="1" value="Ётта" />
+			    				
+				<name type="alternate" sortindex="1" value="아이오타" />
+			
+						               													<description>IOTA is a card game in which players score points by adding cards to a grid. The deck consists of 64 regular cards and two wild cards; each of the 64 cards contains three properties &amp;ndash; color, shape and number &amp;ndash; with each property coming in four different types. The two wild cards are identical and can be played in place of any other specific single card. They can also be recycled by a player who can replace a wild card with a card that works in that position.&amp;#10;&amp;#10;To set up the game, each player is dealt a hand of four cards and one card &amp;ndash; the &amp;quot;starter&amp;quot; &amp;ndash; is placed face-up on the table. The remaining cards form a draw deck.&amp;#10;&amp;#10;On a turn you can add 1-4 cards connected to the grid established by the starter card. All cards must be placed in the same line. A line consists of 2, 3 or 4 cards in a row in which each individual property (color, shape and number) is either the same on each card or different on each card. You can also choose to pass and place some, none or all of your cards on the bottom of the draw pile and take new ones.&amp;#10;&amp;#10;Maximum line length is four cards. Cards needn't be placed right next to each other as long as they are in the same line, and some spaces on the grid will be impossible to fill.&amp;#10;&amp;#10;To score a turn, add up the face values of cards in lines either created or extended on that turn. If any of those cards are part of two lines, they're counted twice. If on a turn a player completes a line that is four cards long, all points for the entire turn are doubled. Double again for any additional four card lines created. Double again if you play all four cards on a single turn. A four-card line is called a lot.&amp;#10;&amp;#10;The game ends when the draw pile is depleted and one player plays his last card. Double points for that turn. The game is over. High score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="161" value="No necessary in-game text" numvotes="7" />
+					<result level="162" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="163" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="164" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="165" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6485" value="Misc: Mensa Select" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75973" value="Series: Game Factory Metal Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19431" value="Series: Match the most and win! (Scala leuker leren)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79256" value="Series: Mini Tins (Game Factory)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="59909" value="Gene Mackles" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="59909" value="Gene Mackles" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18856" value="AURUM, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="108" value="Gamewright" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1724" />
+			<average value="6.1638" />
+			<bayesaverage value="5.78542" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4306" bayesaverage="5.78542" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="327" bayesaverage="5.89327" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1344" bayesaverage="5.83031" />
+												</ranks>
+
+			<stddev value="1.43254" />
+			<median value="0" />
+			<owned value="4993" />
+			<trading value="135" />
+			<wanting value="18" />
+			<wishing value="179" />
+			<numcomments value="433" />
+			<numweights value="73" />
+			<averageweight value="1.8904" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

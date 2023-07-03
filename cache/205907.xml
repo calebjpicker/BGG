@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="205907">
+         <thumbnail>https://cf.geekdo-images.com/ftqqZpQxqtEo_FmSue8yCw__thumb/img/L_QfZQiPnjgFoXXfHVJF5RBQH0Y=/fit-in/200x150/filters:strip_icc()/pic3476939.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ftqqZpQxqtEo_FmSue8yCw__original/img/lH8PIFeaCdjZEegPAKddIt51dnw=/0x0/filters:format(jpeg)/pic3476939.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Runewars Miniatures Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="RuneWars Miniatures Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Runewars: El juego de miniaturas" />
+			    				
+				<name type="alternate" sortindex="1" value="Runewars: le jeu de figurines" />
+			    				
+				<name type="alternate" sortindex="1" value="Runewars: Miniaturenspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Runewars: Miniatures Game" />
+			    				
+				<name type="alternate" sortindex="1" value="RuneWars: Miniatures Game" />
+			
+						               													<description>For years, the armies of Waiqar the Undying have stayed within their borders, launching only minor raids across the border. But now, a nameless threat stirs within the Mistlands, and legions of undead cross into the realm of Terrinoth under Waiqar&amp;rsquo;s command! The Daqan Lords have sounded the call to war, and their finest generals lead armies of warriors and golems to take up defensive positions in the border territory of Roth&amp;rsquo;s Vale. The first battles of the next great war are about to begin.&amp;#10;&amp;#10;Runewars: Miniatures Game is a two-player miniatures game of battles between the great powers of Terrinoth. In each game, you and your opponent will gather armies of miniatures and lead them into battle&amp;mdash;blocks of infantry will maneuver for position, cavalry wings will wheel and slam into a weakened flank, and monstrous rune golems or carrion lancers will smash through formations of lesser warriors. Innovative command tools, two distinct factions, and countless ways to customize your experience combine to offer an unparalleled miniatures gaming experience in RuneWars. Finally, with forty-eight beautifully sculpted, unpainted figures, you&amp;rsquo;ll be able to paint and customize your armies to bring an entirely unique touch to your games and enter the hobby of miniatures painting!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;See also Realms of Terrinoth&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="661" value="No necessary in-game text" numvotes="0" />
+					<result level="662" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="663" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="664" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="665" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2963" value="Movement Template" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226890" value="Runewars Miniatures Game: Ankaur Maro – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227889" value="Runewars Miniatures Game: Aymhelin Scions – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258724" value="Runewars Miniatures Game: Baron Zachareth – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258657" value="Runewars Miniatures Game: Beastmaster Th'Uk Tar – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235588" value="Runewars Miniatures Game: Berserkers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226889" value="Runewars Miniatures Game: Carrion Lancers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225781" value="Runewars Miniatures Game: Daqan Infantry Command – Unit Upgrade Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235584" value="Runewars Miniatures Game: Darnati Warriors – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227892" value="Runewars Miniatures Game: Death Knights – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227885" value="Runewars Miniatures Game: Deepwood Archers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225578" value="Runewars Miniatures Game: Essentials Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235586" value="Runewars Miniatures Game: Flesh Rippers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227891" value="Runewars Miniatures Game: Heavy Crossbowmen – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235589" value="Runewars Miniatures Game: Kethra A'laak – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227883" value="Runewars Miniatures Game: Latari Elves Infantry Command – Unit Upgrade Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225579" value="Runewars Miniatures Game: Latari Elves – Army Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227887" value="Runewars Miniatures Game: Leonx Riders – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226886" value="Runewars Miniatures Game: Lord Hawthorne – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258722" value="Runewars Miniatures Game: Lord Vorun'thul – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="227890" value="Runewars Miniatures Game: Maegan Cyndewin – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225600" value="Runewars Miniatures Game: Oathsworn Cavalry – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258663" value="Runewars Miniatures Game: Obscenes – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235587" value="Runewars Miniatures Game: Outland Scouts – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258658" value="Runewars Miniatures Game: Prince Faolan – Hero Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225782" value="Runewars Miniatures Game: Reanimate Archers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226893" value="Runewars Miniatures Game: Reanimates – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226885" value="Runewars Miniatures Game: Rune Golems – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226887" value="Runewars Miniatures Game: Spearmen – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235590" value="Runewars Miniatures Game: Spined Threshers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235101" value="Runewars Miniatures Game: Uthuk Y'llan Army Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="236447" value="Runewars Miniatures Game: Uthuk Y'llan Infantry Command Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258661" value="Runewars Miniatures Game: Ventala Skirmishers – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="258662" value="Runewars Miniatures Game: Viper Legion – Unit Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225783" value="Runewars Miniatures Game: Waiqar Infantry Command – Unit Upgrade Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235585" value="Runewars Miniatures Game: Wraiths – Unit Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="226919" value="Runewars Miniatures Game: Dice Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308955" value="Runewars: Miniature Game – Acrylic Objective Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308962" value="Runewars: Miniature Game – Ankaur Maro Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308957" value="Runewars: Miniature Game – Meeting Engagement Deployment Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308958" value="Runewars: Miniature Game – Mists of War Deployment Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308959" value="Runewars: Miniature Game – Oblique Formation Deployment Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308960" value="Runewars: Miniature Game – Seize the Artifacts Objective Alternate Art Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308961" value="Runewars: Miniature Game – The Mists of War Objective Alternate Art Promo Card" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94053" value="Andrew Fischer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24858" value="Henning Ludvigsen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="642" />
+			<average value="7.56763" />
+			<bayesaverage value="5.92068" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3222" bayesaverage="5.92068" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="520" bayesaverage="6.47018" />
+												</ranks>
+
+			<stddev value="1.7662" />
+			<median value="0" />
+			<owned value="2026" />
+			<trading value="70" />
+			<wanting value="29" />
+			<wishing value="260" />
+			<numcomments value="168" />
+			<numweights value="17" />
+			<averageweight value="3.0588" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

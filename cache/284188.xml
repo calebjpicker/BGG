@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="284188">
+         <thumbnail>https://cf.geekdo-images.com/gCaaokMZwwyYj6wCnTqzDg__thumb/img/XqJckdsbEBR9LYGeld4ewmE_klM=/fit-in/200x150/filters:strip_icc()/pic4884113.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gCaaokMZwwyYj6wCnTqzDg__original/img/sbTvY9DEwHbwSW5pvwO2wTC_SSA=/0x0/filters:format(jpeg)/pic4884113.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="WAYK" />
+			
+						                           
+						               													<description>Wayk is a 1-2 player abstract strategy game. Players control robots on a sleep ship whose task is to awaken all the passengers on the ship and usher them to escape pods before the ship explodes!&amp;#10;&amp;#10;The winner is the player who earns the most points as described here:&amp;#10;&amp;#10;The modular hex-shaped-tile board sets out a grid of numbered spaces for the robots to travel on. Located at the corners, where 2 or 3 tiles intersect, are triangular sleep chambers. Each player controls two robots which are placed around the outside edge of the board in the beginning of the game.&amp;#10;&amp;#10;Robots must follow 3 rules for movement, with the goal of causing sleep chambers to be removed from the board and matched with one of the numbered escape pod cards which are visible to the side of the board (launch bay). Robots must move (1) to an adjacent hex tile, (2) to a space where a sleep chamber sits, (3) to a space whose value is either one higher or one lower than the value of the space the robot moved from.&amp;#10;&amp;#10;Players take turns moving one of their robots per turn. Removal of a sleep chamber from the board requires 2 steps. When a robot lands on a space where there is a sleep chamber, the chamber will either be lying down (untouched) or standing up (unlocked). &amp;#10;If the sleep chamber is untouched when the robot arrives, it will be pushed out of the space containing the robot and stood up (unlocked). If the sleep chamber is unlocked when the robot arrives, it is pushed out of the space it is in. This push causes the sleep chamber to be removed from the board, assigning to it the number of the space it was pushed to.&amp;#10;&amp;#10;The launch bay contains 18 of the 24 escape pod cards - randomly chosen at the beginning of the game, each with two possible locations to store sleep chambers. Players look to remove chambers from the board that match the numbers of one of 3 available escape pods in the launch bay. If a match is made, the player takes the cards and the sleep chamber to their safe zone and earns 2 points.  If the number of the sleep chamber does not match an available escape pod, but they have an available second space in a pod they have already launched they may place the sleep chamber in this space to earn 1 point.&amp;#10;&amp;#10;One of 3 events will cause the game to end. (1) ALL the sleep chambers are removed from the board. (2) ALL the escape pods have been launched from the launch bay. (3) ONE player (both of their robots) no longer has a legal move.&amp;#10;&amp;#10;When the game ends, players count points to determine the winner. In the case of a tie, players count escape pods.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57916" value="Series: Analog Apps (Fisher Heaton)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="92184" value="David Abelson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92184" value="David Abelson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33006" value="Fisher Heaton Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="8.04167" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.821795" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="4" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

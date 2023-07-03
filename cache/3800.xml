@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3800">
+         <thumbnail>https://cf.geekdo-images.com/qa8d1TPeRQU6LsubFQ_HtQ__thumb/img/JW4ouB_eLrESiHlhJBcrjqqO674=/fit-in/200x150/filters:strip_icc()/pic1205729.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/qa8d1TPeRQU6LsubFQ_HtQ__original/img/f7001LFXi2NZhYAsfLlm2_uoy2U=/0x0/filters:format(jpeg)/pic1205729.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Himalaya" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Marchands d&#039;Empire" />
+			    				
+				<name type="alternate" sortindex="1" value="Merchants of the Empire" />
+			
+						               													<description>As the Chief of a Himalayan high plateau tribe; Dolpo-pa, Bhotia, Sherpa, or Tamang, you lead your yak's caravan from one village to another through snowy crests and risky paths in order to collect the goods necessary to the development of your tribe.&amp;#10;&amp;#10;Meanwhile, you will increase the political, religious and economical influence of your tribe. By collecting goods (salt, barley, tea, jade, and gold), you can make offers to monasteries, send out delegations to different regions or bargain to increase your livestock. All this to become the most prosperous caravaneer in all of the Himalaya!&amp;#10;&amp;#10;Players program their caravans around the paths on the Himalayan plateau to collect various goods, and then deliver them.  Each turn players plan in advance six moves for their caravan, trying to second-guess what other players will do to their best advantage.  Delivering goods allows the player to increase their influence in one of three separate categories - each delivery allows you to advance your position in two of the three categories.  Religious influence is marked by the number and value of your stupas in buildings on the board, political influence is marked by the number of sherpas you have in the regions between the paths on the board, and economical influence is marked by the total number of yaks you have on your delivery disks.&amp;#10;&amp;#10;The scoring is unique to the game, in the 4 player game anyway (the player count the game is primarily designed to be played with).  To determine the winner you first score up religious influence, and the player with the least religious influence is eliminated, and their remaining pieces are removed from the board.  Next the player with the least political influence is eliminated.  The remaining two players decide the winner by who has the greatest economic influence.  This unusual scoring is what makes this game different from many other similar games.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2002" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="17" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9470" value="Continents: Asia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71313" value="Mountain: Himalayas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4534" value="Series: Tilsit Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="21355" value="Himalaya: The 5-6 Player Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="156566" value="Lords of Xidit" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1532" value="Régis Bonnessée" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2886" value="Johann Aumaitre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12692" value="David Cochard" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42" value="Tilsit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2187" />
+			<average value="6.996" />
+			<bayesaverage value="6.29034" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1645" bayesaverage="6.29034" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="846" bayesaverage="6.4249" />
+												</ranks>
+
+			<stddev value="1.24602" />
+			<median value="0" />
+			<owned value="2215" />
+			<trading value="76" />
+			<wanting value="181" />
+			<wishing value="494" />
+			<numcomments value="627" />
+			<numweights value="231" />
+			<averageweight value="2.5714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

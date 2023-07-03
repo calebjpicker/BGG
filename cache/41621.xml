@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="41621">
+         <thumbnail>https://cf.geekdo-images.com/gw9jvdZyX1ZreCWFRf_Nyg__thumb/img/v8ThuNdv4gby62k3ObI2R_3hJAk=/fit-in/200x150/filters:strip_icc()/pic460422.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gw9jvdZyX1ZreCWFRf_Nyg__original/img/2-iApy0x4cmrSpkdRlBCubvVOPw=/0x0/filters:format(jpeg)/pic460422.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Word Rummy" />
+			
+						                           
+						               													<description>A word card game of the post-WW2 era.&amp;#10;&amp;#10;There are two letters on each card, of different colors, in opposite corners.  The 52 cards make 4 complete alphabets: red A-Z paired with blue Z-A, and green paired with black.  Each card also has a rank 1-13 (for A-M and Z-N), and the Morse code for each letter.  Later editions also have 2 Universal wild cards.  The rules describe two games.&amp;#10;&amp;#10;Simple Word Rummy:&amp;#10;&amp;#10;Deal 7 cards per player.  In a turn, a player: draws 1 card from the draw or discard pile; plays one meld from the hand or adds to a meld on the table; and discards one.&amp;#10;&amp;#10;Melds can be 3+ of the same letter; a straight of 3+ letters in a row; or a word of 2+ letters of the same color (unless there are 2+ of the same letter in the word).  Adding to a meld can extend the set or straight, or change its type (straight ABC + S to word CABS), or even flip them to the other color and letters.&amp;#10;&amp;#10;The round ends when a player empties his hand after discarding.  He get the total of the numbers on all cards in hand of all opponents.  Each player with a meld of 5+ cards gets 50 points bonus.  Game is 500 points.&amp;#10;&amp;#10;Siamese Word Rummy:&amp;#10;&amp;#10;With 2 people, deal 7 cards each and 7 cards in a face-up column; with 3-4, 6 each and a column of 6.  In a turn a player draws 1, melds or adds to a meld (or passes), and discards.&amp;#10;&amp;#10;Melds are words only, and must include all the cards in any one row on the table.  Words must be 3+ letters of the same color, unless there are duplicate letters.  The player immediately scores: if a new word, all the cards' points; if a rearranged word, all the cards' points + 25 bonus; if an extended word that preserves the root (plural, past tense, -ING), only the points on the added letters.&amp;#10;&amp;#10;As before, the player who empties his hand gets a bonus of 50 points plus the total of the cards in the others' hands; game is 500 points.&amp;#10;&amp;#10;The earliest version of this game used the Hebrew alphabet, in celebration of the new nation of Israel.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1948" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="2250" value="Traditional Card Games: Rummy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12212" value="Henry Turkel" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9344" value="Educational Cards, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

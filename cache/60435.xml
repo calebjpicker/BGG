@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="60435">
+         <thumbnail>https://cf.geekdo-images.com/IiY5mrUEyvhyZzatny3CGA__thumb/img/i05jFcgwUbiZGLOinqaD2Afg5qI=/fit-in/200x150/filters:strip_icc()/pic1114034.png</thumbnail>
+      <image>https://cf.geekdo-images.com/IiY5mrUEyvhyZzatny3CGA__original/img/WRM9YrVZE6bgRTf3_i0q9f24-f4=/0x0/filters:format(png)/pic1114034.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rallyman" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="rallyman" />
+			    				
+				<name type="alternate" sortindex="1" value="Rallyman 1.144" />
+			    				
+				<name type="alternate" sortindex="1" value="Rallyman: 110 % Rallye" />
+			
+						               													<description>In the racing game Rallyman, before you can start the race, you need to create your rally track by connecting the sides of 1-4 double-sided boards, with one side of each board featuring asphalt and the other side snow.&amp;#10;&amp;#10;The movement system is simple: Each die rolled, you advance one space. So you have five dice for each of the speeds and two of &amp;quot;gas&amp;quot; to continue moving without changing your speed. Each die is playable exactly once each turn. When you stop your movement, you take a card corresponding to the last speed that you started: the higher your speed, the lower your time.&amp;#10;&amp;#10;The track has both straight sections and turns that require a certain speed so that you can pass with different manners (by skidding, sharp turning, ...). You must roll the die because it determines the speed selected, but may show a &amp;quot;!&amp;quot; which will put you in danger. With the third &amp;quot;!&amp;quot; displayed, your car will risk going spinning off the road, resulting in loss of time (1'00&amp;quot; instead of the scheduled time on your card), but sometimes also damage to the vehicle depending on the landscape in which you crash.&amp;#10;&amp;#10;At the end of each round, each player adds his times to his total time. The winner is the player who accumulates the least total time.&amp;#10;&amp;#10;The ability to take risks to scrape off a few seconds or in the management of your tires adds more to the simulation.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2009" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="70">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="35" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="27">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="13" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="31">
+			
+		<results>		
+					<result level="191" value="No necessary in-game text" numvotes="27" />
+					<result level="192" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="193" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="194" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="195" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19528" value="Organizations: Forgenext" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80186" value="Series: Rallyman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6206" value="Sports: Auto Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="104733" value="Rallyman: Dirt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="121576" value="Rallyman: Sisu cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="145913" value="Rallyman 1.144 Cars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="145932" value="Rallyman 1.144 Maps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="145933" value="Rallyman: Micro Rally Cars" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="312959" value="Rallyman: DIRT" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="256589" value="Rallyman: GT" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="31880" value="Jean-Christophe Bouvier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31881" value="Philippe Bouvier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="41603" value="Clovis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12402" value="Stéphane Gantiez" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11082" value="Rallyman" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2488" />
+			<average value="7.19444" />
+			<bayesaverage value="6.42823" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1314" bayesaverage="6.42823" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="267" bayesaverage="6.6745" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="349" bayesaverage="6.54844" />
+												</ranks>
+
+			<stddev value="1.40252" />
+			<median value="0" />
+			<owned value="3124" />
+			<trading value="112" />
+			<wanting value="187" />
+			<wishing value="682" />
+			<numcomments value="674" />
+			<numweights value="210" />
+			<averageweight value="2.1619" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="256338">
+         <thumbnail>https://cf.geekdo-images.com/AbdCtdSNNhehwPtmqT1eLg__thumb/img/kjq-dZD9Ib0VWHPB1EvZxyMZFtc=/fit-in/200x150/filters:strip_icc()/pic4266219.png</thumbnail>
+      <image>https://cf.geekdo-images.com/AbdCtdSNNhehwPtmqT1eLg__original/img/uEfUz6X1Gjj8Q2cKDYngdQO0CYU=/0x0/filters:format(png)/pic4266219.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Entanglion" />
+			
+						                           
+						               													<description>The World&amp;rsquo;s First Open Source Quantum Board Game. Master New Galaxies in Your Quest to Construct a Quantum Computer!&amp;#10;&amp;#10;Welcome to the Quantum Universe, Captain!&amp;#10;&amp;#10;Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it&amp;rsquo;s time to make some upgrades as you embark on a journey to reconstruct a quantum computer developed by an ancient race.&amp;#10;&amp;#10;Entanglion is a cooperative board game designed for two players. Learn about quantum computing as you work together with your teammate to navigate the three galaxies of the quantum universe, avoid detection by the defense mechanisms left behind by the ancients, and rebuild the quantum computer.&amp;#10;&amp;#10;Think you&amp;rsquo;re up for the challenge?&amp;#10;&amp;#10;Goal&amp;#10;Entanglion is a cooperative board game designed for two players. The goal is to reconstruct a quantum computer developed by an ancient race. Work together with your teammate to navigate the three galaxies of the quantum universe &amp;ndash; Centarious, Superious, and Entanglion &amp;ndash; in a quest to collect eight quantum computer components. Be careful to avoid detection by the planetary defense mechanisms guarding the components!&amp;#10;&amp;#10;Game concepts&amp;#10;Entanglion was designed to expose players to several fundamental concepts in quantum computing:&amp;#10;&amp;#10;&amp;#10;     Qubits are the building blocks of quantum computation.&amp;#10;     Superposition is when a quantum system may exist in a probabilistic combination of multiple states at once.&amp;#10;     Entanglement happens when the state of one qubit correlates with the state of another qubit.&amp;#10;     Measurement is the process of observing the classical value of a qubit.&amp;#10;     Error happens when random noise in the quantum system perturbs the measured value of a qubit.&amp;#10;&amp;#10;&amp;#10;Entanglion also exposes players to the different kinds of hardware and software components involved in building a real quantum computer.&amp;#10;&amp;#10;Turn overview&amp;#10;Perform one of the following actions on your turn.&amp;#10;&amp;#10;&amp;#10;     Navigate. Play one engine card in engine control to navigate around the galaxy, and draw a replacement. You may only play engine cards for your own ship.&amp;#10;     Exchange. Discard one engine card from your hand and draw a replacement..&amp;#10;     Retrieve. Roll the Entanglion die to attempt to retrieve a quantum component if one is present.&amp;#10;     Event. Play an event card from your hand (if you possess one).&amp;#10;&amp;#10;&amp;#10;Players may not pass their turns, they must perform one of the actions above.&amp;#10;&amp;#10;Detection rate&amp;#10;The detection rate determines the difficulty of successfully evading planetary defenses. The detection rate token is used to keep track of the current detection rate. When a player&amp;rsquo;s spaceship has been detected by orbital defenses, or a player&amp;rsquo;s away team has been detected by ground defenses, the detection rate is increased, making it easier for each planet&amp;rsquo;s defenses to detect the player in the future. The game ends when the detection rate reaches the final level (designated with an X).&amp;#10;&amp;#10;Orbital defenses&amp;#10;Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.&amp;#10;&amp;#10;Game end&amp;#10;Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="71" value="No necessary in-game text" numvotes="0" />
+					<result level="72" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="73" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="74" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="75" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="110629" value="Maryam Ashoori" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="110630" value="Justin D. Weisz" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110631" value="Aaron Cox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110632" value="Michael L. Kenney" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="6.375" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.49061" />
+			<median value="0" />
+			<owned value="38" />
+			<trading value="2" />
+			<wanting value="2" />
+			<wishing value="21" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

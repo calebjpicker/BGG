@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2399">
+         <thumbnail>https://cf.geekdo-images.com/2gkFXJFYi6RAqkSSmrea5g__thumb/img/Gk0QB9iJ9iGbAhvYT86V14vcCBI=/fit-in/200x150/filters:strip_icc()/pic5722209.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2gkFXJFYi6RAqkSSmrea5g__original/img/ZvfDLA5rIBSCjTmxum3oRi3LLBA=/0x0/filters:format(jpeg)/pic5722209.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Senet" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="30 Squares" />
+			    				
+				<name type="alternate" sortindex="1" value="30 Stufen" />
+			    				
+				<name type="alternate" sortindex="5" value="Die 30 Stufen" />
+			    				
+				<name type="alternate" sortindex="5" value="The Ancient Game of Senet" />
+			    				
+				<name type="alternate" sortindex="1" value="Faraón" />
+			    				
+				<name type="alternate" sortindex="1" value="JAM!" />
+			    				
+				<name type="alternate" sortindex="1" value="King Tut&#039;s Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Passing Through The Netherworld" />
+			    				
+				<name type="alternate" sortindex="1" value="Sechet-Senet" />
+			    				
+				<name type="alternate" sortindex="1" value="Senat" />
+			    				
+				<name type="alternate" sortindex="1" value="Seneto" />
+			    				
+				<name type="alternate" sortindex="1" value="Szenet" />
+			    				
+				<name type="alternate" sortindex="1" value="Сенет" />
+			    				
+				<name type="alternate" sortindex="1" value="세네트" />
+			
+						               													<description>Senet is an ancient Egyptian board game similar to backgammon.  Each player has 5 pawns which travel around a 3 by 10 board in an S shaped path.  Movement is dictated by the throw of 4 sticks (black on one side and white on the other) which can produce a 1,2,3,4, or 6, (5 is not possible) depending on how they land..  As in backgammon, the objective is to bear all of one's pawns off first.  A couple of interesting differences is that there are safe and trap spaces on the board.  Also, players may block each others' progress as in Parchisi.  Senet sets are usually constructed from various woods and are often quite beautiful.  Senet is one of the oldest boardgames but unfortunately it fell out of use for a few thousand years and no ancient rules set has been discovered.  Undoubtably another tragic loss resulting from the Library of Alexandria burning to the ground.  As a result scholars has made several educated guesses as to the rules.  The most popular versions are in the files section.&amp;#10;&amp;#10;It may be a relative of Aseb and The Royal Game of Ur.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="-3500" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="6" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1115" value="Religious" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72535" value="Ancient: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27383" value="Continents: Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6471" value="Country: Egypt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70711" value="Digital Implementations: Triqqy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61938" value="Historical Figures: King Tutankhamun (King Tut)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4023" value="Traditional Games: Backgammon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="143036" value="Senet Cardgame" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="173264" value="Senet-modern" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="352837" value="AGON: 24 táblajáték a nagyvilágból" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="16717" value="Ancient Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="7159" value="The Boardgame Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="317608" value="Gamebook: An Interactive Book of Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="328628" value="Senet e Tablan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="337075" value="The Ur Variations" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64922" value="Johan Andreasson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="128192" value="Elizabeth Carpenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7628" value="David McCord" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="79195" value="Helen Ward" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1017" value="ABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="553" value="Cadaco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7639" value="Candlewick Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="586" value="Copp Clark Publishing Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="384" value="HABA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24576" value="Hawthorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50685" value="HistoryGames.it" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8905" value="Joen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47478" value="Jogos da Terra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8245" value="Juegos Crone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2587" value="The Kirk Game Company Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39371" value="Krealudik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21868" value="Libourne Design, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24407" value="LuduScience" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45970" value="Mazeology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49370" value="Moritz Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5915" value="NewVenture Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7458" value="Northwest Corner, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2432" value="Origem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28856" value="PICO PAO / Juegos de la Antigüedad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49933" value="Professor Puzzle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39709" value="Rationella Media" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4277" value="Recycled Paper Products, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4632" value="ROMBOL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9014" value="Senet Belgium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45757" value="Sprea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7506" value="Wood Expressions" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="792" />
+			<average value="5.82671" />
+			<bayesaverage value="5.56712" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9780" bayesaverage="5.56712" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="882" bayesaverage="5.56175" />
+												</ranks>
+
+			<stddev value="1.6725" />
+			<median value="0" />
+			<owned value="1560" />
+			<trading value="38" />
+			<wanting value="22" />
+			<wishing value="154" />
+			<numcomments value="356" />
+			<numweights value="67" />
+			<averageweight value="1.4627" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

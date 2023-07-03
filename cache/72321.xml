@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="72321">
+         <thumbnail>https://cf.geekdo-images.com/3Mjt1-JxuXV_hamkypi0mw__thumb/img/5KiCIZrcPJ6AkX9FJb0E2RGxM3Y=/fit-in/200x150/filters:strip_icc()/pic2896170.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/3Mjt1-JxuXV_hamkypi0mw__original/img/l5aY9TSIwKeclKKziKB4FrTQewk=/0x0/filters:format(jpeg)/pic2896170.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Networks" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="王牌电视台" />
+			
+						               													<description>In The Networks, you and your opponents are new television networks, and you need new programming. For this, you&amp;rsquo;ll need Shows, Stars, and Ads.&amp;#10;&amp;#10;Shows need Stars and Ads. Stars give you bonus viewers (points), and Ads give you extra money. You&amp;rsquo;ll need everything you can get; you'll have a small amount of resources and time, and you must grab the latest hot show before your opponents.&amp;#10;&amp;#10;And some Stars will give their best effort only if you put them on in the proper conditions. For example, some Stars only want to be put on dramas. Other Stars want to be the only Star on the show. And your Ads will give you the most money only if you put them on in the correct time slot.&amp;#10;&amp;#10;Finally, Shows age and viewers lose interest, so you have to keep your line-up fresh by canceling shows and sending them into reruns. Fortunately, you can get viewers from your reruns, and you'll get bonuses if you get a lot of shows of the same genre throughout the game.&amp;#10;&amp;#10;If you need a special push, Network Cards can give you special powers &amp;mdash; but will a Network Card be better than another action? You'll have to make that call.&amp;#10;&amp;#10;The player with the most viewers after five seasons wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="69">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43551" value="Game: The Networks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65327" value="Theme: Television (TV) Industry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="226711" value="The Networks: Executives" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254882" value="The Networks: More Executives" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="194003" value="The Networks: On the Air" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="246529" value="The Networks: Telly Time" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="308052" value="The Networks: Fancy Bits" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="292489" value="The Rival Networks" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11479" value="Gil Hova" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60219" value="Travis Kinchy" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28847" value="Formal Ferret Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6267" />
+			<average value="7.16337" />
+			<bayesaverage value="6.75861" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="732" bayesaverage="6.75861" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="456" bayesaverage="6.83637" />
+												</ranks>
+
+			<stddev value="1.18374" />
+			<median value="0" />
+			<owned value="9764" />
+			<trading value="275" />
+			<wanting value="425" />
+			<wishing value="2170" />
+			<numcomments value="1337" />
+			<numweights value="121" />
+			<averageweight value="2.5868" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="179303">
+         <thumbnail>https://cf.geekdo-images.com/4hMJj9ye5BH4bTHEtOBl2w__thumb/img/I83OtJ1j8z1a4GP3nL3gZGIP-M0=/fit-in/200x150/filters:strip_icc()/pic2554954.png</thumbnail>
+      <image>https://cf.geekdo-images.com/4hMJj9ye5BH4bTHEtOBl2w__original/img/1PNatUG-o5uVGISFUe2jFLxcMjU=/0x0/filters:format(png)/pic2554954.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cthulhu Realms" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cthulhu światy" />
+			    				
+				<name type="alternate" sortindex="1" value="Миры Ктулху" />
+			    				
+				<name type="alternate" sortindex="1" value="クトゥルフ　レアルムズ" />
+			
+						               													<description>In Cthulhu Realms, each player tries to reduce their opponents to insanity or have more sanity than their opponents when the deck runs out.&amp;#10;&amp;#10;Each player starts the game with a small deck comprised of initiates, goons and followers. Five cards from the deck form a row of available cards on the table; with more than two players, place three available cards between each pair of players.&amp;#10;&amp;#10;Each turn, you start with five cards in hand, playing those cards in order to put locations into play, boost your own sanity or reduce that of others, collect conjuring power to acquire new cards, and remove cards from the game. You can use the power of your locations once each turn. At the end of your turn, discard any cards still in hand and all entities and artifacts that you played.&amp;#10;&amp;#10;If you lose all of your sanity, you're out of the game. If you're the only one at the table who's still sane, you win. Otherwise, the game ends when the deck runs out and whoever has the most sanity wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="48">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="38" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="45" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="136" value="No necessary in-game text" numvotes="8" />
+					<result level="137" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="138" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="139" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="140" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5141" value="Theme: Cthulhu Mythos" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147020" value="Star Realms" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4059" value="Darwin Kastle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="31475" value="Thomas Deeny" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="67288" value="Rob Lundy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12199" value="Adam P. McIver" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29087" value="ADC Blackfire Entertainment GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30383" value="Baldar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27654" value="Pendragon Game Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3171" />
+			<average value="6.69255" />
+			<bayesaverage value="6.20711" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1902" bayesaverage="6.20711" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1048" bayesaverage="6.26049" />
+												</ranks>
+
+			<stddev value="1.38777" />
+			<median value="0" />
+			<owned value="5374" />
+			<trading value="212" />
+			<wanting value="45" />
+			<wishing value="375" />
+			<numcomments value="653" />
+			<numweights value="92" />
+			<averageweight value="2.087" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

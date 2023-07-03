@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="314748">
+         <thumbnail>https://cf.geekdo-images.com/txM-L7-aie4O_DcYi6201g__thumb/img/PvZ-5vahcWhvuO_Mqe0VIC1tEFU=/fit-in/200x150/filters:strip_icc()/pic5579732.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/txM-L7-aie4O_DcYi6201g__original/img/LXOen99cMRXCTfR-fb8yFuG5sH0=/0x0/filters:format(jpeg)/pic5579732.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Episode IV" />
+			
+						                           
+						               													<description>In Episode IV, players are trying to create two poker hands, and the player with the most valuable hands will be the winner.&amp;#10;&amp;#10;The game uses two decks of cards.  One is referred to as the &amp;quot;Normal&amp;quot; cards, and consists of ranks 1 through 10 in each of 4 suits.  The other is referred to as the &amp;quot;Randolph&amp;quot; deck, in an allusion to the designer Alex Randolph, as they are acquired through the mechanism popularized in Hol's der Geier.  The &amp;quot;Randolph&amp;quot; cards may have more than one possible color and/or rank.&amp;#10;&amp;#10;The game consists of 4 phases, and each player will have ten cards in their hand at the beginning and end of each phase.&amp;#10;&amp;#10;In the first phase, the players are dealt 10 cards each from the Normal deck, and will draft cards until they have one card of each rank in their hand.&amp;#10;&amp;#10;In the second phase, the players will reveal a certain number of Randolph cards face up and have an auction for them using the Hol's der Geier mechanism.  For players who have their bid cancelled, they will return their Normal card to their hand at the end of the round.  Otherwise, players will enter the next round with any Normal cards they did not bid, and any Randolph cards they won.&amp;#10;&amp;#10;In the third phase, a trick-taking round occurs, which is must follow and does not have a trump suit.  The winner of a trick distributes the cards from the trick to the players as they choose, with each player getting 1 card.&amp;#10;&amp;#10;In the fourth phase, the players make two face down rows of 5 cards with the cards they obtained in the trick-taking phase.  Each row is revealed simultaneously and awarded a given number of points based upon poker hand type conditions.  There are a few exceptions in cases where only one player scores, or only one player does not score.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2920" value="Auction: Sealed Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="128692" value="Tatsuaki Suzuki (スズキ タツアキ)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="128743" value="Oguro (オグロ)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46160" value="DragonShoten (ドラゴン商店)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="4" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

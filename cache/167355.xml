@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167355">
+         <thumbnail>https://cf.geekdo-images.com/tAqLpWxQ0Oo3GaPP3MER1g__thumb/img/sMIg7_b5ekS1xm6cBIoMFpH0MZs=/fit-in/200x150/filters:strip_icc()/pic5073276.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tAqLpWxQ0Oo3GaPP3MER1g__original/img/sA6r1p6BO_Tgyc3-xgIESC9Y-vg=/0x0/filters:format(jpeg)/pic5073276.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nemesis" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Немезида" />
+			    				
+				<name type="alternate" sortindex="1" value="ネメシス" />
+			    				
+				<name type="alternate" sortindex="1" value="復仇女神號" />
+			    				
+				<name type="alternate" sortindex="1" value="네메시스" />
+			
+						               													<description>Playing Nemesis will take you into the heart of sci-fi survival horror in all its terror. A soldier fires blindly down a corridor, trying to stop the alien advance. A scientist races to find a solution in his makeshift lab. A traitor steals the last escape pod in the very last moment. Intruders you meet on the ship are not only reacting to the noise you make but also evolve as the time goes by. The longer the game takes, the stronger they become. During the game, you control one of the crew members with a unique set of skills, personal deck of cards, and individual starting equipment. These heroes cover all your basic SF horror needs. For example, the scientist is great with computers and research, but will have a hard time in combat. The soldier, on the other hand...&amp;#10;&amp;#10;Nemesis is a semi-cooperative game in which you and your crewmates must survive on a ship infested with hostile organisms. To win the game, you have to complete one of the two objectives dealt to you at the start of the game and get back to Earth in one piece. You will find many obstacles on your way: swarms of Intruders (the name given to the alien organisms by the ship AI), the poor physical condition of the ship, agendas held by your fellow players, and sometimes just cruel fate.&amp;#10;&amp;#10;The gameplay of Nemesis is designed to be full of climactic moments which, hopefully, you will find rewarding even when your best plans are ruined and your character meets a terrible fate.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="623">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="288" />
+					<result value="Not Recommended" numvotes="156" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="324" />
+					<result value="Not Recommended" numvotes="119" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="120" />
+					<result value="Recommended" numvotes="343" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="344" />
+					<result value="Recommended" numvotes="186" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="272" />
+					<result value="Recommended" numvotes="173" />
+					<result value="Not Recommended" numvotes="55" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="320" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="180" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="109">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="17" />
+					<result value="12" numvotes="31" />
+					<result value="14" numvotes="38" />
+					<result value="16" numvotes="15" />
+					<result value="18" numvotes="4" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="29">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="21" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+					<result level="45" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2837" value="Interrupts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65328" value="Components: Dice with Icons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77267" value="Crowdfunding: Modian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57925" value="Game: Nemesis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78545" value="Misc: Eastar Game Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="295927" value="Nemesis: Achievement Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318351" value="Nemesis: Aftermath" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="256377" value="Nemesis: Aftermath &amp; Void Seeders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312736" value="Nemesis: Aftermath &amp; Void Seeders &amp; Medic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297911" value="Nemesis: Blood Tests Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245845" value="Nemesis: Carnomorphs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="274532" value="Nemesis: Crawl Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="297660" value="Nemesis: Feat Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321742" value="Nemesis: Lockdown – Stretch Goals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245846" value="Nemesis: Medic Character Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386776" value="Nemesis: Story Dice Expansion – Intruder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386781" value="Nemesis: Story Dice Expansion – Space Cat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275277" value="Nemesis: Untold Stories #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310118" value="Nemesis: Untold Stories #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313790" value="Nemesis: Void Seeders" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312730" value="Nemesis: BGExpansions Alien Eggs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="380592" value="Nemesis: BGExpansions Ammo Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312906" value="Nemesis: BGExpansions Character Corpse Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312908" value="Nemesis: BGExpansions Computer Terminal Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312732" value="Nemesis: BGExpansions Intruder Carcasses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312909" value="Nemesis: BGExpansions Technical Corridor Entrance Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312912" value="Nemesis: BGExpansions Wound Marker Bases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349196" value="Nemesis: Dice Tray" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295149" value="Nemesis: e-Raptor insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="323827" value="Nemesis: Feldherr Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336556" value="Nemesis: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="266726" value="Nemesis: Kings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329472" value="Nemesis: Laserox Alien Artifact Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="314921" value="Nemesis: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312922" value="Nemesis: Saim Lab All-In Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="295296" value="Nemesis: Spacecats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272953" value="Nemesis: Terrain Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348621" value="Nemesis: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="349197" value="Nemesis: Updated Crew" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="310100" value="Nemesis: Lockdown" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61569" value="Adam Kwapiński" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39040" value="Piotr Foksowicz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113980" value="Patryk Jędraszek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114786" value="Ewa Labak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="113981" value="Andrzej Półtoranos" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29412" value="Awaken Realms" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47848" value="Asmodee China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8832" value="Funforge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47684" value="Rebel Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="26549" />
+			<average value="8.30091" />
+			<bayesaverage value="7.97005" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19" bayesaverage="7.97005" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="10" bayesaverage="7.98007" />
+												</ranks>
+
+			<stddev value="1.5132" />
+			<median value="0" />
+			<owned value="36930" />
+			<trading value="166" />
+			<wanting value="1143" />
+			<wishing value="11556" />
+			<numcomments value="4099" />
+			<numweights value="944" />
+			<averageweight value="3.4322" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

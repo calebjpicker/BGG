@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="111721">
+         <thumbnail>https://cf.geekdo-images.com/tJmhxfX4V1rYBRIv6dfqPw__thumb/img/zS5DjVSRWv-DmfpXGNIMg9RPZ4E=/fit-in/200x150/filters:strip_icc()/pic1182455.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tJmhxfX4V1rYBRIv6dfqPw__original/img/X_oJqbaFTq0XeFp_OcChmYqAl2g=/0x0/filters:format(jpeg)/pic1182455.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Gang" />
+			
+						                           
+						               													<description>This game has been published by dV Giochi as a reward for winning the 2010/2011 edition of the Gioco Inedito &amp;ndash; Best Unpublished game contest. Powered by Lucca comics &amp;amp; Games and dV Giochi, the contest aims to identify the best new card game design from all prototypes received and to reward it by publishing the game in a fully professional and high-quality format, overseen directly by dV Giochi. All prototypes submitted must conform to the technical and style requirements, fixed components and a given theme which changes every year. Everybody can join the contest and this is a great opportunity for emerging game designers to see their idea published. For more information:&amp;#10;giocoinedito@luccacomicsandgames.com&amp;#10;www.luccacomicsandgames.com&amp;#10;&amp;#10;In The Gang, players try to play cards to capture gang members &amp;ndash; with both gangs at risk of being captured. To set up each of the three cities in the game, draw five gangster cards at random, then place them in a row in numerical order (with a range of 1-80). Even and odd cards belong to different gangs and are color-coded. Each player has a hand of four gangster cards and a random special action card.&amp;#10;&amp;#10;On a turn, each player chooses one gangster and one city card/one special card, then they reveal them simultaneously. Players place cards in ascending order from lowest to highest. If a gangster was played with a city card, it's placed in that city in the proper numerical spot; if it was played with a special card, it can be placed in any city, with the special card being placed in the same city before or after the gangster. If the card you placed is one of two gangsters surrounding at least two gangsters of the other color, then you capture the surrounded gangsters and remove them from play. Special cards let you play on the end of a row, switch a gangster from even to odd (or vice versa), or move a gangster from one row to another.&amp;#10;&amp;#10;After four rounds, players discard their special card (if it hasn't been played), then receive a new hand of four gangsters and a special card. Any rows with fewer than five cards are filled to five cards. The game continues until not enough cards remain to fill players' hands and the rows; when this happens, the game ends immediately and players count the revolvers on the gangsters they've captured. The player with the high score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="1" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8502" value="Contests: Miglior Gioco Inedito" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2817" value="Antonello Lotronto" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53524" value="Fouad Mezher" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="917" value="DV Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="30" />
+			<average value="5.68667" />
+			<bayesaverage value="5.50298" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19760" bayesaverage="5.50298" />
+												</ranks>
+
+			<stddev value="1.04586" />
+			<median value="0" />
+			<owned value="57" />
+			<trading value="4" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="9" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

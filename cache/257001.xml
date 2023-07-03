@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="257001">
+         <thumbnail>https://cf.geekdo-images.com/57M9COiJFCgwsmGIMcinlw__thumb/img/tl4kGHikcP2-l9ItRn4uBsOQdJc=/fit-in/200x150/filters:strip_icc()/pic4684203.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/57M9COiJFCgwsmGIMcinlw__original/img/0gb7SPw5wO9_Osfsn2jdH4Em1jg=/0x0/filters:format(jpeg)/pic4684203.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Munchkin Dungeon" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Munchkin: Podzemí" />
+			    				
+				<name type="alternate" sortindex="1" value="Манчкин: Подземелье" />
+			
+						               													<description>In Munchkin Dungeon, players enter a dungeon and attempt to collect the most treasure and achieve the highest character level. They have to push their luck if they want to succeed in their adventure, but if they come across a foe that's a little too big to face, they can always run away. If players choose to take the cowardly (albeit occasionally logical) route of avoiding danger, they earn shame, which will be counted against them at the end of the game. You can't be a hero without exhibiting a little bravery!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24" value="Game: Munchkin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389464" value="Munchkin Cows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272935" value="Munchkin Dungeon: Board Silly" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="273385" value="Munchkin Dungeon: Box of Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312354" value="Munchkin Dungeon: Crawling Hand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271257" value="Munchkin Dungeon: Cthulhu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272936" value="Munchkin Dungeon: Cute as a Button" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362204" value="Munchkin Dungeon: Cute as a Button Bookmarks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272937" value="Munchkin Dungeon: Legendary Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271256" value="Munchkin Dungeon: Side Quest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="312355" value="Munchkin Dungeon: Undead Horse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="381387" value="Munchkin Kitten Adventurers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389462" value="Munchkin Witches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="389463" value="Munchkin Witches: Promo Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="323829" value="Munchkin Box of Holding: Feldherr Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272938" value="Munchkin Dungeon: Colored Dice Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272941" value="Munchkin Dungeon: Epic Dungeon Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272939" value="Munchkin Dungeon: Extra Dice Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="323828" value="Munchkin Dungeon: Feldherr Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272940" value="Munchkin Dungeon: Villain Dice Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="336822" value="Munchkin: Level Counter Bookmark" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1927" value="Munchkin" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6838" value="Andrea Chiarvesio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1533" value="Eric M. Lang" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6815" value="John Kovalic" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19" value="Steve Jackson Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42032" value="Asmodee Italia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="555" />
+			<average value="6.70622" />
+			<bayesaverage value="5.73199" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4938" bayesaverage="5.73199" />
+												</ranks>
+
+			<stddev value="1.76985" />
+			<median value="0" />
+			<owned value="2083" />
+			<trading value="45" />
+			<wanting value="26" />
+			<wishing value="236" />
+			<numcomments value="171" />
+			<numweights value="15" />
+			<averageweight value="2.1333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

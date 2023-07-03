@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="98778">
+         <thumbnail>https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__original/img/5vNHZiTEhK4aRDuGXv5KImp9cmQ=/0x0/filters:format(jpeg)/pic2007286.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hanabi" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hanabi Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Hanabi Extra" />
+			    				
+				<name type="alternate" sortindex="1" value="Hanabi Fun and Easy" />
+			    				
+				<name type="alternate" sortindex="1" value="Hanabi Pocket" />
+			    				
+				<name type="alternate" sortindex="1" value="Πυροτεχνήματα" />
+			    				
+				<name type="alternate" sortindex="1" value="Ханаби" />
+			    				
+				<name type="alternate" sortindex="1" value="花火" />
+			    				
+				<name type="alternate" sortindex="1" value="花火" />
+			    				
+				<name type="alternate" sortindex="1" value="하나비" />
+			
+						               													<description>Hanabi&amp;mdash;named for the Japanese word for &amp;quot;fireworks&amp;quot;&amp;mdash;is a cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. (In Japanese, hanabi is written as &amp;#232;&amp;#138;&amp;#177;&amp;#231;&amp;#129;&amp;#171;; these are the ideograms flower and fire, respectively.)&amp;#10;&amp;#10;The card deck consists of five different colors of cards, numbered 1&amp;ndash;5 in each color. For each color, the players try to place a row in the correct order from 1&amp;ndash;5. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards.&amp;#10;&amp;#10;An extra suit of cards, rainbow colored, is also provided for advanced or variant play.&amp;#10;&amp;#10;Hanabi was originally published as part of Hanabi &amp; Ikebana.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="572">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="391" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="73" />
+					<result value="Recommended" numvotes="255" />
+					<result value="Not Recommended" numvotes="180" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="166" />
+					<result value="Recommended" numvotes="301" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="344" />
+					<result value="Recommended" numvotes="147" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="83" />
+					<result value="Recommended" numvotes="321" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="299" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="25" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="130">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="47" />
+					<result value="10" numvotes="52" />
+					<result value="12" numvotes="18" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="113">
+			
+		<results>		
+					<result level="81" value="No necessary in-game text" numvotes="113" />
+					<result level="82" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="83" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="84" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="85" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46216" value="Game: Hanabi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11111" value="Mechanism: Deduction – Blind Man's Bluff" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="121996" value="Hanabi: Avalanche de couleurs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="323999" value="Hanabi: Black Powder Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="183833" value="Hanabi: Master Artisan Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="149310" value="Hanabi: ¡Gana o explota!" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="145386" value="Hanabi: Fireworks Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="204969" value="Hanabi: Tracker" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="70918" value="Hanabi &amp; Ikebana" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="272743" value="Hanabi Deluxe II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="290357" value="Hanabi: Grands Feux" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9714" value="Antoine Bauza" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9714" value="Antoine Bauza" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25471" value="Gérald Guerlais" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28209" value="Albertine Ralenti" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29" value="ABACUSSPIELE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19309" value="Les 12 Singes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47429" value="Buly Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24631" value="cutia.ro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1749" value="Interlude" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12047" value="Oliphante" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="105" value="R&amp;R Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1905" value="Spin Master Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="45967" />
+			<average value="7.05016" />
+			<bayesaverage value="6.9495" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="489" bayesaverage="6.9495" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="133" bayesaverage="6.94395" />
+												</ranks>
+
+			<stddev value="1.41014" />
+			<median value="0" />
+			<owned value="76716" />
+			<trading value="1441" />
+			<wanting value="292" />
+			<wishing value="3964" />
+			<numcomments value="7636" />
+			<numweights value="1653" />
+			<averageweight value="1.6921" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

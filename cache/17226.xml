@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="17226">
+         <thumbnail>https://cf.geekdo-images.com/915Abv-1k4_f_-__SkXybg__thumb/img/gn1-n9C_vhQufKI9aosUfP6_WwA=/fit-in/200x150/filters:strip_icc()/pic249300.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/915Abv-1k4_f_-__SkXybg__original/img/LEJxK0iifCkmJcX0uytGCk72v8M=/0x0/filters:format(jpeg)/pic249300.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Descent: Journeys in the Dark" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Descent: Die Reise ins Dunkel" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Reise ins Dunkel" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Viaggi nelle Tenebre" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Viaje a las tinieblas" />
+			    				
+				<name type="alternate" sortindex="1" value="Descent: Voyage dans les ténèbres" />
+			    				
+				<name type="alternate" sortindex="1" value="Odalent: Kalandok a mélyben" />
+			    				
+				<name type="alternate" sortindex="1" value="Η Κατάβαση: Περιπέτειες στα Έγκατα της Γης" />
+			    				
+				<name type="alternate" sortindex="1" value="ディセント　〜闇世界への旅立ち〜" />
+			
+						               													<description>Descent: Journeys in the Dark is a &amp;quot;one vs. many&amp;quot; game in which up to four players will choose characters with a wide assortment of skills and innate abilities to be the heroes who will explore dungeons in search of treasure and adventure, while one player will take on the role of the Overlord and will control the dungeon's many traps, puzzles, and monsters.&amp;#10;&amp;#10;The heroes' goal will be to cooperatively conquer the dungeon, seize its many treasures, and achieve other objectives as set by the scenario. If the heroes cooperate and achieve their goals, they will all win. The Overlord's objective is simply to use all the means at their disposal - from deadly traps to ferocious monsters - to kill the heroes. Each hero has a certain Conquest Point value to the party and if too many Conquest Points are lost through hero death, the party loses and the Overlord wins.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Descent: Journeys in the Dark (Second Edition) (2012)&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2005" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="279">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="181" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="108" />
+					<result value="Not Recommended" numvotes="78" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="143" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="82" />
+					<result value="Recommended" numvotes="128" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="174" />
+					<result value="Recommended" numvotes="57" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="240" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="96">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="33" />
+					<result value="12" numvotes="33" />
+					<result value="14" numvotes="19" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="115">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="14" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="93" />
+					<result level="5" value="Unplayable in another language" numvotes="7" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4671" value="Game: Descent – Journeys in the Dark" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9983" value="Series: Fantasy Flight Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5137" value="Setting: The Realms of Terrinoth" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="62329" value="Descent / Runebound / Runewars Figure: Jonas the Kind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="62325" value="Descent / Runebound / Runewars Figure: Nara The Fang" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="62327" value="Descent / Runebound / Runewars Figure: Tobin Farslayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="62349" value="Descent / Runebound / Runewars Figure: Truthseer Kel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="42141" value="Descent: Journeys in the Dark – Quest Compendium – Volume One" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="24976" value="Descent: The Altar of Despair" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="29298" value="Descent: The Road to Legend" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="55150" value="Descent: The Sea of Blood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="36722" value="Descent: The Tomb of Ice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="22361" value="Descent: The Well of Darkness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="70626" value="Realms of Terrinoth: Descent / Runewars Scenarios" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="139772" value="Descent: Extra Dice Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368085" value="Descent: Road to Legend Dice Sets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="81172" value="Descent: Sea of Blood Lieutenants – Darkwind" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="104162" value="Descent: Journeys in the Dark (Second Edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="164153" value="Star Wars: Imperial Assault" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="10640" value="Doom: The Boardgame" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2336" value="Kevin Wilson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11994" value="Jesper Ejsing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7483" value="John Goodenough" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17928" value="Frank Walls" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="504" value="Nexus Editrice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3446" value="Ubik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11689" />
+			<average value="7.28017" />
+			<bayesaverage value="6.95036" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="488" bayesaverage="6.95036" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="134" bayesaverage="7.04338" />
+												</ranks>
+
+			<stddev value="1.52499" />
+			<median value="0" />
+			<owned value="14226" />
+			<trading value="509" />
+			<wanting value="274" />
+			<wishing value="1675" />
+			<numcomments value="2956" />
+			<numweights value="1282" />
+			<averageweight value="3.3432" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

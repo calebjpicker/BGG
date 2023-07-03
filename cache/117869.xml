@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="117869">
+         <thumbnail>https://cf.geekdo-images.com/yFy52poFHe8_p4hR4uOi0A__thumb/img/nhTgHVmb-2iN_K_cfAuTJtUzKVg=/fit-in/200x150/filters:strip_icc()/pic7484.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yFy52poFHe8_p4hR4uOi0A__original/img/Gt9l1QBdXg5Pq44CKXJWDlw6lyY=/0x0/filters:format(jpeg)/pic7484.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cam" />
+			
+						                           
+						               													<description>Cam is a small but not tiny game of sudden death. This little abstract ends as soon as one player gets any one piece to the single goal space at the opposite end of the board. To do so, one has to get past the opponent's pieces.&amp;#10;&amp;#10;Each player has two types of pieces which mostly move similarly. One can jump one's own pieces or jump to capture an opponent's. Multiple jumps in any direction are allowed. So, sudden reversals and leaps to victory are not uncommon. Since only one piece in the goal is needed to win, this game can be unforgiving. Still it's quick and many games can be played in one sitting.&amp;#10;&amp;#10;Cam, released by Parker Brothers in 1949, is a down-sized version of Camelot.&amp;#10;&amp;#10;Cam is different than Camelot in the following ways:&amp;#10;&amp;#10;    The Cam board has 67 squares.  The Camelot board has 160 squares.&amp;#10;    Each side in Cam has two Knights and five Men.  Each side in Camelot has four Knights and ten Men.  &amp;#10;    The object of Cam is to get one piece into the opponent's Castle.  The object of Camelot is to get two pieces into the opponent's Castle.  &amp;#10;    Victory in Cam also occurs if one side, even with only one remaining piece, captures all of the opposing pieces.  In Camelot, if the side capturing all of the opposing pieces has only one remaining piece, the game is a draw.  Victory in Camelot by capture of all of the opposing pieces occurs only if the victorious side has two or more remaining pieces.    &amp;#10;    Stalemate in Cam is impossible.  Stalemate in Camelot is possible, and is a victory for the stalemating side if it has two or more pieces.  &amp;#10;    In Cam, if both sides have only one remaining piece, the game continues until one piece captures the other, or one piece enters the opposing Castle.  In Camelot, if both sides have only one remaining piece, the game is a draw.&amp;#10;&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;    Chivalry&amp;#10;    Camelot&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1949" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17076" value="Series: Camelot (Abstract games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="5251" value="Camelot" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="991" value="George S. Parker" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2456" value="The Game Crafter, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11" />
+			<average value="7.04545" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.86419" />
+			<median value="0" />
+			<owned value="16" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="11" />
+			<numcomments value="7" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

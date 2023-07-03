@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="152229">
+         <thumbnail>https://cf.geekdo-images.com/EaAi528YD5uiRvaV_5JnAA__thumb/img/rgZV9xegDnt8lzp6fo9toWAoA_U=/fit-in/200x150/filters:strip_icc()/pic2061847.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/EaAi528YD5uiRvaV_5JnAA__original/img/J9MbJiaHpYL29W0iyowI_6AHU_Q=/0x0/filters:format(jpeg)/pic2061847.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Line or Colour" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tangion" />
+			
+						               													<description>Line or Colour is a combinatorial game for two players. Originally named Tangion (a contraction for Tangent+Tension), the game involves two perpendicular winning conditions that can tie players&amp;acute; brains in knots. It was derived from Domina 4 by adding a n-in-a-row victory condition and removing piece movement.&amp;#10;&amp;#10;The name was later changed to the more friendly Line or Colour.&amp;#10;&amp;#10;MATERIAL&amp;#10;&amp;#10;49 rounded counters in 7 colours (7 each)&amp;#10;25 white rings&amp;#10;25 black rings&amp;#10;The official edition includes a board for faster setup.&amp;#10;&amp;#10;RULES&amp;#10;&amp;#10;There are 2 types of gameplay: basic and advanced.&amp;#10;&amp;#10;Basic version:&amp;#10;&amp;#10;Arrange 25 counters in 5 colours (5 each) in a square according to the figure:&amp;#10;&amp;#10;12345&amp;#10;45123&amp;#10;23451&amp;#10;51234&amp;#10;34512&amp;#10;&amp;#10;Player 'White' (Starting player) takes all the white rings. Player 'Black' takes all the black rings.&amp;#10;&amp;#10;Starting with 'White' players alternate turns 'claiming' a counter by placing a ring of their colour on it. The pie rule is enabled.&amp;#10;&amp;#10;The game ends when a player either forms a row of at least 4 consecutive rings of his colour (orthogonal or diagonal) or has claimed 4 counters of the same colour. That player wins the game.&amp;#10;&amp;#10;Advanced version:&amp;#10;&amp;#10;Arrange 49 counters in 7 colours (7 each) according to the figure:&amp;#10;&amp;#10;1234567&amp;#10;6712345&amp;#10;4567123&amp;#10;2345671&amp;#10;7123456&amp;#10;5671234&amp;#10;3456712&amp;#10;&amp;#10;Same rules apply, but a player wins by making a line of 5 or claiming 5 counters of the same colour. The pie rule doesn't seem to be necessary in this version.&amp;#10;&amp;#10;Variant for both versions: Arrange the counters randomly.&amp;#10;&amp;#10;AKNOWLEDGEMENTS&amp;#10;&amp;#10;Special thanks to Stephen Tavener for playtesting and Cameron Browne for playtesting and game name brainstorming, that unlocked its publication almost a year after its inception.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="1" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4220" value="Category: n in a row" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="33" />
+			<average value="7.04848" />
+			<bayesaverage value="5.52078" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15811" bayesaverage="5.52078" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="707" bayesaverage="5.62489" />
+												</ranks>
+
+			<stddev value="1.56071" />
+			<median value="0" />
+			<owned value="22" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="7" />
+			<numcomments value="10" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

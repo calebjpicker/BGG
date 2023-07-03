@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="39493">
+                                     				
+				<name type="primary" sortindex="1" value="Mangola" />
+			
+						                           
+						               													<description>A mangala game.&amp;#10;&amp;#10;From Wikimanqala:&amp;#10;&amp;#10;http://www.wikimanqala.org/wiki/Mangola_%28traditional%29&amp;#10;&amp;#10;&amp;quot;Mangola has become in recent decades the most popular Mancala game played in the Democratic Republic of Congo. It is known from the Virunga mountains to the Sudanese border, and from Bangui (Central African Republic) to Arui near Uganda. Mangola is a new game which was developed after 1911 according to the ethnologue Philip Townshend and is now gradually replacing older games such as sombi and single lap mancala games. The game was spread by the Belgian colonial administration and military along rivers and roads and is the only mancala game played in the central basin (one of the few African regions where mancala games were still unknown in the 19th century). &amp;#10;There are many local variants, probably more than 30, which have slightly different opening rules (some with simultaneous opening moves) and employ different board sizes. &amp;#10;The game is played by adults on beautiful wooden boards with holes carved in the surface. Children, on the other hand, dig the board in the ground or draw it with chalk on concrete. &amp;#10;It is played by both sexes, but more often by women. &amp;#10;The following rules were reported from the capital Kinshasa by Suzanne Comhaire-Sylvain in 1952.&amp;#10;&amp;#10;Rules:&amp;#10;&amp;#10;Mangola is a two players game. &amp;#10;It is played on a board made of four rows of eight holes. &amp;#10;At the beginning each hole has two seeds.&amp;#10;&amp;#10;Each player controls the two rows closer on his side, and only moves on these two rows. We will call the row closest to him outer row and the other one inner row &amp;#10;Players take turns to move. &amp;#10;The first move of each player is a special one: they redistribute the seeds by taking the contents of one hole and putting it into the next, and so one, until your side of the board is checkered with holes containing 4 seeds and empty holes.&amp;#10;&amp;#10;The second move of each player must begin from the left- or right-most hole of your outer or inner row. &amp;#10;At your turn you take all the seeds from a hole on your side that contains at least two seeds and put them, one by one, in the following holes, in an anticlockwise sense. Singletons cannot be moved. &amp;#10;If the last seed is dropped in an empty hole, you move it to the next hole and your turn ends. &amp;#10;If the last seed falls in a non-empty hole, you take its contents including the last distributed seed and keep on sowing. &amp;#10;If the last seed falls in a non-empty hole of the inner row, and the two opposite holes of the opponent contain seeds, you take the contents of your hole, including the seed just dropped, and the contents of both opponent's holes, and begin the next lap from the hole following the last empty hole (the same from which you began the last lap that effected the capture). &amp;#10;When one player cannot move (his side of the board is empty or contains only singletons), he has lost the game.&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="121" value="No necessary in-game text" numvotes="2" />
+					<result level="122" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="123" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="124" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="125" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2955" value="Mancala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9" value="Traditional Games: Mancala" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="5.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.47902" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

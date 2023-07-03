@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="180040">
+         <thumbnail>https://cf.geekdo-images.com/Gm6traEMnsTZfiDsHl-pIg__thumb/img/4nlEty-IOzj6bJ0UFeUbgMHI-RY=/fit-in/200x150/filters:strip_icc()/pic3503838.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Gm6traEMnsTZfiDsHl-pIg__original/img/jGvirdfVJOw43aWMeL-FBi0WZ0Q=/0x0/filters:format(jpeg)/pic3503838.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Villages of Valeria" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Valeria: Wioski" />
+			
+						               													<description>A village-building card game set in the world of Valeria. Establish resources, construct buildings, and attract adventurers to your Village to be crowned the next capitol city.&amp;#10;&amp;#10;Each player takes a turn taking one action from the following list and all other players may follow the action but with fewer rewards:&amp;#10;&amp;#10;Tax: Take 1 Gold and Draw 1 Card. (Follow: Draw 1 card.)&amp;#10;Harvest: Draw 3 Cards. (Follow: Draw 1 card.)&amp;#10;Develop: Discard 1 card to add a Resource to your village. (Follow: Discard 2 cards to add a Resource to your village.)&amp;#10;Build: Add a building to your village. Draw a card. (Follow: Add a building to your village, but do not draw a card.)&amp;#10;Recruit: Pay 1 Gold to add an Adventurer to your village. (Follow: Pay 2 Gold to add an Adventurer to your village.)&amp;#10;&amp;#10;Building cards can be used for 2 reasons. 1) Pay resources to add it to your village as a building and gain its benefit and VP. 2) Develop it as a Resource and place it under your Castle card.&amp;#10;&amp;#10;When building, use resources you have developed or pay another player 1 Gold to use their resource.&amp;#10;&amp;#10;The game ends when a player has built or recruited 10 buildings/Adventurers.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="48">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="376" value="No necessary in-game text" numvotes="2" />
+					<result level="377" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+					<result level="378" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="379" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="380" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41251" value="Setting: Valeria" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275955" value="Villages of Valeria: Architects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="217172" value="Villages of Valeria: Bard Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="194471" value="Villages of Valeria: Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="194474" value="Villages of Valeria: Guild Halls" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="243077" value="Villages of Valeria: King's Herald Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275954" value="Villages of Valeria: Landmarks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="251646" value="Villages of Valeria: Landmarks &amp; Architects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="194698" value="Villages of Valeria: Monuments" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214746" value="Villages of Valeria: Rahdo the Guild Master Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="260866" value="Villages of Valeria: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="216725" value="Villages of Valeria: Deluxe Kickstarter Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39311" value="Rick Holzgrafe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="48263" value="Isaias Vallejo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70533" value="Mihajlo Dimitrievski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28790" value="Daily Magic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35960" value="Games Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3083" />
+			<average value="6.998" />
+			<bayesaverage value="6.40323" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1364" bayesaverage="6.40323" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="754" bayesaverage="6.50818" />
+												</ranks>
+
+			<stddev value="1.15473" />
+			<median value="0" />
+			<owned value="5731" />
+			<trading value="239" />
+			<wanting value="79" />
+			<wishing value="538" />
+			<numcomments value="825" />
+			<numweights value="83" />
+			<averageweight value="2.3253" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

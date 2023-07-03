@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="184842">
+         <thumbnail>https://cf.geekdo-images.com/3N4eCvJFqoygqP9qxMq5ZA__thumb/img/n8BHU43CbISCJ0ki6S-15nOv-uE=/fit-in/200x150/filters:strip_icc()/pic2836284.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/3N4eCvJFqoygqP9qxMq5ZA__original/img/sd5RwvhEjTOklfap_8sCPyexZ78=/0x0/filters:format(jpeg)/pic2836284.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Catan Junior" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Catan Telepesei Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Catan Τζούνιορ" />
+			    				
+				<name type="alternate" sortindex="1" value="CATAN за деца" />
+			    				
+				<name type="alternate" sortindex="4" value="De Kolonisten van Catan Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadníci z Katanu: Junior" />
+			    				
+				<name type="alternate" sortindex="1" value="Osadnicy z Catanu: Junior" />
+			    				
+				<name type="alternate" sortindex="5" value="Die Siedler von Catan: Junior (2-4p)" />
+			    				
+				<name type="alternate" sortindex="1" value="卡坦島兒童版" />
+			    				
+				<name type="alternate" sortindex="1" value="小小卡坦" />
+			    				
+				<name type="alternate" sortindex="1" value="카탄 주니어" />
+			
+						               													<description>This revised edition of Die Siedler von Catan: Junior includes the new rules of Catan Junior Madagascar.&amp;#10;&amp;#10;It plays two to four players, rather than three to four. The new board is printed on both sides. One side for two players (new) and the other side is for 3-4 players.&amp;#10;&amp;#10;Changes from earlier versions:&amp;#10;&amp;#10;- new board&amp;#10;- 2 gold islands (old: 1)&amp;#10;- 5 life rings on the board (old: market)&amp;#10;- no Harbour tiles (old: 4)&amp;#10;- generally all Tokens (old: cards)&amp;#10;- resource pineapple (old: rum)&amp;#10;- new colours lilac and bright yellow (old: White and yellow/orange)&amp;#10;- parrot as robber (old: pirate)&amp;#10;&amp;#10;---&amp;#10;&amp;#10;Die Siedler von Catan: Junior is a junior edition of The Settlers of Catan. Players collect and trade resources in order to build things, gain more resources and score points. The first player to build seven warehouses wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="2" />
+					<result value="5" numvotes="9" />
+					<result value="6" numvotes="9" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="211" value="No necessary in-game text" numvotes="3" />
+					<result level="212" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="213" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="214" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="215" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62080" value="Versions &amp; Editions: Junior Versions of Grown-Up Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="140743" value="Catan Junior Madagascar" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="27766" value="Die Siedler von Catan: Junior" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26874" value="Michaela Kienle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12834" value="Annette Nora Kara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="45655" value="Patricia Raubo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11" value="Klaus Teuber" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6784" value="Bergsala Enigma (Enigma)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2286" value="Intelligames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="928" />
+			<average value="6.55048" />
+			<bayesaverage value="5.81106" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4059" bayesaverage="5.81106" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="59" bayesaverage="6.3308" />
+												</ranks>
+
+			<stddev value="1.36225" />
+			<median value="0" />
+			<owned value="2410" />
+			<trading value="47" />
+			<wanting value="14" />
+			<wishing value="136" />
+			<numcomments value="177" />
+			<numweights value="19" />
+			<averageweight value="1.3158" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

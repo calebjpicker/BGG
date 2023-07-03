@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="156009">
+         <thumbnail>https://cf.geekdo-images.com/9lQIIxg_l6G-ZWmTqEHlOA__thumb/img/uiCYTRqVF3TMqfpFGM-O0az_Q4A=/fit-in/200x150/filters:strip_icc()/pic1949286.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/9lQIIxg_l6G-ZWmTqEHlOA__original/img/NglW8f48YV2Guo7yAcHjPc-wKMM=/0x0/filters:format(jpeg)/pic1949286.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Port Royal" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Port Rojal" />
+			    				
+				<name type="alternate" sortindex="1" value="Πορτ Ρουαγιάλ" />
+			    				
+				<name type="alternate" sortindex="1" value="Порт Роял" />
+			    				
+				<name type="alternate" sortindex="1" value="Порт-Ройал" />
+			    				
+				<name type="alternate" sortindex="1" value="ポートロイヤル" />
+			    				
+				<name type="alternate" sortindex="1" value="皇家港" />
+			    				
+				<name type="alternate" sortindex="1" value="포트 로얄" />
+			
+						               													<description>The merchant players in Port Royal, which won the Austrian Game Designers Competition under the title H&amp;auml;ndler der Karibik, are trying to earn as much as they can out of the Caribbean Sea, but if they set their goals too high, they might take home nothing for the day.&amp;#10;&amp;#10;The 120-card deck depicts a coin on the back of each card &amp;mdash; with players earning and paying coins throughout the game &amp;mdash; and different items on the card fronts. On a turn, a player can first draw as many cards as he likes, one at a time from the deck, placing them in the harbor (an area near the deck). Each card shows one of the following:&amp;#10;&amp;#10;&amp;#10;     Person, who stays in a face-up row next to deck.&amp;#10;     Ship, which the player can attack immediately if he has enough swords on his people cards, after which the ship is discarded; otherwise, the ship stays in the harbor.&amp;#10;     Expedition, which remains above the harbor until a player fulfills it by discarding people who have the items required for the expedition.&amp;#10;     Tax Increase, which forces everyone with twelve or more coins to discard half their money, after which the card is discarded.&amp;#10;&amp;#10;&amp;#10;If the player draws a ship with the same name as a ship already in the harbor, he's spent too much time dilly-dallying and his turn ends (after using the ship to attack, if possible), with all the cards in the harbor being discarded. Otherwise, the player can stop whenever he likes, then use/acquire one card if three or fewer ships are in the harbor, two cards if four ships are present, and three cards if five ships are present. Players rob ships, collecting the number of coins shown on them, then discarding the card, while they hire people, paying the number of coins depicted. After the active player takes his 1-3 cards, each other player may pay the active player one coin in order to take one card in the same way.&amp;#10;&amp;#10;When one player has at least twelve influence points &amp;mdash; which are on both people and expedition cards &amp;mdash; the game is played to the end of the round, giving everyone the same number of turns, then the player with the most influence points wins.&amp;#10;&amp;#10;&amp;bull; Port Royal differs from H&amp;auml;ndler der Karibik in that it includes ten more cards to allow for play with up to five players and players can win without fulfilling an expedition.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="260">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="139" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="155" />
+					<result value="Not Recommended" numvotes="40" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="131" />
+					<result value="Recommended" numvotes="91" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="141" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="54" />
+					<result value="Recommended" numvotes="102" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="103" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="50" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="76">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="16" />
+					<result value="8" numvotes="40" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="38">
+			
+		<results>		
+					<result level="1031" value="No necessary in-game text" numvotes="37" />
+					<result level="1032" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="1033" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="1034" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="1035" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2962" value="Move Through Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10654" value="Country: Jamaica" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70354" value="Digital Implementations: Yucata" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28723" value="Game: Port Royal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65851" value="Players: Games with expansions that add solo play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57981" value="Region: Caribbean Sea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="74823" value="Theme: Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="184025" value="Port Royal: Gambler Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181899" value="Port Royal: Just One More Contract..." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219265" value="Port Royal: The Adventure Begins..." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186885" value="Stadt Land Spielt Limitierte Sonderdrucke 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="193265" value="Port Royal: Unterwegs!" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="331265" value="Port Royal: Big Box" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147999" value="Händler der Karibik" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11767" value="Alexander Pfister" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11507" value="Klemens Franz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="83158" value="Atanas Lozanski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9074" value="Bard Centrum Gier" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24631" value="cutia.ro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41167" value="Popcorn Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36366" value="Pridemage Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19" value="Steve Jackson Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48279" value="SuperHeated Neurons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16601" />
+			<average value="7.12287" />
+			<bayesaverage value="6.92287" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="518" bayesaverage="6.92287" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="121" bayesaverage="6.96767" />
+												</ranks>
+
+			<stddev value="1.18998" />
+			<median value="0" />
+			<owned value="24725" />
+			<trading value="378" />
+			<wanting value="289" />
+			<wishing value="1921" />
+			<numcomments value="2631" />
+			<numweights value="547" />
+			<averageweight value="1.6252" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

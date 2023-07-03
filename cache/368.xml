@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="368">
+         <thumbnail>https://cf.geekdo-images.com/FUyJ12REPB7P0lYrJo50lA__thumb/img/6vhs-omn8b7MAZvvEw6bhuBt0Kg=/fit-in/200x150/filters:strip_icc()/pic48609.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FUyJ12REPB7P0lYrJo50lA__original/img/G0Zp_I-WFa7TuAWnSnrMmF9OtMw=/0x0/filters:format(jpeg)/pic48609.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Relationship Tightrope" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Drahtseilakt" />
+			    				
+				<name type="alternate" sortindex="1" value="オッドソックス (Odd Socks)" />
+			
+						               													<description>This game is a relative of the Raj/Hols der Geier family of games, the german title means Tightrope.  Each turn, a number of red and blue sticks are up for grabs.  The highest card played will take the blue sticks and the lowest card will take the red sticks.  The trick is that a red stick cancels a blue stick (that is, a well balanced tightrope walker), and the goal is to score as few points as possible.  However, there are two different ways of playing the game, depending on how players wish to play: strategic or otherwise.  The basic game has players simultaneously playing cards (ala Raj), whereas the strategic version plays like a trick-taking game with players selecting a card sequentially.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Yin Yang/Fifty-Fifty&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5743" value="Theme: Circus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73717" value="Theme: Laundry &amp; Socks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61207" value="Theme: Love / Romance" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="83197" value="Zen Master" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11478" value="Alvin Madden" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="33724" value="Thorsten Schäfer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="74" value="ASS Altenburger Spielkarten" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48702" value="Korokorodou" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1901" value="Überplay" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1066" />
+			<average value="6.16545" />
+			<bayesaverage value="5.7367" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4873" bayesaverage="5.7367" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1401" bayesaverage="5.80356" />
+												</ranks>
+
+			<stddev value="1.33013" />
+			<median value="0" />
+			<owned value="1587" />
+			<trading value="192" />
+			<wanting value="18" />
+			<wishing value="72" />
+			<numcomments value="516" />
+			<numweights value="136" />
+			<averageweight value="1.3382" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

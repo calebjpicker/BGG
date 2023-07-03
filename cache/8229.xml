@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="8229">
+         <thumbnail>https://cf.geekdo-images.com/pFfkT0kSDH4U304YmC3bcA__thumb/img/uabnu5nXVN2Gtw6IKj9WwGM3QSo=/fit-in/200x150/filters:strip_icc()/pic2404104.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/pFfkT0kSDH4U304YmC3bcA__original/img/v-EAMScITSop8gcOpPTNNKXEtkA=/0x0/filters:format(jpeg)/pic2404104.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Armadöra" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Nuggets" />
+			    				
+				<name type="alternate" sortindex="1" value="阿瑪多拉" />
+			    				
+				<name type="alternate" sortindex="1" value="알마도라" />
+			
+						               													<description>In Nuggets (2003), players try to surround the &amp;quot;gold mines&amp;quot; (numbered cylinders) on an 8x5 grid board. On a turn, a player either places a numbered tile face down or places two fence sections on the board; these fences determine the borders of each claim, and each claim must be at least four spaces large. At the end of the game, all tiles are revealed, and each gold mine is awarded to the player whose tiles in that claim have the largest sum, with ties resulting in an equal division of points. Whoever collects the most mine points wins.&amp;#10;&amp;#10;Armad&amp;ouml;ra (2013) uses the same gameplay as Nuggets for the base game, albeit with the players themed as orcs, elves, mages and goblins on the hunt for dwarven gold. Armod&amp;ouml;ra also adds advanced rules to the game, with each player receiving one reinforcement token and 1-2 special power tokens. Instead of placing a warrior or erecting palisades (fences), a player can place a reinforcement token on one of his warriors in a territory that's already filled, boosting the strength of that warrior by one. A player can use his special power before taking one of the three normal actions, with the elf shooting an opposing warrior in an unfilled territory (lowering his strength by one), the orc placing an additional palisade that turn, the goblin placing a second warrior (with this one being face-up), and the mage looking at the value of an already placed opponent's warrior.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2003" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="5" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44423" value="Series: Europe Collection (Blue Orange Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="361841" value="Pearladöra" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91" value="Christwart Conrad" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20762" value="Tony Rochon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74499" value="TANSAN Inc." />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18856" value="AURUM, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15983" value="Jolly Thinkers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35809" value="Zhiyanjia" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1089" />
+			<average value="6.31462" />
+			<bayesaverage value="5.78495" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4309" bayesaverage="5.78495" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="245" bayesaverage="6.03612" />
+												</ranks>
+
+			<stddev value="1.3024" />
+			<median value="0" />
+			<owned value="1831" />
+			<trading value="108" />
+			<wanting value="18" />
+			<wishing value="103" />
+			<numcomments value="303" />
+			<numweights value="69" />
+			<averageweight value="1.9565" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="12350">
+         <thumbnail>https://cf.geekdo-images.com/PF_LtffPgsMcmrjpKlpwdg__thumb/img/hHZfkWP3v16G2sh4GGtMO8ESgPs=/fit-in/200x150/filters:strip_icc()/pic493833.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PF_LtffPgsMcmrjpKlpwdg__original/img/5GfCSHca8wgXJPQUJ7BcmysBNdU=/0x0/filters:format(jpeg)/pic493833.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battlestations" />
+			
+						                           
+						               													<description>In Battlestations, you and your friends each play the role of a crew member on a starship that faces whatever grief the Enemy player throws at you. You'll blast enemies, pull outrageous maneuvers, unlock the secrets of alien cultures, and crank the last bit of juice out of an overtaxed engine while trying not to get yourself, your crew, or your starship blown to bits in the process.&amp;#10;&amp;#10;In more detail, one player acts in the role of The Enemy and controls aliens, evil characters and any surprises that will come up. The other players take the role of starship crew. Players first build a ship with various tiles, with each tile representing a different location on a ship, such as a bridge, engine room, torpedo room, teleporter room, etc. Players can go to the appropriate room to take the designated action. At the same time, the game is played on a second board representing the space around the ship. The game is played in scenarios. The goal of the game is to complete the scenario specific mission. The crew will win, as a team, if the scenario goals are accomplished.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="24">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="15">
+			
+		<results>		
+					<result level="666" value="No necessary in-game text" numvotes="0" />
+					<result level="667" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="668" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="669" value="Extensive use of text - massive conversion needed to be playable" numvotes="15" />
+					<result level="670" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5679" value="Creatures: Aliens / Extraterrestrials" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24785" value="Game: Battlestations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="49383" value="Players: One versus Many" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="74983" value="Battlestations: Bot Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="112200" value="Battlestations: By Her Majesty's Sacred Egg Sac" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="64605" value="Battlestations: Core Rulebook" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="54418" value="Battlestations: Deep Ones in Deep Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17722" value="Battlestations: Galactic Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="129403" value="Battlestations: How Much for Your Planet?" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="17723" value="Battlestations: Pax Galacticum" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="29327" value="Battlestations: Pirates of Trundlia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="28721" value="Battlestations: The Planet of Dr. Moreau" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138878" value="Battlestations: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138879" value="Battlestations: Starship Miniatures" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="196712" value="Battlestations: Second Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1660" value="Jeff Siadek" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="5950" value="Todd Boyce" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34151" value="A. D. Hamilton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34152" value="Patrick Morgan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="7074" value="Jason Siadek" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2744" value="Gorilla Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="936" />
+			<average value="7.11591" />
+			<bayesaverage value="5.98905" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2806" bayesaverage="5.98905" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="507" bayesaverage="6.24344" />
+												</ranks>
+
+			<stddev value="1.6793" />
+			<median value="0" />
+			<owned value="1698" />
+			<trading value="139" />
+			<wanting value="133" />
+			<wishing value="590" />
+			<numcomments value="486" />
+			<numweights value="153" />
+			<averageweight value="3.4118" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="243430">
+         <thumbnail>https://cf.geekdo-images.com/VQvEmtoFrOrjgF18yfh9Lw__thumb/img/5DPm6BDeLC1pzgL98vDy9ReUGBs=/fit-in/200x150/filters:strip_icc()/pic5518213.png</thumbnail>
+      <image>https://cf.geekdo-images.com/VQvEmtoFrOrjgF18yfh9Lw__original/img/lXbEsAQqO1WdO2UF_D6WhBc8yZg=/0x0/filters:format(png)/pic5518213.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dealt!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Carro Combo" />
+			    				
+				<name type="alternate" sortindex="1" value="Cartes sur table" />
+			    				
+				<name type="alternate" sortindex="1" value="Combo Breaker" />
+			    				
+				<name type="alternate" sortindex="1" value="ComboUp" />
+			    				
+				<name type="alternate" sortindex="1" value="Geruite Rij-tjes" />
+			    				
+				<name type="alternate" sortindex="1" value="Krass Kariert" />
+			    				
+				<name type="alternate" sortindex="1" value="シリメツレツ" />
+			    				
+				<name type="alternate" sortindex="1" value="數字連擊" />
+			    				
+				<name type="alternate" sortindex="1" value="크라스 카리어트" />
+			
+						               													<description>In Dealt!, first released as Krass Kariert (Checkered Combos), you don't necessarily win by going out first, but at least you don't lose the game.&amp;#10;&amp;#10;To start, each player receives three life tokens and two reserve cards at random, which they place face up in front of themselves. They then receive a hand of cards, the order of which they cannot change. The start player for a round leads by playing a combination of up to three cards, and these cards must be next to one another in that player's hand. A player can lay down a single card, a pair, a triple, or a run of two or three consecutive cards. Each player in turn must beat the combination, with a pair being beaten by a higher pair or a triple. If you cannot or will not play, you instead pick up one of your reserve cards, placing it where you choose within your hand. If you have no more reserve cards, then you must discard a life token.&amp;#10;&amp;#10;Once each player has played or passed, whoever played the highest combination wins that round and begins the next round. If a player must discard a life token but has none, this player loses the game and everyone else wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="346" value="No necessary in-game text" numvotes="5" />
+					<result level="347" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="348" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="349" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="350" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2821" value="Single Loser Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="131" value="Card Games: Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="106150" value="Katja Stremmel" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17130" value="HOT Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5640" value="Kikigagne?" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7772" value="Mercurio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3504" value="Möbius Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1552" />
+			<average value="7.07128" />
+			<bayesaverage value="6.20254" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1917" bayesaverage="6.20254" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="513" bayesaverage="6.35588" />
+												</ranks>
+
+			<stddev value="1.25979" />
+			<median value="0" />
+			<owned value="2820" />
+			<trading value="60" />
+			<wanting value="68" />
+			<wishing value="323" />
+			<numcomments value="321" />
+			<numweights value="36" />
+			<averageweight value="1.4167" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

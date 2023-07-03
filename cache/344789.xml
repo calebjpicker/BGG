@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="344789">
+         <thumbnail>https://cf.geekdo-images.com/CqzGIceKP1nPybxDL2Z2sg__thumb/img/KVrEZuZBKbmaIDJsydCrcDG8AUY=/fit-in/200x150/filters:strip_icc()/pic7074834.png</thumbnail>
+      <image>https://cf.geekdo-images.com/CqzGIceKP1nPybxDL2Z2sg__original/img/NbjYadSy2v37UGWU7W1k8g9XvkI=/0x0/filters:format(png)/pic7074834.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Skytear Horde" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="天痕：部落決戰" />
+			
+						               													<description>Hordes of monsters are attacking the world of Skytear and the legendary heroes from all four realms have forged an alliance to repel the common threat.&amp;#10;&amp;#10;Skytear Horde is a lane-based card battler in which one or two players fight against the horde of monsters controlled by the game. &amp;#10;In the competitive game mode one player controls the horde while up to two players fight together as the alliance.&amp;#10;&amp;#10;Players say Skytear Horde gives them the feeling of playing a solo or cooperative version of competitive card battlers such as Keyforge, Hearthstone, or Magic: the Gathering.&amp;#10;&amp;#10;In the six lanes of the battlefield monsters attack your castle while beyond the enemy line smaller minions pillage your resources, forcing you to discard cards from your deck each turn.&amp;#10;&amp;#10;You lose the battle if your castle is destroyed or your deck runs out of cards. &amp;#10;You win if you destroy the portal spawning the monsters and the epic monster leading the horde.&amp;#10;&amp;#10;There are many interesting choices on the tactical and strategic level: strike a balance between defending and counter-attacking but also fighting the minions pillaging your deck and the monsters destroying your castle.&amp;#10;While you juggle all these decisions you also have to be careful not to run out of cards, as the principal way to draw new cards is to destroy monsters!&amp;#10;&amp;#10;Skytear Horde is really quick to setup, play, and store away.&amp;#10;There are 3 difficulty levels suitable for complete beginners and veterans alike.&amp;#10;In just a few seconds you can restart a new game giving it a strong &amp;ldquo;just one more try&amp;rdquo; aspect.&amp;#10;&amp;#10;Out of the retail box there are 3 ready-made alliance decks with different play styles and 3 horde decks with their own boss. &amp;#10;All decks can be mixed and customized to provide additional combinations.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2857" value="Card Play Conflict Resolution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24439" value="Card Games: Draw and Discard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39912" value="Category: Tower Defense" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="387826" value="Skytear Horde: Nupten Illusionists &amp; Utsesh Horde" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377696" value="Skytear Horde: Neoprene playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378105" value="Skytear Horde: Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377695" value="Skytear Horde: Sleeves" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="385325" value="Skytear Horde: Monoliths" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="115153" value="Giacomo Neri" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="115108" value="Riccardo Neri" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="115156" value="Riccardo Parmeggiani" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50379" value="Skytear Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31815" value="Czacha Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27654" value="Pendragon Game Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="448" />
+			<average value="7.61216" />
+			<bayesaverage value="5.84777" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3715" bayesaverage="5.84777" />
+												</ranks>
+
+			<stddev value="1.34475" />
+			<median value="0" />
+			<owned value="1396" />
+			<trading value="24" />
+			<wanting value="55" />
+			<wishing value="264" />
+			<numcomments value="146" />
+			<numweights value="15" />
+			<averageweight value="2.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

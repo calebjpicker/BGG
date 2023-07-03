@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2471">
+         <thumbnail>https://cf.geekdo-images.com/MLkRHrISvHx8plwBsCk9iw__thumb/img/AW6pHylkGBmfTSdI15DqRJ0JH6w=/fit-in/200x150/filters:strip_icc()/pic2525171.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/MLkRHrISvHx8plwBsCk9iw__original/img/tqe-xEnAUGUT3PVymvhgRVkqbv4=/0x0/filters:format(jpeg)/pic2525171.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Zombies!!!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Zombi!!! Seconda Edizione" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombi!!! Terza Edizione" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombies!!! PG Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombies!!! Second Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombies!!! Tercera Edición" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombies!!! Third Edition" />
+			
+						               													<description>Players take on the role of a survivor amid city streets sprawling with Zombies. Movement is determined by dice roll as is combat when the player's piece is in the same square as a Zombie. Players must conserve bullets and protect their life counters. At the end of the turn a dice roll directs the player to move a number of Zombies one square (because they are the slow George Romero type).&amp;#10;&amp;#10;First player to reach the center of the Helipad tile and kill the Zombie there, or kill a total of 25 Zombies wins. When a player is killed they move back to the starting tile and lose half their Zombie kills.&amp;#10;&amp;#10;Zombies!!! is the original game in the Zombies!!! series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2001" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="118">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="71" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="59" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="74" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="43" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="62" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="15" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="45">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="22" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="5" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="43">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="12" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="26" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2481" value="Zombies" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62884" value="Components: Official Music Soundtrack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61897" value="Creatures: Zombies" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52" value="Game: Zombies!!! (Twilight Creations)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="125394" value="Zombies!!! 11: Death Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="143408" value="Zombies!!! 12: Zombie Zoo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="189414" value="Zombies!!! 14: Space Bites!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="224400" value="Zombies!!! 15: Another One Bites the Dust" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="3651" value="Zombies!!! 2: Zombie Corps(e)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="7810" value="Zombies!!! 3.5:  Not Dead Yet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="6113" value="Zombies!!! 3:  Mall Walkers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="20494" value="Zombies!!! 5: School's Out Forever" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31774" value="Zombies!!! 6.66: Fill in the _______!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="28734" value="Zombies!!! 6: Six Feet Under" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="34132" value="Zombies!!! 7: Send in the Clowns" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="40674" value="Zombies!!! 8: Jailbreak" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="66942" value="Zombies!!! 9: Ashes to Ashes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151033" value="Zombies!!! Deadtime Stories" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="99407" value="Zombies!!! X: Feeding the Addiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318166" value="Zombies!!!: Battle Royale Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318169" value="Zombies!!!: I Don't Feel So Good! Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318168" value="Zombies!!!: Master Zombie Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321947" value="Zombies!!!: Social Distancing Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318170" value="Zombies!!!: We're Not Gonna Take It Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318171" value="Zombies!!!: WTH...10 Years? Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="343053" value="Zombies!!!: WTH...20 Years? Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="112924" value="Zombies!!!: You're Not a Zombie! Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318167" value="Zombies!!!: Zombies!!! Yo! Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="168060" value="Zombies!!!: Bag o' Animals!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138409" value="Zombies!!!: Bag o' Babes!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="176162" value="Zombies!!!: Bag o' Brains!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="246734" value="Zombies!!!: Bag o' Bullets!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138350" value="Zombies!!!: Bag o' Clowns!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138402" value="Zombies!!!: Bag o' Dogs!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="246735" value="Zombies!!!: Bag o' Hearts!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="138349" value="Zombies!!!: Bag o' Zombies!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="217354" value="Zombies!!!: Bag o' Zombies!!! Deluxe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378782" value="Zombies!!!: Spielmaterial.de Upgrade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="33040" value="Humans!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="40416" value="Martians!!!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="153802" value="Zombies!!! 13: DEFCON Z" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="10167" value="Zombies!!! 4: The End..." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="277371" value="Zombies!!!: Vegas" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="227650" value="Zombies!!! Ultimate Collector's Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="175778" value="Zombies!!! Jr." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="125395" value="Zombies!!! The Card Game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1005" value="Todd Breitenstein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2362" value="Kerry Breitenstein" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1006" value="Dave Aikins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11872" value="Kurt Miller" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="838" value="Twilight Creations, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="536" value="Journeyman Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1052" value="ToyCo" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15085" />
+			<average value="5.79482" />
+			<bayesaverage value="5.61251" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7460" bayesaverage="5.61251" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="1361" bayesaverage="5.52496" />
+												</ranks>
+
+			<stddev value="1.89153" />
+			<median value="0" />
+			<owned value="23875" />
+			<trading value="1165" />
+			<wanting value="70" />
+			<wishing value="575" />
+			<numcomments value="4049" />
+			<numweights value="1187" />
+			<averageweight value="1.6142" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

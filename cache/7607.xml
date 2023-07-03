@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="7607">
+         <thumbnail>https://cf.geekdo-images.com/_E1OB97X3pSlF1rgnj3AlA__thumb/img/wn5FDLFnBN9w-JpqfDwsIZN0nMY=/fit-in/200x150/filters:strip_icc()/pic48515.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/_E1OB97X3pSlF1rgnj3AlA__original/img/TkZkIi1cGJA5nrfHyk0C_uGzg2k=/0x0/filters:format(jpeg)/pic48515.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Attakube" />
+			
+						                           
+						               													<description>In Attakube a player secretly places 7 of his 12 cubes on the last row of a 7x7 board. A pictogram indicating a special power is etched on one face of each cube. A cube is always placed on the board with the pictogram facing its owner.&amp;#10;&amp;#10;When it's his turn a player can either move a piece one space orthogonally, activate a piece's special power or introduce one of his spare pieces. When a special power is activated, the cube is turned so that the pictogram faces up.&amp;#10;&amp;#10;A player scores points by exiting the board through the first row of his opponent. Exiting in the middle of the board is worth 3 points, exiting elsewhere is worth 1 or 2 points. The first player to score 5 points wins the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2001" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="1" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1413" value="Valéry Fourcade" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3082" value="Dujardin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1768" value="TF1 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1322" value="Tomy" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="65" />
+			<average value="6.55769" />
+			<bayesaverage value="5.53441" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13251" bayesaverage="5.53441" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="646" bayesaverage="5.64988" />
+												</ranks>
+
+			<stddev value="1.16821" />
+			<median value="0" />
+			<owned value="115" />
+			<trading value="3" />
+			<wanting value="6" />
+			<wishing value="22" />
+			<numcomments value="22" />
+			<numweights value="5" />
+			<averageweight value="2.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

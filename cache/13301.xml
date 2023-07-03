@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="13301">
+         <thumbnail>https://cf.geekdo-images.com/XG7oCMyTilS9X_qOMkRPig__thumb/img/ndOpOt7ymN0NsRGOxG-ZgLWfPOo=/fit-in/200x150/filters:strip_icc()/pic951673.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/XG7oCMyTilS9X_qOMkRPig__original/img/tIrQxRXcMNqrIqFKD6qkXNG8ZiA=/0x0/filters:format(jpeg)/pic951673.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Caribbean" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Caraïbes" />
+			    				
+				<name type="alternate" sortindex="1" value="Caribic" />
+			    				
+				<name type="alternate" sortindex="1" value="Karibia" />
+			    				
+				<name type="alternate" sortindex="1" value="Karibik" />
+			    				
+				<name type="alternate" sortindex="1" value="Οι κουρσάροι της Καραϊβικής" />
+			
+						               													<description>Description of the game play from co-designer Michail Antonow:&amp;#10;&amp;#10;The board shows the Caribbean in the 18th century. Six pirate ships lie in wait on sea, ready to pillage the rich ports or to rob the booty from other ships.&amp;#10;&amp;#10;The sea is divided into spaces. Each player is in possession of three safe havens, marked in his color on the board. If only two or three players are playing, the safe havens in the vacant color(s) are treated as normal sea spaces.&amp;#10;&amp;#10;The aim of each player is to lure the pirates to deliver treasure crates to one of their own safe havens, and not to the safe havens of the opponents.&amp;#10;&amp;#10;The pirate ships do not belong to any player. That is why the players must bribe the pirates each time they want a pirate ship to act on their behalf. And what is the greatest temptation for a Caribbean pirate? Rum of course, barrels full of rum!&amp;#10;&amp;#10;In every round the players try anew their best to bribe the pirates. The player who has offered the most rum to a ship gets to move that ship as many spaces as the number of barrels shown on the bribing chip. An active ship can (a) rob a crate from a port or from another ship, (b) reach a crate over to another ship, (c) swap crates with another ship, and/or (d) deliver a crate into a safe haven.&amp;#10;&amp;#10;The aim is to have the most doubloons at the end of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="12">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="6" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="13" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="165016" value="Arkel: De Ontdekkingsreis Sinds 1442" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3573" value="Michail Antonow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1288" value="Jens-Peter Schliemann" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3262" value="Czarnè" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1613" value="Identity Games International B.V." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9287" value="Kanga Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26208" value="Winning Moves Germany" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1543" />
+			<average value="6.19749" />
+			<bayesaverage value="5.80007" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4161" bayesaverage="5.80007" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1260" bayesaverage="5.86715" />
+												</ranks>
+
+			<stddev value="1.21829" />
+			<median value="0" />
+			<owned value="2020" />
+			<trading value="138" />
+			<wanting value="35" />
+			<wishing value="180" />
+			<numcomments value="585" />
+			<numweights value="190" />
+			<averageweight value="1.7526" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

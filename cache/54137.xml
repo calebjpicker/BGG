@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="54137">
+         <thumbnail>https://cf.geekdo-images.com/CyRdRpZaIsCb4B8zfotI4Q__thumb/img/whuWEpda3VITkjptCXHcYD4tCm0=/fit-in/200x150/filters:strip_icc()/pic1887253.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/CyRdRpZaIsCb4B8zfotI4Q__original/img/5FfCNbuFMYfXNoUKKAZkJugz-dE=/0x0/filters:format(jpeg)/pic1887253.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battle Sheep" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Batalla de Ovejas" />
+			    				
+				<name type="alternate" sortindex="1" value="Battle Sheep สมรภูมิเจ้าขนปุย" />
+			    				
+				<name type="alternate" sortindex="1" value="Ovce: Boj o pastviny" />
+			    				
+				<name type="alternate" sortindex="1" value="Owce na wypasie" />
+			    				
+				<name type="alternate" sortindex="1" value="Splits" />
+			    				
+				<name type="alternate" sortindex="1" value="Voll Schaf" />
+			    				
+				<name type="alternate" sortindex="1" value="מלחמת הכבשים" />
+			    				
+				<name type="alternate" sortindex="1" value="それはオレの牧場だ！" />
+			    				
+				<name type="alternate" sortindex="1" value="배틀 쉽" />
+			
+						               													<description>In Battle Sheep (first released as Splits), players start the game by constructing the board from identical four-hex tiles, then each player places his/her tall stack of discs on one of the border hexes. Players take turns removing some number of discs from the top of one of their stacks, moving that new stack of discs as far away as it can go in a straight line. Players must leave at least one disc behind when moving, so the board gradually fills up and movement opportunities become more and more scarce. The player occupying the most spaces at the end of the game wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="73">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="35" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="31">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="14" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="19">
+			
+		<results>		
+					<result level="261" value="No necessary in-game text" numvotes="19" />
+					<result level="262" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="263" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="264" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="265" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70361" value="Digital Implementations: Boiteajeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44423" value="Series: Europe Collection (Blue Orange Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65154" value="Theme: Animal Battles" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2432" value="Francesco Rotta" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72919" value="Andrea Femerstrand" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5022" value="Blue Orange (EU)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37400" value="Jactalea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="FoxGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42442" value="Geoni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36210" value="Lanlalen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32140" value="Lúdilo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4882" />
+			<average value="6.61457" />
+			<bayesaverage value="6.26977" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1705" bayesaverage="6.26977" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="116" bayesaverage="6.41844" />
+												</ranks>
+
+			<stddev value="1.26755" />
+			<median value="0" />
+			<owned value="6092" />
+			<trading value="151" />
+			<wanting value="122" />
+			<wishing value="732" />
+			<numcomments value="1001" />
+			<numweights value="166" />
+			<averageweight value="1.4759" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

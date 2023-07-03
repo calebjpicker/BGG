@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="196">
+         <thumbnail>https://cf.geekdo-images.com/wATGDDZIEe3lpV0TG6D2Wg__thumb/img/L10QeDpXJebe0zH8EBnlioZCS1o=/fit-in/200x150/filters:strip_icc()/pic1490479.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/wATGDDZIEe3lpV0TG6D2Wg__original/img/ScBNhYmbEnaxoR5Yu-t6kU-o0kU=/0x0/filters:format(jpeg)/pic1490479.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kremlin" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kremel" />
+			    				
+				<name type="alternate" sortindex="1" value="Кремль" />
+			    				
+				<name type="alternate" sortindex="1" value="クレムリン" />
+			
+						               													<description>A game of political intrigue set in the Soviet Politburo. The game consists of a large number of politician cards, some of which form the first politburo. Politicians have certain stats (preferred offices, for instance) and an age.&amp;#10;&amp;#10;At the start of the game, the players secretly note influence on ten politicians, graded from 10 (most) to 1 (least). Gameplay is not clockwise, but happens from top to bottom in the politburo. Whatever action the politician in a certain office can take is done by the player who reveals the greatest influence on the politician in question. Actions include accusing other politicians of espionage (potentially exiling them to Siberia), pardoning them, reshuffling the politburo and others. But each action a politician takes lets him (or in one case, her) age by one or more years. Once a turn each politburo member must face a health roll which can result in sickness marker or even instant death (the older, the most likely). At the end of each turn, the reigning head of state must wave to the crowd at the October parade without collapsing (which gets harder the sicker the politician is). A politician who succeeds in this three times makes the player who controls him/her the winner.&amp;#10;&amp;#10;The original Fata Morgana edition included rules requiring the players to hold funeral speeches for deceased party chairmen and drinking vodka with it, for instance. The later Avalon Hill edition scrapped these rules and gave the game a less satirical and more serious tone.&amp;#10;&amp;#10;Jolly Roger reimplemented an edition providing three different KREMLIN games in one box -See Kremlin (Third Edition)-:&amp;#10;&amp;#10;1: The 'original' with fictional politicians, set in a USSR where KGB investigations send those found guilty to Siberia. This version will have victory conditions based on the original Fata Morgana rules.&amp;#10;&amp;#10;2: A version inspired by the Avalon Hill variant titled 'Revolution'. Set in the 1920s, it uses historical politicians as well as fictional politicians. It's a more violent game as those arrested by the KGB are shot and removed from the game&amp;#10;&amp;#10;3: A new version, set in the modern USSR and Russia, an era of entrenched bureaucracy and alternatives for escaping KGB persecution. This version introduces the concept of &amp;quot;Going into Exile&amp;quot; to avoid Siberia. It also includes modern politicians from the 1960s onwards, whether it is Kosygin or Putin and Gorbachev.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1986" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="41">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="75" />
+						               				<maxplaytime value="75" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="2" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="25">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="1" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="8" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18581" value="Country: Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="64895" value="Kremlin: Destalinization Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="1685" value="Kremlin: Revolution" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="161782" value="Kremlin (Third Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="172" value="Urs Hostettler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12118" value="Res Brandenberger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="22568" value="Clay Gardner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="18529" value="Rasenjin Hayami" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2652" value="Charles Kibler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64089" value="Ander Plana" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="114" value="Fata Morgana Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2911" />
+			<average value="6.97186" />
+			<bayesaverage value="6.35645" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1469" bayesaverage="6.35645" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="355" bayesaverage="6.51436" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="816" bayesaverage="6.44432" />
+												</ranks>
+
+			<stddev value="1.55756" />
+			<median value="0" />
+			<owned value="4123" />
+			<trading value="145" />
+			<wanting value="165" />
+			<wishing value="532" />
+			<numcomments value="938" />
+			<numweights value="268" />
+			<averageweight value="2.847" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

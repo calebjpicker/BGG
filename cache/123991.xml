@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="123991">
+         <thumbnail>https://cf.geekdo-images.com/TgkdY7T_80j9S4s3SBLOZw__thumb/img/k_R9k5ujfsa1RTNPUjA-Sjv4W2Q=/fit-in/200x150/filters:strip_icc()/pic1297084.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/TgkdY7T_80j9S4s3SBLOZw__original/img/RGvBpHu2hLrrh9xHyd7cAXg6OqU=/0x0/filters:format(jpeg)/pic1297084.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Taggle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Morda!" />
+			    				
+				<name type="alternate" sortindex="1" value="Ta Yeule" />
+			    				
+				<name type="alternate" sortindex="1" value="¿Por qué no te callas?" />
+			    				
+				<name type="alternate" sortindex="1" value="Кринж" />
+			
+						               													<description>Taggle is a card game from 1 to 5 players.&amp;#10;&amp;#10;Includes: 110 cards (50 'Thoughts' cards and 50 'Retort' cards).&amp;#10;&amp;#10;Each player draws a card. One of the players read out loud one of the Thoughts lines: the other players, each at their turn, must use one of their 'Retort' lines to snap back the silliest or funnniest retort.&amp;#10;&amp;#10;The player who fails to do that, or gives the lamest retort (after a vote by the players), is shouted out: &amp;quot;Taggle&amp;quot; and loses 1 point on the score track.&amp;#10;&amp;#10;At the end of a round, the player with the most points loses the game.&amp;#10;&amp;#10;Integrates with:&amp;#10;&amp;#10;&amp;#10;     Taggle d'amour&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="116" value="No necessary in-game text" numvotes="0" />
+					<result level="117" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="118" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="119" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="120" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1118" value="Mature / Adult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="159890" value="Taggle d'amour" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="191882" value="Klappe!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="245361" value="Ta Boite" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="190772" value="Ta bouche" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="36330" value="Fabien Bleuze" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="44" value="Yves Hirschfeld" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="6076" value="Christian Fiore" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44" value="Yves Hirschfeld" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27230" value="Le Droit de Perdre" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5640" value="Kikigagne?" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="164" />
+			<average value="5.34574" />
+			<bayesaverage value="5.48308" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22600" bayesaverage="5.48308" />
+												</ranks>
+
+			<stddev value="1.86474" />
+			<median value="0" />
+			<owned value="402" />
+			<trading value="9" />
+			<wanting value="1" />
+			<wishing value="14" />
+			<numcomments value="21" />
+			<numweights value="6" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

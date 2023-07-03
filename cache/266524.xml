@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="266524">
+         <thumbnail>https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__thumb/img/K2AgL-KE_CTcvwahWd7zlt9YR0U=/fit-in/200x150/filters:strip_icc()/pic4852372.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__original/img/_KNgPoC_4l7iN0ntbFILexOJpfc=/0x0/filters:format(jpeg)/pic4852372.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="PARKS" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Parki" />
+			    				
+				<name type="alternate" sortindex="1" value="PARKY" />
+			    				
+				<name type="alternate" sortindex="1" value="Парки" />
+			    				
+				<name type="alternate" sortindex="1" value="國家公園：自然之旅" />
+			
+						               													<description>PARKS is a celebration of the US National Parks featuring illustrious art from Fifty-Nine Parks.&amp;#10;&amp;#10;In PARKS, players will take on the role of two hikers as they trek through different trails across four seasons of the year. While on the trail, these hikers will take actions and collect memories of the places your hikers visit. These memories are represented by various resource tokens like mountains and forests. Collecting these memories in sets will allow players to trade them in to visit a National Park at the end of each hike.&amp;#10;&amp;#10;Each trail represents one season of the year, and each season, the trails will change and grow steadily longer. The trails, represented by tiles, get shuffled in between each season and laid out anew for the next round. Resources can be tough to come by especially when someone is at the place you&amp;rsquo;re trying to reach! Campfires allow you to share a space and time with other hikers. Canteens and Gear can also be used to improve your access to resources through the game. It&amp;rsquo;ll be tough to manage building up your engine versus spending resources on parks, but we bet you&amp;rsquo;re up to the challenge. Welcome to PARKS!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="390">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="141" />
+					<result value="Not Recommended" numvotes="61" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="68" />
+					<result value="Recommended" numvotes="199" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="202" />
+					<result value="Recommended" numvotes="89" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="82" />
+					<result value="Recommended" numvotes="163" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="73" />
+					<result value="Not Recommended" numvotes="128" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="143" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="78">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="28" />
+					<result value="10" numvotes="38" />
+					<result value="12" numvotes="7" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="25">
+			
+		<results>		
+					<result level="641" value="No necessary in-game text" numvotes="0" />
+					<result level="642" value="Some necessary text - easily memorized or small crib sheet" numvotes="15" />
+					<result level="643" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="10" />
+					<result level="644" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="645" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59819" value="Series: PARKS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61439" value="Theme: US National Parks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="298729" value="PARKS: Nightfall" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="291459" value="PARKS: Season of Tantrum Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="358854" value="PARKS: Wildlife" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366766" value="PARKS &amp; Nightfall: LevityGames Meeple Upgrade Kit Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369129" value="PARKS: Bear Wildlife Promo Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329514" value="PARKS: Fox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291460" value="PARKS: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309220" value="PARKS: Raccoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348605" value="PARKS: The GiftForge Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="107084" value="Henry Audubon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="114183" value="Fifty-Nine Parks Print Series" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31523" value="Keymaster Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46179" value="Albi Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin' Meeple China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30091" value="Tranjis Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="21355" />
+			<average value="7.69487" />
+			<bayesaverage value="7.45275" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="129" bayesaverage="7.45275" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="17" bayesaverage="7.48715" />
+												</ranks>
+
+			<stddev value="1.21035" />
+			<median value="0" />
+			<owned value="37975" />
+			<trading value="247" />
+			<wanting value="850" />
+			<wishing value="8441" />
+			<numcomments value="3293" />
+			<numweights value="530" />
+			<averageweight value="2.1434" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

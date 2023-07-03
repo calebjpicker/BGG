@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="131835">
+         <thumbnail>https://cf.geekdo-images.com/VBwaHyx-NWL3VLcCWKRA0w__thumb/img/wisLXxKXbo5-Ci-ZjEj8ryyoN2g=/fit-in/200x150/filters:strip_icc()/pic1732644.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/VBwaHyx-NWL3VLcCWKRA0w__original/img/izAmJ81QELl5DoK3y2bzJw55lhA=/0x0/filters:format(jpeg)/pic1732644.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Boss Monster: The Dungeon Building Card Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Boss Monster: Baue deinen Dungeon!" />
+			    				
+				<name type="alternate" sortindex="1" value="Boss Monster: Costruisci il tuo dungeon" />
+			    				
+				<name type="alternate" sortindex="1" value="Boss Monster: gra karciana o budowaniu podziemi" />
+			    				
+				<name type="alternate" sortindex="1" value="Boss Monster: Le jeu de cartes de création de donjon" />
+			    				
+				<name type="alternate" sortindex="1" value="Boss Monster: Master of the Dungeon" />
+			    				
+				<name type="alternate" sortindex="1" value="Monstruo Final" />
+			    				
+				<name type="alternate" sortindex="1" value="Босс-Монстр" />
+			
+						               													<description>Inspired by a love of classic video games, Boss Monster: The Dungeon Building Card Game pits 2-4 players in a competition to build the ultimate side-scrolling dungeon. Players compete to lure and destroy hapless adventurers, racing to outbid one another to see who can build the most enticing, treasure-filled dungeon. The goal of Boss Monster is to be the first Boss to amass ten Souls, which are gained when a Hero is lured and defeated &amp;mdash; but a player can lose if his Boss takes five Wounds from Heroes who survive his dungeon.&amp;#10;&amp;#10;Playing Boss Monster requires you to juggle two competing priorities: the need to lure Heroes at a faster rate than your opponents, and the need to kill those Heroes before they reach your Boss. Players can build one room per turn, each with its own damage and treasure value. More attractive rooms tend to deal less damage, so a Boss who is too greedy can become inundated with deadly Heroes.&amp;#10;&amp;#10;Players interact with each other by building rooms and playing Spells. Because different Heroes seek different treasure types, and rooms are built simultaneously (played face down, then revealed), this means that every &amp;quot;build phase&amp;quot; is a bidding war. Spells are instant-speed effects that can give players advantages or disrupt opponents.&amp;#10;&amp;#10;As a standalone card game with 155 cards, Boss Monster contains everything that 2-4 players need to play.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="142">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="95" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="33" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="66" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="78" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="73" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="51">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="25" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="34">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="23" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="7" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2685" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5615" value="Creatures: Monsters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21203" value="Game: Boss Monster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67861" value="Theme: Villainy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158845" value="Boss Monster: Bast Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158933" value="Boss Monster: Bastas Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164723" value="Boss Monster: Bom-Boy Factory Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="194669" value="Boss Monster: Collector Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202831" value="Boss Monster: Crash Landing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="133778" value="Boss Monster: Creator Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="341273" value="Boss Monster: Dragon Prince Hero Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="133780" value="Boss Monster: Epic Multi Heroes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206997" value="Boss Monster: Final Form! Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263340" value="Boss Monster: Game Night #2 Season One Event Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="228178" value="Boss Monster: Get Over Here! Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="187141" value="Boss Monster: Hidden Secrets" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="225319" value="Boss Monster: Implements of Destruction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164746" value="Boss Monster: Killa, Man Eating Gorilla Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="254559" value="Boss Monster: Kingkiller Hero Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206829" value="Boss Monster: Klonos Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="230511" value="Boss Monster: Malakill Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="181768" value="Boss Monster: Mirrax Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="314324" value="Boss Monster: Overboss Bonus Pack Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164095" value="Boss Monster: Paper &amp; Pixels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="363063" value="Boss Monster: Portable Power Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="133777" value="Boss Monster: Power-Up Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="164719" value="Boss Monster: Quothe Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="212379" value="Boss Monster: Reactor Core" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310149" value="Boss Monster: Santa Epic Hero Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="133775" value="Boss Monster: The Golden Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="223370" value="Boss Monster: The Lost Levels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="133772" value="Boss Monster: Tools of Hero-Kind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="235837" value="Boss Monster: Totale Zerstörung!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="310974" value="Boss Monster: Vault of Villains" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313459" value="Overboss: A Boss Monster Adventure – Limited Edition Bonus Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="194453" value="Boss Monster: The Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="368322" value="Boss Monster: Custom Card Sleeves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="285588" value="Boss Monster: Heart/Coins Markers, Dice and Chest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="213989" value="Boss Monster: König Croak Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="213012" value="Boss Monster: Learn to Play Paper Playmat" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="174973" value="Boss Monster 2: The Next Level" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="246855" value="Boss Monster: Rise of the Minibosses" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="386660" value="Boss Monster: 10th Anniversary Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="27052" value="Johnny O'Neal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="71054" value="Chris O'Neal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="114764" value="Christopher O'Neal" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75426" value="Beau Buckley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75425" value="Francisco Coda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75424" value="Katrina Guillermo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="67746" value="Kyle Merritt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75427" value="David Nyari" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75428" value="Alexander Olsen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75429" value="Andres Sanabria" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23664" value="Brotherwise Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27480" value="Fever Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44563" value="Muduko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17952" value="Redbox Editora (Redbox)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27316" value="Trefl Joker Line" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16252" />
+			<average value="6.27503" />
+			<bayesaverage value="6.09516" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2325" bayesaverage="6.09516" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="917" bayesaverage="6.05649" />
+												</ranks>
+
+			<stddev value="1.45984" />
+			<median value="0" />
+			<owned value="34045" />
+			<trading value="1096" />
+			<wanting value="100" />
+			<wishing value="1326" />
+			<numcomments value="2910" />
+			<numweights value="487" />
+			<averageweight value="1.8501" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

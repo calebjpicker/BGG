@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="111999">
+         <thumbnail>https://cf.geekdo-images.com/GwFkqVoHxptEm6uyDz0Qbw__thumb/img/isi5eHPdexAUqFi-QKeHV0zYGwM=/fit-in/200x150/filters:strip_icc()/pic1139482.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GwFkqVoHxptEm6uyDz0Qbw__original/img/EgAAESSCD1Od02rYAniWwhz1L-s=/0x0/filters:format(jpeg)/pic1139482.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pharaoh Code" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kod Faraona" />
+			    				
+				<name type="alternate" sortindex="1" value="Opération Pharaon" />
+			    				
+				<name type="alternate" sortindex="1" value="Pharao Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Pyramid Code" />
+			    				
+				<name type="alternate" sortindex="1" value="Код Фараона" />
+			    				
+				<name type="alternate" sortindex="1" value="צופן הפירמידה" />
+			    				
+				<name type="alternate" sortindex="1" value="法老密碼" />
+			    				
+				<name type="alternate" sortindex="1" value="파라오 코드" />
+			
+						               													<description>In Pharaoh Code, you're trying to claim as many scarabs as you can by solving the aforementioned codes. To set up the game, you divide the number tiles into four piles based on the number of scarabs on them, with more scarabs typically signifying larger numbers. To create the number pyramid, you lay out one tile with four scarabs, two tiles with three, and so on.&amp;#10;&amp;#10;On a turn, one players rolls the three dice &amp;ndash; an octahedron, a decahedron and a dodecahedron &amp;ndash; then all players try to use the four fundamental arithmetic operations to transform the numbers on two or three of the dice to match one of the numbers on a tile. For example, amongst the cards on the board is a 72 and you rolled two 8s and one 1; you can calculate 8 x (8 + 1) and the result is 72. As soon as a player has reached a target number, she takes that tile off the game board, then flips the thirty-second sand timer. Everyone else can grab one tile during this time, then once time expires the players must demonstrate how they reached the number in question. If a player calculated correctly, she keeps the tile face-up; otherwise she flips it face-down as a penalty.&amp;#10;&amp;#10;Players then fill up empty spaces on the game board, then roll the dice again to start another round. As soon as a row cannot be filled, the game ends. Players then tally the scarabs they collected, subtract penalty scarabs, and see who has the highest score.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="2" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="53733" value="Jung-Hun Lim" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53734" value="Jun-Ho Na" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="258" />
+			<average value="6.06032" />
+			<bayesaverage value="5.55118" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11076" bayesaverage="5.55118" />
+												</ranks>
+
+			<stddev value="1.65625" />
+			<median value="0" />
+			<owned value="321" />
+			<trading value="11" />
+			<wanting value="6" />
+			<wishing value="38" />
+			<numcomments value="51" />
+			<numweights value="10" />
+			<averageweight value="1.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

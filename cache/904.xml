@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="904">
+         <thumbnail>https://cf.geekdo-images.com/1elpLCAJcRmWtPVZy2gFaA__thumb/img/MKD7eO1i3GjyskxROM6boEOjq0o=/fit-in/200x150/filters:strip_icc()/pic6926823.png</thumbnail>
+      <image>https://cf.geekdo-images.com/1elpLCAJcRmWtPVZy2gFaA__original/img/_GYbqQtZAlmIFMOht2Dk_Qq2Pto=/0x0/filters:format(png)/pic6926823.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nightmare Productions" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cine Pipoca" />
+			    				
+				<name type="alternate" sortindex="1" value="Dream Factory" />
+			    				
+				<name type="alternate" sortindex="1" value="Fabrik der Träume" />
+			    				
+				<name type="alternate" sortindex="1" value="Hollywood" />
+			    				
+				<name type="alternate" sortindex="1" value="Hollywood Blockbuster" />
+			    				
+				<name type="alternate" sortindex="1" value="Hollywood Golden Age" />
+			    				
+				<name type="alternate" sortindex="1" value="Traumfabrik" />
+			    				
+				<name type="alternate" sortindex="1" value="Tytus, Romek i A&#039;Tomek" />
+			    				
+				<name type="alternate" sortindex="1" value="할리우드 골든 에이지" />
+			
+						               													<description>Reiner Knizia's auction game about producing movies. In four rounds, players bid on chips representing genuine directors, actors, camera, effects, music, guest stars and agents (or in Nightmare Productions edition: creatures, locations, directors, musical conductors, cameos, and contractors). These all get placed on players' film-strips to complete the movie production. So one movie might need 2 actors (in editions prior to Nightmare Productions), but no music or effects and so on. As films are completed, the points value is marked and another film-strip taken. There are two parties (in Nightmare Productions edition: horror cons) each round where players get to pick from offers without paying anything. There are bonus points for first films completed and best films, best directors (in Nightmare Productions edition: best creatures), even worst film.&amp;#10;&amp;#10;The auction is a basic rising offer with passing until one winning bid remains. Players pay into the pot with contracts (in Nightmare Productions edition: money), and the rest of the players share the pot each turn. So it's a closed economy with players trying to time to bid on what they really need to complete films.&amp;#10;&amp;#10;See Movie Comparison - Traumfabrik for listings of movies and actors in each version prior to Nightmare Productions edition.&amp;#10;&amp;#10;Note: There have been many editions of the game under varying names. All are identical except for Nightmare Productions edition which has introduced a few changes.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="120">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="74" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="67" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="67" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="65" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="52" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="11" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="35">
+			
+		<results>		
+					<result level="2396" value="No necessary in-game text" numvotes="32" />
+					<result level="2397" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="2398" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="2399" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="2400" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2919" value="Auction: Turn Order Until Pass" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2928" value="Closed Economy Auction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6963" value="Series: Filosofia Reprints" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65218" value="Theme: Movie Industry" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="113511" value="Silver Screen" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="100553" value="Daniel Araújo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15099" value="Damon S. Brown" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109464" value="Sophie Eves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9019" value="Olivier Fagnère" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="100554" value="Marcelo Groo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20789" value="Allison Kline" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="116352" value="Samuel Marcelino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74" value="Doris Matthäus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23728" value="Dug Nation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12386" value="Stéphane Poinsot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12732" value="David Prieto" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49125" value="Trick or Treat Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1901" value="Überplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7496" value="Egmont Polska" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43330" value="Imagine Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16826" value="Ludonova" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37459" value="Summon Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5466" />
+			<average value="7.05746" />
+			<bayesaverage value="6.64078" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="923" bayesaverage="6.64078" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="545" bayesaverage="6.73893" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="220" bayesaverage="6.75199" />
+												</ranks>
+
+			<stddev value="1.22895" />
+			<median value="0" />
+			<owned value="6114" />
+			<trading value="312" />
+			<wanting value="296" />
+			<wishing value="1266" />
+			<numcomments value="2029" />
+			<numweights value="533" />
+			<averageweight value="2.1069" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="362541">
+         <thumbnail>https://cf.geekdo-images.com/pIwUHxze-vcbThTE9JrRgg__thumb/img/gs6tv4k2kkOAQvwKWxwi0nJOWMQ=/fit-in/200x150/filters:strip_icc()/pic6850090.png</thumbnail>
+      <image>https://cf.geekdo-images.com/pIwUHxze-vcbThTE9JrRgg__original/img/_mmaFQnlTqZ6bdmFsAQwMyHXomo=/0x0/filters:format(png)/pic6850090.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ticket to Ride: San Francisco" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Les Aventuriers du Rail: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="Jízdenky, Prosím! San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="Wsiąść do Pociągu: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="Zug um Zug: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="¡Aventureros al Tren!: San Francisco" />
+			    				
+				<name type="alternate" sortindex="1" value="チケット・トゥ・ライド：サンフランシスコ" />
+			    				
+				<name type="alternate" sortindex="1" value="티켓 투 라이드: 샌프란시스코" />
+			
+						               													<description>Ticket to Ride: San Francisco features the familiar gameplay from the Ticket to Ride game series &amp;mdash; collect cards, claim routes, draw tickets &amp;mdash; but on a map of 1960s San Francisco that allows you to complete a game in no more than 15 minutes.&amp;#10;&amp;#10;Each player starts with a supply of 20 cable cars, two transportation cards in hand, and one or two destination tickets that show locations in San Francisco. On a turn, you either draw two transportation cards from the deck or the display of five face-up cards (or you take one face-up ferry, which counts as all six colors in the game); or you claim a route on the board by discarding cards that match the color of the route being claimed (with any set of cards allowing you to claim a gray route, although some require ferries); or you draw two destination tickets and keep at least one of them.&amp;#10;&amp;#10;When you build a line that connects to a souvenir location, such as Lombard Street, the Embarcadero, or the Golden Gate Bridge, you take a souvenir token from that location.&amp;#10;&amp;#10;Players take turns until someone has no more than two cable cars in their supply, then each player takes one final turn, including the player who triggered the end of the game. Players then sum their points, scoring points for (1) the routes that they've claimed during the game, (2) the destination tickets that they've completed (by connecting the two locations on a ticket by a continuous line of their cable cars), and (3) the souvenirs that they've collected, with a full set of seven souvenirs being worth 12 points. You lose points for any uncompleted destination tickets, then whoever has the high score wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="1" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18233" value="Cities: San Francisco (California, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67953" value="Components: Map (City Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17" value="Game: Ticket to Ride (Official)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="369877" value="Ticket To Ride: San Francisco – Custom Cable Cars Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="9209" value="Ticket to Ride" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9" value="Alan R. Moon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11886" value="Julien Delval" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1027" value="Days of Wonder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="572" />
+			<average value="7.27906" />
+			<bayesaverage value="5.89086" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3404" bayesaverage="5.89086" />
+												</ranks>
+
+			<stddev value="1.04085" />
+			<median value="0" />
+			<owned value="2256" />
+			<trading value="15" />
+			<wanting value="35" />
+			<wishing value="191" />
+			<numcomments value="116" />
+			<numweights value="11" />
+			<averageweight value="1.6364" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

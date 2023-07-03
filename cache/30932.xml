@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="30932">
+         <thumbnail>https://cf.geekdo-images.com/mFGcTOv8I8PM6XZLqvMV8w__thumb/img/I8S2zN2jNxQWMuWqxpj5ae84l_o=/fit-in/200x150/filters:strip_icc()/pic1248549.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mFGcTOv8I8PM6XZLqvMV8w__original/img/UTdvfXJsUw2pQCHPcxZrlOl6ej0=/0x0/filters:format(jpeg)/pic1248549.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lascaux" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Lascaux: Exploring Ancestral Art" />
+			    				
+				<name type="alternate" sortindex="1" value="Lascaux: lov bez oštěpu" />
+			    				
+				<name type="alternate" sortindex="1" value="Lascaux: Η Σπηλιά με τις Ζωγραφιές" />
+			
+						               													<description>Lascaux is a game about the French caves containing animal paintings; discovered in 1940 by four teenagers.&amp;#10;&amp;#10;This auction game is based on the bidding mechanism of Michael Schacht's Mogul also implemented in No Thanks!&amp;#10;&amp;#10;The deck consists of 54 cards each representing one of six animals and a combination of two colors. At the beginning of a round, cards are turned face up until all six colors are showing or seven cards are face up. All players secretly decide which color cards they hope to win at the end of the round. On their turn, players bid by placing a stone on the table. If a player passes, he picks up all the stones currently on the table and places his token on top of the token pile. The last player remaining grabs all the cards of the color he had chosen earlier in the round. The second to last player, whose token now sits at the top of the token pile, then picks up all the cards of his chosen color if any cards of that color are left. The same process is repeated for each player when their token is at the top of the token pile. The game ends when all the cards of the deck have been claimed. Players then earn points for each animal for which they have majority.&amp;#10;&amp;#10;Components: 54 cards, 50 stones, 30 markers, rules.&amp;#10;&amp;#10;Released: Essen 2007.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="25" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="646" value="No necessary in-game text" numvotes="9" />
+					<result level="647" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="648" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="649" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="650" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1036" value="Prehistoric" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7576" value="Animals: Deer / Antelope" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7523" value="Animals: Horses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19068" value="Animals: Mammoths" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19030" value="Animals: Rhinoceroses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7481" value="Animals: Sheep" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56419" value="Theme: Art" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="66982" value="Boomerang" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="79" value="Dominique Ehrhard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="101" value="Michel Lalet" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4304" value="Albi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="855" value="Phalanx Games B.V." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1115" />
+			<average value="6.3454" />
+			<bayesaverage value="5.80822" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4089" bayesaverage="5.80822" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1217" bayesaverage="5.8888" />
+												</ranks>
+
+			<stddev value="1.23977" />
+			<median value="0" />
+			<owned value="1276" />
+			<trading value="84" />
+			<wanting value="56" />
+			<wishing value="218" />
+			<numcomments value="391" />
+			<numweights value="112" />
+			<averageweight value="1.5714" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="295758">
+         <thumbnail>https://cf.geekdo-images.com/gnTA6YIJF3boftoPTuL3Hw__thumb/img/qXNT--fRB5T6G_rs0VnKdM-kBA0=/fit-in/200x150/filters:strip_icc()/pic5092144.png</thumbnail>
+      <image>https://cf.geekdo-images.com/gnTA6YIJF3boftoPTuL3Hw__original/img/rIabqnf55YCO1JEAgLrJ99OvrRE=/0x0/filters:format(png)/pic5092144.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Couperation" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="クーペレイション" />
+			    				
+				<name type="alternate" sortindex="1" value="쿠페레이션" />
+			
+						               													<description>In Couperation (&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#131;&amp;#154;&amp;#227;&amp;#131;&amp;#172;&amp;#227;&amp;#130;&amp;#164;&amp;#227;&amp;#130;&amp;#183;&amp;#227;&amp;#131;&amp;#167;&amp;#227;&amp;#131;&amp;#179;), players try to play cards from their hand to create a card pyramid seven layers high while staying within certain rules for the placement of cards.&amp;#10;&amp;#10;Cards in the deck range from 1-50, and the cards numbered 1 and 50 &amp;mdash; along with 2-4 other random cards &amp;mdash; are placed in the reserve at the top of the playing area before the game begins. Each player receives a hand of three cards.&amp;#10;&amp;#10;On a turn, you draw 0-4 cards from the deck depending on which card was played the previous turn. (The first player of the game optionally draws one card.) Then you can play a card face up or face down in the pyramid. Within a row, card values must escalate from left to right; when placing a card on a higher row, that card must be supported by two other cards and the newly placed card's value must be between the values of the two supporting cards. When you place a card face down, you ignore the value restriction.&amp;#10;&amp;#10;Alternatively, you can discard two cards to the reserve, then draw a card from the reserve that equals the sum or the difference of these two cards. (You can discard other cards in your hand from the game to raise or lower this sum/difference by 1 for each such card.) You then place this card from the reserve in the tower, either in an empty spot or in place of another card (with you adding this replaced card to your hand).&amp;#10;&amp;#10;If you manage to create a card tower seven layers tall (i.e., with 28 cards) and all those cards are face up, then you win.&amp;#10;&amp;#10;Once you play a few times, you can add the Finish card (#25) to the game. During set-up, you shuffle this card in the bottom half of the deck. Whoever draws it places this card in front of themselves, then draws a replacement card. The Finish card is part of this player's hand, but doesn't count against their three-card hand limit. The Finish card cannot be played face down, and if it's removed from the tower, it must be placed face up in front of the active player. The Finish card must be the final card played at the top of the tower for players to win.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="120508" value="Yusuke Sawaguchi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="122711" value="Sayuri Otsuka" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44305" value="Fudacoma Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="6.97" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.23616" />
+			<median value="0" />
+			<owned value="29" />
+			<trading value="1" />
+			<wanting value="2" />
+			<wishing value="12" />
+			<numcomments value="5" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

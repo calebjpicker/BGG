@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="286309">
+         <thumbnail>https://cf.geekdo-images.com/u6FXKKaEe4lGqdNqdts49Q__thumb/img/76MjN8RaQMtmBPDz1JT6USYGduE=/fit-in/200x150/filters:strip_icc()/pic4917786.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u6FXKKaEe4lGqdNqdts49Q__original/img/WGPPEv5MTBvwqfJTGz_VVnZY6Ds=/0x0/filters:format(jpeg)/pic4917786.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="UNO Dice Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="UNO Würfelspiel" />
+			
+						               													<description>Note: There are two other games in the database with the same name as this one: UNO Dice Game (2011) and UNO Dice (1987).  All three games are entirely different.&amp;#10;&amp;#10;UNO Dice Game is a roll -and-write version of the UNO card game.  Each player gets a marker and an individual player board.  The object of the game is to be the first player to fill in all of the spaces on your board.&amp;#10;&amp;#10;On your turn, roll all 6 dice.  You are allowed one reroll if you don't like the results.  Then, arrange the dice in a chain by matching either color or number.  The first die in your chain must match the number of the last number written on your board.&amp;#10;&amp;#10;For example, the last number on your board is a 5.  Your chain could start with a red 5, then continue with a blue 5, a blue 3, and end with a blue 2.  When you have finished creating your chain, write those numbers in the spaces on your player board.  Finally, call out the color and number of the last die in your chain.  Any player who is able to match that number to the last number written on their board may write it down.  The player whose board matches the color of the number you called out can always write the number, even if it doesn't match.&amp;#10;&amp;#10;Use wilds, draw 1s and minus 1s to help yourself and hinder your opponents.  The first player to fill in all the empty spaces on their board wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="0" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4890" value="Game: UNO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57195" value="Series: Roll &amp; Write (Mattel)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="2223" value="UNO" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="116013" value="Emmorie Jossie" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="63" />
+			<average value="5.13651" />
+			<bayesaverage value="5.48537" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="22375" bayesaverage="5.48537" />
+												</ranks>
+
+			<stddev value="1.73382" />
+			<median value="0" />
+			<owned value="237" />
+			<trading value="8" />
+			<wanting value="0" />
+			<wishing value="13" />
+			<numcomments value="12" />
+			<numweights value="3" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6582">
+         <thumbnail>https://cf.geekdo-images.com/xI744OCX91Wfgh7MLiEHlQ__thumb/img/VOkvqHUO7N-1CGJei52l4TKP2ao=/fit-in/200x150/filters:strip_icc()/pic177942.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/xI744OCX91Wfgh7MLiEHlQ__original/img/X7D_GCCHDzdja4ibI8OaqLpm3sw=/0x0/filters:format(jpeg)/pic177942.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Let&#039;s Do Lunch!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cannibalmania" />
+			    				
+				<name type="alternate" sortindex="1" value="Kannibalen" />
+			    				
+				<name type="alternate" sortindex="1" value="Merienda canibal" />
+			    				
+				<name type="alternate" sortindex="1" value="Morfals" />
+			    				
+				<name type="alternate" sortindex="1" value="Vamos almoçar!" />
+			
+						               													<description>An abstract two-player game played on a 7x7 board with 12 cannibal pawns per player. The three six-sided dice show the numbers 1 to 3, twice each per die. A half-hearted attempt has been made to theme the game around two cannibal tribes trying to eat each other.&amp;#10;&amp;#10;The columns on the board are numbered 3 to 9. Down the center of the board (column 6) runs a stream. The board is initially empty. Each player in turn rolls the three dice and then places one of their cannibals anywhere on the column given by the total of the three dice. If a player rolls three of a kind, they place a pawn and then take another turn. If a player rolls 1,2,3 then they do not place a pawn. If you enclose a line of the opponent's pawns between two of your pawns (horizontally, vertically, or diagonally), then the opponent must take back their pawns except for those in column 6.  The enclosure may wrap around the top and bottom of the board, but not the sides.&amp;#10;&amp;#10;The first player to place their final pawn on the board wins.&amp;#10;&amp;#10;Re-implements:&amp;#10;&amp;#10;&amp;#10;     Dragonlance Mage Stones &amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="96" value="No necessary in-game text" numvotes="1" />
+					<result level="97" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="98" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="99" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="100" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1036" value="Prehistoric" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78573" value="Components: 7 x 7 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64376" value="Theme: Cannibals / Cannibalism" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="133" value="Tom Kruszewski" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="728" value="Steve Weiss" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="75" />
+			<average value="5.43575" />
+			<bayesaverage value="5.49723" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="20832" bayesaverage="5.49723" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1114" bayesaverage="5.49097" />
+												</ranks>
+
+			<stddev value="1.54023" />
+			<median value="0" />
+			<owned value="200" />
+			<trading value="10" />
+			<wanting value="4" />
+			<wishing value="7" />
+			<numcomments value="33" />
+			<numweights value="8" />
+			<averageweight value="1.125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

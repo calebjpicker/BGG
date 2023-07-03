@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="36401">
+         <thumbnail>https://cf.geekdo-images.com/FKSaN8zr8kvs2JsIqG6hbg__thumb/img/wrv0U4Vey6VE3Qc2v1TbEb2WbSY=/fit-in/200x150/filters:strip_icc()/pic331189.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FKSaN8zr8kvs2JsIqG6hbg__original/img/SmkMb_Au4PUmpIWHopg-JvA_YuU=/0x0/filters:format(jpeg)/pic331189.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lineage" />
+			
+						                           
+						               													<description>Official Site: http://www.lineageboards.com/&amp;#10;&amp;#10;Lineage is a two-player, turn-based, abstract strategy game designed by Ray Li at age 16 for a school project.  It is played on a board of intersecting ovals and lines.&amp;#10;&amp;#10;The Objective: Capture the four center points.&amp;#10;&amp;#10;Game Setup: You start the game with ten of your pieces on or within the starting oval, and the other two on the center points on your right.&amp;#10;&amp;#10;Game Mechanics: On each turn, you must either move one of your pieces or force an enemy piece.&amp;#10;&amp;#10;--Moving your own pieces: A piece may move to any intersection along the lines it is on, unless another piece is in its way. Also, every line that goes off the board is connected to the other side of itself.&amp;#10;&amp;#10;--Forcing an enemy piece: If an enemy piece is surrounded on all sides except one and one of your pieces is behind the enemy piece, you may force the enemy piece through the open intersection (see detailed explanation on the official website).&amp;#10;&amp;#10;--Piece elimination: You can eliminate pieces by surrounding them.&amp;#10;&amp;#10;Lineage can be purchased directly from the publisher's website: LineageBoards.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="50" />
+						               				<maxplaytime value="50" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10577" value="Ray Li" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8339" value="LineageBoards" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="6.83333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.63299" />
+			<median value="0" />
+			<owned value="22" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="15" />
+			<numcomments value="9" />
+			<numweights value="3" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

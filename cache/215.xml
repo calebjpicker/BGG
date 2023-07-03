@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="215">
+         <thumbnail>https://cf.geekdo-images.com/gz8_8iYP2SSGVAxpp7CwLg__thumb/img/5jkPnPGk5LWNzuW5GANPDLa4ZRA=/fit-in/200x150/filters:strip_icc()/pic5854968.png</thumbnail>
+      <image>https://cf.geekdo-images.com/gz8_8iYP2SSGVAxpp7CwLg__original/img/9ULfNvkyu0k1m0d63-Mk0k5e0MA=/0x0/filters:format(png)/pic5854968.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tichu" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Tai Pan" />
+			    				
+				<name type="alternate" sortindex="1" value="Taipan" />
+			    				
+				<name type="alternate" sortindex="1" value="Тичу" />
+			    				
+				<name type="alternate" sortindex="1" value="Тичу" />
+			    				
+				<name type="alternate" sortindex="1" value="ティチュー" />
+			    				
+				<name type="alternate" sortindex="1" value="地主" />
+			    				
+				<name type="alternate" sortindex="1" value="티츄" />
+			
+						               													<description>Tichu took much of its rules and mechanics from Zheng Fen. It is a partnership climbing card game, and the object of play is to rid yourself of your hand, preferably while scoring points in the process.&amp;#10;&amp;#10;The deck is a standard 52-card pack with four special cards added: dog, phoenix, dragon and Mah Jong (1). When it's your turn, you may either beat the current top card combination &amp;mdash; single card, pair of cards, sequence of pairs, full house, etc. &amp;mdash; or pass. If play passes all the way back to the player who laid the top cards, they win the trick, clears the cards, and can lead the next one. The card led determines the only combination of cards that can be played on that trick, so if a single card is led, then only single cards are played; if a straight of seven cards is led, then only straights of seven cards can be played, etc.&amp;#10;&amp;#10;The last player out in a round gives all the cards they won to the player who exited first, and the last player's unplayed cards are handed to the opposite team. Fives, tens and Kings are worth 5, 10 and 10 points, with each hand worth one hundred points without bonuses &amp;mdash; but the bonuses are what drive the game. At the start of a round, each player can call &amp;quot;Tichu&amp;quot; prior to playing any card. This indicates that the player thinks they can empty their hand first this round; if they do so, their team scores 100 points, and if not, their team instead loses 100 points. Cards are dealt at the start of a round in a group of eight and a group of six; a player can call &amp;quot;Grand Tichu&amp;quot; after looking at only their first eight cards for a &amp;plusmn;200 point bonus. If both players on a team exit a round prior to either player on the opposite team, then no points are scored for cards and the winning team earns 200 points (with Tichu/Grand Tichu bonuses and penalties being applied as normal).&amp;#10;&amp;#10;The first team to 1,000 points wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1991" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="295">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="209" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="207" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="206" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="276" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="197" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="59">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="29" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="3" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="67">
+			
+		<results>		
+					<result level="341" value="No necessary in-game text" numvotes="67" />
+					<result level="342" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="343" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="344" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="345" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2980" value="Ladder Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="131" value="Card Games: Climbing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24434" value="Card Games: Outplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8120" value="Card Games: Shedding / Stops" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76458" value="Digital Implementations: BrettspielWelt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27176" value="Series: Deluxe card game (Z-Man / Filosofia)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="186885" value="Stadt Land Spielt Limitierte Sonderdrucke 2015" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="206088" value="Tichu Booster" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="205632" value="Tichu: Ansagekarte" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="313051" value="Tichu Deluxe" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="172" value="Urs Hostettler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="107085" value="Kerri Aitken" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98418" value="Christine Alcouffe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12118" value="Res Brandenberger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3025" value="François Bruel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74074" value="Philippe Guérin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="172" value="Urs Hostettler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28066" value="Valerie Vekemans" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="114" value="Fata Morgana Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29" value="ABACUSSPIELE" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21640" value="GP Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19148" value="Playhouse Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27878" value="TIKI Editions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17786" value="uplay.it edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="14986" />
+			<average value="7.57632" />
+			<bayesaverage value="7.3007" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="206" bayesaverage="7.3007" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="152" bayesaverage="7.34649" />
+												</ranks>
+
+			<stddev value="1.67808" />
+			<median value="0" />
+			<owned value="23339" />
+			<trading value="331" />
+			<wanting value="297" />
+			<wishing value="2052" />
+			<numcomments value="3677" />
+			<numweights value="950" />
+			<averageweight value="2.3368" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

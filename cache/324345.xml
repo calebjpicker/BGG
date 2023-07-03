@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="324345">
+         <thumbnail>https://cf.geekdo-images.com/hKCfrhDRpKoKhjY0c6Y1kA__thumb/img/6IP8AbGbwWS4KkRyoWRV1T7pcxI=/fit-in/200x150/filters:strip_icc()/pic6110612.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/hKCfrhDRpKoKhjY0c6Y1kA__original/img/vQbQ-Fhb2FOCy0hawcMUS4RTS14=/0x0/filters:format(jpeg)/pic6110612.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cat in the box" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="キャットインザボックス" />
+			
+						               													<description>&amp;#227;&amp;#130;&amp;#173;&amp;#227;&amp;#131;&amp;#163;&amp;#227;&amp;#131;&amp;#131;&amp;#227;&amp;#131;&amp;#136;&amp;#227;&amp;#130;&amp;#164;&amp;#227;&amp;#131;&amp;#179;&amp;#227;&amp;#130;&amp;#182;&amp;#227;&amp;#131;&amp;#156;&amp;#227;&amp;#131;&amp;#131;&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#130;&amp;#185; (Cat in the Box) is a trick-taking card game from Japan, based upon ideas from quantum mechanics. Players play cards from their hands of different values. But the colour of the card is not determined until the card is played, and the cat is let out of the box.&amp;#10;&amp;#10;Played over three rounds for three players, and four rounds for four, players begin by making a bid on the number of tricks they will win, based only upon the value of their hand cards. The cats on the cards have no colour at this point. Players will score for tricks they win, and score more for completing their bid.&amp;#10;&amp;#10;As a player leads with a card from their hand, they declare its colour. A player's marker goes onto the communal research board, covering the value for that colour. Subsequent cards must have different values of the same colour if possible. However, a player may declare that they do not have any more cards of that colour, and so play the same value but in a different colour. That player now marks their own board for Do Not Have in that colour.&amp;#10;&amp;#10;The highest card of the colour lead wins the trick, unless a card is declared as red, the trump colour.&amp;#10;&amp;#10;Crucially, all cards values and colours played out must be unique, otherwise a paradox is formed, ending the round.&amp;#10;&amp;#10;So if a player is holding a 1,3,6, and yellow is lead, and only the yellow 1 remains open on the research board, the player is forced to play their 1 card as a yellow. But if that player has already claimed they Do Not Have yellow (as above), and if the other colours are also blocked on 1, 3 and 6, this causes a paradox. They cannot play, thus ending the round and triggering a scoring.&amp;#10;&amp;#10;The player causing the paradox does not score and incurs penalty points also.&amp;#10;&amp;#10;Scores are accumulated over the rounds, and the player with the highest total at the end is the winner.&amp;#10;&amp;#10;Players must balance trying to win tricks to their bid with avoiding forming a paradox, forcing the round to end and incurring penalties.&amp;#10;user summary&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3006" value="Predictive Bid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="345972" value="Cat in the Box: Deluxe Edition" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="35037" value="Muneyuki Yokouchi (横内宗幸)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73479" value="Osamu Inoue (井上磨)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11552" value="Ayatsurare Ningyoukan" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="388" />
+			<average value="7.36564" />
+			<bayesaverage value="5.81832" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3980" bayesaverage="5.81832" />
+												</ranks>
+
+			<stddev value="1.25976" />
+			<median value="0" />
+			<owned value="320" />
+			<trading value="5" />
+			<wanting value="78" />
+			<wishing value="366" />
+			<numcomments value="90" />
+			<numweights value="12" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

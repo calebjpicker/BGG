@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="123160">
+         <thumbnail>https://cf.geekdo-images.com/f8LcBa8XVLhT3T1eYoirRQ__thumb/img/pCJggxyGMRBzT9MNbD8uDgPIy3M=/fit-in/200x150/filters:strip_icc()/pic3711802.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/f8LcBa8XVLhT3T1eYoirRQ__original/img/JaA-1VZ7EsCB_Z8eP72r_EF2lbI=/0x0/filters:format(jpeg)/pic3711802.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battle For Souls" />
+			
+						                           
+						               													<description>Battle For Souls is a card game pitting the seven archangels of heaven versus the seven princes of hell in a fight for the eternal souls of humankind.&amp;#10;&amp;#10;In the game, 1, 2, or 4 players choose the side of heaven or the side of hell. Each side will battle for 28 souls, which are worth victory points. Players add holy or unholy points on the souls in play based on how they use temptation, virtue, sin, intercession, holy relic, unholy relic, angel and devil cards. Earn enough holy points, and when the soul is reaped it goes to heaven, earning the side of good victory points; earn enough unholy points, and when the soul is reaped it goes to hell, earning the side of evil victory points. If a soul does not earn enough holy or unholy points and is reaped, it goes to purgatory where its victory points are not counted.&amp;#10;&amp;#10;Guiding a soul to complete purity or complete darkness before death and final judgment adds a new archangel or prince of hell to a player's arsenal. Influence on souls can be spent for more powerful cards that have special abilities, and allow a player to gain souls more quickly.&amp;#10;&amp;#10;Many strategic decisions impact play. Strategies include focusing on gaining more help from heaven or hell to increase your power, working to reap souls quickly from the start with little intervention from the angelic and demonic hordes, or balancing your play to ensure victory.&amp;#10;&amp;#10;Sin, Intercession, and Relic cards can be purchased for beneficial effects at the cost of holy and unholy points. These help to make for deep gameplay and excellent risk-reward scenarios. Invest in these cards to strengthen your position.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="15" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="851" value="No necessary in-game text" numvotes="0" />
+					<result level="852" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="853" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="854" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="855" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1115" value="Religious" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="260365" value="Battle For Souls: Just Got Played" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="239111" value="Battle For Souls: Presidential Souls Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="153400" value="Battle For Souls: Promo Card Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="239110" value="Battle For Souls: Second Edition Expansion Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="49049" value="Robert Burke" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="67111" value="Fra Angelico" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44748" value="Hans Baldung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73445" value="Jean Benner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75681" value="Richard Bergh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64474" value="William Blake" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71438" value="Arnold Böcklin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="55906" value="Hieronymus Bosch" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="64472" value="William Bouguereau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72233" value="Limbourg Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72209" value="Ford Madox Brown" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34891" value="Pieter Bruegel the Elder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72273" value="Miguel Cabrera" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53700" value="Caravaggio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72211" value="Annibale Carracci" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75673" value="Claudio Coello" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72221" value="Juan Correa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75671" value="Giovanni Battista Salvi da Sassoferrato" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75670" value="Pietro de Cortona" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25409" value="Evelyn De Morgan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72218" value="Alonso Miguel de Tovar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72271" value="Francisco de Zurbarán" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72215" value="Francesco del Cossa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72224" value="Taddeo di Bartolo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15182" value="Gustave Doré" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="26519" value="Albrecht Dürer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75675" value="Albert Gustaf Aristides Edelfelt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75669" value="Luis Ricardo Falero" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71104" value="Henry Fuseli" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72234" value="Cornelis Galle, the Elder" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43284" value="François Gérard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="24770" value="Jean-Léon Gérôme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42873" value="John William Godward" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25474" value="Hans Holbein, the Younger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71455" value="William Holman Hunt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75680" value="Ernst Josephson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72207" value="Svilen Kostadinov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75674" value="Peder Severin Krøyer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75677" value="Carl Larsson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72213" value="Frans Luycx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72212" value="Andrea Mantegna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75668" value="Niklaus Manuel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72237" value="Quentin Matsys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72232" value="Hans Memling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72235" value="François-Guillaume Ménageot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44112" value="Michelangelo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72219" value="Bartolomé Esteban Murillo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60294" value="Michael Pacher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75679" value="Vasily Grigorevich Perov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72220" value="Pietro Perugino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72274" value="Nicolas Poussin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72223" value="James Powell (II)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44080" value="Raphael (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="62444" value="Guido Reni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43275" value="Ilya Repin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72208" value="Christian Reuter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36189" value="Dante Gabriel Rossetti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="44015" value="Sir Peter Paul Rubens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72210" value="Martin Schongauer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73451" value="Esther Baker Steele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73450" value="Joel Dorman Steele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43154" value="Titian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73443" value="Michiel Van Coxie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="25412" value="Rembrandt van Rijn" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="33565" value="Viktor Vasnetsov" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42868" value="Johannes Vermeer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36605" value="George F. Watts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75678" value="Maria Wiik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75676" value="Anders Leonard Zorn" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25114" value="Robert Burke Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="668" />
+			<average value="6.83516" />
+			<bayesaverage value="5.80084" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4154" bayesaverage="5.80084" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="726" bayesaverage="5.96305" />
+												</ranks>
+
+			<stddev value="1.85742" />
+			<median value="0" />
+			<owned value="1184" />
+			<trading value="85" />
+			<wanting value="61" />
+			<wishing value="319" />
+			<numcomments value="274" />
+			<numweights value="59" />
+			<averageweight value="2.3559" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

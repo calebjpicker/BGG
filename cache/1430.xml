@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1430">
+         <thumbnail>https://cf.geekdo-images.com/mp5QOyj_byPsSfiw7if7EA__thumb/img/r9jsRcSDSQk4VttYCkTFAWI8nDA=/fit-in/200x150/filters:strip_icc()/pic5955302.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/mp5QOyj_byPsSfiw7if7EA__original/img/BxFT5bN11PGSV1pAHZ4T11mBkZY=/0x0/filters:format(jpeg)/pic5955302.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Caesar: Epic Battle of Alesia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Alesia" />
+			
+						               													<description>&amp;quot;Caesar: Epic Battle of Alesia&amp;quot; is a Tactical level board-wargame that simulates an epic battle in 52 BC where Julius Caesar surrounded the battered forces of the Gauls led by Vercingetorix.  Knowing the Gauls had a relief force coming (of over 250,000 men), Caesar built a defensive perimeter facing outward to match his perimeter facing inward to beseige Vercingetorix.  An unusual &amp;quot;donut&amp;quot; formation.&amp;#10;&amp;#10;The large mapboard 33&amp;quot;x28&amp;quot; portrays the town of Alesia and all of the works built by Caesar.  The Gauls have a small force trapped in the town including Vercingetorix as well as a large force which sets up in off board areas.  The Gallic player must reveal which off board zones he occupies with at least 1 unit, but does NOT have give further information.&amp;#10;&amp;#10;The goal of the game is for the Gauls to create an escape route for Vercingetorix and exit him off the board.  The Romans must prevent this over the 20 game turns (which represents 2 days).&amp;#10;&amp;#10;Originally self-published as Alesia in 1970, it was redesigned and reissued by Avalon Hill in 1976.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1976" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll> 			               				<playingtime value="360" />
+						               				<minplaytime value="360" />
+						               				<maxplaytime value="360" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="2" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="91" value="No necessary in-game text" numvotes="1" />
+					<result level="92" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="93" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="94" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="95" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2967" value="Hidden Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67953" value="Components: Map (City Scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58034" value="History: Roman – Gallic Wars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69366" value="Theme: Siege" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="599" value="Robert Bradley" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="599" value="Robert Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71537" value="Al Eckman" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76" value="Don Greenwood" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12259" value="W. Scott Moores" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71538" value="Charles Veit" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="654" />
+			<average value="7.13773" />
+			<bayesaverage value="5.88139" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3473" bayesaverage="5.88139" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="376" bayesaverage="6.63988" />
+												</ranks>
+
+			<stddev value="1.43736" />
+			<median value="0" />
+			<owned value="1537" />
+			<trading value="55" />
+			<wanting value="39" />
+			<wishing value="113" />
+			<numcomments value="343" />
+			<numweights value="75" />
+			<averageweight value="2.96" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

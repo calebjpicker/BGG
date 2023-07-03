@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="187129">
+         <thumbnail>https://cf.geekdo-images.com/6O3GmWePq5I0Rvl6wK61IQ__thumb/img/-WGcOYBWAFjiN4BJtmHB8-xCfcY=/fit-in/200x150/filters:strip_icc()/pic2728263.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/6O3GmWePq5I0Rvl6wK61IQ__original/img/94BuVmL3twXZuE_5LKwbGKANkBc=/0x0/filters:format(jpeg)/pic2728263.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nine Break" />
+			
+						                           
+						               													<description>Nine Break plays like a numbers version of Reversi, with players alternately placing chips on a board and trying to flip the opponent's chips to their color.&amp;#10;&amp;#10;The game can be played on a 4x4 or 6x6 board. In the former case, players each start with eight chips (1-4 x2) in their color and in the latter case they have 18 chips (1-6 x3). The chips have the reverse color on the other side, and the digit on the opposite side is 7-x, with &amp;quot;x&amp;quot; being the number on the front side.&amp;#10;&amp;#10;The board starts with two red chips (1 &amp;amp; 2) and two black chips (3 &amp;amp; 4) in the central square. Red starts, then players alternate turns. On a turn, a player places a chip on the board as long as it sandwiches at least one of the opponent's chips and flips it; to flip a chip, the sum of the sandwiching chips must be higher than the sum of the chip(s) being sandwiched. One tricky aspect, though, is that the sums of the chips are taken mod 10, so if you sandwich one or more chips with a 5 and 6, then your total is actually 1 (1 = 11 mod 10), so you couldn't flip the sandwiched chips unless they summed to 10 (since 10 mod 10 = 0).&amp;#10;&amp;#10;If you can't flip a chip, you must pass. The game ends when the board is full or when both players have passed. Whoever has more chips of their color showing wins; if the players are tied, then they sum the digits showing on their chips and the high score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="30" />
+						               				<minage value="4" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30882" value="Nine Break Association" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="5.43333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.63978" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

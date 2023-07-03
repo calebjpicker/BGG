@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="249095">
+         <thumbnail>https://cf.geekdo-images.com/PhwhatoNcTPPnJrJmGoHAA__thumb/img/pQYOUZKO14rZiwYhlc2Gb1pO-OA=/fit-in/200x150/filters:strip_icc()/pic4045049.png</thumbnail>
+      <image>https://cf.geekdo-images.com/PhwhatoNcTPPnJrJmGoHAA__original/img/dNO2GJFqwktbywitc-KjQTdE6Jk=/0x0/filters:format(png)/pic4045049.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blooms" />
+			
+						                           
+						               													<description>Winner of the 2018 Best Combinatorial Game award, Blooms is a 2-player game where players capture each other&amp;rsquo;s pieces by surrounding them.&amp;#10;&amp;#10;It was inspired by the classical game Go and a painting in an Oregon coffee shop.&amp;#10;&amp;#10;Rules&amp;#10;&amp;#10;&amp;#10;     Bloom: a bloom is an entire group of connected stones on the board of the same color. A single stone (unconnected to others of the same color) is also a bloom.&amp;#10;&amp;#10;&amp;#10;&amp;#10;     Fenced: a bloom is fenced when there are no empty spaces adjacent to any of the bloom&amp;rsquo;s stones.&amp;#10;&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;&amp;#10;     Each player owns 2 colors of stones. To start, Player 1 places 1 stone of either of her colors on any empty space.&amp;#10;     From then on, starting with Player 2, the players take turns. On your turn, you must place 1 or 2 stones onto any empty spaces. If you place 2, they must be different colors. Then capture all fenced enemy blooms.&amp;#10;     The first player to have captured X stones wins.&amp;#10;&amp;#10;&amp;#10;The key is you can and usually should sacrifice your own stones to gain positional advantage. It's common for players to get 10 or more points down in games played to 20, and still win. This is important because new players often don't see the value of sacrifice and lose without having any idea what happened, which isn't fun.&amp;#10;&amp;#10;&amp;#10;     See diagrams and gifs here&amp;#10;     Play online at Board Game Arena&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="1" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46162" value="Traditional Games: Go" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="7958" value="Nick Bentley" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="183" />
+			<average value="6.55929" />
+			<bayesaverage value="5.58059" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="8943" bayesaverage="5.58059" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="365" bayesaverage="5.85625" />
+												</ranks>
+
+			<stddev value="1.73128" />
+			<median value="0" />
+			<owned value="52" />
+			<trading value="0" />
+			<wanting value="10" />
+			<wishing value="81" />
+			<numcomments value="72" />
+			<numweights value="8" />
+			<averageweight value="1.75" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="113066">
+         <thumbnail>https://cf.geekdo-images.com/FIg_FJeaMj7-Y1wLIM-XoQ__thumb/img/P5Aj__o5vM8lLJ5RVmyHbE31niY=/fit-in/200x150/filters:strip_icc()/pic1171727.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/FIg_FJeaMj7-Y1wLIM-XoQ__original/img/QsHH1Gr9uDb_A0q1mzpc5zk7eJ4=/0x0/filters:format(jpeg)/pic1171727.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="RR" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Regality &amp; Religion" />
+			
+						               													<description>Seiji Kanai created the two-player abstract game RR &amp;ndash; Regality and Religion &amp;ndash; for a design competition with this restriction: &amp;quot;Create a game for 500 yen&amp;quot; (about $5). The game consists of 15 cards.&amp;#10;&amp;#10;Both players start with a set of seven identical cards that act as pawns on a 3x3 board. Players take turns placing one of their cards in hand onto the board, with the card facing the active player. Some cards, when placed, rotate one or more of the surrounding cards upside down, making them face the other way; other cards destroy surrounding cards.&amp;#10;&amp;#10;The game ends when the board is full, at which point the player with the most cards facing him wins.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    RRR &amp;ndash; Regality vs. Religion: Revolution, an enhanced version of RR, comes in a box with a game board, card board tiles instead of cards, and eleven &amp;quot;neutral&amp;quot; tiles, five of which are randomly used in each game and available to both players.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="266" value="No necessary in-game text" numvotes="1" />
+					<result level="267" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="268" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="269" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="270" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78572" value="Components: 3 x 3 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="209167" value="Big Game Night 2016" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="76203" value="RRR" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="112373" value="BraveRats" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9495" value="Seiji Kanai" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12439" value="Noboru Sugiura" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7552" value="Kanai Factory" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="72" />
+			<average value="6.21389" />
+			<bayesaverage value="5.52496" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="14984" bayesaverage="5.52496" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="726" bayesaverage="5.61724" />
+												</ranks>
+
+			<stddev value="1.11384" />
+			<median value="0" />
+			<owned value="268" />
+			<trading value="25" />
+			<wanting value="12" />
+			<wishing value="32" />
+			<numcomments value="39" />
+			<numweights value="3" />
+			<averageweight value="1.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

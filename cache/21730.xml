@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="21730">
+         <thumbnail>https://cf.geekdo-images.com/G2YN5oaObXvkX1K0g76VOA__thumb/img/sI70vM8hpG_QdGgpTR96fvs818c=/fit-in/200x150/filters:strip_icc()/pic5986136.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/G2YN5oaObXvkX1K0g76VOA__original/img/tAdxJr4a-hrcd1WtvZJ11BojDGM=/0x0/filters:format(jpeg)/pic5986136.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Delta" />
+			
+						                           
+						               													<description>Delta, created by Swiss chess problem composer Erich Brunner, comes with two small boards (one is 5x5 rectangles, the other is 6x6 squares), nine triangular pieces in two colors, and one extra piece in a third color.&amp;#10;&amp;#10;In Delta, after entering their initial pieces by a free placement, players alternate moving pieces of their own color on the 5x5 board at least two spaces (vertically, horizontally or diagonally), then placing a new piece on the space last passed over by the moving piece. The goal is to create a line of four pieces in your own color or to prevent the other player from being able to move. The winner scores one point for each empty space for making a line or one point for stalemating the opponent. Individual rounds are brief, and several rounds are usually played in a series with the overall winner being the first to reach a pre-determined number of points (such as 100).&amp;#10;&amp;#10;Neo-Delta is similar, except it is played on the 6x6 board, and either / both players may use the third color piece (placed by the first player on the first or second move) to form their line of four. Draws are possible.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1975" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="4" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62615" value="Components: 6 x 6 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80225" value="Digital Implementations: Super Duper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6561" value="Erich Brunner" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="99" value="Otto Maier Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="6.66129" />
+			<bayesaverage value="5.51598" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16873" bayesaverage="5.51598" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="813" bayesaverage="5.58785" />
+												</ranks>
+
+			<stddev value="1.2533" />
+			<median value="0" />
+			<owned value="63" />
+			<trading value="2" />
+			<wanting value="5" />
+			<wishing value="15" />
+			<numcomments value="20" />
+			<numweights value="4" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

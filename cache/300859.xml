@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="300859">
+                                     				
+				<name type="primary" sortindex="1" value="京浜東北線SPEED (Keihin-Tohoku-sen SPEED)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Keihin-Tohoku Line SPEED" />
+			
+						               													<description>Keihin-Tohoku-sen SPEED (&amp;#228;&amp;#186;&amp;#172;&amp;#230;&amp;#181;&amp;#156;&amp;#230;&amp;#157;&amp;#177;&amp;#229;&amp;#140;&amp;#151;&amp;#231;&amp;#183;&amp;#154;SPEED) is a real-time card game for two players. (The rules suggest three is possible, but do not explain any rule differences.) The deck contains two cards for each station on the real-life Keihin-Tohoku line that connects Saitama, Tokyo and Yokohama, along with two &amp;quot;new station&amp;quot; wild cards. The cards are shuffled and divided evenly among the players. Each player forms a tableau of four cards from their deck.&amp;#10;&amp;#10;The players simultaneously reveal a starting card from their deck. At this point, players attempt to play cards from their tableau, either by playing an adjacent station on the Keihin-Tohoku line, making a transfer through another real-life rail line (printed on the cards), or playing the new station card. The first player to verbally call out their route gets to play the card. If a player plays the new station card, only that player may play the next card on that pile.&amp;#10;&amp;#10;If there are no legal plays remaining, each player simultaneously plays a new starting card, either from the deck if possible, or from the tableau if the deck is empty.&amp;#10;&amp;#10;The player who plays all their cards wins, and scores points equal to the number of cards unplayed by their opponent.&amp;#10;&amp;#10;Decks using the same ruleset exist for the Yamanote, Chuo and Sobu lines, and since the lines overlap in real life, the decks can be integrated together.&amp;#10;&amp;#10;&amp;mdash;user summary&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="1" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60000" value="Series: Ekimei Shirushi SPEED (Sai-taniya)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="300855" value="中央総武線SPEED: 中央線区間 (Chuo-Sobu-sen SPEED: Chuo-sen kukan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="300858" value="中央総武線SPEED: 総武線区間( Chuo-Sobu-sen SPEED: Sobu-sen kukan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="300854" value="山手線SPEED (Yamanote-sen SPEED)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="124188" value="WARA" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44800" value="Sai-taniya" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

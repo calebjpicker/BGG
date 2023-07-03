@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="179458">
+                                     				
+				<name type="primary" sortindex="1" value="Luddit" />
+			
+						                           
+						               													<description>Name: Luddit. Mix of &amp;quot;Ludit&amp;quot; (Latin: &amp;quot;He plays&amp;quot;) and &amp;quot;Luddite&amp;quot; (-&amp;quot;against the machines&amp;quot;- cause the ultimate purpose of this game -project- is to be impossible to solve by computers; i really hope some of you would want to join forces with me in this holy crusade  ).&amp;#10;&amp;#10;Characteristics: the leading objective was (is) to make a game which could be as difficult as possible to solve for the computers (maybe...impossible?). By the moment, contrarily to my interest, the rules are by far not simple, ...im trying to improve that. I tried to achieve complexity by giving to the game a very chaotical and recursive nature. The board is defined in order to try to let an action to have infinite repercussion in the unfolding of the game. Its notable that, strictly speaking, the board doesnt have borders (as may be seen in the rules), so there is no &amp;quot;preferential positions&amp;quot;. Its interesting to note that the definition of &amp;quot;loop&amp;quot; does lead to literally infinite possibilities of combination in some cases (its definition is precisely the feature that has leadme to think that this game can be much more than just &amp;quot;dificult&amp;quot; for the computer...). And its interesting to note that wining implies to reduce this possibilities to one, that is, to reduce the number of possibilities, which is the thermodynamic definition of negative entropy. So you have to play with chaos to bring order.&amp;#10;&amp;#10;Equipment: &amp;#10;- 9x9 Torus board with 9x9 square grid (a standard 9x9 GO board can be used, obeying the mechanic of the torus board), 18xwhite stones, 18xblack stones. (i decided this size mostly to facilitate initial playtesting. Of course the game can be played in larger boards)&amp;#10;&amp;#10;Rules:&amp;#10;&amp;#10;1 - Game is played on the intersections. Adjacency is defined as orthogonal and diagonal (i.e. every intersection point has 8 adjacent points).&amp;#10;&amp;#10;2 - There can&amp;rsquo;t be more than 18 total stones on the board at any time.&amp;#10;&amp;#10;3 - We will call &amp;quot;piece&amp;quot; to every single stone or loop. A piece is of the color of a player if every stone that composes it is of the color of that player. A piece is &amp;quot;at range&amp;quot; of another if they shares at least one of their adjacent intersections.&amp;#10;&amp;#10;4 - We will call &amp;quot;loop&amp;quot; to every group of pieces (regardless of color) where every piece is at range of at least another two pieces of the group (nothing prevents loops for sharing pieces). Its implied by the rule, but to clarify: If a piece A is composed by all the stones that composes a piece B, and viceversa, then A and B are the same piece, and B cant be considered has &amp;quot;another&amp;quot; piece for A, and viceversa.&amp;#10;&amp;#10;5 - We will say that a piece is &amp;quot;conditioned&amp;quot; to a player if its of the player color or if any group of pieces (regardless of color) that are at range of that piece conforms a loop.&amp;#10;&amp;#10;6 - A player makes a &amp;quot;move&amp;quot; by either:&amp;#10;a) Taking a single stone of his color from the outside of the board and placing it in an empty place over the board.&amp;#10;b) Removing a piece that is conditioned to him from the board.&amp;#10;c) Removing a piece that is conditioned to him from the board, and then placing it back on an empty space on the board. If the removed piece is a loop, it has to remain a loop when placed back on the board.&amp;#10;&amp;#10;7 - At the start of the game the board is empty. Each player is assigned a color. Black plays first. Then both players play alternately. In his turn, a player can do one or two moves, if he has no legal move to perform the game ends, and he loses.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="50" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="50" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="76806" value="Lisandro Iaffar" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

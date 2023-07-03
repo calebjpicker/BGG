@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="1535">
+         <thumbnail>https://cf.geekdo-images.com/WPuoF8JsOTpSg4_rttC2AA__thumb/img/yWIIF96IlyOnPVvGnR4IgbwMPCY=/fit-in/200x150/filters:strip_icc()/pic2758404.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/WPuoF8JsOTpSg4_rttC2AA__original/img/TwErq2-zsD7sgcz7X5qqdHZbbEM=/0x0/filters:format(jpeg)/pic2758404.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Formula 1" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Autopista Formula 1" />
+			    				
+				<name type="alternate" sortindex="1" value="Formula One" />
+			    				
+				<name type="alternate" sortindex="1" value="Formula Ⅰ" />
+			    				
+				<name type="alternate" sortindex="1" value="Formula-1" />
+			    				
+				<name type="alternate" sortindex="1" value="Formule 1" />
+			    				
+				<name type="alternate" sortindex="1" value="Nurburgring" />
+			    				
+				<name type="alternate" sortindex="1" value="Nürburgring Formel &quot;1&quot;" />
+			    				
+				<name type="alternate" sortindex="1" value="Spin Out" />
+			
+						               													<description>A simple racing game where speed and movement is decided by the driver and not the dice. Only when exceeding safety speeds on the bends are dice used to decide the penalty incurred.&amp;#10;&amp;#10;The players use &amp;quot;dashboards&amp;quot;, cardboard cutouts resembling dashboards, complete with a speedometer and tire and brake wear gauges.  Maximum acceleration is fixed, tire and brake wear may happen as a result of cornering too quickly&amp;mdash;then there are the dreaded spinouts.  A few tight spots exist, so blocking is also an effective tactic.&amp;#10;Tactic cards (you get 5 for the entire race) put a few aces up your sleeve.  They can give you an extra burst of speed or of cornering ability.&amp;#10;&amp;#10;Pit stops will get you fresh brakes and tires but you must reach them by exact count&amp;mdash;otherwise you're forced into another lap.  Also, pit cards throw a monkeywrench in&amp;mdash;usually you'll lose a turn, but now and then you'll get extra fast service, a burst of speed in coming out of the pit, or special brakes good for one extra corner.&amp;#10;&amp;#10;The race runs for up to 10 laps; the player furthest past the finish line when all players have had the same number of turns wins.&amp;#10;The game's simplicity makes it accessible to younger players, whilst it remains enjoyable by adults.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1962" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="19">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2850" value="Events" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69057" value="Constructions: Nürburgring (Germany)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6206" value="Sports: Auto Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72934" value="Sports: Formula 1" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9677" value="John Howarth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9678" value="Trevor Jones (I)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="95" value="Waddingtons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5768" value="Brohm-Parker-Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="253" value="Editrice Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1604" value="Istituto Del Gioco (IDG)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2627" value="Majora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="920" value="Miro Company" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4933" value="Smeets &amp; Schippers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4864" value="Tofa" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="633" />
+			<average value="6.685" />
+			<bayesaverage value="5.75715" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4606" bayesaverage="5.75715" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1403" bayesaverage="5.80292" />
+												</ranks>
+
+			<stddev value="1.41315" />
+			<median value="0" />
+			<owned value="1126" />
+			<trading value="48" />
+			<wanting value="21" />
+			<wishing value="68" />
+			<numcomments value="288" />
+			<numweights value="60" />
+			<averageweight value="1.7" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="12589">
+         <thumbnail>https://cf.geekdo-images.com/-fzjLmU0nl_726mFDP6uEA__thumb/img/Sri2sZ1cqsLlnsAQOusYGmqAK7c=/fit-in/200x150/filters:strip_icc()/pic51968.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-fzjLmU0nl_726mFDP6uEA__original/img/j4Y2B3BeIiiQ4q4YFTh0t1EHEDA=/0x0/filters:format(jpeg)/pic51968.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Razzia!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ตำรวจมา!" />
+			    				
+				<name type="alternate" sortindex="1" value="家族拍賣會" />
+			
+						               													<description>Razzia! is a card game re-implementation of Knizia's earlier board game Ra with the only notable changes being the re-theme and lack of catastrophes.&amp;#10;&amp;#10;This time players are mafiosi bidding for the booty stolen the previous night. Cars, jewels, and even whole nightclubs are for sale!&amp;#10;&amp;#10;Each round, players will take turns flipping over booty cards to see what is available for auction in this lot. Once a lot contains enough desirable items (or when a policeman card is revealed), players bid on the displayed items using the available cheques.&amp;#10;&amp;#10;The round ends when all the cheques have been spent, or when enough policemen arrive to raid the building and put an end to the illegal auction. Players then score points according to what cards they have accumulated - some cards are discarded after scoring, while others remain in that player's collection for the following rounds. Whoever has the highest score after the third round is declared the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="36">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="14" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1033" value="Mafia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3867" value="Game: Ra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14661" value="Theme: Mystery / Crime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62258" value="Versions &amp; Editions: Card Versions of Non-Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="12" value="Ra" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="127057" value="Ivan Iserte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8" value="AMIGO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46577" value="Dragonfly Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30490" value="Primigenio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1962" />
+			<average value="6.85149" />
+			<bayesaverage value="6.18044" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1999" bayesaverage="6.18044" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1002" bayesaverage="6.29882" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="561" bayesaverage="6.3168" />
+												</ranks>
+
+			<stddev value="1.27273" />
+			<median value="0" />
+			<owned value="2185" />
+			<trading value="77" />
+			<wanting value="113" />
+			<wishing value="331" />
+			<numcomments value="638" />
+			<numweights value="238" />
+			<averageweight value="1.9664" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

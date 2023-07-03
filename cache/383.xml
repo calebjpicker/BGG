@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="383">
+         <thumbnail>https://cf.geekdo-images.com/jddKraLJ0h40DvSTaoH_EA__thumb/img/PEumwMq9RlP3h6I-yvggJfJzBFM=/fit-in/200x150/filters:strip_icc()/pic5238648.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jddKraLJ0h40DvSTaoH_EA__original/img/JOTiszG-QpkdHn2oQOVp3p309ew=/0x0/filters:format(jpeg)/pic5238648.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Turf Horse Racing" />
+			
+						                           
+						               													<description>Classic Knizia betting and racing game. Initially players bet on the horses as they are dealt from the deck, then the horses race on the die roll, the course being 40 spaces. The cards &amp;amp; die have 4 symbols, jockey's hat, boot, horse shoe and horse's head; the head is on the die 3 times, giving it a 50% chance of being rolled. The cards have different values against each symbol, showing how far they move when that symbol is rolled. But the number against the horse's head is always 1 to 7 for the same horse. So Raven Beauty always has a 50% chance of moving 7 spaces, Lagoon Lady moves 4, and poor old Roamin' Emporer goes 1 space. The trick, and it's a good trick, is that the other 3 values vary wildly for the lower horses, making them outside chances to win. One lucky roll and Roamin' Emporer can leap forward 20 places! So do you bet on the steady goers, or take a gamble on the nags? Players take turns to roll the die and choose which horse moves, so with a good roll you move one you've bet on, with a bad roll you move someone else's horse. Points are awarded to 1st, 2nd &amp;amp; 3rd home, and one of your bets is a doubler.&amp;#10;&amp;#10;Re-implemented as:&amp;#10;&amp;#10;    Winner's Circle / Royal Turf &amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1031" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7523" value="Animals: Horses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5730" value="Sports: Horse Racing" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1382" value="Winner's Circle" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="103" value="Gibsons" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="112" />
+			<average value="6.41946" />
+			<bayesaverage value="5.55136" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11063" bayesaverage="5.55136" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2198" bayesaverage="5.5744" />
+												</ranks>
+
+			<stddev value="1.2594" />
+			<median value="0" />
+			<owned value="151" />
+			<trading value="9" />
+			<wanting value="10" />
+			<wishing value="21" />
+			<numcomments value="38" />
+			<numweights value="15" />
+			<averageweight value="1.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

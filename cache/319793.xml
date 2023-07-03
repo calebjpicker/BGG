@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="319793">
+         <thumbnail>https://cf.geekdo-images.com/LKCjDd_tqDPpUdCOM6i9Qg__thumb/img/Un5-NmBFbY3wo9IpUy-oNYoq1Qg=/fit-in/200x150/filters:strip_icc()/pic6256486.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/LKCjDd_tqDPpUdCOM6i9Qg__original/img/ndgLsawgZd-9Y8933oU268V8y4Y=/0x0/filters:format(jpeg)/pic6256486.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Happy City" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Szczęśliwice Wielkie" />
+			    				
+				<name type="alternate" sortindex="1" value="Город счастья" />
+			    				
+				<name type="alternate" sortindex="1" value="彩虹小鎮" />
+			    				
+				<name type="alternate" sortindex="1" value="웰컴 투 행복특별시" />
+			
+						               													<description>Do you have what it takes to grow a city from a humble market to a thriving mini-metropolis? Collect 10 buildings and make sure your citizens are happy with the place they live in!&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;1. Income Phase &amp;mdash; At the start of each round, every player receives coins equal to the sum of the income symbols shown on the bottom of their cards.&amp;#10;&amp;#10;2. Action Phase &amp;mdash; Resolved in turn order:&amp;#10;&amp;#10;a. (optional) Discard 1 of the available Buildings from the market.&amp;#10;b. Reveal up to 3 cards from any of the three Building decks and add them to the supply.&amp;#10;c. Then, you have a choice: either purchase a card from the supply or purchase nothing and take a coin from the bank. Note: your city may not contain any duplicate cards.&amp;#10;d. (optional) If your city meets the conditions for an available Bonus Building, you may claim it.&amp;#10;&amp;#10;Once any player adds a 10th card to their city, the game-end is triggered and every player multiplies the number of citizens by the total number of hearts on their cards, and whoever has the highest result wins the game!&amp;#10;&amp;#10;Happy City includes rules for two ways to play: a family version and an &amp;quot;expert version&amp;quot; that features more interaction and strategy.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="24">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340350" value="Happy City: Boutique de jeu de société Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359179" value="Happy City: Golden Gate of Kyiv Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="378878" value="Happy City: Grozilla" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="358936" value="Happy City: Tour de contrôle de Rudolph" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366618" value="Happy City: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="250643" value="Happiest Town" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6063" value="Toshiki Sato" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="108457" value="Airu Sato" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="126224" value="たかみまこと (Makoto Takami)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27221" value="Coiledspring Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="108" value="Gamewright" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1792" />
+			<average value="6.59259" />
+			<bayesaverage value="5.9927" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2787" bayesaverage="5.9927" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="874" bayesaverage="6.0825" />
+												</ranks>
+
+			<stddev value="1.29373" />
+			<median value="0" />
+			<owned value="2708" />
+			<trading value="39" />
+			<wanting value="42" />
+			<wishing value="403" />
+			<numcomments value="287" />
+			<numweights value="42" />
+			<averageweight value="1.2619" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

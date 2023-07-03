@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11582">
+         <thumbnail>https://cf.geekdo-images.com/5vRZB6-mx8pTfhuItDRIvQ__thumb/img/L3VJZE_fgsYeWSKvEis2eeVkV44=/fit-in/200x150/filters:strip_icc()/pic1216629.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5vRZB6-mx8pTfhuItDRIvQ__original/img/G5KHuqNev5uMgXY9SEK166G1qsQ=/0x0/filters:format(jpeg)/pic1216629.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Schnapsen" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="66" />
+			    				
+				<name type="alternate" sortindex="1" value="Exinta-exi" />
+			    				
+				<name type="alternate" sortindex="1" value="Hatvanhat" />
+			    				
+				<name type="alternate" sortindex="1" value="Mariagen-Spiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Meister Schnapsen" />
+			    				
+				<name type="alternate" sortindex="1" value="Santase" />
+			    				
+				<name type="alternate" sortindex="1" value="Sechsundsechzig" />
+			    				
+				<name type="alternate" sortindex="1" value="Sixty-six" />
+			    				
+				<name type="alternate" sortindex="1" value="Snapszer" />
+			    				
+				<name type="alternate" sortindex="1" value="Snapszli" />
+			
+						               													<description>Schnapsen is a point trick-taking game for 2 players using a 20 card deck consisting of ace, ten, king, queen, jack of the four suits. (Value and rank are the same as in Skat and Schafkopf.) Each round players are dealt five cards, replenishing from stock after each trick, with one turned up to indicate trump. The goal in each deal is to accumulate sixty-six trick points, where the card values are A=11, T=10, K=4, Q=3, J=2.  The suit led does not need to be followed until the stock is closed or exhausted, at which point suit must be followed, the trick must be won if possible, and you must trump if you cannot follow suit.&amp;#10;&amp;#10;Sixty-Six is a variant including nines and therefore 24 cards in total. Instead of five, six cards are dealt each round.&amp;#10;&amp;#10;Depending on the margin by which a player wins the deal, that player scores 1-3 game points.  A player who reaches 7 points wins the whole game. If the other player failed to gain any points in the meantime, the game is a Bummerl of double value. This only matters if playing a match of multiple games, which ends once a player reaches a previously agreed upon number of points. Detailed rules can be found at http://psellos.com/schnapsen/rules.html.&amp;#10;&amp;#10;There also exists a - more complex - variant for three to four players: Bauernschnapsen.&amp;#10;A commercial variant is WOO&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1715" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="2" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22" value="Piatnik" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="303" />
+			<average value="7.00726" />
+			<bayesaverage value="5.6882" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5598" bayesaverage="5.6882" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="211" bayesaverage="6.1177" />
+												</ranks>
+
+			<stddev value="1.63107" />
+			<median value="0" />
+			<owned value="295" />
+			<trading value="0" />
+			<wanting value="6" />
+			<wishing value="60" />
+			<numcomments value="135" />
+			<numweights value="30" />
+			<averageweight value="2.0667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="364792">
+         <thumbnail>https://cf.geekdo-images.com/rVFd-Ig14IlvwTZ96MAA5A__thumb/img/bDNuv4iLdGTPYP5oIJgKehUv2QU=/fit-in/200x150/filters:strip_icc()/pic6989906.png</thumbnail>
+      <image>https://cf.geekdo-images.com/rVFd-Ig14IlvwTZ96MAA5A__original/img/m4POw7fVzldVbrCwihE4NGs2kH8=/0x0/filters:format(png)/pic6989906.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Zombicide: Gear Up" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Zombicide: Do zbraně" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombicide: Fegyverbe!" />
+			    				
+				<name type="alternate" sortindex="1" value="Zombicide: Feuer frei" />
+			    				
+				<name type="alternate" sortindex="1" value="좀비사이드: 무기를 들어라" />
+			
+						               													<description>Zombicide: Gear Up is a co-operative flip-and-write game set in the world of Zombicide.&amp;#10;&amp;#10;To set up, each player takes a survivor card, which shows four weapons, along with damage, armor, and ammo tracks. Determine the level of play (easy to nightmare), then give each player the appropriate number of random regular and special zombie cards to place next to the &amp;quot;third street level&amp;quot; of their card. Shuffle the ten turn cards, then lay out nine in a row, placing seven spawn cards by the last seven of these cards.&amp;#10;&amp;#10;On a turn, reveal the next turn card, which shows which color weapon each player activates. Each weapon has a &amp;quot;hit shape&amp;quot; (typically a polyomino), and you must fit the hit shape into the outline of a zombie to use it, with no overlaps to any damage you've dealt previously. Some zombies might then advance toward players, moving from their third street to their second one. If a zombie is on your &amp;quot;first street&amp;quot; and would advance, you take damage equal to the unmarked red stars on that card. If you mark off ammo or armor on a zombie, you circle those symbols on your survivor card; you can spend one ammo to mark off a single zombie space, and you can spend armor instead of taking damage.&amp;#10;&amp;#10;After the third turn, you reveal the first spawn card, which will put more zombies in play, with players collectively deciding how to add those cards to their third streets. Whenever you mark off the final space on a zombie card, remove it from play, then upgrade one of your weapons, perhaps gaining the ability to use it multiple times or gain armor when you cover red stars. After nine turns, reshuffle the ten turn cards, then lay out nine of them, along with the level 1 and 2 boss cards under the final seven turn cards. Place the boss in front of one player. During a turn, if the boss is in front of you or if you have an activated long-range weapon, you can attack the boss instead of zombies close to you. If you defeat the boss before the ninth turn ends in the second round, you win; if not &amp;mdash; or if any player is killed by damage &amp;mdash; then you lose the game.&amp;#10;&amp;#10;For the solitaire mode of Zombicide: Gear Up, take companion cards for three survivors not in play and place them next to your survivor card. When a turn card has a smiley face on it, you can activate the power of one of your companions, in addition to your own weapon. Each companion can be used only once in a round.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="141" value="No necessary in-game text" numvotes="0" />
+					<result level="142" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="143" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="144" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="145" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2481" value="Zombies" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21856" value="Game: Zombicide" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63122" value="Versions &amp; Editions: Roll- or Flip-and-Write Versions of Non-Writing Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109218" value="Jordy Adan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="77526" value="Marco Portugal" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29291" value="Dany Orizio" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21020" value="Guillotine Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="267" />
+			<average value="7.22115" />
+			<bayesaverage value="5.69491" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5465" bayesaverage="5.69491" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="1935" bayesaverage="5.82289" />
+												</ranks>
+
+			<stddev value="1.24567" />
+			<median value="0" />
+			<owned value="846" />
+			<trading value="12" />
+			<wanting value="27" />
+			<wishing value="145" />
+			<numcomments value="49" />
+			<numweights value="9" />
+			<averageweight value="1.7778" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

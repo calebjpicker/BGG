@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="71906">
+         <thumbnail>https://cf.geekdo-images.com/gRRoSmsC1bNwX-kPR-KRgg__thumb/img/I7TB1gfWrc1u_1j6c-XlCuMIQew=/fit-in/200x150/filters:strip_icc()/pic1904013.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/gRRoSmsC1bNwX-kPR-KRgg__original/img/1EQmBI0LhTZCtGZcjdgwSrvaSIY=/0x0/filters:format(jpeg)/pic1904013.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Castaways" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Naufragés" />
+			    				
+				<name type="alternate" sortindex="1" value="Náufragos" />
+			    				
+				<name type="alternate" sortindex="1" value="Náufragos: Die Schiffbrüchigen" />
+			
+						               													<description>You've been shipwrecked on a deserted isle. Do you have the wits to survive until a rescue ship arrives? To make it, you'll need to build a camp and explore the interior to reach the summit. From there, you will scan the horizon for sign of a nearby ship. Only then will you be able to make a signal and get rescued! If you are rescued, your tale will be told around the world &amp;mdash; but only if you have the best tale to tell! Of course, if you are not rescued, no one will hear your story...&amp;#10;&amp;#10;N&amp;aacute;ufragos (a.k.a. Castaways) is a competitive collaboration game about four castaways who are stranded on a small island. They must collaborate to improve their shelter, gather food to eat and wood to keep the campfire burning, and figure out how to advance to the interior of the island, as only from the vantage point of the highest spot on the island will they have a view of the vast ocean &amp;ndash; and even more importantly, a view of the ship on the horizon that promises rescue! The players must manage their time in order to deliver a signal to this passing vessel &amp;ndash; but even if they're all rescued, in the end only one player will win, that being the one who writes the best story at the end of the game, the one who lives and retells the greatest adventure from all the survivors, the one who has collected the most story points.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2010" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="70">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="40" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="30" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="12" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="33">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="30" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10310" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65494" value="Theme: Survival" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="272934" value="Castaways: Insert Here Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="28878" value="Alberto Corral" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="42246" value="Siscu Bellido" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6275" value="HomoLudicus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="157" value="Asmodee" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23296" value="Passport Game Studios" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1737" />
+			<average value="6.95094" />
+			<bayesaverage value="6.15981" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2076" bayesaverage="6.15981" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="417" bayesaverage="6.39439" />
+												</ranks>
+
+			<stddev value="1.46833" />
+			<median value="0" />
+			<owned value="2550" />
+			<trading value="141" />
+			<wanting value="136" />
+			<wishing value="749" />
+			<numcomments value="475" />
+			<numweights value="145" />
+			<averageweight value="3.0069" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

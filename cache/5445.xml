@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5445">
+         <thumbnail>https://cf.geekdo-images.com/kLo2W5gN_2n49w4IT0IEKQ__thumb/img/AW9icFPYzs7jd8uUZNNFoxjujYY=/fit-in/200x150/filters:strip_icc()/pic86440.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/kLo2W5gN_2n49w4IT0IEKQ__original/img/eso6fRgdSsrbOwkGvpMbC54f3rI=/0x0/filters:format(jpeg)/pic86440.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rod Hockey" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="High Speed Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Hockeyspelet" />
+			    				
+				<name type="alternate" sortindex="1" value="Ice Hockey" />
+			    				
+				<name type="alternate" sortindex="1" value="Ishockeyspel" />
+			    				
+				<name type="alternate" sortindex="1" value="NHL Stanley Cup Play-Off Hockey" />
+			    				
+				<name type="alternate" sortindex="1" value="Pöytälätkä" />
+			    				
+				<name type="alternate" sortindex="1" value="Pro Action Table Top Ice Hockey" />
+			    				
+				<name type="alternate" sortindex="1" value="Stiga Play Off" />
+			    				
+				<name type="alternate" sortindex="1" value="Stiga Play Off 21" />
+			    				
+				<name type="alternate" sortindex="1" value="Stiga Stanley Cup Hockey Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Table Hockey" />
+			    				
+				<name type="alternate" sortindex="1" value="Table Top Ice Hockey" />
+			    				
+				<name type="alternate" sortindex="1" value="Wayne Gretzky&#039;s All Star Hockey" />
+			
+						               													<description>Rod Hockey is a relatively inexpensive representation of the dome-style hockey games found in many arcade halls.&amp;#10;&amp;#10;Using steel rods, plastic or metal hockey players slide along defined track segments.  There are five players and one goalie per side, just like real hockey.  Players simultaneously turn and move their five metal rods to shoot the puck and pass.  Games can be played using a timer or to a set number of points.&amp;#10;&amp;#10;Many different versions of this game have been published over the last 50+ years.&amp;#10;&amp;#10;Steel rods with metal gears were used before plastic ones, the plastic gear system was quickly abandoned as gears would not last. From there a curved spring was used (ImageID: 427829) from rod to player holding slider. This worked well for durability. This changed the game though considerably, as there was a bit of spring action in shooting. Slap shots were less powerful, but wrist shots worked better. Many different ice layouts were made for rod and player movement within the defined track segments. Swiveled tracks made players look like they were skating down the ice. This changed play and tactics for each game, it was considered having home ice advantage, as you were used to your game surface design. You knew how the puck bounced off the boards and where to exploit the best scoring chances. Various pucks were used, heavier ones worked better with the gear system, lighter ones worked better with the spring system. The puck with the steel ball in center moved the fastest and was most popular for the avid player.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1932" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17516" value="Sports Teams: National Hockey League (NHL)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5628" value="Sports: Ice Hockey" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="156370" value="Rod Soccer" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6363" value="Don Munro" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5186" value="4Kidz, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1139" value="Coleco Industries, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2165" value="Radio Shack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4981" value="Stiga" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="371" />
+			<average value="7.27426" />
+			<bayesaverage value="5.77794" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4385" bayesaverage="5.77794" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="1260" bayesaverage="5.86757" />
+												</ranks>
+
+			<stddev value="1.87948" />
+			<median value="0" />
+			<owned value="301" />
+			<trading value="2" />
+			<wanting value="12" />
+			<wishing value="46" />
+			<numcomments value="164" />
+			<numweights value="32" />
+			<averageweight value="1.4688" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

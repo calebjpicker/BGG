@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5314">
+         <thumbnail>https://cf.geekdo-images.com/bBLpq6Nwi5GwOiZ0iyJarQ__thumb/img/8gDHXo17V0AWEVE9OWSueR4NnSI=/fit-in/200x150/filters:strip_icc()/pic95712.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/bBLpq6Nwi5GwOiZ0iyJarQ__original/img/H3UBuwdx6oaMZvDOmlFuPOwxerw=/0x0/filters:format(jpeg)/pic95712.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hangman" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Adam Asmaca" />
+			    				
+				<name type="alternate" sortindex="4" value="el ahorcado" />
+			    				
+				<name type="alternate" sortindex="4" value="El Ahorcado" />
+			    				
+				<name type="alternate" sortindex="1" value="Alpha Battle" />
+			    				
+				<name type="alternate" sortindex="4" value="Le Bourreau" />
+			    				
+				<name type="alternate" sortindex="1" value="Colgado" />
+			    				
+				<name type="alternate" sortindex="1" value="Colgado Enforcado" />
+			    				
+				<name type="alternate" sortindex="1" value="Colgado Grande" />
+			    				
+				<name type="alternate" sortindex="1" value="Galgen Männchen" />
+			    				
+				<name type="alternate" sortindex="1" value="Galgje" />
+			    				
+				<name type="alternate" sortindex="1" value="Gallows" />
+			    				
+				<name type="alternate" sortindex="1" value="Guess &#039;N Bee" />
+			    				
+				<name type="alternate" sortindex="1" value="Hang-Man" />
+			    				
+				<name type="alternate" sortindex="1" value="Hangman: Don&#039;t Hang Sam" />
+			    				
+				<name type="alternate" sortindex="1" value="Magnetic Hangman" />
+			    				
+				<name type="alternate" sortindex="1" value="Magnetická Šibenice na cesty" />
+			    				
+				<name type="alternate" sortindex="4" value="Le pendu" />
+			    				
+				<name type="alternate" sortindex="1" value="Poomine" />
+			    				
+				<name type="alternate" sortindex="1" value="SpongeBob Squarepants Hangman Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Ülespoomine" />
+			    				
+				<name type="alternate" sortindex="1" value="Vocaboli e Patibolo" />
+			    				
+				<name type="alternate" sortindex="1" value="Wild West Hangman" />
+			    				
+				<name type="alternate" sortindex="1" value="Word Hangman" />
+			    				
+				<name type="alternate" sortindex="1" value="Η Κρεμάλα του Σερίφη" />
+			    				
+				<name type="alternate" sortindex="1" value="Κρεμάλα" />
+			    				
+				<name type="alternate" sortindex="1" value="행맨" />
+			
+						               													<description>This is the classic letter guessing game with plastic cases to place letters in and to indicate how close the opponent is to being hung.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1976" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="1" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62039" value="Word Games: Spelling / Letters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10267" value="Series: GoPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="40091" value="Series: Travel Games for Smart Kids (Goldmerk)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5860" value="TV Shows: Spongebob Squarepants" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="53418" value="Taavi Oolberg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="95870" value="Inna Semadar" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="404" value="Alga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="225" value="Cardinal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4089" value="Falomir Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9731" value="Funville Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1410" value="Game Office" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9419" value="Goldmerk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28876" value="Grafix Travel Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51" value="Hasbro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1144" value="International Playthings, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8565" value="King International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1670" value="Magnetic Poetry Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4539" value="MB Giochi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8931" value="MB Jeux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17039" value="MB Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4554" value="MB Spellen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6290" value="MB Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8760" value="Melissa &amp; Doug" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6892" value="MIKA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="20" value="Milton Bradley" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4291" value="New Entertainment Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6876" value="Nilco S.A." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28" value="Parker Brothers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="209" value="Patch Products" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="486" value="Paul Lamond Games Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="782" value="Peter Pan Playthings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25511" value="The Purple Cow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7497" value="Randtoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1155" value="Schaper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2011" value="Toyster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10448" value="Trends International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16793" value="Wicked Vision" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7071" value="World Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1066" />
+			<average value="4.20754" />
+			<bayesaverage value="5.02579" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24511" bayesaverage="5.02579" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="3001" bayesaverage="4.89114" />
+												</ranks>
+
+			<stddev value="1.55702" />
+			<median value="0" />
+			<owned value="1388" />
+			<trading value="43" />
+			<wanting value="1" />
+			<wishing value="13" />
+			<numcomments value="359" />
+			<numweights value="73" />
+			<averageweight value="1.1096" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

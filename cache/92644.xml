@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="92644">
+         <thumbnail>https://cf.geekdo-images.com/m5K81KXbydPKCnvTE0CKGg__thumb/img/oeY73YvfecWpuS8zcMyyNVurpx0=/fit-in/200x150/filters:strip_icc()/pic1086779.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/m5K81KXbydPKCnvTE0CKGg__original/img/ilJO6wsW7tnBP0qzdYSzorgdaCo=/0x0/filters:format(jpeg)/pic1086779.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Schnappt Hubi!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Attrape Fantôme !" />
+			    				
+				<name type="alternate" sortindex="1" value="Attrape fantôme!" />
+			    				
+				<name type="alternate" sortindex="1" value="Op jacht naar Hubi" />
+			
+						               													<description>In the cooperative deduction game Schnappt Hubi!, which uses an electronic device similar to the one in Wer war's?, the players explore an old house by building a 3D-labyrinth of &amp;quot;broken&amp;quot; walls in the first phase and chasing a ghost in the second.&amp;#10;&amp;#10;Each player starts with his figure &amp;ndash; a red or yellow mouse or blue or green hare &amp;ndash; in one predetermined corner of the square house, which features a 4x4 grid of rooms that lacks any walls at the start of the game. The players find out which kind of walls are in certain directions by pressing one of four &amp;quot;arrow buttons&amp;quot; of a &amp;quot;compass&amp;quot; device with a built-in AI (to ensure that each game will have a different house). Walls come in four types: One that allows all animals to pass through, one with a mousehole that allows only mice through, one with a hole in the top that only hares can jump through, and one that's solid and impassable. The players build those walls, creating step-by-step a 3D-labyrinth. The goal of this first phase is to find the &amp;quot;magic doors&amp;quot;, which can be opened only if there is an animal on each side.&amp;#10;&amp;#10;Once the players find the magic doors, the ghost &amp;quot;Hubi&amp;quot; appears. The device gives hints to the players, allowing them to deduce where Hubi is so that ideally they can eventually chase it out of the house.&amp;#10;&amp;#10;Schnappt Hubi! includes three difficulty levels, with a &amp;quot;timer&amp;quot; running in the hardest level that ends the game after a certain number of moves.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="6" />
+					<result value="5" numvotes="7" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="2" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1072" value="Electronic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1059" value="Maze" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7269" value="Animals: Mice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6507" value="Animals: Rabbits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7479" value="Creatures: Ghosts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="187489" value="Schnappt Hubi Mitbringspiel" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10067" value="Steffen Bogen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="137531" value="Rabbix GmbH" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="432" />
+			<average value="6.91819" />
+			<bayesaverage value="5.75175" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4675" bayesaverage="5.75175" />
+																				<rank type="family" id="4665" name="childrensgames" friendlyname="Children&#039;s Game Rank" value="30" bayesaverage="6.59428" />
+												</ranks>
+
+			<stddev value="1.43164" />
+			<median value="0" />
+			<owned value="926" />
+			<trading value="19" />
+			<wanting value="31" />
+			<wishing value="120" />
+			<numcomments value="93" />
+			<numweights value="33" />
+			<averageweight value="1.303" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="293224">
+                                     				
+				<name type="primary" sortindex="1" value="Settlers of Catan Scenario: The Volcano" />
+			
+						                           
+						               													<description>Brave the hazards of the Volcano's fury to fill your coffers with gold!&amp;#10;&amp;#10;The Volcano tile replaces the Desert tile and during the game the volcano may erupt! When it does, settlers who are unfortunate enough to be in the path of the lava will be swept away!&amp;#10;&amp;#10;During setup, a number is placed on the Volcano (it cannot be 7). When the number on the token that was placed on the Volcano is rolled, the Volcano erupts!&amp;#10;&amp;#10;Special Rules&amp;#10;Setup&amp;#10;During the initial construction turns, no player may place either of his two starting settlements on an intersection that borders the Volcano.&amp;#10;&amp;#10;The Volcano&amp;#10;When the Volcano erupts, roll a die to determine the direction the lava will flow. One of the six intersections on the Volcano tile will be affected. If there is a settlement on the selected intersection, it is destroyed!&amp;#10;&amp;#10;Remove it from the board (its owner may rebuild it later). If a city is located there, it is reduced to a settlement! Replace the city with a settlement of its owner's color. If he has no settlements remaining, it is destroyed instead.&amp;#10;&amp;#10;The presence of the Robber on the Volcano hex does not prevent the Volcano from erupting.&amp;#10;&amp;#10;Gold Variant&amp;#10;Important: This is an optional rule. All players must agree to this rule if it is to be used.&amp;#10;&amp;#10;Volcanoes tend to be rich in valuable minerals such as gold or gems. If the players desire, the Volcano can produce resources when its number is rolled.&amp;#10;&amp;#10;This &amp;quot;gold&amp;quot; is distributed in the same manner as the Gold River hex in the Seafarers expansion: Each settlement that is adjacent to the Volcano when it erupts may produce any one of the five resources it's owner desires.&amp;#10;&amp;#10;Each city adjacent to the Volcano may produce any two resources. This resource production is taken before the results of the volcano eruption are resolved. Note that while the Robber can not prevent the Volcano from erupting, he does prevent any player from producing resources from the Volcano hex if he has been placed there.&amp;#10;&amp;#10;-Playing with the Seafarers Expansion&amp;#10;When playing the Volcano scenario with the seafarers expansion, the Volcano tile can replace any desert or sea tile that all players agree on. The only restriction is that whichever tile is replaced by the Volcano must be adjacent to at least two other resource-producing land tiles.&amp;#10;&amp;#10;-Krakatoa Variant&amp;#10;This variant is for use only with the Seafarers expansion. For this variant, form an island from three Volcano tiles. Place resource number tokens 4, 5, and 6 one on each Volcano.&amp;#10;&amp;#10;This variant should only be used with the Gold Variant described above.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="66" value="No necessary in-game text" numvotes="1" />
+					<result level="67" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="68" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="69" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="70" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3" value="Game: Catan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20512" value="Series: Catan Scenarios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63335" value="Theme: Volcanoes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="13" value="CATAN" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31418" value="Catan Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10" value="Mayfair Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.25831" />
+			<median value="0" />
+			<owned value="33" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="15" />
+			<numcomments value="5" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

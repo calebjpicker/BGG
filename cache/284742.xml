@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="284742">
+         <thumbnail>https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__thumb/img/4e8jsNQHJp_Cir_h1_rEBK5xXWM=/fit-in/200x150/filters:strip_icc()/pic5608344.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__original/img/2mJguceZAdOqSem23FEHobaZ0a4=/0x0/filters:format(jpeg)/pic5608344.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Honey Buzz" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Medobraní" />
+			    				
+				<name type="alternate" sortindex="1" value="Miodny Bzyk" />
+			
+						               													<description>The bees have discovered economics. The queens believe that if they sell honey to the bears, badgers, and woodland creatures, they will find peace and prosperity. Spring has arrived and it's time to build the hive, find nectar, make honey, and, for the first time ever, set up shop.&amp;#10;&amp;#10;Honey Buzz is a worker bee placement game where players expand a personal beehive by drafting various honeycomb tiles that grant actions that are triggered throughout the game. Each tile represents a different action. Whenever a tile is laid so that it completes a certain pattern, a ring of actions is triggered in whatever order the player chooses. A tile drafted on turn one could be triggered up to three times at any point during the game. It all depends on how the player places their beeples (bee+meeple) and builds their hive. After all, in the honey business, efficiency is queen.&amp;#10;&amp;#10;As you continually expand your hive, you'll forage for nectar and pollen, make honey, sell different varieties at the bear market, host honey tastings, and attend to the queen and her court. There's only so much nectar to go around, and finding it won't be easy. Players will have to scout out the nectar field and pay attention to other players searches to try to deduce the location of the nectar they need for themselves.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="80">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="526" value="No necessary in-game text" numvotes="0" />
+					<result level="527" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="528" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="529" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="530" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7564" value="Animals: Bees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62079" value="Animals: Insects" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="387482" value="Honey Buzz: Cornucopia Mini Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349725" value="Honey Buzz: Fall Flavors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="311314" value="Honey Buzz: Honey Pot Mini Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="360171" value="Honey Buzz: Large Orders Dice Tower Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="327009" value="Honey Buzz: Deduction Pad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="331250" value="Honey Buzz: Deluxe Components" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343432" value="Honey Buzz: Shipshape Gamer Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348550" value="Honey Buzz: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329314" value="Honey Buzz: Wooden Coins" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="109365" value="Paul Salomon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88432" value="Anne Heidsieck" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36580" value="Elf Creek Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46507" value="Happy meeple games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45510" value="Rawstone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40058" value="Skellig Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4534" />
+			<average value="7.64259" />
+			<bayesaverage value="6.96572" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="467" bayesaverage="6.96572" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="289" bayesaverage="7.07146" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="75" bayesaverage="7.12151" />
+												</ranks>
+
+			<stddev value="1.2036" />
+			<median value="0" />
+			<owned value="9364" />
+			<trading value="94" />
+			<wanting value="554" />
+			<wishing value="3724" />
+			<numcomments value="830" />
+			<numweights value="137" />
+			<averageweight value="2.7591" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

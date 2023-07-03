@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="251658">
+         <thumbnail>https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png</thumbnail>
+      <image>https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU=/0x0/filters:format(png)/pic4654146.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sprawlopolis" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Expansiópolis" />
+			    				
+				<name type="alternate" sortindex="1" value="Megalopolis" />
+			    				
+				<name type="alternate" sortindex="1" value="Urbanista" />
+			    				
+				<name type="alternate" sortindex="1" value="Velkoměsto: Rozšířené vydání" />
+			    				
+				<name type="alternate" sortindex="1" value="Мегаполіс" />
+			    				
+				<name type="alternate" sortindex="1" value="Стройполис" />
+			    				
+				<name type="alternate" sortindex="1" value="无限都市" />
+			
+						               													<description>Jackhammers chattering, trucks beeping, engines roaring, the sounds of construction are everywhere. Sprawlopolis is growing and YOU are in charge of it all. The last team of planners couldn't cut it, so the city turned to your team, the best of the best. If anyone can turn this tiny town into a thriving civic center it's you.&amp;#10;&amp;#10;In Sprawlopolis, 1-4 players work together to build a new city from the ground up. Using only 18 cards and a variable scoring system, the game is never the same twice. Each turn, players will play 1 card from their hand to the growing city, trying to score as many points as possible. Players will have to communicate and plan without revealing their own cards in order to most efficiently develop large areas in each of the 4 zone types. Watch out though, the city hates paying for road maintenance so each road will cost you points in the end. When all cards have been placed, the game ends and players see if they have met dynamically generated minimum score for their game.  Can you meet the demands of the officials, work with your fellow planners and build the ultimate urban wonder?  It&amp;rsquo;s time to find out!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;&amp;#10;Released in the June 2018 Board Game of the Month Club $20+ package.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="207">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="181" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="95" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="89" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="103" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="109" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="36">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="20" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="18">
+			
+		<results>		
+					<result level="1026" value="No necessary in-game text" numvotes="0" />
+					<result level="1027" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="1028" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="12" />
+					<result level="1029" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="1030" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58142" value="Game: Sprawlopolis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65208" value="Mechanism: Partially overlapping cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73760" value="Series: Master Print Mini (Quined)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61134" value="Series: Pocket Games series (Kozak Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27795" value="Series: Wallet Games (Button Shy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68322" value="Theme: City" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="320282" value="Combopolis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371016" value="Combopolis II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371025" value="Combopolis: Expansion Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="353949" value="Mini expansion set for Sprawlopolis, Circle the Wagons, Stew and Tussie Mussie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="276862" value="Sprawlopolis: Beaches" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262045" value="Sprawlopolis: Construction Zones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="370188" value="Sprawlopolis: Expansion Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="314089" value="Sprawlopolis: Interstate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262044" value="Sprawlopolis: Points of Interest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371437" value="Sprawlopolis: Roadwork" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262043" value="Sprawlopolis: Wrecktar" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371019" value="Ultimopolis" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="370191" value="Sprawlopolis: Expansion Collection – Wallet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="312548" value="Sprawlopolis: Greetings from Sprawlopolis Postcard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="307389" value="Sprawlopolis: Scoresheet" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="314088" value="Agropolis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="352606" value="Naturopolis" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="73472" value="Steven Aramini" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68355" value="Danny Devine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="91357" value="Paul Kluka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11462" value="Loïc Billiau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="130841" value="Dalton Cara" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68355" value="Danny Devine" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26991" value="Button Shy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47533" value="Diversion (دایورژن)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29895" value="Frosted Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40993" value="Funbox Editora" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44152" value="KOZAK Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23031" value="Magellan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36818" value="Mosigra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10663" value="Quined Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40599" value="Salt &amp; Pepper Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9361" />
+			<average value="7.37056" />
+			<bayesaverage value="7.02499" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="414" bayesaverage="7.02499" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="85" bayesaverage="7.09685" />
+												</ranks>
+
+			<stddev value="1.1547" />
+			<median value="0" />
+			<owned value="20822" />
+			<trading value="215" />
+			<wanting value="353" />
+			<wishing value="2763" />
+			<numcomments value="2037" />
+			<numweights value="227" />
+			<averageweight value="1.8414" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

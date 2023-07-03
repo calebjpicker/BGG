@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="340488">
+         <thumbnail>https://cf.geekdo-images.com/2PmBlyT4tuvkRc5vGT9Uhg__thumb/img/4pin2lW6Q-V-r9a2-qxJ9eHvUuA=/fit-in/200x150/filters:strip_icc()/pic6230786.png</thumbnail>
+      <image>https://cf.geekdo-images.com/2PmBlyT4tuvkRc5vGT9Uhg__original/img/HajOZiIFeDqbmIBOje4n8i80FCA=/0x0/filters:format(png)/pic6230786.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Spotlight" />
+			
+						                           
+						               													<description>Spotlight is a head-to-head card game in which you fight for control of areas that change value and effects each round.&amp;#10;&amp;#10;To begin play, lay out four of the sixteen area cards; each area is worth points, and some of them have an effect, such as &amp;quot;All blue cards are played here face down&amp;quot; or &amp;quot;The suit with the second-highest total wins&amp;quot;. Deal the playing card deck evenly to each player; cards come in four suits, with values 2-5. In the first round, players discard two cards in their hand face down, then choose a card as their scoring suit and place it face down on the table. (In the second round, players each discard only one card, and in round three they discard no cards.)&amp;#10;&amp;#10;Players then take turns playing a single card from their hand face up in one of the areas. Each area can hold at most five cards, and twice during a round a player can place a spotlight card under their played card to change this card to their secret scoring suit at the end of the round. Once all 18 cards have been played, players reveal their scoring suit. If these suits are identical, then each player scores only this single card, and cards played to areas are ignored. If these suits differ, then you calculate the strength of each suit in an area to determine which suit wins that area's points. Unless the area specifies otherwise, the suit with the highest sum wins the area &amp;mdash; and if a player chose this suit, then they score the area card. All scored cards are placed to the side, out of play.&amp;#10;&amp;#10;For rounds two and three, reshuffle all non-scored playing cards, lay out new area cards, then deal new hands to players. Whoever has scored the most points after three rounds wins.&amp;#10;&amp;#10;Spotlight includes a solo mode in which you play against the AI &amp;quot;Light&amp;quot;, attempting to win areas as Light plays down twice as many cards. How well will you be able to beat the automated system?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="0" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2014" value="Betting and Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="135663" value="Jay Bell" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="119159" value="Adam Stichter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="135663" value="Jay Bell" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42736" value="Jack of Peace Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="7.94667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.867845" />
+			<median value="0" />
+			<owned value="32" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="9" />
+			<numcomments value="7" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

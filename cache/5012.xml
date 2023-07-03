@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="5012">
+         <thumbnail>https://cf.geekdo-images.com/tpiX1mCoFOdKqdsU9iVJsQ__thumb/img/bGSjx2wI8Icv9lOH1GLS2HMMSoY=/fit-in/200x150/filters:strip_icc()/pic385380.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tpiX1mCoFOdKqdsU9iVJsQ__original/img/G7NdTayz1p7QpFj1G344q-lLxRE=/0x0/filters:format(jpeg)/pic385380.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Snit Smashing" />
+			
+						                           
+						               													<description>A very simple game in which players compete to reproduce as many Snits as possible, while smashing the other players' Snits with the Bolotomus.&amp;#10;&amp;#10;Each player plays both a tribe (21 chits of his colour, of which 4 are randomly selected for each run) of Snits, emerging from the sea (one end of the map), racing (each counter is marked with a speed in hexes) to the cover of the Snandergrab (a big counter/tile covering 7 hexes), and a Bolotomus (a large bored creature represented only by the Smash! counter denoting the hexes where it hopes to crush Snits).&amp;#10;&amp;#10;Movement of Snits, and location on the Bolotomus' Smash! are secretly written down, and simultaneously revealed. Once under the Snandergrab (Snits who survive 9 game turns but didn't make it there are placed under anyway), Snits reproduce (3 more counters are added per survivor), and they all race back to the sea, imperiled by the Bolotomus again. A second reproductive run follows, then the winner is judged by the greatest number of surviving Snits.&amp;#10;&amp;#10;Published in The Dragon Magazine #10. Errata published in The Dragon Magazine #11.&amp;#10;&amp;#10;A revised version of the game was published in Snits!.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1977" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5713" value="Magazine: Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62095" value="Series: Snits (Dragon Magazine)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="307783" value="Snits!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="46" value="Tom Wham" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46" value="Tom Wham" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16" value="Tactical Studies Rules (TSR)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="143" />
+			<average value="5.54063" />
+			<bayesaverage value="5.49864" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="20588" bayesaverage="5.49864" />
+												</ranks>
+
+			<stddev value="1.42334" />
+			<median value="0" />
+			<owned value="425" />
+			<trading value="21" />
+			<wanting value="6" />
+			<wishing value="16" />
+			<numcomments value="74" />
+			<numweights value="19" />
+			<averageweight value="1.5263" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

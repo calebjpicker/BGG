@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="164195">
+         <thumbnail>https://cf.geekdo-images.com/Jq3ltSa_ESxjdRcCC7hTsg__thumb/img/Qsji2xt9L0UUo0AaqDnkmf2TO1E=/fit-in/200x150/filters:strip_icc()/pic2217111.png</thumbnail>
+      <image>https://cf.geekdo-images.com/Jq3ltSa_ESxjdRcCC7hTsg__original/img/a_O7_Mk8wpIuclNDJqei6gAD_zo=/0x0/filters:format(png)/pic2217111.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="botNET" />
+			
+						                           
+						               													<description>bot&amp;middot;net - &amp;quot;A network of private computers infected with malicious software and controlled as a group without the owners' knowledge.&amp;quot;&amp;#10; In botNET, Hackers compete for notoriety and power by building the largest and most powerful network of computers. Mastering botNET requires careful planning, strategy, and a touch of game theory.&amp;#10;&amp;#10;The game is broken into five actions where Hackers: &amp;#10;&amp;#10;     Scan the Internet (draw deck) to download new Nodes (cards), &amp;#10;     Connect the nodes to the network on the table&amp;#10;     Mine encryption keys that can unlock new Nodes&amp;#10;     Hack nodes by moving an Avatar to the node and using the keys. &amp;#10;     Recruit &amp;lsquo;whitehat&amp;rsquo; or &amp;lsquo;blackhat&amp;rsquo; hackers to your side.     &amp;#10;&amp;#10;&amp;#10;Each Node has a Type which determines what it does as well as a security level that shows how hard it is to hack and where in the network it is allowed to go.&amp;#10;&amp;#10;Each node type is associated with a shape:&amp;#10;&amp;#10;     Miners (Triangle) -  Computers that crunch numbers to generate encryption keys. &amp;#10;     Storage (Square) - Databases that store nodes or encryption keys.&amp;#10;     Applications (Circle) - Programs that enhance specific actions. &amp;#10;     Botnets (Hexagon)- Hackers earn street cred by connecting new nodes to these networks. &amp;#10;&amp;#10;&amp;#10;The color of a Node determines its Security Level:&amp;#10;&amp;#10;     Home (Blue) nodes are small systems owned by individuals.&amp;#10;     Commercial (Green) nodes belong to small and medium businesses. &amp;#10;     Cloud (Orange) nodes are located in the data centers of giant multinational corporations. &amp;#10;     Government (Red) nodes belong to a national Government and are very difficult to hack. &amp;#10;&amp;#10;&amp;#10;Cards in the network must respect the security levels. For instance, Home nodes may never be directly connected to Cloud or Government Nodes without a Commercial Node in between.&amp;#10;&amp;#10;A hidden war is being waged between two hacker groups: the Freedom Foundation, whose membership includes altruistic Whitehat hackers, and the Cracker Coalition, which is made up of ruthless Blackhat Hackers.&amp;#10;&amp;#10;Street credit, or &amp;ldquo;Cred&amp;rdquo; is a crucial currency in the Hacker world. In botNET it is represented by White or Black glass tokens that indicate if the Cred is &amp;lsquo;Whitehat&amp;rsquo; or &amp;lsquo;Blackhat&amp;rsquo;. Connecting nodes to Botnets earn Cred from one of the two hacker groups. One earned, Cred can be used to the Hackers advantage by acquiring contacts and issuing exploits. &amp;#10; Contacts are shadowy individuals that will assist you but may switch allegiances at the drop of a hat. Contacts have secret knowledge that can make hacks easier and will pay you if you can gain control over the Nodes they desire. Unscrupulous rivals may turn informant and report Contacts to the police. Who will keep their mouth shut and who will rat?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20584" value="Theme: Hackers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="2" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="169426">
+         <thumbnail>https://cf.geekdo-images.com/enmQAOQl99U6wiQvZoL5GQ__thumb/img/zdtrILXRjphkt5HYP0tuxzlenG4=/fit-in/200x150/filters:strip_icc()/pic2556921.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/enmQAOQl99U6wiQvZoL5GQ__original/img/iiKhufERu8v8JpErc5kUoO8WiNw=/0x0/filters:format(jpeg)/pic2556921.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Roll Player" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hrdina v kostce" />
+			    				
+				<name type="alternate" sortindex="1" value="Путь героя" />
+			    				
+				<name type="alternate" sortindex="1" value="ロールプレイヤー" />
+			    				
+				<name type="alternate" sortindex="1" value="骰筑英雄" />
+			    				
+				<name type="alternate" sortindex="1" value="롤 플레이어" />
+			
+						               													<description>Mighty heroes don&amp;rsquo;t just appear out of thin air -- you must create them! Race, class, alignment, skills, traits, and equipment are all elements of the perfect hero, who is ready to take on all opposition in the quest for glory and riches.&amp;#10;&amp;#10;In Roll Player, you will compete to create the greatest fantasy adventurer who has ever lived, preparing your character to embark on an epic quest. Roll and draft dice to build up your character&amp;rsquo;s attributes. Purchase weapons and armor to outfit your hero. Train to gain skills and discover your hero&amp;rsquo;s traits to prepare them for their journey. Earn Reputation Stars by constructing the perfect character. The player with the greatest Reputation wins the game and will surely triumph over whatever nefarious plot lies ahead!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="254">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="120" />
+					<result value="Not Recommended" numvotes="31" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="140" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="105" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="45" />
+					<result value="Recommended" numvotes="102" />
+					<result value="Not Recommended" numvotes="26" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="101" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="50">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="26" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="23">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="16" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28659" value="Crowdfunding: Wspieram" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58901" value="Misc: Self-Referential Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44244" value="Series: Madison Game Design Cabal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52722" value="Setting: World of Ulos" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="351928" value="Roll Player: 3 Card Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287567" value="Roll Player: Cartographer Backstory Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="214327" value="Roll Player: Cursed Ring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="255601" value="Roll Player: Fiends &amp; Familiars" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="209484" value="Roll Player: Frogkin Promo Punchboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="288793" value="Roll Player: Lenticular Monster Cards Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="261336" value="Roll Player: Lockup Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="269572" value="Roll Player: Minotaur Promo Punchboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="213360" value="Roll Player: Monsters &amp; Minions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="313054" value="Roll Player: Ring of Charity Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="266430" value="Roll Player: Dice Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309472" value="Roll Player: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="315113" value="Roll Player: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="334016" value="Roll Player: Laserox Rollganizer insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="269687" value="Roll Player: Meeple Realty Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="251784" value="Roll Player: Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="243039" value="Roll Player: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="358129" value="Roll Player: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="378774" value="Roll Player: Spielmaterial.de Upgrade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="254708" value="Roll Player Adventures" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62238" value="Keith Matejka" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29142" value="JJ Ariosa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14650" value="Luis Francisco" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26107" value="Thunderworks Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8351" value="Gen-X Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29242" value="Ludofy Creative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29487" value="Ogry Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3242" value="Raven Distribution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19096" />
+			<average value="7.46945" />
+			<bayesaverage value="7.25873" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="231" bayesaverage="7.25873" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="181" bayesaverage="7.28299" />
+												</ranks>
+
+			<stddev value="1.19379" />
+			<median value="0" />
+			<owned value="28951" />
+			<trading value="374" />
+			<wanting value="862" />
+			<wishing value="5547" />
+			<numcomments value="2925" />
+			<numweights value="389" />
+			<averageweight value="2.4319" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

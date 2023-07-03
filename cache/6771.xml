@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="6771">
+         <thumbnail>https://cf.geekdo-images.com/IqgXOuK9dytu0Xh8MBMFWw__thumb/img/LM4943JdP0XFXDRbbzHAEGTd0sg=/fit-in/200x150/filters:strip_icc()/pic5047738.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IqgXOuK9dytu0Xh8MBMFWw__original/img/2x8_9pjRfzstDSm-qnGwEt5C0EE=/0x0/filters:format(jpeg)/pic5047738.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sceptre 1027 A.D." />
+			
+						                           
+						               													<description>This is a chess-variant for 2 to 4 players.  It comes with 4 sets of standard chess pieces and nine 8x8 chessboards with various terrain features on them.&amp;#10;&amp;#10;Terrain consists of plain squares, forests, rivers, lakes, ruins, and bridges.  On plain squares, the king, queen, rook, and bishop move just as they do in normal chess.  The knight gains the ability to move three squares diagonally.  Pawns can move one, two, or three squares forward or diagonally forward.&amp;#10;&amp;#10;Pieces may have their movement restricted by various types of terrain.  For example, the rook may not move into forests, and may only move one square per turn in ruins.&amp;#10;&amp;#10;As in chess, the object is to checkmate your opponent's king.  If playing with more than two players, the king must actually be captured.  The player whose king was captured is eliminated from the game, and the capturing player takes control of all of his remaining pieces.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1986" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="126" value="No necessary in-game text" numvotes="0" />
+					<result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="130" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1569" value="Horizon Games, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="49" />
+			<average value="6.69388" />
+			<bayesaverage value="5.52379" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="15208" bayesaverage="5.52379" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="818" bayesaverage="5.58636" />
+												</ranks>
+
+			<stddev value="1.26094" />
+			<median value="0" />
+			<owned value="115" />
+			<trading value="6" />
+			<wanting value="13" />
+			<wishing value="23" />
+			<numcomments value="19" />
+			<numweights value="6" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

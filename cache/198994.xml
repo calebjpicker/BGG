@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="198994">
+         <thumbnail>https://cf.geekdo-images.com/BZiR636JJdSBwThtH42DVw__thumb/img/UNdB7VkSDleswj3iXhVOxVeqxxc=/fit-in/200x150/filters:strip_icc()/pic3744052.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/BZiR636JJdSBwThtH42DVw__original/img/ntif6KjmWg9hGgDmT_4qEIIXv5s=/0x0/filters:format(jpeg)/pic3744052.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hero Realms" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hero Realms: Jeu de Deckbuilding" />
+			    				
+				<name type="alternate" sortindex="1" value="Битвы героев" />
+			
+						               													<description>Hero Realms is a fantasy-themed deck-building game that is an adaptation of the award-winning Star Realms game. The game includes basic rules for two-player games, along with rules for multiplayer formats such as Free-For-All, Hunter, and Hydra.&amp;#10;&amp;#10;Each player starts the game with a ten-card personal deck containing gold (for buying) and weapons (for combat). You start each turn with a new hand of five cards from your personal deck. When your deck runs out of cards, you shuffle your discard pile into your new deck. An 80-card Market deck is shared by all players, with five cards being revealed from that deck to create the Market Row. As you play, you use gold to buy champion cards and action cards from the Market. These champions and actions can generate large amounts of gold, combat, or other powerful effects. You use combat to attack your opponent and their champions. When you reduce your opponent's score (called health) to zero, you win!&amp;#10;&amp;#10;Multiple expansions are available for Hero Realms that allow players to start as a particular character (Cleric, Fighter, Ranger, Thief, or Wizard) and fight cooperatively against a Boss, fight Boss decks against one another, or compete in a campaign mode that has you gain experience to work through different levels of missions.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="200">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="87" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="175" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="11" />
+					<result value="Recommended" numvotes="81" />
+					<result value="Not Recommended" numvotes="42" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="85" />
+					<result value="Not Recommended" numvotes="44" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="83" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="60">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="23" />
+					<result value="10" numvotes="18" />
+					<result value="12" numvotes="9" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="14" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52516" value="Game: Hero Realms" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203982" value="Hero Realms: 5 Magic Item Treasure Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="318691" value="Hero Realms: 5 Personaggi – Chierico, Guerriero, Ladro, Mago, Ranger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379129" value="Hero Realms: Adventure Deck – Bard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379116" value="Hero Realms: Adventure Deck – Cleric" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379128" value="Hero Realms: Adventure Deck – Druid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379120" value="Hero Realms: Adventure Deck – Fighter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379126" value="Hero Realms: Adventure Deck – Monk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379127" value="Hero Realms: Adventure Deck – Necromancer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379125" value="Hero Realms: Adventure Deck – Ranger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379124" value="Hero Realms: Adventure Deck – Thief" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379118" value="Hero Realms: Adventure Deck – Wizard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308184" value="Hero Realms: Adventure Storage Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265272" value="Hero Realms: Ancestry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202865" value="Hero Realms: Bloodfang Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202102" value="Hero Realms: Boss Deck – Lich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202101" value="Hero Realms: Boss Deck – The Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203075" value="Hero Realms: Centurion Promo &amp; 4 Legionnaire Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379058" value="Hero Realms: Character Pack – Bard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202103" value="Hero Realms: Character Pack – Cleric" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379059" value="Hero Realms: Character Pack – Druid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202104" value="Hero Realms: Character Pack – Fighter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379060" value="Hero Realms: Character Pack – Monk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379061" value="Hero Realms: Character Pack – Necromancer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202105" value="Hero Realms: Character Pack – Ranger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202106" value="Hero Realms: Character Pack – Thief" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202107" value="Hero Realms: Character Pack – Wizard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="219505" value="Hero Realms: Contract Negotiation Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204140" value="Hero Realms: Droga, Guild Enforcer Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="204114" value="Hero Realms: Galok, the Vile Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202868" value="Hero Realms: Gorg, Orc Shaman Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="309919" value="Hero Realms: Hydra Boss Challenge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="337388" value="Hero Realms: Imperial Justice Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265274" value="Hero Realms: Journeys – Conquest" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265275" value="Hero Realms: Journeys – Discovery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265271" value="Hero Realms: Journeys – Hunters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="308183" value="Hero Realms: Journeys – Kickstarter Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265273" value="Hero Realms: Journeys – Travelers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="331233" value="Hero Realms: Kickstarter Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="221254" value="Hero Realms: Legion Cardbox" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="381229" value="Hero Realms: Man-at-Arms Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202867" value="Hero Realms: Necromancer Promo &amp; 4 Zombie Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372689" value="Hero Realms: Pay Off Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202866" value="Hero Realms: Ren, Bounty Hunter Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372690" value="Hero Realms: Tanat the Outcast Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="341290" value="Hero Realms: Tarnos, the Betrayer Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="265270" value="Hero Realms: The Lost Village Campaign Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202100" value="Hero Realms: The Ruin of Thandar Campaign Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203499" value="Hero Realms: Tibus, Guild Lord Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="203887" value="Hero Realms: Valius, Fire Dragon Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379113" value="Hero Realms: Watery Grave Campaign Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="202099" value="Hero Realms: Year One Promo Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="322258" value="Hero Realms: D10 Faction Spindown Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="203072" value="Hero Realms: Playmats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="291755" value="Hero Realms: Two-card Scoring promo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="378136" value="Hero Realms Dungeons" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="147020" value="Star Realms" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4113" value="Robert Dougherty" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4059" value="Darwin Kastle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92582" value="Randy Delven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="92581" value="Vito Gesualdi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="43476" value="Antonis Papantoniou" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26542" value="Wise Wizard Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29087" value="ADC Blackfire Entertainment GmbH" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35960" value="Games Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16716" />
+			<average value="7.53405" />
+			<bayesaverage value="7.2369" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="247" bayesaverage="7.2369" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="203" bayesaverage="7.23233" />
+												</ranks>
+
+			<stddev value="1.22725" />
+			<median value="0" />
+			<owned value="28748" />
+			<trading value="442" />
+			<wanting value="206" />
+			<wishing value="2185" />
+			<numcomments value="2410" />
+			<numweights value="280" />
+			<averageweight value="1.8643" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

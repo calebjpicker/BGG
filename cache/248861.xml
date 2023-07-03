@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="248861">
+         <thumbnail>https://cf.geekdo-images.com/uJZj-ugVw_EzKTLcPlGmpA__thumb/img/NoJD53PB6n2aWyL5x67S3hdLfLc=/fit-in/200x150/filters:strip_icc()/pic5236778.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/uJZj-ugVw_EzKTLcPlGmpA__original/img/JUGbz4iwAE0nms1aFad2bk0capI=/0x0/filters:format(jpeg)/pic5236778.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Metro X" />
+			
+						                               				
+				<name type="alternate" sortindex="9" value="メトロックス (MetroX)" />
+			    				
+				<name type="alternate" sortindex="1" value="地鐵X" />
+			
+						               													<description>In MetroX, players create subway networks by filling in the station spaces on their individual game sheets. Using the numbers revealed by the cards, all players fill up their subway map with &amp;#226;&amp;#151;&amp;#175;s in the station spaces. However, the number of times they can add stations to each line is limited, so they have to make tough choices. Players can score many points by getting their star bonuses in stations with many intersecting routes. Players also get bonuses by being the first to complete routes. Try to fill in all your stations to minimize the penalties and achieve a high score!&amp;#10;&amp;#10;In more detail, each player has their own sheet of paper, with all players using either the Tokyo or Osaka map. Each sheet shows an interwoven subway system, with the system consisting of many subway lines; each line has a name, a number of indicator boxes, a number of empty station boxes on the subway route, and two bonuses. On a turn, a player reveals the top indicator card from the deck of twenty cards, then each player individually and simultaneously chooses a subway line, then does something depending on which type of card is revealed:&amp;#10;&amp;#10;&amp;#10;    If a number is revealed, the player writes the number in one of that line's indicator boxes, then draws a &amp;#226;&amp;#151;&amp;#175; in each box in the line starting with the closest empty box, stopping when they've reached the end of the line, reached an already filled-in space, or drawn the indicated number of &amp;#226;&amp;#151;&amp;#175;s.&amp;#10;    If a circled number is revealed, the player does what is described above, but they can skip over already filled-in spaces instead of stopping.&amp;#10;    If a star is revealed, the player draws a star in one of that line's indicator boxes, then in the closest empty space on that line they write a number equal to double the number of lines that pass through that station box.&amp;#10;    If a circle is revealed, the player writes nothing in an indicator box and draws a &amp;#226;&amp;#151;&amp;#175; in any empty station box.&amp;#10;&amp;#10;&amp;#10;At the end of a turn, if a player has finished a subway line by reaching the final space, they announce this to all players, then score the larger of the two bonuses for this line; all other players cross out the large bonus and can score the small bonus for themselves if they complete this line later. Multiple players can score a line's bonus on the same turn. If the indicator card has a shuffle icon on it, shuffle all of the indicator cards together before the next turn.&amp;#10;&amp;#10;Once all the indicator boxes are filled, the game ends. Players tally their points scored for completing lines and for writing numbers in boxes, then lose points based on the number of empty spaces that remain on their sheet. Whoever has the highest score wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="1" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19549" value="Cities: Osaka (Japan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18616" value="Cities: Tokyo (Japan)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340820" value="Metro X: Expansion – Taipei / Kuala Lumpur" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278585" value="メトロックス (MetroX): Ishikawa Promo Map" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275453" value="MetroX: Sendai &amp; Hakata &amp; Nagoya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="362101" value="メトロックス (MetroX): Sapporo &amp; Kobe &amp; Kyoto" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="346482" value="Voll verplant" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39436" value="Hisashi Hayashi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39437" value="Ryo Nyamo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14104" value="OKAZU Brand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50609" value="Cryptic Cardboard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="108" value="Gamewright" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9287" value="Kanga Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1728" />
+			<average value="7.14049" />
+			<bayesaverage value="6.27507" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1694" bayesaverage="6.27507" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="48" bayesaverage="6.80842" />
+												</ranks>
+
+			<stddev value="1.11407" />
+			<median value="0" />
+			<owned value="3250" />
+			<trading value="62" />
+			<wanting value="115" />
+			<wishing value="683" />
+			<numcomments value="377" />
+			<numweights value="22" />
+			<averageweight value="1.7727" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

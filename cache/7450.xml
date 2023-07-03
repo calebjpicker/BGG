@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="7450">
+         <thumbnail>https://cf.geekdo-images.com/IGxqlCCk7az7LLHMiQee9A__thumb/img/yXBLkPw6UEl4L40A2zPBsECTceg=/fit-in/200x150/filters:strip_icc()/pic82372.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IGxqlCCk7az7LLHMiQee9A__original/img/_hLAgfI6ZfHYlzQYCIBOkI4mTfk=/0x0/filters:format(jpeg)/pic82372.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stop-Gate" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Crosscram" />
+			    				
+				<name type="alternate" sortindex="1" value="Domineering" />
+			
+						               													<description>Stop-Gate is a two-player game of perfect information. It can be played on a board or as a paper and pencil game.  As a board game, the game uses a checkerboard and a set of dominoes.  As pencil and paper game, players can take turns coloring in squares on a grid (there is no capturing or movement, so there is no need to erase anything during the game).&amp;#10;&amp;#10;Stop-Gate is taken from the book On Numbers and Games by John Conway (Academic Press, 1976) and is attributed to Goran Andersson on page 74. In the book Conway doesn't really give the game any name.&amp;#10;&amp;#10;It appears in Berlekamp, Conway, and Guy's Winning Ways for Your Mathematical Plays, where it is called Domineering, or Crosscram. There it says that &amp;quot;[t]his game has been considered by Goran Andersson&amp;quot;, so it is not clear if the designer credit given here is accurate.&amp;#10;&amp;#10;Stop-Gate is played with the standard winning condition for combinatorial games, which is that the player who makes the last legal move wins. A legal move consists of placing a domino on two unoccupied spaces on the board (or coloring in two adjacent squares). One player can only place dominoes horizontally, and the other can only place vertically. Typically, the game decomposes into smaller open regions, which may be of benefit to one player or the other.&amp;#10;&amp;#10;An impartial variant exists where neither player has a restriction on the orientation of their dominoes. This is also called Cram.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1976" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="3" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="18096" value="Winning Ways for Your Mathematical Plays" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2590" value="John Conway" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3258" value="A. K. Peters, Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="6.18333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.77084" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="8" />
+			<numcomments value="11" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

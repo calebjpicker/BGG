@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="3670">
+         <thumbnail>https://cf.geekdo-images.com/kk93Y6Tt1T_82YkMDXvzCA__thumb/img/hOte5GPtXY5-v95_EtUizOSMISg=/fit-in/200x150/filters:strip_icc()/pic69018.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/kk93Y6Tt1T_82YkMDXvzCA__original/img/yWxIHEBy0vnRt0Uigeaq5etya0U=/0x0/filters:format(jpeg)/pic69018.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battlewagon" />
+			
+						                           
+						               													<description>Battlewagon is a tactical game of combat at sea.  Hexes are 2000 yards and turns are 10 minutes.  Each player controls one or more ships, each of which have a &amp;quot;Ship Systems Display&amp;quot; (a la Star Fleet Battles or Car Wars).  The game contains statistics for most major classes of ships from Destroyer to Battleship from 1901 through WWII for several navies worldwide.  Ships are moved in impulses and may fire one or more weapons each impulse.  Hits are determined by dice, followed by checking armor penetration (which falls off by range).  If a hit penetrates, random ship systems are destroyed (rolled on a Damage Allocation Table).  Victory is by scenario.&amp;#10;&amp;#10;Battlewagon was originally released as a &amp;quot;Pocket Game&amp;quot; in 1981.  It was later released in a &amp;quot;Folio&amp;quot; Second Edition in 1984 with some development work.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1981" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1065" value="World War I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2952" value="Impulse Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21630" value="Series: Pocket Games (Task Force Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="678" value="Stephen G. Wilcox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1247" value="R. Vance Buck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="23647" value="Rick Buck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1498" value="Allen D. Eldridge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="678" value="Stephen G. Wilcox" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25" value="Amarillo Design Bureau, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="352" value="Task Force Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="124" />
+			<average value="6.37298" />
+			<bayesaverage value="5.54489" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="11739" bayesaverage="5.54489" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2354" bayesaverage="5.75816" />
+												</ranks>
+
+			<stddev value="1.44471" />
+			<median value="0" />
+			<owned value="353" />
+			<trading value="15" />
+			<wanting value="11" />
+			<wishing value="34" />
+			<numcomments value="80" />
+			<numweights value="18" />
+			<averageweight value="2.4444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="11106">
+         <thumbnail>https://cf.geekdo-images.com/0Kat0MrBaA_BSr3i0h8gdA__thumb/img/PB1V0EPZ28wADE5I9vCm2ptxpMU=/fit-in/200x150/filters:strip_icc()/pic55747.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/0Kat0MrBaA_BSr3i0h8gdA__original/img/EUtvAIjIzP3ZwOCCRyYj6bB9tGg=/0x0/filters:format(jpeg)/pic55747.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Warhammer 40,000: Rogue Trader" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Warhammer 40,000 (1st Edition)" />
+			
+						               													<description>The first edition of Warhammer 40,000, but different enough to call it another game. Rogue Trader was a story-based skirmish game with plots the GM (Game Master) would write up. Rules were provided for various races but algorithms were also in the rulebook to calculate the cost of your homemade units. There was a wide variety of gear, vehicles, and troop types available to each army. Players were encouraged to use other companies models with GW's own and make up rules and units.&amp;#10;&amp;#10;This edition is considered the best by some players because of the massive amount of background and the free-form rules.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Warhammer 40,000 2d and 3d editions&amp;#10;&amp;#10;&amp;#10;Expanded by:&amp;#10;&amp;#10;     Book of the Astronomican&amp;#10;     Warhammer 40,000 Compendium&amp;#10;     Warhammer 40,000 Compilation&amp;#10;     Warhammer Siege&amp;#10;     Warhammer 40,000 Battle Manual&amp;#10;     Warhammer 40,000 Vehicle Manual&amp;#10;     Realm of Chaos: Slaves to Darkness&amp;#10;     Realm of Chaos: The Lost and the Damned&amp;#10;     Waagh da Orks&amp;#10;     'Ere We Go: Orks in Warhammer 40,000&amp;#10;     Freebooterz&amp;#10;&amp;#10;&amp;#10;Buy Microbadge&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1987" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="16" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1117" value="Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2975" value="Line of Sight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2949" value="Measurement Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4341" value="Setting: Warhammer 40,000 Wargames" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30671" value="Book of the Astronomican" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="45144" value="Citi-Block" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="55334" value="'Ere We Go: Orks in Warhammer 40,000" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="92355" value="Freebooterz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="43713" value="Realm of Chaos: Slaves to Darkness" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="46080" value="Realm of Chaos: The Lost and the Damned" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="142890" value="Waaargh the Orks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39365" value="Warhammer 40,000 Battle Manual" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="30708" value="Warhammer 40,000 Compendium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39566" value="Warhammer 40,000 Compilation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="39573" value="Warhammer 40,000 Vehicle Manual" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="31065" value="Warhammer Siege" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="8630" value="Advanced Space Crusade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="268248" value="Warhammer Fantasy Battle (Third Edition)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="316655" value="Warhammer 40,000 (Second Edition)" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39" value="Rick Priestley" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13678" value="Tony Ackland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9163" value="Dave Andrews" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12369" value="John Blanche" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14287" value="Carl Critchlow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12428" value="Colin Dixon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="16376" value="Charles Elliot (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19706" value="Angus Fieldhouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12370" value="David Gallagher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12430" value="Jes Goodwin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14050" value="Tony Hough" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12429" value="Pete Knifton" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1657" value="Martin McKenna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="13638" value="Ian Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9379" value="Aly Morrison" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9170" value="Trish Morrison" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12236" value="Bob Naismith" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2766" value="Alan Perry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="16310" value="Tim Pollard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20879" value="Wil Rees" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14028" value="John Sibbick" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="15011" value="Stephen Tappin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28985" value="Alfil Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26" value="Games Workshop Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="572" />
+			<average value="6.8554" />
+			<bayesaverage value="5.76194" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4551" bayesaverage="5.76194" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="739" bayesaverage="6.29362" />
+												</ranks>
+
+			<stddev value="1.66521" />
+			<median value="0" />
+			<owned value="1086" />
+			<trading value="22" />
+			<wanting value="25" />
+			<wishing value="50" />
+			<numcomments value="166" />
+			<numweights value="46" />
+			<averageweight value="3.7174" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

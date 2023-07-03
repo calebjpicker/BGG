@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="4651">
+         <thumbnail>https://cf.geekdo-images.com/cTwtFFYikV8CHyjl2aMSHg__thumb/img/rno7pKs_CmjGk016DuYuaBZIGHo=/fit-in/200x150/filters:strip_icc()/pic91706.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/cTwtFFYikV8CHyjl2aMSHg__original/img/OllkupeczKKj4W3FLzpNZTik8RI=/0x0/filters:format(jpeg)/pic91706.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stalingrad" />
+			
+						                           
+						               													<description>The original edition came out in 1963 in a double-size box. The large box was nearly twice the area of a traditional AH box. Later the game came out in a traditional-size box.  A second edition with clarified rules was issued in 1974 with the same standard size box but thinner.&amp;#10;&amp;#10;The rules are fairly straightforward.  The strategies are extremely deep. Stalingrad is by far the most thoroughly and deeply analyzed board war game.  Furthermore, the game preserves interest for players at a wide range of levels. Stalingrad is a good game to use to introduce players to hex-based war games.&amp;#10;&amp;#10;Stalingrad uses a move-combat sequence, alternating between players.  There is limited advance  (one hex) or retreat (two hexes) after combat.  Units have one-hex thick zones of control; movement directly from one hex in the zone of control of a unit into an adjoining hex of the zone of control of the same unit is not allowed.  Functional terrain includes swamp (one hex per turn movement), mountains (one hex per turn movement, defenders are doubled), major cities (defenders doubled), rivers (defenders behind rivers are doubled if attacked only across the river), railroads (ten hex movement bonus, must be taken all at once), lakes (impassible).  Weather is good in summer, snow in winter, and governed by a table in the spring and fall.  Mud halves ground movement.  Snow halves ground and rail movement, and freezes (converts to clear terrain) some swamps, rivers, lakes, and oceans.  Combat is mandatory between units that are adjacent at the end of each turn, but the attacker chooses which units attack which other units, so long as all adjacent units are in some battle.  The classical Avalon Hill D6 table, with results such as D Elim, A Elim, etc is in use.  Germans have limited replacements; Russian replacement rates escalate as the game goes on.  The objective is to capture the opposition's key cities (for the Russians, Leningrad, Moscow, Stalingrad) or to destroy the other side's army.  The Russian (implicit in rules) can also win by taking Helsinki, Warsaw, and Bucharest, and holding them for two complete turns, but I have never heard of this being done between normal players.&amp;#10;&amp;#10;Several extremely bad German strategic plans are in wide use.&amp;#10;&amp;#10;Avalon Hill Complexity rating - 2&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1963" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="4" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="1" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2855" value="Ratio / Combat Results Table" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2974" value="Zone of Control" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66993" value="Cities: Volgograd (Russia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57313" value="Country: Belarus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11966" value="Country: Russia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18581" value="Country: Soviet Union" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10635" value="Country: Ukraine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73775" value="History: World War II (Eastern Front)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72016" value="Players: Wargames with Rules Supporting Only Two Players" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368194" value="Wargamer's Guide to Stalingrad" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="666" value="Charles S. Roberts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1838" value="Lindsley Schutz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="589" value="Thomas N. Shaw" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="492" />
+			<average value="6.10904" />
+			<bayesaverage value="5.56433" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="9983" bayesaverage="5.56433" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="2644" bayesaverage="5.71268" />
+												</ranks>
+
+			<stddev value="1.72905" />
+			<median value="0" />
+			<owned value="1200" />
+			<trading value="54" />
+			<wanting value="14" />
+			<wishing value="58" />
+			<numcomments value="279" />
+			<numweights value="61" />
+			<averageweight value="2.3443" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

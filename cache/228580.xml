@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="228580">
+         <thumbnail>https://cf.geekdo-images.com/z7IUaWakYDodrqLFFONwYg__thumb/img/0UA4ozq5D-YBufBNBQN-XZxBmmo=/fit-in/200x150/filters:strip_icc()/pic3831625.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/z7IUaWakYDodrqLFFONwYg__original/img/lWGi0F2mcOyVYqvnE4wdonROFQI=/0x0/filters:format(jpeg)/pic3831625.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Gearworks" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="기어웍스" />
+			
+						               													<description>Gearworks is a puzzle-style board game featuring card placement, hand management, and a &amp;quot;twist&amp;quot; on area control. The game is often described as &amp;quot;Sudoku meets steampunk.&amp;quot;&amp;#10;&amp;#10;Strategically position your gears to fix a mysterious clockwork machine in the corner of the workshop. Collect parts created by the machine each round by being the last player to fix its various components. As a tinkerer, you can certainly put those parts to good use and create fantastical contraptions!&amp;#10;&amp;#10;Will the other tinkerers sabotage your efforts or will you earn the workshop owner's favor and become the master tinkerer?&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1251" value="No necessary in-game text" numvotes="0" />
+					<result level="1252" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="1253" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="1254" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="1255" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44244" value="Series: Madison Game Design Cabal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5610" value="Theme: Steampunk" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271988" value="Gearworks: Melissa Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="289719" value="Gearworks: Yakyong Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="337526" value="Gearworks: Playmat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="88008" value="Kirk Dennison" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="101342" value="Sheryl Chieng" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80839" value="Yoma" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31373" value="PieceKeeper Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="445" />
+			<average value="6.74842" />
+			<bayesaverage value="5.70993" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="5250" bayesaverage="5.70993" />
+												</ranks>
+
+			<stddev value="1.43991" />
+			<median value="0" />
+			<owned value="1060" />
+			<trading value="71" />
+			<wanting value="21" />
+			<wishing value="167" />
+			<numcomments value="184" />
+			<numweights value="13" />
+			<averageweight value="1.9231" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

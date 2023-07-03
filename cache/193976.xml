@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="193976">
+         <thumbnail>https://cf.geekdo-images.com/CfN6ibr-tAIDQv-nu-ETZA__thumb/img/WkTz-m7hjicWRdkxr_vmSyjIew0=/fit-in/200x150/filters:strip_icc()/pic2899062.png</thumbnail>
+      <image>https://cf.geekdo-images.com/CfN6ibr-tAIDQv-nu-ETZA__original/img/U4BhNGC9IK0A7wSlTsU6cpmrEuk=/0x0/filters:format(png)/pic2899062.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Poison Bottles" />
+			
+						                           
+						               													<description>Poison Bottles is a card game with many classical elements entwined. Each player has a 3x3 grid of facedown cards in front of them, for which they will try to secretly change as the game progresses in hopes to achieve the lowest score possible.&amp;#10;&amp;#10;There are five distinct phases in the game, starting with trick taking, where a high card of the first played suit will win. If a poison bottle is played in the trick, the rules are reversed and the low card wins.&amp;#10;&amp;#10;In the next two phases, peeking and swapping, every player is allowed to look at any one card on any players board, followed by the losers of the trick swapping one card from their board with a card from their hand.  A marker is then placed on one card of each players board to protect it from being attacked.&amp;#10;&amp;#10;The attacking phase follows, where the winner of the trick then takes a card from an opponents board, and swaps it with one from his hand, leaving the card face up for the rest of the game.  This is repeated for each opponent.&amp;#10;&amp;#10;The final phase is the drawing phase, where players draw back up to a five card hand. These phases are repeated until a player cannot draw a card, upon which the game ends immediately. Players then reveal their boards and count up their points, however, if a player manages to get three of the same number card in a row or column, that row is eliminated and now worth 0 points. Similarly, if a player manages to get a row or column of three poison bottles, that row or column becomes worth -30 points. Poison bottles played in the trick taking phase are worth -3 points to that player at the end of the game.&amp;#10;&amp;#10;There are elements of hearts, nines, and memory in the game, with a focus on bluffing and heavy player interaction.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="40" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="1" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2009" value="Trick-taking" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Upcoming Releases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="89147" value="Jordan Draper" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="89238" value="Nick Halper" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="89147" value="Jordan Draper" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31778" value="Dark Flight" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11" />
+			<average value="6.54545" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.87634" />
+			<median value="0" />
+			<owned value="40" />
+			<trading value="1" />
+			<wanting value="4" />
+			<wishing value="7" />
+			<numcomments value="12" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="276042">
+         <thumbnail>https://cf.geekdo-images.com/Ky1KJsNelw0ztljXDZJl_w__thumb/img/93KaKL8CBUcBflMWKQRzVcIRueg=/fit-in/200x150/filters:strip_icc()/pic6964382.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Ky1KJsNelw0ztljXDZJl_w__original/img/eN-U6w6A3HDqApxlQ1yWm8yUdc0=/0x0/filters:format(jpeg)/pic6964382.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Conspiracy: Abyss Universe" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Abyss Conspiracy: Οι Άρχοντες του Βυθού" />
+			    				
+				<name type="alternate" sortindex="1" value="Conspiracy: Intrighi nel Mondo di Abyss" />
+			    				
+				<name type="alternate" sortindex="1" value="Konspiracja: Uniwersum Abyss" />
+			    				
+				<name type="alternate" sortindex="1" value="Spiknutí: Království hlubiny" />
+			    				
+				<name type="alternate" sortindex="1" value="Повелители Бездны" />
+			    				
+				<name type="alternate" sortindex="1" value="دسیسه" />
+			    				
+				<name type="alternate" sortindex="1" value="深淵：密謀" />
+			
+						               													<description>Conspiracy: Abyss Universe is a card game set in the world of Abyss.&amp;#10;&amp;#10;The card deck in the game consists of cards in five colors, with twelve of each color and cards numbered 0&amp;ndash;6. Each player in the game drafts cards and builds a reverse pyramid, starting with a row of five cards, then placing four cards in a row below that, then three under that, etc.&amp;#10;&amp;#10;On a turn, you can draw 1&amp;ndash;3 cards from the deck, choose one of those cards and add it to your current row, then place any remaining cards grouped by color near the deck; alternatively, you can pick up all the cards of a color next to the deck and add them to your current row.&amp;#10;&amp;#10;As soon as the cards in your rows show two matching keys or three different keys, you take either the revealed location card or the top card of the location deck, and place it on the lattermost card with a key. Location cards increase the value of a card and sometimes have special powers. Some cards feature pearls, and when you have as many or more pearls as whoever has the pearl majority card, you take this card from them.&amp;#10;&amp;#10;The game ends as soon as someone finishes their pyramid, then all players score their points. For each color, you score points equal to the largest valued card in your pyramid. Additionally, for each color, you look at the largest grouping of cards in your pyramid and you score 3 points for each of those cards. Whoever held the pearl majority card at game's end scores 5 points for it. Whoever has the highest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="60">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="34" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="5" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60847" value="Game: Abyss (Bombyx)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="343368" value="Conspiracy: Abyss Universe – Bonus Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="346186" value="Conspiracy: Abyss Universe – Score Pad" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="155987" value="Abyss" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1727" value="Bruno Cathala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="34672" value="Charles Chevallier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14878" value="Pascal Quidault" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19260" value="Bombyx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44144" value="Buró" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48236" value="Mostafil Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29786" value="Playagame Edizioni" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2755" />
+			<average value="7.28175" />
+			<bayesaverage value="6.52496" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1117" bayesaverage="6.52496" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="259" bayesaverage="6.68258" />
+												</ranks>
+
+			<stddev value="1.14271" />
+			<median value="0" />
+			<owned value="4802" />
+			<trading value="60" />
+			<wanting value="116" />
+			<wishing value="712" />
+			<numcomments value="472" />
+			<numweights value="85" />
+			<averageweight value="1.7647" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

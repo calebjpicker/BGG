@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="14897">
+         <thumbnail>https://cf.geekdo-images.com/PX3ICGEkwVVee7u3CGUg6A__thumb/img/-1vRtpGPJGUTJDIBnIbn4H95LH0=/fit-in/200x150/filters:strip_icc()/pic64955.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/PX3ICGEkwVVee7u3CGUg6A__original/img/t3v-067uqprJJGMczYY2hOhSvQs=/0x0/filters:format(jpeg)/pic64955.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Space Blast" />
+			
+						                           
+						               													<description>Space Blast is a fast paced gamed based on the selection of 0 to 3 actions simultaneously by all players.&amp;#10;&amp;#10;The board represents deep space with hexagons where up to 6 ships will be firing missiles or laying mines.&amp;#10;&amp;#10;Every player gets, at the beginning of the game, a fixed amount of limited resources:&amp;#10;10 turns (left or right)&amp;#10;8 missiles&amp;#10;3 mines&amp;#10;2 brakes&amp;#10;4 ships (those tiles are stacked to represent the shield points of a ship)&amp;#10;All of those resources are hidden behind a small screen.&amp;#10;&amp;#10;The goal of the game is simple : There can be only one left so you will have to eliminate all other ships with your missiles and mines.&amp;#10;&amp;#10;Possible actions:&amp;#10;- turn right or left &amp;#10;- brake (prevent the ship to move) &amp;#10;- fire a missile &amp;#10;- drop a mine &amp;#10; Everybody then shows his selection of actions to be resolved in a specific order:&amp;#10;&amp;#10;1. Turns (the ship turn of 1/6 of hexagon).&amp;#10;2. Every ship advances one hex (except if he chooses to brake).&amp;#10;3. All previously fired missiles advance 3 hexes.&amp;#10;4. Mine Layout. &amp;#10;5. New missiles are fired and advance 3 hexes.&amp;#10;&amp;#10;All used action counters are then discarded and cannot be used again in the game.&amp;#10;The &amp;quot;shield&amp;quot; points are won by the players via a missile hit or the explosion of player's mines. Some can be lost also in the case of collisions.&amp;#10;If a player's ship goes off the board because he has no turn or brake left, he's eliminated but still can get points if the mines he had laid out explode.&amp;#10;&amp;#10;The winner is the one who has the most points when only one ship is left on the board.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="76" value="No necessary in-game text" numvotes="1" />
+					<result level="77" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="78" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="79" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="80" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action Queue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="49" value="Philippe Keyaerts" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3373" value="NekoCorp" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="51" />
+			<average value="5.62353" />
+			<bayesaverage value="5.50332" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="19693" bayesaverage="5.50332" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="3795" bayesaverage="5.49477" />
+												</ranks>
+
+			<stddev value="1.55218" />
+			<median value="0" />
+			<owned value="83" />
+			<trading value="8" />
+			<wanting value="1" />
+			<wishing value="11" />
+			<numcomments value="20" />
+			<numweights value="5" />
+			<averageweight value="1.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="312939">
+         <thumbnail>https://cf.geekdo-images.com/7741NC99CjeEwwYOiLZ_Sg__thumb/img/T8ItMd1dpsfGBS-yZbgdGbYomwU=/fit-in/200x150/filters:strip_icc()/pic5511527.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/7741NC99CjeEwwYOiLZ_Sg__original/img/GX_ayuCG69s7NxPCnSaLnYUUZsY=/0x0/filters:format(jpeg)/pic5511527.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Qua" />
+			
+						                           
+						               													<description>Qua is a three-dimensional (3D) abstract strategy game for three players. It is an extension of the two-dimensional, two player game called Gale, marketed as Bridg-It. Qua is played on a 3D game board grid composed of NxNxN cells in the shape of a cube, where N is typically odd and equal to the number of cells along each edge of the game board.&amp;#10;&amp;#10;The objective of Qua is to be the first player to complete a connected chain (path) of cells containing their game play pieces between their two opposite faces of the game board cube.&amp;#10;&amp;#10;The 3D game board does not start out empty. Some of the cells in the game board are permanently filled-in with one of three game play pieces, called qua. See Figure 1 from the Images gallery above: https://www.boardgamegeek.com/image/5539928/qua. The three qua game play pieces--one for each player--are distinguished from each other by shape and color.&amp;#10;&amp;#10;Rules&amp;#10;Players choose their qua at the beginning of the game and decide who will go first, second and third in sequential turn order. Each turn, players place one of their qua in an empty cell in the game board cube.&amp;#10;&amp;#10;Players may only place qua in an empty cell if it is adjacent to two cells that already contain their qua, or one such cell and one of their two game board cube faces.&amp;#10;&amp;#10;If a player cannot make a move, they skip their turn.&amp;#10;&amp;#10;If the current player is in a Kingmaker situation where one of the other players will win on their next turn and the one who wins will be determined by the current player's move, then the Qua Kingmaker game play rule states that the current player blocks the immediate next player's win first. However, if no one identifies the Kingmaker situation, and the current player makes a different move, then that move is valid.&amp;#10;&amp;#10;The game ends when the first player connects their two faces of the Qua Cube game board.&amp;#10;&amp;#10;Game Play Variants&amp;#10;Qua Misere&amp;#10;The first player that connects their two faces of the game board loses. This can be a two-player game.&amp;#10;&amp;#10;Dice Qua&amp;#10;Players roll a 6-sided die to determine which game play piece to play on their turn (two sides of the die for each game play piece). This can also be played as a two-person game. A player may win as a result of an opponent&amp;rsquo;s move.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="1" />
+						               				<maxplaytime value="30" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="86" value="No necessary in-game text" numvotes="0" />
+					<result level="87" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="88" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="89" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="90" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5607" value="Components: 3-Dimensional (3D)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64143" value="Players: Three Players Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="128330" value="Woody Pidcock" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

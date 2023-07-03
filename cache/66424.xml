@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="66424">
+         <thumbnail>https://cf.geekdo-images.com/5JN5lkXs8-Tztf0X863K7A__thumb/img/AXCAlvAzBX16XO-TLwi2JVlBigI=/fit-in/200x150/filters:strip_icc()/pic954633.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5JN5lkXs8-Tztf0X863K7A__original/img/JUsoOf-6r8CMBjKoaLaE3vBUHgM=/0x0/filters:format(jpeg)/pic954633.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon Run" />
+			
+						                           
+						               													<description>A tale of teamwork and betrayal!&amp;#10;&amp;#10;The mole ogre howled out as it collapsed into a bloody pile of rent flesh and broken bone. The aging knight bent over, panting heavily, and gave his dwarven peer an approving nod. It had taken great effort between them both to slay the beast, and they had each taken their share of wounds. But in the end their cooperation had paid off and they both knew it. And then their eyes found the treasure chest sitting in the corner of the room.&amp;#10;&amp;#10;They looked at each other. They looked back at the treasure... and then the real fight began.&amp;#10;&amp;#10;The game where YOU are the final boss!&amp;#10;&amp;#10;Dungeon Run is an exciting dash through a dungeon packed with monsters and traps. Each player controls a unique hero capable of great feats, and whose powers and abilities are upgradable and customizable throughout the game. Players can work together to overcome the perils of the dungeon, or they can betray and sabotage each other as they see fit. Because in the final room of the dungeon lurks a powerful boss with the ultimate treasure - a treasure that turns its owner into the most powerful warrior they can become! Slay the boss, steal the treasure, and then run for your life as your friends try to cut you down.  In Dungeon Run only one hero can escape with the fabled Summoning Stone. Don't crawl - run!&amp;#10;&amp;#10;Dungeon Run features a randomly assembled dungeon that changes each time you play, as do the monsters you face and the treasures you find. Eight different heroes each with unique options for customization further add to a wealth of game play options. Choose the vicious Tundra Orc and bash your way through everything that stands in your path. Play as the cunning Grounder Wizard and use your magic to cheat the laws of nature. Select the Guild Dwarf adventurer and lay traps to ensnare your friends. There are many paths to victory in Dungeon Run. Win by working with your friends or against them - just win!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="36">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="251" value="No necessary in-game text" numvotes="0" />
+					<result level="252" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="253" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+					<result level="254" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="255" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1022" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59218" value="Category: Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="30291" value="Mr. Bistro" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="29142" value="JJ Ariosa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="49367" value="Michael S. Kelly" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11868" value="Sergi Marcet" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10754" value="Plaid Hat Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1541" />
+			<average value="6.23324" />
+			<bayesaverage value="5.78365" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4325" bayesaverage="5.78365" />
+																				<rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="791" bayesaverage="5.89881" />
+												</ranks>
+
+			<stddev value="1.57568" />
+			<median value="0" />
+			<owned value="2022" />
+			<trading value="132" />
+			<wanting value="130" />
+			<wishing value="795" />
+			<numcomments value="471" />
+			<numweights value="85" />
+			<averageweight value="2.2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

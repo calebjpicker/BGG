@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="127304">
+         <thumbnail>https://cf.geekdo-images.com/86WgnBKhbIzDNQvnBR69BA__thumb/img/Fs0D6zoorKf6u6QuAlagaPyws9M=/fit-in/200x150/filters:strip_icc()/pic5760650.png</thumbnail>
+      <image>https://cf.geekdo-images.com/86WgnBKhbIzDNQvnBR69BA__original/img/hXCr9JE5UlkHOm_e4N0sKIydm0k=/0x0/filters:format(png)/pic5760650.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Herooj" />
+			
+						                           
+						               													<description>HEROOJ (heroes, in esperanto language) is an abstract board game for 2 players, which can be played on an 8x8 board, with 10 pawns (double-sided pieces) and 4 masters for each player. You can use a set of checker-like pieces or poker chips, with a mark on its bottom side to recognize promoted pawns or &amp;quot;Herooj&amp;quot;. For the Masters, you can use 4 pawns from a chess set, or any other 4 pieces of your election.&amp;#10;&amp;#10;Rules:&amp;#10; PAWNS: A pawn can move 1 or 2 cells orthogonally or diagonally forward, (backwards and sideways moves are not allowed for pawns).&amp;#10;they can capture by jumping orthogonally (in straight line) over an adjacent friendly piece and falling on an inmediately adjacent enemy piece, which is removed from the board, (backwards and sideways captures are allowed, but not diagonal captures).&amp;#10;&amp;#10;MASTERS: A master can move 1 or 2 cells in any direction, orthogonally or diagonally forward and backwards. Also, it can capture in the same way of pawns (jumping over an adjacent friendly piece and falling on an inmediately adjacent enemy piece) but in any of 8 directions (including diagonals).&amp;#10;&amp;#10;HEROOJ: When a pawn reaches the far rank of the board is promoted to &amp;quot;heroo&amp;quot;. It can move sideways and backwards (orthogonally and diagonally), but NOT FORWARD. It captures like pawns.&amp;#10;&amp;#10;GOAL: The goal of HEROOJ is bringing back one heroo to the player's safe zone (2 first rows of the player's side).&amp;#10;A player can also win if he eliminates all the opponent's pawns/herooj.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="1" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="61207" value="David Crespo" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="38" />
+			<average value="5.28947" />
+			<bayesaverage value="5.49549" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="21133" bayesaverage="5.49549" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="1099" bayesaverage="5.49499" />
+												</ranks>
+
+			<stddev value="1.62477" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="5" />
+			<numcomments value="13" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

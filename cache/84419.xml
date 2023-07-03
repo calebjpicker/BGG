@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="84419">
+         <thumbnail>https://cf.geekdo-images.com/tMPL9ySUdJvhMc8qhIvHdQ__thumb/img/dR67zPkJMkELpt7KEzjlMIDR4NA=/fit-in/200x150/filters:strip_icc()/pic6439163.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/tMPL9ySUdJvhMc8qhIvHdQ__original/img/naqrOuPy757n2OFQ0sYJy9e98Pk=/0x0/filters:format(jpeg)/pic6439163.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Space Empires 4X" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="太空帝国 4X" />
+			
+						               													<description>Space Empires is a game in the finest tradition of 4X space games - eXplore, eXpand, eXploit, and eXterminate.  Each player builds up a space empire and uses it to conquer the other players.  Exploration on the mounted map is simple for players (and dangerous for their ships), revealing different space terrain that affects movement and combat.&amp;#10;&amp;#10;Space Empires was developed to keep a rich theme without overcomplicated rules.  The game includes carriers and fighters, mines, cloaking, a very large technology tree, fifteen ship classes, merchant shipping, colonization, mining, terraforming, bases, shipyards, black holes, warp points, and non-player aliens.  Yet the rules are short and intuitive:  The basic rules are 8 pages long and increase to 11 pages in length when the advanced rules are included.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="121">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="70" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="45" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="240" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="33">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="15" />
+					<result value="14" numvotes="5" />
+					<result value="16" numvotes="4" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="27">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="2" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="19" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64949" value="Components: Map (Interplanetary or Interstellar scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70233" value="Game: Space Empires 4X" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="12210" value="Mechanism: 4X" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Players: Wargames with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316050" value="Space Empires: All Good Things" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="113942" value="Space Empires: Close Encounters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151979" value="Space Empires: Replicators" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="340054" value="Space Empires: 4X – 3&quot; Box" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="145976" value="Talon" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9719" value="Jim Krohn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="140" value="Mark Simonitch" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3726" />
+			<average value="7.69592" />
+			<bayesaverage value="6.8958" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="559" bayesaverage="6.8958" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="40" bayesaverage="7.42788" />
+												</ranks>
+
+			<stddev value="1.51679" />
+			<median value="0" />
+			<owned value="7434" />
+			<trading value="179" />
+			<wanting value="489" />
+			<wishing value="2302" />
+			<numcomments value="1172" />
+			<numweights value="309" />
+			<averageweight value="3.3851" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

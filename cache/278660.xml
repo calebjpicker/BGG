@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="278660">
+         <thumbnail>https://cf.geekdo-images.com/ua-i3rH3Kg3So4epW2UUCg__thumb/img/WSysM3q5l7myKD-lbkYoio04epk=/fit-in/200x150/filters:strip_icc()/pic4739515.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ua-i3rH3Kg3So4epW2UUCg__original/img/VkCJVH4_7pg55qKHxpth3kNzD58=/0x0/filters:format(png)/pic4739515.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mbrane" />
+			
+						                           
+						               													<description>A modern, compact, territory-control strategy game with no elements of chance.  &amp;quot;Minutes to learn, a lifetime to master&amp;quot;&amp;#10;&amp;#10;The game is played on a standard 9x9 sudoku board, using integers 0 through 8.&amp;#10;&amp;#10;Players take turns placing integer under the standard sudoku rules of placement; each number can occur only once in each row, column, and 3x3 region.  The game ends when no more tiles can be placed, or both players agree to resolve the gameboard.&amp;#10;&amp;#10;Placing tiles give the player &amp;quot;power&amp;quot; in the regions containing the tile.  This power is equivalent to the integer value.&amp;#10;&amp;#10;Additionally, if the tiles are in a cell that touches an external region, either diagonally or orthogonally (rows/columns), the player receives &amp;quot;influence&amp;quot; equal to 1/2 tile value in each connected external region.&amp;#10;&amp;#10;The general goal is to control a majority of regions at the end of play.&amp;#10;&amp;#10;In simplified versions, the points are totaled for each region, both power and influence, and the player with the most points in a given region is said to have control.&amp;#10;&amp;#10;In the advanced game, a cascade known as Resolution occurs.  (For more info on the advanced game, see http://mbranegame.com/rules-of-m/)&amp;#10;&amp;#10;&amp;#10;The game is available on the App Store and Google Play&amp;mdash;apps are free, ad-free, purchase free and collect no user data:&amp;#10;&amp;#10;https://itunes.apple.com/us/app/mbrane/id1232076299&amp;#10;https://play.google.com/store/apps/details?id=mclass.com.mabstract&amp;#10;&amp;#10;The game can also be played on Steven Taverner's AI AI:&amp;#10;&amp;#10;http://mrraow.com/index.php/aiai-home/&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80224" value="Digital Implementations: BoardSpace" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8068" value="Traditional Games: Sudoku" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="117941" value="Michael Nuell" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.29129" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="0" />
+			<numcomments value="6" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

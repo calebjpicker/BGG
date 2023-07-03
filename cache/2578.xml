@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="2578">
+         <thumbnail>https://cf.geekdo-images.com/8O7v3wlzX60lYE0J_bubcw__thumb/img/VoUO82Nvu6iwYatt8gn7qb-9vPw=/fit-in/200x150/filters:strip_icc()/pic336868.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/8O7v3wlzX60lYE0J_bubcw__original/img/ec2cVa2OjVQxoRoVGl7t3iVqCAc=/0x0/filters:format(jpeg)/pic336868.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Phase 10 Dice" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Phase 10" />
+			    				
+				<name type="alternate" sortindex="1" value="Phase 10 Dice Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Phase 10 Dice Game" />
+			    				
+				<name type="alternate" sortindex="1" value="Phase 10 Würfeln" />
+			
+						               													<description>You win the game by being first to get through the 10 Phases with the highest overall score.&amp;#10;&amp;#10;Six of the dice contain all the high numbers.  Each of these is numbered 5 through 10 in the four colours.  The other four dice contain the low numbers and the Wild (W) faces.  Each of these dice is numbered 1, 2, 3, 4, W, W in the four colours.&amp;#10;&amp;#10;In a turn, the player starts by rolling all ten dice.  The player may then set aside any dice he wishes to keep.  He makes a second roll with the remaining dice.  He may set aside some of these dice, adding them to those already set aside; he may also take back some of the dice previously set aside.  Then he makes a third and final roll, scores and ends his turn.&amp;#10;&amp;#10;Each phase specifies which dice are needed (sets, runs, flushes), so this is sort of sequential Yahtzee.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1993" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="3" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6813" value="Game: Phase 10" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17387" value="Series: Würfelspiele (Ravensburger)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62201" value="Versions &amp; Editions: Dice Versions of Non-Dice Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="315730" value="Phase 10 Bonus Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="1258" value="Phase 10" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="315" value="Garrett J. Donner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1050" value="Michael S. Steer" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11" value="F.X. Schmid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="200" value="Fundex" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel, Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55" value="U.S. Games Systems, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1079" />
+			<average value="5.3302" />
+			<bayesaverage value="5.41872" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="24221" bayesaverage="5.41872" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="2920" bayesaverage="5.3905" />
+												</ranks>
+
+			<stddev value="1.55605" />
+			<median value="0" />
+			<owned value="2992" />
+			<trading value="80" />
+			<wanting value="7" />
+			<wishing value="38" />
+			<numcomments value="321" />
+			<numweights value="69" />
+			<averageweight value="1.1449" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

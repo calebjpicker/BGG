@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="315">
+         <thumbnail>https://cf.geekdo-images.com/GDB5d5rg5VKQwnjrd0sHNw__thumb/img/Jk_wJlcUM5gWAZL6S3YMhCm5rlo=/fit-in/200x150/filters:strip_icc()/pic49485.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GDB5d5rg5VKQwnjrd0sHNw__original/img/H_G_7foBXJaLu_fXjwMmGJwaomM=/0x0/filters:format(jpeg)/pic49485.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bagh Chal" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bacha Chal" />
+			    				
+				<name type="alternate" sortindex="1" value="Bagha Chal" />
+			    				
+				<name type="alternate" sortindex="1" value="Bagha-Chall" />
+			    				
+				<name type="alternate" sortindex="1" value="Baghal Chal" />
+			    				
+				<name type="alternate" sortindex="1" value="BaghChaal" />
+			    				
+				<name type="alternate" sortindex="1" value="Bhaga Chal" />
+			    				
+				<name type="alternate" sortindex="1" value="Cordeiros e Tigres" />
+			    				
+				<name type="alternate" sortindex="1" value="Springing Tiger" />
+			    				
+				<name type="alternate" sortindex="1" value="Tiger game" />
+			    				
+				<name type="alternate" sortindex="1" value="Tigers and Goats" />
+			    				
+				<name type="alternate" sortindex="1" value="Tigo" />
+			    				
+				<name type="alternate" sortindex="1" value="Tijger en Geit" />
+			
+						               													<description>Bagh Chal is a traditional abstract game that is popular in Nepal. The name roughly translates to &amp;quot;Tigers Moving&amp;quot;. It is an abstract strategy game with an asymmetric setup, i.e. a different number of pieces per side (like Hnefatafl and its ilk). One opponent plays four tiger pieces and the other plays twenty goats.&amp;#10;&amp;#10;The board bears a passing resemblance to a Chinese Chess board in that the pieces move along lines from intersection to intersection. However, the gameplay is more similar to Alquerque, Checkers or Draughts. At the start of the game, there are four tigers on the board while there are no goats. The goat player places his/her pieces on the board one by one wherever they choose, with the tiger player getting a move between each placing. Once all the goats are on the board, the two players take turns moving one of their pieces one space. A tiger can alternatively capture a single goat by jumping over it in a line  to an empty space. The tigers win if they can capture five goats. The goal for the goats (who cannot make captures) is to hem the tigers in, giving them no opportunity to move or jump.&amp;#10;&amp;#10;It is one variant from a family of similar Asian games played with varying numbers of tigers/leopards/goats/cows/etc and varying board topologies.&amp;#10;See also Cows and Leopards and Fox and Geese.&amp;#10;&amp;#10;Games played on exactly the same board layout (same lines connecting the intersections and same size) include the traditional Spanish Alquerque and Fanoron-Dimy, the smaller variant of Fanorona from Madagascar. See the according image galleries of these games.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1000" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="4" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7759" value="Animals: Goats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7972" value="Animals: Tigers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80226" value="Digital Implementations: igGameCenter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4053" value="Mechanism: Hunt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="19524" value="Traditional Games: Alquerque" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="35863" value="The 15 Greatest Board Games in the World" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="311694" value="Two-King Bagh Chal" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="133556" value="Ivett Perlaky" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="171" value="(Public Domain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6514" value="Adrenaline Brush Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24158" value="Association for Craft Producers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17388" value="Creative Crafthouse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5085" value="Geoludie" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39371" value="Krealudik" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6266" value="L. P. Septímio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47771" value="Lemery Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="793" value="La Mèche Rebelle Editions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6261" value="Mitra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49182" value="New Venture Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23494" value="Oficina do Aprendiz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2432" value="Origem" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="115" value="Pressman Toy Corp." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39392" value="World on Wheels" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="354" />
+			<average value="6.17864" />
+			<bayesaverage value="5.60053" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7937" bayesaverage="5.60053" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="440" bayesaverage="5.7694" />
+												</ranks>
+
+			<stddev value="1.2829" />
+			<median value="0" />
+			<owned value="932" />
+			<trading value="22" />
+			<wanting value="12" />
+			<wishing value="85" />
+			<numcomments value="159" />
+			<numweights value="21" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

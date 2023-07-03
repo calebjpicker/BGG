@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="255692">
+         <thumbnail>https://cf.geekdo-images.com/yiBNj7FQx_H_Q0JSJLwycw__thumb/img/QGJS7HdKYi7jCt6xn7GRbFyRK50=/fit-in/200x150/filters:strip_icc()/pic4195323.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yiBNj7FQx_H_Q0JSJLwycw__original/img/NHq_4xd8NhHeSx2dGjST68ZSIgo=/0x0/filters:format(jpeg)/pic4195323.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="New Frontiers" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ニューフロンティア" />
+			    				
+				<name type="alternate" sortindex="1" value="뉴 프런티어" />
+			
+						               													<description>In New Frontiers, a standalone game in the Race for the Galaxy family, players build galactic empires by selecting, in turn, an action that everyone may do, with only the selecting player gaining that action's bonus.&amp;#10;&amp;#10;The developments to be used are determined during setup, allowing players to make strategic plans based on them before play begins. One group of eight developments is always in play. The game includes a suggested set of sixteen additional developments for your first game; in later games, players randomly select which side of eight double-sided &amp;quot;small&amp;quot; developments and eight double-sided &amp;quot;large&amp;quot; 9-cost developments to use during setup.&amp;#10;&amp;#10;Many worlds that players can acquire have special powers, with these worlds being drawn from a bag during the Explore phase. Unlike in Race, in New Frontiers worlds need colonists to be settled, in addition to either payments or conquest.&amp;#10;&amp;#10;Some worlds are &amp;quot;windfall&amp;quot; worlds and receive a good upon being settled. Others are production worlds and receive goods when the Produce action is selected. Goods can be traded for credits or consumed for victory points.&amp;#10;&amp;#10;Play continues until one or more of four game ending conditions is reached. After all actions for that round have been done, the player with the most victory points from settled worlds, developments, 9-cost development bonuses, and VP chips earned from consuming goods wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="68">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="18" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+	</poll> 			               				<playingtime value="75" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="75" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="14">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="596" value="No necessary in-game text" numvotes="0" />
+					<result level="597" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="598" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="599" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="600" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2838" value="Action Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2843" value="Follow" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4571" value="Game: Race for the Galaxy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="288167" value="New Frontiers: Starry Rift" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="262000" value="Race for the Galaxy: GeekUp Bit Set" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="28143" value="Race for the Galaxy" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="150" value="Thomas Lehmann" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11968" value="Martin Hoffmann" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3" value="Rio Grande Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3487" />
+			<average value="7.43892" />
+			<bayesaverage value="6.7392" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="759" bayesaverage="6.7392" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="415" bayesaverage="6.88614" />
+												</ranks>
+
+			<stddev value="1.20899" />
+			<median value="0" />
+			<owned value="4397" />
+			<trading value="126" />
+			<wanting value="347" />
+			<wishing value="1829" />
+			<numcomments value="719" />
+			<numweights value="97" />
+			<averageweight value="2.9278" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

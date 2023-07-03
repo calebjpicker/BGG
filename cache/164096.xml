@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="164096">
+         <thumbnail>https://cf.geekdo-images.com/GQ0PO2rQ-F1yCpO9rC4gyA__thumb/img/UdHOvq5-is5FKvITC3VCHlBAolg=/fit-in/200x150/filters:strip_icc()/pic2205779.png</thumbnail>
+      <image>https://cf.geekdo-images.com/GQ0PO2rQ-F1yCpO9rC4gyA__original/img/NWB16QL8BwtrJhao4fZM1fROQ4o=/0x0/filters:format(png)/pic2205779.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Find the Bug!" />
+			
+						                           
+						               													<description>The power of games to teach abstract concepts is more and more acknowledged. Find the Bug! offers an introduction to IT testing through a fast and simple board game.&amp;#10;&amp;#10;The application is simulated by a game board divided into a number of components. Each component has a unique number of bugs with a unique level of severity. The test leads take turn to analyse the application (to learn where bugs are likely to find) and to place testers in the application (to find those bugs). Each bug scores a value according to its severity level.&amp;#10;&amp;#10;Once a set of components is perceived to be bug free, a test lead may let a tester cover the entire set and thus increase the probability of finding bugs in the next round. However, if the test lead is wrong, the tester's effort is lost so don't be too fast!&amp;#10;&amp;#10;The winner is the one who finds most bugs.&amp;#10;&amp;#10;Find the Bug! is mainly designed for IT professionals who want to learn testing in a fun way. However, ordinary gamers may also enjoy this deductive challenge where you must use your limited resources efficiently and monitor the other player's actions carefully to Find the Bug!&amp;#10;&amp;#10;Game mechanisms include:&amp;#10;&amp;#10;1. Changing and hidden game board: The number, value and location of the bugs is different in each game and they are hidden to the players.&amp;#10;2. Player balance: The players have the same amount of testers and are always equally strong.&amp;#10;3. Predictable odds: To find a bug requires luck but the more pre-analysis a player does, the better are the odds for finding them.&amp;#10;4. Open end: The potentially high end game score makes every game open until the very end.&amp;#10;5. Educational: The game teaches IT testing in a game context&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="1" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73039" value="Category: Print-on-Demand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73593" value="Theme: Computer / Information Technology Industry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71023" value="Theme: Teaching Programming" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74666" value="Nicholas Hjelmberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74666" value="Nicholas Hjelmberg" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51151" value="Nova Suecia Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

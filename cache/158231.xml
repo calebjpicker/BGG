@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="158231">
+         <thumbnail>https://cf.geekdo-images.com/B-GbFKeT6R6e0UDh8pcMww__thumb/img/CQRA7RbGVZE_hOkrhJJXiqxWFdI=/fit-in/200x150/filters:strip_icc()/pic2208972.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/B-GbFKeT6R6e0UDh8pcMww__original/img/jgRaA1-paV5PtrV19j7EAoIkgVE=/0x0/filters:format(jpeg)/pic2208972.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tixel" />
+			
+						                           
+						               													<description>Tixel is a combinatorial game for two players. The name comes from the playing pieces, which are basically pixels (squares) with a curved indentation on one of their edges. Tixels are &amp;quot;directional&amp;quot;, meaning that their orientation is relevant.&amp;#10;&amp;#10;On a turn, a player can either place a new tixel or move one of her own tixels already on the board. A tixel can be &amp;quot;active&amp;quot; or &amp;quot;inactive&amp;quot;; only active tixels, which are at a 45&amp;ordm; angle, may be moved. Making tixels inactive is done by moving next to or passing an active tixel.&amp;#10;&amp;#10;Chaining moves is important as this temporarily unlocks three additional move types (aside from placing or moving a piece). If a tixel that is moved is made inactive at its end position &amp;mdash; i.e., it's sacrificed &amp;mdash; a player can take an extra move if she so chooses; aside from placing or moving a tixel, she can now remove a tixel from the board, activate an inactive tixel, or pivot an active tixel to reorient its hollow side.&amp;#10;&amp;#10;Tixel: Tix Expansion Pieces consists of four extra pieces for each player. These expansion pieces are different from regular pieces in that they are completely square instead of being hollow on one side. For each expansion piece used, remove one tixel from the game. The expansion pieces can be used to add variety to games, but they can also be used to handicap a stronger player. Simply give the stronger player more expansion pieces compared to the weaker player. With two expansion sets, the original Tix game can also be played on the Tixel board.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="111" value="No necessary in-game text" numvotes="2" />
+					<result level="112" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="113" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="114" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="115" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62615" value="Components: 6 x 6 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20530" value="Crowdfunding: nestorbooster" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25658" value="Series: Tixel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275283" value="Tixel: Poka Yoke Expansion Pieces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="158921" value="Tixel: Tix Expansion Pieces" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="263182" value="Poka Yoke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="172470" value="Regatta" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="63339" value="Tix" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11556" value="Martijn Althuizen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11556" value="Martijn Althuizen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9393" value="Néstor Romeral Andrés" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10094" value="nestorgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="23" />
+			<average value="6.93478" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.64386" />
+			<median value="0" />
+			<owned value="37" />
+			<trading value="1" />
+			<wanting value="9" />
+			<wishing value="20" />
+			<numcomments value="15" />
+			<numweights value="3" />
+			<averageweight value="2.6667" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

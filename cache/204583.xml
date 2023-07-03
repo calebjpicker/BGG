@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="204583">
+         <thumbnail>https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__thumb/img/RGpbcY90eBcNLXbHLMBwLrr2uzo=/fit-in/200x150/filters:strip_icc()/pic3132685.png</thumbnail>
+      <image>https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__original/img/DDk3fDr0FkDpkYAcny5LeekB2qg=/0x0/filters:format(png)/pic3132685.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Kingdomino" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="K-Domino&#039;Z" />
+			    				
+				<name type="alternate" sortindex="1" value="Kingdomino XL" />
+			    				
+				<name type="alternate" sortindex="1" value="Kingdomino XXL" />
+			    				
+				<name type="alternate" sortindex="1" value="Kingdomino. Доміношне Королівство" />
+			    				
+				<name type="alternate" sortindex="1" value="Kingdomino: Expo 2020" />
+			    				
+				<name type="alternate" sortindex="1" value="Kingdomino: Ένα Ντόμινο για το Βασιλιά" />
+			    				
+				<name type="alternate" sortindex="1" value="Доміношне Королівство" />
+			    				
+				<name type="alternate" sortindex="1" value="Кингдомино" />
+			    				
+				<name type="alternate" sortindex="1" value="Лоскутное Королевство" />
+			    				
+				<name type="alternate" sortindex="1" value="Поскутное Королевство" />
+			    				
+				<name type="alternate" sortindex="1" value="קינגדומינו" />
+			    				
+				<name type="alternate" sortindex="1" value="キングドミノ" />
+			    				
+				<name type="alternate" sortindex="1" value="多米諾王國" />
+			    				
+				<name type="alternate" sortindex="1" value="킹도미노" />
+			
+						               													<description>In Kingdomino, you are a lord seeking new lands in which to expand your kingdom. You must explore all the lands, including wheat fields, lakes, and mountains, in order to spot the best plots, while competing with other lords to acquire them first.&amp;#10;&amp;#10;The game uses tiles with two sections, similar to Dominoes. Each turn, each player will select a new domino to connect to their existing kingdom, making sure at least one of its sides connects to a matching terrain type already in play. The order of who picks first depends on which tile was previously chosen, with better tiles forcing players to pick later in the next round. The game ends when each player has completed a 5x5 grid (or failed to do so), and points are counted based on number of connecting tiles and valuable crown symbols.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="636">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="16" />
+					<result value="Not Recommended" numvotes="404" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="399" />
+					<result value="Recommended" numvotes="182" />
+					<result value="Not Recommended" numvotes="19" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="125" />
+					<result value="Recommended" numvotes="374" />
+					<result value="Not Recommended" numvotes="57" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="375" />
+					<result value="Recommended" numvotes="183" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="339" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="25" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="273">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="4" />
+					<result value="4" numvotes="19" />
+					<result value="5" numvotes="48" />
+					<result value="6" numvotes="134" />
+					<result value="8" numvotes="62" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="52">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="52" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39749" value="Components: 5 x 5 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50195" value="Game: Kingdomino" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="44423" value="Series: Europe Collection (Blue Orange Games)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="336104" value="Heroes and Divided Lands (fan expansion for Kingdomino and Queendomino)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="240909" value="Kingdomino: Age of Giants" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="306171" value="Kingdomino: The Court" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="332979" value="Royal Wedding XXL (fan expansion for Kingdomino)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="293240" value="Super Power" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372422" value="Kingdomino: 2 playmats" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="371797" value="Kingdomino: Afternoon Tea Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="281873" value="Kingdomino: Chocolate Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="206269" value="Kingdomino: Dark Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="263710" value="Kingdomino: Dice Tower 2018 Kickstarter Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="294822" value="Kingdomino: Dized Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="244069" value="Kingdomino: Game Boy Geek Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="235492" value="Kingdomino: Ice Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="240510" value="Kingdomino: King Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="366922" value="Kingdomino: MeeplesUpgrade Upgrade Kit Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="342886" value="Kingdomino: Octopus Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="342884" value="Kingdomino: Platinium Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="227305" value="Kingdomino: Princess Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="242403" value="Kingdomino: Promo Castles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="232856" value="Kingdomino: Sand Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="244676" value="Kingdomino: Spiel Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="233984" value="Kingdomino: Tile Dispenser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="238798" value="Kingdomino: Upgrade Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="360268" value="Queendomino: AnnabelleWorks Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="253627" value="Queendomino: Chinese Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="257902" value="Queendomino: Christmas Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="329478" value="Queendomino: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="259821" value="Queendomino: Orange Juice Castle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="287775" value="Queendomino: Turtle Castle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="232043" value="Queendomino" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="281960" value="Kingdomino Duel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="260941" value="Kingdomino for 2 players" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="340041" value="Kingdomino Origins" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1727" value="Bruno Cathala" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="51033" value="Cyril Bouquet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="145454" value="Hervine Galliou" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5022" value="Blue Orange (EU)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46980" value="Brädspel.se" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44144" value="Buró" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27221" value="Coiledspring Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22560" value="Fantasmagoria" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26380" value="FoxGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29907" value="Games Factory Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34940" value="Le Grand Massif" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9634" value="KADABRA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38392" value="MEBO Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12047" value="Oliphante" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36366" value="Pridemage Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="43986" />
+			<average value="7.32058" />
+			<bayesaverage value="7.20408" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="268" bayesaverage="7.20408" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="57" bayesaverage="7.21833" />
+												</ranks>
+
+			<stddev value="1.125" />
+			<median value="0" />
+			<owned value="73746" />
+			<trading value="914" />
+			<wanting value="366" />
+			<wishing value="4288" />
+			<numcomments value="6158" />
+			<numweights value="975" />
+			<averageweight value="1.2195" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

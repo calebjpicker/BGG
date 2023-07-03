@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="16875">
+         <thumbnail>https://cf.geekdo-images.com/Pr_bEkYogDPC_bFfOXk_PA__thumb/img/6FmiFeM2rRjURFImHIeK8KGME1I=/fit-in/200x150/filters:strip_icc()/pic77502.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Pr_bEkYogDPC_bFfOXk_PA__original/img/CQZnnh9B-9xYdZaetWE0B2wExns=/0x0/filters:format(jpeg)/pic77502.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Darter" />
+			
+						                           
+						               													<description>Darter is a quick strategy boardgame in which the players place tiles to affect the movement of 'darters', trying to destroy their opponent's base while protecting their own.&amp;#10;&amp;#10;There are two categories of tiles; Impact tiles, which alter the course of the darter when struck; and Proximity tiles, which affect the darter when it passes through the tile's active squares.&amp;#10;&amp;#10;Darter was showcased at GenCon SoCal 2004.&amp;#10;&amp;#10;Re-implemented by:&amp;#10;&amp;#10;    Dragons of Kir&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2004" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62518" value="Components: 8 x 8 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61979" value="Players: Two Player Only Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="23055" value="Dragons of Kir" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6942" value="Dove Byrne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6943" value="Jason Conkey" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3766" value="Future Magic Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="38" />
+			<average value="6.65526" />
+			<bayesaverage value="5.51902" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="16207" bayesaverage="5.51902" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="763" bayesaverage="5.60467" />
+												</ranks>
+
+			<stddev value="1.39354" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="1" />
+			<wanting value="19" />
+			<wishing value="37" />
+			<numcomments value="22" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
